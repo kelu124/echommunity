@@ -1,0 +1,92 @@
+1429033726.000002> @U04DFTZ7D: <@U04DFTZ7D> has joined the channel
+1429040480.000002> @U04CV54A4: <@U04CV54A4> has joined the channel
+1437379765.000002> @U07SNUM7F: <@U07SNUM7F> has joined the channel
+1442352779.000002> @U0AAL4W13: <@U0AAL4W13> has joined the channel
+1449149305.000002> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1449149330.000003> @U0AAL4W13: <@U0FN1B8KD>: si tu veux lister du contenu pour la page scan conversion, tu as un peu de détails sur la page <http://echopen.org/index.php?title=Scan_Conversion>
+1449150967.000004> @U0FN1B8KD: ça marche, la newsletter vous convient? et la page capDev? ou je détaille plus?
+1449151238.000005> @U0AAL4W13: Oops là on est sur le canal app
+1455543156.000002> @U0AAL4W13: Un article cool sur la detection de features : <http://www.mdpi.com/2313-433X/1/1/193/htm>
+1464868148.000002> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "app" to "1_2_mobile_app"
+1464868186.000003> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "1_2_mobile_app" to "mobile_app"
+1465804599.000002> @U1G9AEN7L: <@U1G9AEN7L> has joined the channel
+1471702958.000002> @U0B47KC3S: <@U0B47KC3S> has joined the channel
+1471814160.000002> @U23D8HAC9: <@U23D8HAC9> has joined the channel
+1471848932.000002> @U0B47KC3S: hi <@U23D8HAC9> I am currently testing the GitHub's `milestone` functionality. So you’ll find it here : <https://github.com/echopen/android-app/milestones>. If you want we can even schedule a dev plan for this milestones. What do you think ?
+1471849050.000004> @U0B47KC3S: also could you give me your GitHub username so that I can invite you on echOpen’s github organization
+1471856199.000002> @U23D8HAC9: Yeah its great, let's get started.  My github username is 'nameispriyank'
+1471859307.000003> @U0B47KC3S: you’re in our github team :wink: btw, for the images ressources, we can fake them for the moment with some available pictos. We’ll make the design in a few weeks with a dedicated designer !
+1472021317.000002> @U0B47KC3S: hi Pryiank, the Image Processing team is going to use <http://www.zube.io>, you know about this tool ?
+1475654828.000002> @U0GMX7QUB: <@U0GMX7QUB> has joined the channel
+1476083776.000002> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "mobile_app" to "prj_medtec_app"
+1476716853.000002> @U0B47KC3S: <@U2Q4137LL> voici le README sur lequel tu trouveras qqs mockups
+1476716854.000003> @U0B47KC3S: <https://github.com/benchoufi/android-app>
+1476716865.000005> @U2Q4137LL: <@U2Q4137LL> has joined the channel
+1476716909.000006> @U2Q4137LL: Ok merci
+1478001538.000002> @U0B47KC3S: hello <@U2Q4137LL> : en regardant les templates `psd`, je constate que la gesture n’est pas intégrée directement sur le screen. Or,il se trouve qu’il y a une solution qui semble être saluée comme un breakthrough par les designers et qui est intégrée à Invision v5. Je te laisse checker : <http://blog.invisionapp.com/mobile-prototyping-for-ios-and-android-is-now-instant-offline-and-awesome/>  Peux-tu me faire un retour dès que tu peux ? dans la vue du workshop de jeudi à Africa4Tech
+1478003690.000002> @U2Q4137LL: Dans les vues invision j'ai déjà intégré les mouvements sur certains boutons quand c'était possible. Quand il n'y pas d'animation c'est que les mouvements proposés sans passer par la version payante ne correspondaient pas. 
+C'est pour ça que dans le zip il y a toutes les vues avec un texte explicatif sur la gesture à côté. 
+Au fait la version psd avec tous les éléments séparés n'est pas encore uploader, on hésiter hier entre github ou le drive, du coup je la met ou?
+1478005056.000003> @U0B47KC3S: peux-tu me dire les possibilités supplémentaires qu’offre la version payante, dans notre contexte ? par ailleurs <@U04DFTZ7D> pour le choix drive vs github - j’ai un penchant pour drive;)
+1478006648.000004> @U2Q4137LL: Sur le site ils ne précisent pas, ils disent juste qu'il y a plus de prototype et options. Mais dans notre cas je ne vois trop d'intérêt, on a très peu d'écrans et animations différentes donc rien qui ne soit compréhensible rapidement par le texte explicatif ou à l'oral
+1478024653.000002> @U0B47KC3S: ok on fait comme ça
+1478024978.000003> @U0AAL4W13: Niveau stockage de document on a eu cette discussion encore récemment à une réunion du lundi, c'est pas mal de laisser les fichiers accessible au public sur un repo git 
+1478024980.000004> @U0AAL4W13: D'autant plus que ça permet de garder le versioning même des fichiers design 
+1478025071.000005> @U0AAL4W13: Sachant que l'accès au drive est moins ouvert
+1478025106.000006> @U0AAL4W13: Et que pour un camp c'est facile de partager un repo et collecter les contributions de manière visible 
+1478201353.000002> @U0B47KC3S: en cours sur un repo qu’on va publier incessamment
+1478265449.000002> @U2Y7FPEUB: <@U2Y7FPEUB> has joined the channel
+1478542932.000002> @U0B47KC3S: <@U0B47KC3S> set the channel topic: dedicated to the Android App development : UX, UI, back-end
+1478979621.000002> @U32FZ0QLX: <@U32FZ0QLX> has joined the channel
+1479060097.000002> @U3210MXC5: <@U3210MXC5> has joined the channel
+1479060097.000003> @U31UCUFPW: <@U31UCUFPW> has joined the channel
+1479172025.000002> @U1NTT0ZPH: <@U1NTT0ZPH> has joined the channel
+1479172025.000003> @U1NM17NHF: <@U1NM17NHF> has joined the channel
+1479172025.000004> @U1NLWV4BZ: <@U1NLWV4BZ> has joined the channel
+1479238401.000002> @U2Y7FPEUB: Présent :slightly_smiling_face:
+1479285515.000003> @U32AR6TED: <@U32AR6TED> has joined the channel
+1479297067.000004> @U0B47KC3S: <@U2X7189QR> <@U2Y7FPEUB> <@U2XLJS5L0> 
+
+1) Badr will help us select and recruit the Android developers for our first global hackathon, 16.12.16-19.12.16
+2) We will schedule other hackathons as and when we need it 
+3) We isolated 3 fields of xHub-echOpen collaboration on which xHub experts can intervene : 
+
+- interface Hardware-Software, 
+- Performance in rough and in detail 
+- Data architecture + Machine Learning
+
+the idea is for an expert would come for a full residency month in Paris, Hôtel-Dieu :wink:
+
+So happy working with you guys, moroccan nascent team !!
+1479304208.000005> @U0B47KC3S: <@U04DFTZ7D> <@U0GMX7QUB> I have just pushed on my forked repo of the app, a suggestion of documentation architecture and first examples of what could be the modules and interfaces markdown. What do you think ?
+1479304209.000006> @U0B47KC3S: <https://github.com/benchoufi/android-app/tree/master/app/src/main/assets>
+1479304348.000008> @U0B47KC3S: [FYI] for all, to explain the precedent post, we are testing a documentation format and for that purpose we attach to some folder of the app, some markdowns files. The idea is that these files will be processed by some script in order to deploy auto-magically the app documentation, at a higher and more intelligible level than a doxygen like doc
+1479306187.000010> @U04DFTZ7D: <@U0B47KC3S> looks great and clear !! Just, i don't know why the markdown format don't show up properly when i try to read the MDL-user_interface. 
+
+I let <@U0GMX7QUB> telling you about the structure for the automatic website.
+1479306288.000011> @U0B47KC3S: what do you mean by they don’t show up properly ?
+1479306689.000012> @U04DFTZ7D: Github manage preview of mardown files without showing up the structure of the document. I attached examples
+1479306714.000013> @U04DFTZ7D: <@U04DFTZ7D>
+1479306719.000014> @U04DFTZ7D: <@U04DFTZ7D>
+1479308126.000015> @U32UWGGN9: <@U32UWGGN9> has joined the channel
+1479309115.000016> @U34231VFH: <@U34231VFH> has joined the channel
+1479318461.000017> @U0AAL4W13: <@U04DFTZ7D> it's not clear in your screenshot if the files have a dot md extension. Files without MD extension may be interpreted as raw text files by github parser. 
+1479318641.000018> @U0B47KC3S: I had an issue with my IDE which was supposed to create .md file. Do I fixed and pushed
+1479320022.000019> @U04DFTZ7D: Great so it's fixed
+1479504163.000002> @U34N7NQNR: <@U34N7NQNR> has joined the channel
+1479544623.000002> @U33817K25: <@U33817K25> has joined the channel
+1479748715.000002> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj_medtec_app" to "prj_medtec_androidapp"
+1479919809.000002> @U35LGETA4: <@U35LGETA4> has joined the channel
+1480020312.000003> @U36QEPF51: <@U36QEPF51> has joined the channel
+1480021734.000004> @U37GZRZU6: <@U37GZRZU6> has joined the channel
+1480371202.000002> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1480495993.000002> @U38JDLY2E: <@U38JDLY2E> has joined the channel
+1480671277.000003> @U0KLG7CP8: <@U0KLG7CP8> has joined the channel
+1480672432.000006> @U0B47KC3S: <@U0B47KC3S>
+1480672452.000009> @U0B47KC3S: this is a file shared by @murat For the record @murat is an engeneer and master student in image processing in mobile device. He developed USB drivers for android device. Murat is interested in  low complexity Scan Conversion algorithms.
+1480672463.000011> @U0B47KC3S: We are going to work with @murat on a Vulcan implementation
+1480672481.000013> @U0B47KC3S: For the record, I developed seperately a GPU implementation with OpenCL, which was thunder fast but which is no longer supported for android, and an OpenGL frames refreshing. What make Vulcan great is that it packs together GPU calculous parallelisation and OpenGL api
+1481080112.000002> @U3ARRLDQ8: <@U3ARRLDQ8> has joined the channel
+1481134086.000003> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel
+1481230988.000004> @U3CDR25JP: <@U3CDR25JP> has joined the channel
+1481301051.000005> @U3CV9P9NH: <@U3CV9P9NH> has joined the channel

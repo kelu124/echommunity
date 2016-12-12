@@ -43,13 +43,19 @@ def get_list_of_channels(sc):
     return channels
 
 def display_channels(channels):
+    ListOfChannels = []
     print("Display Channels")
     print(80 * "=")
     print channels 
     for i in channels['channels']:
-        print("Channel:",i['name'])
+        print("Channel:",i['name'],i['id'])
+
 	if i['is_general']:
 		print "General COMMZ "+i['id']
+	if (not i['is_archived']) and (not ("newsfeed" in i['name'])) and (not ("open_calendar" in i['name'])):
+		ListOfChannels.append(i['id'])
+		print "Adding "+i['name']
+    return ListOfChannels
 
 def post_message(sc,text,channel,icon_url,username):
     print("Posting Message to Slack")
@@ -108,7 +114,22 @@ def display_users(sc,users):
                 # display real name
 		print i
 		print i['name']
-                print (i['profile']['real_name'])    
+                print (i['profile']['real_name'])   
+
+def getChannelHistory(sc,ChannelID):
+    LastTimeStamp = ""
+    LogChannel = ""
+    StillMoreMessages = True
+    while StillMoreMessages:
+    	Results = getLastMessages(sc,ChannelID,LastTimeStamp,"100") # general channel for echopen
+	LogChannel =  Results[1]+LogChannel
+	LastTimeStamp = Results[2]
+	StillMoreMessages = Results[3]
+   	print Results[1]
+    f = open("logs/"+ChannelID+".log","w+")
+    f.write(LogChannel)
+    f.close()
+ 
 def main():
     # define variables
 
@@ -123,29 +144,17 @@ def main():
     # get list of channels
     channels = get_list_of_channels(sc)
     # display channels
-    display_channels(channels)
+    OurChannels = display_channels(channels)
     # get users
     users = get_users(sc)
     print sc
     # display users
     #display_users(sc,users)
     # get last 10 messages
-    
-    LastTimeStamp = ""
-    LogChannel = ""
-    StillMoreMessages = True
-    ChannelID = "C04DFTZ7X"
-    while StillMoreMessages:
-    	Results = getLastMessages(sc,ChannelID,LastTimeStamp,"10") # general channel for echopen
-	LogChannel =  Results[1]+LogChannel
-	LastTimeStamp = Results[2]
-	StillMoreMessages = Results[3]
- 
-   	print Results[1]
+    for myCanal in OurChannels:
+	print "=== Going for "+ myCanal
+        getChannelHistory(sc,myCanal)
 
-    f = open(ChannelID+".log","w+")
-    f.write(LogChannel)
-    f.close()
 
 main()
 
