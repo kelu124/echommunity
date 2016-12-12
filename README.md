@@ -7,9 +7,15 @@ Possible data per user:
 * Country
 * City
 * Keywords
+    * Keywords could be separated into 2 categories : roles in echOpen / skills
+    * Keywords must be chosen from a pre-defined list
 * Nick on slack
+* Channels on slack
+* People mentionned by user on slack
+* Mentions of user by other people on slack
 * Nick on basecamp
 * Github account
+* Programming skills (languages, databases, ...)
 
 #### Origin of the data
 
@@ -26,7 +32,12 @@ Channels of capture: slack, github, ...?
 
 ##### How ?
 
-* Using Graphs?
+1. Bots crawling slack / forms --> store as .csv files
+2. Python+neo4j --> update graph database 
+3. Python+neo4j --> queries for personnalized suggestions --> results stored as .csv files
+4. Delivery : 
+    * Slack bot sending private message to user
+    * Webpage for "global" informations about the community 
 
 ##### What ?
 
@@ -39,5 +50,9 @@ Channels of capture: slack, github, ...?
 Have an algo recommend you:
 
 * to connect with the 3 most similar profiles
-* to suscribe to the three most interesting channels on slack
-* to follow on github the three most interesting projects for you
+* to subscribe to the three most interesting channels on slack
+    * Query of type : " Most popular channels among people who have your skills/interests..."
+* to connect with slack members
+    * Query of type : "People who have your skills/interest also interact with..."
+* to follow on github the three most interesting projects for you 
+    * Query of type : "People who have your skills/interests contribute to..."
