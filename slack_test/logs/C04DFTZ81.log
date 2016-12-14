@@ -73,8 +73,7 @@
 1477572974.000004> @U2V0F9YAK: <@U2V0F9YAK> has joined the channel
 1477577130.000005> @U2UV28W2F: <@U2UV28W2F> has joined the channel
 1478026948.000002> @U2X419KJS: <@U2X419KJS> has joined the channel
-1478109957.000002> @U0B47KC3S: btw on est au makerspace Hackuarium de Lausanne/EPFL, pour présenter echOpen 
-Il y a plein de projets notamment 1 bioréacteur (edited)
+1478109957.000002> @U0B47KC3S: btw on est au makerspace Hackuarium de Lausanne/EPFL, pour présenter echOpen  Il y a plein de projets notamment 1 bioréacteur (edited)
 1478109975.000003> @U0B47KC3S: special dédicace <@U20C8CKTL>
 1478109976.000004> @U0B47KC3S: <@U0B47KC3S>
 1478109986.000005> @U0B47KC3S: <@U0B47KC3S>
@@ -100,8 +99,7 @@ Il y a plein de projets notamment 1 bioréacteur (edited)
 1479244671.000027> @U33389FRA: <@U33389FRA> has joined the channel
 1479245400.000028> @U32AR6TED: <@U32AR6TED> has joined the channel
 1479308766.000029> @U34231VFH: <@U34231VFH> has joined the channel
-1479329470.000030> @U04DFTZ7D: Sharing some interesting info :wink: Ruben Pellicer from the Centre for Advanced Imaging at The University of Queensland in Australia maintain a site dedicated to open source imaging and referenced echopen in it. Take a look at <http://www.opensourceimaging.org/project/echopen/>
-He is working with Lukas Winter scientist in Magnetic Resonance Imaging in Berlin at Max Delbrück Center for Molecular Medicine (MDC), who shared with us a brief overview of our current focus, please have a look here (its a recently submitted abstract to the biggest conference in our field ISMRM) : <http://submissions.mirasmart.com/ISMRM2017/ViewSubmissionPublic.aspx?sei=aD5HiNQd6> cc <@U0B47KC3S>
+1479329470.000030> @U04DFTZ7D: Sharing some interesting info :wink: Ruben Pellicer from the Centre for Advanced Imaging at The University of Queensland in Australia maintain a site dedicated to open source imaging and referenced echopen in it. Take a look at <http://www.opensourceimaging.org/project/echopen/> He is working with Lukas Winter scientist in Magnetic Resonance Imaging in Berlin at Max Delbrück Center for Molecular Medicine (MDC), who shared with us a brief overview of our current focus, please have a look here (its a recently submitted abstract to the biggest conference in our field ISMRM) : <http://submissions.mirasmart.com/ISMRM2017/ViewSubmissionPublic.aspx?sei=aD5HiNQd6> cc <@U0B47KC3S>
 1479344797.000033> @U32V2JWFJ: <@U32V2JWFJ> has joined the channel
 1479395081.000034> @U33817K25: <@U33817K25> has joined the channel
 1479462124.000035> @U33KM85FA: <@U33KM85FA> has joined the channel
@@ -122,8 +120,7 @@ He is working with Lukas Winter scientist in Magnetic Resonance Imaging in Berli
 1479821175.000061> @U2PFHNN3C: Really interesting framework actually! Comes super handy when you start doing some black magick with NN. Thanks <@U0B47KC3S>.
 1479911403.000062> @U32FZ0QLX: Interesting framework <@U0B47KC3S>
 1479919557.000063> @U35LGETA4: <@U35LGETA4> has joined the channel
-1479925147.000064> @U04DFTZ7D: <@U04DFTZ7D> and commented: Hi, 
-I am sharing with you this interesting open access article about Open Hardware in Medical Device :wink: #GoodRead
+1479925147.000064> @U04DFTZ7D: <@U04DFTZ7D> and commented: Hi,  I am sharing with you this interesting open access article about Open Hardware in Medical Device :wink: #GoodRead
 1479940394.000065> @U0B47KC3S: great <@U04DFTZ7D>, moreover it is a BMJ publication, which one of the highest impact factor medical review
 1479940399.000066> @U0B47KC3S: <@U32V2JWFJ>, we’ll propose some of these guys to join the online hangout
 1479940414.000067> @U0B47KC3S: <@U35LGETA4>, regarding your center of interest, you might be interested :wink:
@@ -146,8 +143,7 @@ I am sharing with you this interesting open access article about Open Hardware i
 1480496142.000092> @U0B47KC3S: #interesting an integrated health patch for monitoring heart, lungs activities, temperature in the same time. Should be eaten some day in the OpenSource roadmap :wink:
 1480496143.000093> @U0B47KC3S: <http://www.medgadget.com/2016/11/holst-centre-introduces-next-generation-health-patch.html?utm_source=Newsletter+list&amp;utm_campaign=8e1b615da6-Newsletter_2014_07_177_17_2014&amp;utm_medium=email&amp;utm_term=0_efd6a3cd08-8e1b615da6-420506201>
 1480503276.000095> @U2PFHNN3C: <https://research.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html>
-1480503578.000097> @U37GZRZU6: <@U2PFHNN3C> they are doing something similar at DreamUp Vision which is a spin-off of DreamQuark :wink: 
-<http://dreamupvision.com/>
+1480503578.000097> @U37GZRZU6: <@U2PFHNN3C> they are doing something similar at DreamUp Vision which is a spin-off of DreamQuark :wink:  <http://dreamupvision.com/>
 1480530368.000099> @U38TWKY9Y: <@U38TWKY9Y> has joined the channel
 1480543516.000100> @U394HRZ1B: <@U394HRZ1B> has joined the channel
 1480615180.000101> @U39GX1A69: <@U39GX1A69> has joined the channel
@@ -172,8 +168,7 @@ I am sharing with you this interesting open access article about Open Hardware i
 1481095614.000027> @U0AAL4W13: Good question :) it's a fork lead by me, living in our community, based on a different hardware approach (oriented integrated circuits) taken a year back, and not designed for a medical use but rather a simple devkit for academics and makers. The contribution lives in the community, just waiting a clarification on CLAs before merging back officially :)
 1481096371.000029> @U0B47KC3S: <@U38HVMZ6K> <@U0AAL4W13> we are going to have third/fourth week of january a Law Camp to fix the CLA matter. I ll give you details at the very beginning of january !
 1481097483.000030> @U0AAL4W13: Looking forward to CLAs satisfying for all and to merging :)
-1481102660.000034> @U38HVMZ6K: Don't know if you already came across this project currently conducted in Switzerland:
-<http://www.nano-tera.ch/projects/359.php#desc>
+1481102660.000034> @U38HVMZ6K: Don't know if you already came across this project currently conducted in Switzerland: <http://www.nano-tera.ch/projects/359.php#desc>
 1481102727.000036> @U38HVMZ6K: The goal is not quite the same (targetting portable 3D ultrasound scanner) but some publications and experiments could be leveraged by echOpen.
 1481102767.000037> @U38HVMZ6K: If this raises some interest, I could probably get in touch with one or the other project instigators
 1481102867.000038> @U0AAL4W13: Sweet 
@@ -186,9 +181,14 @@ I am sharing with you this interesting open access article about Open Hardware i
 1481212398.000047> @U2PFHNN3C: Now I’m not very fond of the hipe around it… “AI inventing its own language” thing… IMO, it makes a great disservice to the AI community by putting too much expectations on it… anyway, I think the most interesting thing in their paper is not the intermediate language but rather the fact that this model can translate between two languages that were not even present as a pair in the training set. It’s called zero-shot learning
 1481212488.000052> @U2PFHNN3C: hey <@U33817K25>, like you I’m a psychology lover, I’m sure you’ll like that one <https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.x9v8urqwt>
 1481230988.000054> @U3CDR25JP: <@U3CDR25JP> has joined the channel
-1481232327.000055> @U33817K25: So true <@U2PFHNN3C> :simple_smile: 
-
-1481309893.000057> @U37GZRZU6: this might be useful for ML diagnosis / image recognition
-<https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime>
+1481232327.000055> @U33817K25: So true <@U2PFHNN3C> :simple_smile:  
+1481309893.000057> @U37GZRZU6: this might be useful for ML diagnosis / image recognition <https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime>
 1481559991.000060> @U0B47KC3S: following earthquakes with tweets
 1481559992.000061> @U0B47KC3S: <http://stanford.edu/~rezab/papers/eqtweets.pdf>
+1481581023.000062> @U0B47KC3S: hey some echopen’s friend, philippe ameline, pinged us on this NN implementation to reconstruct scenes from a single output cc <@U2PFHNN3C> <@U1PKXQVDW> <@U37GZRZU6>
+1481581175.000066> @U0B47KC3S: <https://twitter.com/quantombone/status/807146345710682112>
+1481642207.000070> @U0B47KC3S: <https://benheubl.github.io/data%20analysis/fr/?imm_mid=0ea317&amp;cmp=em-data-na-na-newsltr_20161102>
+1481642298.000074> @U0B47KC3S: <@U0B47KC3S> and commented: How to apply face recognition API technology to data journalism with R and python :wink:
+1481643341.000075> @U37GZRZU6: <@U0B47KC3S> love the picture they picked as example :sweat_smile:
+1481643655.000076> @U0B47KC3S: <@U37GZRZU6> me2;)
+1481673338.000077> @U0B47KC3S: @alkindi cryptanalysis challenge for french high schools gathered  today more than 28000 pupils <http://epreuve.concours-alkindi.fr/>
