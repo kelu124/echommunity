@@ -5,6 +5,8 @@
 # cc-by-sa/4.0/
 # -------------------------
 # Examining slack log files
+# Creates channel-wise jsons
+# Creates a main MainJSON.json file for all information
 # -------------------------
 
 import re	
@@ -13,14 +15,16 @@ import os
 from os import walk
 import json
 
-data = {}
+MainJSON = []
 
+# List of keywords
 Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad"]
 Software = ["android","java","code"]
 Legal = ["patent", "agreement", "cla"] 
-Medical = ["doctor", "patient"]
+Medical = ["doctor", "patient",'médecin']
 Design = ["design", "user"] 
 Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki"]
+
 
 def getChannelLogs(mypath):
 	# getChannelLogs("./logs/")
@@ -44,14 +48,15 @@ def OpenLog(logfile):
 	return text
 
 
-
+# Initiate user list
 Users = GetUserList("users.log")
+# Get logs
 Files = getChannelLogs("./logs/")
-print Files
+# Process each log
 for ChannelID in Files:
 	
 	Log = OpenLog(ChannelID)
-	data["Stats"] = [ ]
+	ChannelData = [] 
 
 	for User in Users:
 		CountSoft = 0
@@ -75,15 +80,20 @@ for ChannelID in Files:
 			for community  in Community:
 				CountCommunity += line.lower().count(community)
 
-		entry = {'user': User, 'info' : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
-		data["Stats"].append(entry)
-		print User+": "+str(Log.count(User))
+		entry = {'user': User, 'channel': ChannelID, 'info' : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
+		ChannelData.append(entry)
+		MainJSON.append(entry)
+		#print User+": "+str(Log.count(User))
 
 
-	json_data = json.dumps(data, sort_keys=True, indent=4)
-	print 'JSON: ', json_data
+	json_data = json.dumps(ChannelData, sort_keys=True, indent=4)
+	#print 'JSON: ', json_data
 
 
-	f = open("logs/"+ChannelID+".json","w+")
+	f = open("logs/"+ChannelID.split(".")[0]+".json","w+")
 	f.write(json_data)
 	f.close()
+json_data = json.dumps(MainJSON, sort_keys=True, indent=4)
+f = open("logs/MainJSON.json","w+")
+f.write(json_data)
+f.close()
