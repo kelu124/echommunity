@@ -118,6 +118,19 @@ def get_users(sc):
     users = json.loads(str(users))
     return users
 
+def createUsers(sc,users):
+    print("Create User List")
+    print(80 * "=")
+    List=[]
+    for i in users['members']:
+ 	List.append(i['id'])
+
+    f = open("logs/users.log","w+")
+    f.write("\n".join(List))
+    f.close()
+
+    return List
+
 def display_users(sc,users):
     print("User List")
     print(80 * "=")
@@ -128,9 +141,9 @@ def display_users(sc,users):
             # don't display deleted users
             if not i['deleted']:
                 # display real name
-		print i
-		print i['name']
-                print (i['profile']['real_name'])   
+		#print i
+		print i['id']
+                #print (i['profile']['real_name'])   
 
 def getLastTS(sc,ChannelID):
 	filename = "logs/"+ChannelID+".log"
@@ -180,7 +193,7 @@ def main():
     users = get_users(sc)
     print sc
     # display users
-    #display_users(sc,users)
+    createUsers(sc,users)
     # get last 10 messages
     for myCanal in OurChannels:
 	print "=== Going for "+ myCanal
