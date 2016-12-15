@@ -124,7 +124,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "0", 
+            "posts": "4", 
             "software": "0"
         }, 
         "user": "U0B47KC3S"
@@ -478,6 +478,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C0KP6DWSG.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -787,7 +800,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "19", 
+            "posts": "21", 
             "software": "0"
         }, 
         "user": "U04DFTZ7D"

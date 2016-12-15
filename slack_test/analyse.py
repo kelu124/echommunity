@@ -18,12 +18,12 @@ import json
 MainJSON = []
 
 # List of keywords
-Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad"]
-Software = ["android","java","code"]
-Legal = ["patent", "agreement", "cla"] 
-Medical = ["doctor", "patient",'médecin']
+Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware"]
+Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural"]
+Legal = ["patent", "agreement", "cla","licence","license","legal"] 
+Medical = ["doctor", "patient",'médecin',"medical"]
 Design = ["design", "user"] 
-Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki"]
+Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki","documentation","presentation","contributeur","gitbook"]
 
 
 def getChannelLogs(mypath):

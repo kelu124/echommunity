@@ -125,7 +125,7 @@
             "legal": "0", 
             "medical": "7", 
             "posts": "23", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -177,7 +177,7 @@
             "legal": "0", 
             "medical": "13", 
             "posts": "45", 
-            "software": "0"
+            "software": "3"
         }, 
         "user": "U33817K25"
     }, 
@@ -466,6 +466,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C388S911V.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C388S911V.log", 
@@ -782,13 +795,13 @@
     {
         "channel": "C388S911V.log", 
         "info": {
-            "community": "2", 
+            "community": "4", 
             "design": "1", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "9", 
+            "medical": "10", 
             "posts": "29", 
-            "software": "1"
+            "software": "2"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -905,7 +918,7 @@
             "legal": "0", 
             "medical": "2", 
             "posts": "18", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U38HVMZ6K"
     }, 
@@ -1237,13 +1250,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "2", 
+            "community": "4", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "22", 
-            "software": "1"
+            "software": "3"
         }, 
         "user": "U1N5Q9334"
     }, 
@@ -1302,13 +1315,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "1", 
+            "community": "6", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "11", 
-            "software": "1"
+            "software": "2"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -1661,18 +1674,31 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C1TPCUU8Y.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "2", 
+            "community": "4", 
             "design": "1", 
-            "hardware": "0", 
-            "legal": "1", 
-            "medical": "1", 
+            "hardware": "3", 
+            "legal": "18", 
+            "medical": "2", 
             "posts": "66", 
-            "software": "1"
+            "software": "4"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -1965,13 +1991,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "5", 
+            "community": "16", 
             "design": "1", 
-            "hardware": "0", 
-            "legal": "1", 
+            "hardware": "5", 
+            "legal": "17", 
             "medical": "0", 
             "posts": "42", 
-            "software": "0"
+            "software": "3"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -2485,13 +2511,13 @@
     {
         "channel": "C2MAANG0P.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "13", 
-            "software": "1"
+            "posts": "15", 
+            "software": "2"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -2537,12 +2563,12 @@
     {
         "channel": "C2MAANG0P.log", 
         "info": {
-            "community": "0", 
+            "community": "2", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
-            "posts": "2", 
+            "medical": "2", 
+            "posts": "7", 
             "software": "0"
         }, 
         "user": "U33817K25"
@@ -2645,9 +2671,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
-            "posts": "4", 
-            "software": "0"
+            "medical": "1", 
+            "posts": "5", 
+            "software": "2"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -2790,7 +2816,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "13", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U3CDR25JP"
     }, 
@@ -2832,6 +2858,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C2MAANG0P.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C2MAANG0P.log", 
@@ -3152,7 +3191,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "3", 
             "posts": "21", 
             "software": "0"
         }, 
@@ -3191,7 +3230,7 @@
             "design": "0", 
             "hardware": "1", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "37", 
             "software": "0"
         }, 
@@ -3348,7 +3387,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "2", 
+            "posts": "7", 
             "software": "0"
         }, 
         "user": "U2MF267L2"
@@ -3660,7 +3699,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "11", 
+            "posts": "13", 
             "software": "0"
         }, 
         "user": "U37GZRZU6"
@@ -3672,9 +3711,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "2", 
-            "medical": "0", 
-            "posts": "62", 
-            "software": "0"
+            "medical": "1", 
+            "posts": "63", 
+            "software": "3"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -3790,8 +3829,8 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "29", 
-            "software": "0"
+            "posts": "31", 
+            "software": "3"
         }, 
         "user": "U2PFHNN3C"
     }, 
@@ -3829,8 +3868,8 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "10", 
-            "software": "0"
+            "posts": "14", 
+            "software": "1"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -4027,18 +4066,31 @@
             "posts": "2", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C04DFTZ81.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
         "channel": "C04DFTZ81.log", 
         "info": {
-            "community": "4", 
+            "community": "5", 
             "design": "1", 
-            "hardware": "3", 
+            "hardware": "4", 
             "legal": "3", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "22", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -4333,9 +4385,9 @@
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "12", 
             "software": "0"
         }, 
@@ -4853,11 +4905,11 @@
         "info": {
             "community": "1", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "0", 
             "medical": "0", 
             "posts": "10", 
-            "software": "2"
+            "software": "7"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -5210,6 +5262,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C1VKPTM9R.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -5516,11 +5581,11 @@
         "info": {
             "community": "3", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "1", 
             "medical": "0", 
             "posts": "7", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -6027,20 +6092,20 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "22", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U37GZRZU6"
     }, 
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "23", 
+            "community": "35", 
             "design": "6", 
-            "hardware": "2", 
-            "legal": "1", 
-            "medical": "4", 
+            "hardware": "6", 
+            "legal": "2", 
+            "medical": "8", 
             "posts": "178", 
-            "software": "21"
+            "software": "48"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -6092,7 +6157,7 @@
             "legal": "0", 
             "medical": "6", 
             "posts": "37", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U33817K25"
     }, 
@@ -6155,9 +6220,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "2", 
             "posts": "45", 
-            "software": "2"
+            "software": "5"
         }, 
         "user": "U2PFHNN3C"
     }, 
@@ -6196,7 +6261,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "25", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -6235,7 +6300,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "6", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U31UCUFPW"
     }, 
@@ -6248,7 +6313,7 @@
             "legal": "1", 
             "medical": "0", 
             "posts": "5", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0PKUKHPC"
     }, 
@@ -6337,9 +6402,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "5", 
-            "software": "0"
+            "software": "4"
         }, 
         "user": "U3CDR25JP"
     }, 
@@ -6365,7 +6430,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "30", 
-            "software": "0"
+            "software": "5"
         }, 
         "user": "U07UEJC2H"
     }, 
@@ -6390,6 +6455,19 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C04DFTZ7X.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
             "posts": "7", 
             "software": "0"
         }, 
@@ -6398,20 +6476,20 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "21", 
+            "community": "24", 
             "design": "9", 
             "hardware": "1", 
-            "legal": "8", 
-            "medical": "0", 
+            "legal": "9", 
+            "medical": "2", 
             "posts": "194", 
-            "software": "5"
+            "software": "11"
         }, 
         "user": "U0AAL4W13"
     }, 
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
@@ -6482,7 +6560,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "7", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U32UWGGN9"
     }, 
@@ -6697,13 +6775,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "7", 
+            "community": "11", 
             "design": "1", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "1", 
-            "medical": "1", 
-            "posts": "146", 
-            "software": "2"
+            "medical": "2", 
+            "posts": "147", 
+            "software": "7"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -6740,7 +6818,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "13", 
             "software": "0"
         }, 
@@ -6794,7 +6872,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "5", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U2UU194RZ"
     }, 
@@ -6814,13 +6892,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "5", 
+            "community": "6", 
             "design": "2", 
-            "hardware": "0", 
-            "legal": "0", 
-            "medical": "0", 
-            "posts": "44", 
-            "software": "1"
+            "hardware": "1", 
+            "legal": "5", 
+            "medical": "3", 
+            "posts": "52", 
+            "software": "6"
         }, 
         "user": "U38HVMZ6K"
     }, 
@@ -6870,7 +6948,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "6", 
             "software": "0"
         }, 
@@ -6937,7 +7015,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "4", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U3CV9P9NH"
     }, 
@@ -6996,13 +7074,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "20", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U32FZ0QLX"
     }, 
@@ -7041,7 +7119,7 @@
             "legal": "1", 
             "medical": "0", 
             "posts": "42", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U04CV54A4"
     }, 
@@ -7210,20 +7288,20 @@
             "legal": "2", 
             "medical": "0", 
             "posts": "16", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U37GZRZU6"
     }, 
     {
         "channel": "C1G7T0PNX.log", 
         "info": {
-            "community": "6", 
+            "community": "27", 
             "design": "4", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "2", 
             "medical": "0", 
             "posts": "206", 
-            "software": "11"
+            "software": "43"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -7340,7 +7418,7 @@
             "legal": "1", 
             "medical": "0", 
             "posts": "41", 
-            "software": "1"
+            "software": "5"
         }, 
         "user": "U2PFHNN3C"
     }, 
@@ -7464,13 +7542,13 @@
     {
         "channel": "C1G7T0PNX.log", 
         "info": {
-            "community": "5", 
+            "community": "8", 
             "design": "0", 
-            "hardware": "1", 
+            "hardware": "2", 
             "legal": "0", 
             "medical": "0", 
             "posts": "169", 
-            "software": "11"
+            "software": "18"
         }, 
         "user": "U20C8CKTL"
     }, 
@@ -7544,7 +7622,7 @@
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "0", 
             "medical": "0", 
             "posts": "17", 
@@ -7573,6 +7651,19 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C1G7T0PNX.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
             "posts": "0", 
             "software": "0"
         }, 
@@ -7581,12 +7672,12 @@
     {
         "channel": "C1G7T0PNX.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "1", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "31", 
+            "posts": "38", 
             "software": "0"
         }, 
         "user": "U0AAL4W13"
@@ -7598,9 +7689,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "5", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U34231VFH"
     }, 
@@ -7886,7 +7977,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "14", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -7999,10 +8090,10 @@
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "2", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "3", 
+            "posts": "7", 
             "software": "0"
         }, 
         "user": "U38HVMZ6K"
@@ -8276,7 +8367,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "23", 
-            "software": "0"
+            "software": "14"
         }, 
         "user": "USLACKBOT"
     }, 
@@ -8400,7 +8491,7 @@
     {
         "channel": "C2MBFSQ1L.log", 
         "info": {
-            "community": "3", 
+            "community": "4", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
@@ -8747,6 +8838,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C2MBFSQ1L.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C2MBFSQ1L.log", 
@@ -9942,6 +10046,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C0J81D3HN.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -10647,6 +10764,1202 @@
         "user": "USLACKBOT"
     }, 
     {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0GN7EB32"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3ARRLDQ8"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2PTWF6SX"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3BN2NTFU"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1N5Q9334"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U32AR6TED"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2XLJS5L0"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2M9XDS5N"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U37GZRZU6"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
+        "user": "U0B47KC3S"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U394HRZ1B"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0GMX7QUB"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1PKXQVDW"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U33817K25"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U33389FRA"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U087C42L8"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1JCFS7N3"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2X7189QR"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2PFHNN3C"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U07SS18MT"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U34N7NQNR"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0FN1B8KD"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1G9KDFNE"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3D9HA0N4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U31UCUFPW"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0PKUKHPC"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0KLG7CP8"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U38JDLY2E"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U20C8CKTL"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0HN7G093"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2Y7FPEUB"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2QMN3L1F"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3CDR25JP"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U336DPZV4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U07UEJC2H"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3BAH0X62"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0AAL4W13"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U34231VFH"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U352MKG4V"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U33KM85FA"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2YN8FREG"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3BFTB7M4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U32UWGGN9"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0PPGEYFK"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1EP1RDGE"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U36QEPF51"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0LPTV0Q4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U351ATVK5"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U39GX1A69"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1NLWV4BZ"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0JFW4XTQ"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U07SNUM7F"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1NTT0ZPH"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1NM17NHF"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0LLJC03V"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U04H8570R"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U38TWKY9Y"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2V03QR8E"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0SHK0X1D"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "4", 
+            "software": "0"
+        }, 
+        "user": "U04DFTZ7D"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0DRKLMS4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3B1RKVSP"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2X419KJS"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1TAU2NES"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U24BZF8UR"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U23D8HAC9"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2UU194RZ"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2UV28W2F"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
+        "user": "U38HVMZ6K"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0M70EXNC"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2NAWHM9N"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U35LGETA4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U32V2JWFJ"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2V0F9YAK"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2MF267L2"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1G9AEN7L"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1PAGSKGU"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3CV9P9NH"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3267ST8C"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2Q4137LL"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0HF2S3QX"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3210MXC5"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U32FZ0QLX"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U13UA10KS"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U04DZ4R0V"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U04CV54A4"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U2404BG5N"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U0KPE2P16"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U1P9ARRU3"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "USLACKBOT"
+    }, 
+    {
         "channel": "C0KSNKYHW.log", 
         "info": {
             "community": "0", 
@@ -11113,6 +12426,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C0KSNKYHW.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0KSNKYHW.log", 
@@ -11953,7 +13279,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "2", 
             "posts": "5", 
             "software": "0"
         }, 
@@ -12308,6 +13634,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C2M9WACDB.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -12616,7 +13955,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "1", 
+            "medical": "3", 
             "posts": "6", 
             "software": "0"
         }, 
@@ -13479,6 +14818,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C0CTKS15W.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0CTKS15W.log", 
@@ -14321,7 +15673,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "9", 
-            "software": "0"
+            "software": "3"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -14662,6 +16014,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C2Q3TLZQ8.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C2Q3TLZQ8.log", 
@@ -15857,18 +17222,31 @@
             "posts": "0", 
             "software": "0"
         }, 
-        "user": "U3BAH0X62"
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0XHF4EBX.log", 
         "info": {
             "community": "0", 
-            "design": "1", 
+            "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "20", 
+            "posts": "0", 
             "software": "0"
+        }, 
+        "user": "U3BAH0X62"
+    }, 
+    {
+        "channel": "C0XHF4EBX.log", 
+        "info": {
+            "community": "2", 
+            "design": "1", 
+            "hardware": "1", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "20", 
+            "software": "1"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -16161,7 +17539,7 @@
     {
         "channel": "C0XHF4EBX.log", 
         "info": {
-            "community": "0", 
+            "community": "4", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
@@ -16681,13 +18059,13 @@
     {
         "channel": "C04DFUV41.log", 
         "info": {
-            "community": "0", 
+            "community": "3", 
             "design": "4", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "26", 
-            "software": "7"
+            "software": "19"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -17040,6 +18418,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C04DFUV41.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -17051,7 +18442,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "10", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -17350,7 +18741,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "20", 
-            "software": "1"
+            "software": "9"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -18026,7 +19417,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "12", 
-            "software": "1"
+            "software": "2"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -18211,6 +19602,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C0GE6Q709.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0GE6Q709.log", 
@@ -19406,6 +20810,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C2MA9LUUF.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -20577,6 +21994,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C04DFUQG3.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C04DFUQG3.log", 
@@ -21413,13 +22843,13 @@
     {
         "channel": "C1NLJDJ4E.log", 
         "info": {
-            "community": "0", 
+            "community": "3", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "9", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -21772,6 +23202,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C1NLJDJ4E.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -21998,7 +23441,7 @@
     {
         "channel": "C1NLJDJ4E.log", 
         "info": {
-            "community": "0", 
+            "community": "2", 
             "design": "0", 
             "hardware": "0", 
             "legal": "1", 
@@ -22078,11 +23521,11 @@
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "0", 
             "medical": "0", 
             "posts": "13", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -22921,9 +24364,9 @@
     {
         "channel": "C07NJQ6LE.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
-            "hardware": "1", 
+            "hardware": "4", 
             "legal": "0", 
             "medical": "0", 
             "posts": "42", 
@@ -22955,18 +24398,31 @@
             "posts": "0", 
             "software": "0"
         }, 
-        "user": "U3BAH0X62"
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C07NJQ6LE.log", 
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "2", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3BAH0X62"
+    }, 
+    {
+        "channel": "C07NJQ6LE.log", 
+        "info": {
+            "community": "3", 
+            "design": "0", 
+            "hardware": "8", 
             "legal": "2", 
             "medical": "0", 
             "posts": "65", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -23259,13 +24715,13 @@
     {
         "channel": "C07NJQ6LE.log", 
         "info": {
-            "community": "6", 
+            "community": "9", 
             "design": "3", 
-            "hardware": "1", 
+            "hardware": "2", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "53", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -23538,7 +24994,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "6", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0HF2S3QX"
     }, 
@@ -23915,7 +25371,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "8", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U07SS18MT"
     }, 
@@ -24138,6 +25594,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C07SRLVGD.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -24146,10 +25615,10 @@
             "community": "7", 
             "design": "0", 
             "hardware": "1", 
-            "legal": "6", 
+            "legal": "10", 
             "medical": "0", 
             "posts": "21", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -24444,11 +25913,11 @@
         "info": {
             "community": "6", 
             "design": "0", 
-            "hardware": "0", 
-            "legal": "3", 
+            "hardware": "3", 
+            "legal": "13", 
             "medical": "0", 
             "posts": "28", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -24967,7 +26436,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "0", 
+            "posts": "4", 
             "software": "0"
         }, 
         "user": "U0B47KC3S"
@@ -25321,6 +26790,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C0KP6DWSG.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -25630,7 +27112,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "19", 
+            "posts": "21", 
             "software": "0"
         }, 
         "user": "U04DFTZ7D"

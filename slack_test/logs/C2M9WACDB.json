@@ -123,7 +123,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "2", 
             "posts": "5", 
             "software": "0"
         }, 
@@ -478,6 +478,19 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C2M9WACDB.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
@@ -786,7 +799,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "1", 
+            "medical": "3", 
             "posts": "6", 
             "software": "0"
         }, 

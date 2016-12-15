@@ -54,13 +54,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "2", 
+            "community": "4", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "22", 
-            "software": "1"
+            "software": "3"
         }, 
         "user": "U1N5Q9334"
     }, 
@@ -119,13 +119,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "1", 
+            "community": "6", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "11", 
-            "software": "1"
+            "software": "2"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -478,18 +478,31 @@
             "posts": "0", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C1TPCUU8Y.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "2", 
+            "community": "4", 
             "design": "1", 
-            "hardware": "0", 
-            "legal": "1", 
-            "medical": "1", 
+            "hardware": "3", 
+            "legal": "18", 
+            "medical": "2", 
             "posts": "66", 
-            "software": "1"
+            "software": "4"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -782,13 +795,13 @@
     {
         "channel": "C1TPCUU8Y.log", 
         "info": {
-            "community": "5", 
+            "community": "16", 
             "design": "1", 
-            "hardware": "0", 
-            "legal": "1", 
+            "hardware": "5", 
+            "legal": "17", 
             "medical": "0", 
             "posts": "42", 
-            "software": "0"
+            "software": "3"
         }, 
         "user": "U04DFTZ7D"
     }, 

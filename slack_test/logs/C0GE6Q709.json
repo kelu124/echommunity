@@ -281,7 +281,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "12", 
-            "software": "1"
+            "software": "2"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -466,6 +466,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C0GE6Q709.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0GE6Q709.log", 

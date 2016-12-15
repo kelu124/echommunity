@@ -478,18 +478,31 @@
             "posts": "0", 
             "software": "0"
         }, 
-        "user": "U3BAH0X62"
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C0XHF4EBX.log", 
         "info": {
             "community": "0", 
-            "design": "1", 
+            "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "20", 
+            "posts": "0", 
             "software": "0"
+        }, 
+        "user": "U3BAH0X62"
+    }, 
+    {
+        "channel": "C0XHF4EBX.log", 
+        "info": {
+            "community": "2", 
+            "design": "1", 
+            "hardware": "1", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "20", 
+            "software": "1"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -782,7 +795,7 @@
     {
         "channel": "C0XHF4EBX.log", 
         "info": {
-            "community": "0", 
+            "community": "4", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 

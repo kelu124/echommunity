@@ -111,7 +111,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "11", 
+            "posts": "13", 
             "software": "0"
         }, 
         "user": "U37GZRZU6"
@@ -123,9 +123,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "2", 
-            "medical": "0", 
-            "posts": "62", 
-            "software": "0"
+            "medical": "1", 
+            "posts": "63", 
+            "software": "3"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -241,8 +241,8 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "29", 
-            "software": "0"
+            "posts": "31", 
+            "software": "3"
         }, 
         "user": "U2PFHNN3C"
     }, 
@@ -280,8 +280,8 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "10", 
-            "software": "0"
+            "posts": "14", 
+            "software": "1"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -478,18 +478,31 @@
             "posts": "2", 
             "software": "0"
         }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C04DFTZ81.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
         "user": "U3BAH0X62"
     }, 
     {
         "channel": "C04DFTZ81.log", 
         "info": {
-            "community": "4", 
+            "community": "5", 
             "design": "1", 
-            "hardware": "3", 
+            "hardware": "4", 
             "legal": "3", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "22", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U0AAL4W13"
     }, 
@@ -784,9 +797,9 @@
         "info": {
             "community": "0", 
             "design": "0", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "12", 
             "software": "0"
         }, 

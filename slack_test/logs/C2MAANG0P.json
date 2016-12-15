@@ -119,13 +119,13 @@
     {
         "channel": "C2MAANG0P.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "13", 
-            "software": "1"
+            "posts": "15", 
+            "software": "2"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -171,12 +171,12 @@
     {
         "channel": "C2MAANG0P.log", 
         "info": {
-            "community": "0", 
+            "community": "2", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
-            "posts": "2", 
+            "medical": "2", 
+            "posts": "7", 
             "software": "0"
         }, 
         "user": "U33817K25"
@@ -279,9 +279,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
-            "posts": "4", 
-            "software": "0"
+            "medical": "1", 
+            "posts": "5", 
+            "software": "2"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -424,7 +424,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "13", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U3CDR25JP"
     }, 
@@ -466,6 +466,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C2MAANG0P.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C2MAANG0P.log", 
@@ -786,7 +799,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "3", 
             "posts": "21", 
             "software": "0"
         }, 
@@ -825,7 +838,7 @@
             "design": "0", 
             "hardware": "1", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "37", 
             "software": "0"
         }, 
@@ -982,7 +995,7 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
-            "posts": "2", 
+            "posts": "7", 
             "software": "0"
         }, 
         "user": "U2MF267L2"

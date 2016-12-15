@@ -112,20 +112,20 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "22", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U37GZRZU6"
     }, 
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "23", 
+            "community": "35", 
             "design": "6", 
-            "hardware": "2", 
-            "legal": "1", 
-            "medical": "4", 
+            "hardware": "6", 
+            "legal": "2", 
+            "medical": "8", 
             "posts": "178", 
-            "software": "21"
+            "software": "48"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -177,7 +177,7 @@
             "legal": "0", 
             "medical": "6", 
             "posts": "37", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U33817K25"
     }, 
@@ -240,9 +240,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "2", 
             "posts": "45", 
-            "software": "2"
+            "software": "5"
         }, 
         "user": "U2PFHNN3C"
     }, 
@@ -281,7 +281,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "25", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0FN1B8KD"
     }, 
@@ -320,7 +320,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "6", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U31UCUFPW"
     }, 
@@ -333,7 +333,7 @@
             "legal": "1", 
             "medical": "0", 
             "posts": "5", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U0PKUKHPC"
     }, 
@@ -422,9 +422,9 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "5", 
-            "software": "0"
+            "software": "4"
         }, 
         "user": "U3CDR25JP"
     }, 
@@ -450,7 +450,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "30", 
-            "software": "0"
+            "software": "5"
         }, 
         "user": "U07UEJC2H"
     }, 
@@ -475,6 +475,19 @@
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
+            "posts": "2", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
+    }, 
+    {
+        "channel": "C04DFTZ7X.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
             "posts": "7", 
             "software": "0"
         }, 
@@ -483,20 +496,20 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "21", 
+            "community": "24", 
             "design": "9", 
             "hardware": "1", 
-            "legal": "8", 
-            "medical": "0", 
+            "legal": "9", 
+            "medical": "2", 
             "posts": "194", 
-            "software": "5"
+            "software": "11"
         }, 
         "user": "U0AAL4W13"
     }, 
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
@@ -567,7 +580,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "7", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U32UWGGN9"
     }, 
@@ -782,13 +795,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "7", 
+            "community": "11", 
             "design": "1", 
-            "hardware": "0", 
+            "hardware": "1", 
             "legal": "1", 
-            "medical": "1", 
-            "posts": "146", 
-            "software": "2"
+            "medical": "2", 
+            "posts": "147", 
+            "software": "7"
         }, 
         "user": "U04DFTZ7D"
     }, 
@@ -825,7 +838,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "13", 
             "software": "0"
         }, 
@@ -879,7 +892,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "5", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U2UU194RZ"
     }, 
@@ -899,13 +912,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "5", 
+            "community": "6", 
             "design": "2", 
-            "hardware": "0", 
-            "legal": "0", 
-            "medical": "0", 
-            "posts": "44", 
-            "software": "1"
+            "hardware": "1", 
+            "legal": "5", 
+            "medical": "3", 
+            "posts": "52", 
+            "software": "6"
         }, 
         "user": "U38HVMZ6K"
     }, 
@@ -955,7 +968,7 @@
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
-            "medical": "0", 
+            "medical": "1", 
             "posts": "6", 
             "software": "0"
         }, 
@@ -1022,7 +1035,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "4", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U3CV9P9NH"
     }, 
@@ -1081,13 +1094,13 @@
     {
         "channel": "C04DFTZ7X.log", 
         "info": {
-            "community": "0", 
+            "community": "1", 
             "design": "0", 
             "hardware": "0", 
             "legal": "0", 
             "medical": "0", 
             "posts": "20", 
-            "software": "0"
+            "software": "1"
         }, 
         "user": "U32FZ0QLX"
     }, 
@@ -1126,7 +1139,7 @@
             "legal": "1", 
             "medical": "0", 
             "posts": "42", 
-            "software": "0"
+            "software": "2"
         }, 
         "user": "U04CV54A4"
     }, 

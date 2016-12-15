@@ -125,7 +125,7 @@
             "legal": "0", 
             "medical": "0", 
             "posts": "9", 
-            "software": "0"
+            "software": "3"
         }, 
         "user": "U0B47KC3S"
     }, 
@@ -466,6 +466,19 @@
             "software": "0"
         }, 
         "user": "U1DGN6S80"
+    }, 
+    {
+        "channel": "C2Q3TLZQ8.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "0", 
+            "software": "0"
+        }, 
+        "user": "U3FE9KW4D"
     }, 
     {
         "channel": "C2Q3TLZQ8.log", 
