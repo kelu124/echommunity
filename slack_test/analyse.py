@@ -20,7 +20,7 @@ MainJSON = []
 # List of keywords
 Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware"]
 Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural"]
-Legal = ["patent", "agreement", "cla","licence","license","legal"] 
+Legal = ["patent", "agreement", "cla","licence","license","legal","copyright"] 
 Medical = ["doctor", "patient",'médecin',"medical"]
 Design = ["design", "user"] 
 Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki","documentation","presentation","contributeur","gitbook"]
@@ -81,8 +81,9 @@ for ChannelID in Files:
 				CountCommunity += line.lower().count(community)
 
 		entry = {'user': User, 'channel': ChannelID, 'info' : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
-		ChannelData.append(entry)
-		MainJSON.append(entry)
+		if (CountSoft+CountHard+CountLegal+CountMedical+CountCommunity+CountDesign):
+			ChannelData.append(entry)
+			MainJSON.append(entry)
 		#print User+": "+str(Log.count(User))
 
 
