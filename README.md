@@ -33,11 +33,11 @@ Channels of capture: slack, github, ...?
 ##### How ?
 
 1. Bots crawling slack / forms --> store as .csv files
-2. Python+neo4j --> update graph database 
+2. Python+neo4j --> update graph database
 3. Python+neo4j --> queries for personnalized suggestions --> results stored as .csv files
-4. Delivery : 
+4. Delivery :
     * Slack bot sending private message to user
-    * Webpage for "global" informations about the community 
+    * Webpage for "global" informations about the community
 
 ##### What ?
 
@@ -54,7 +54,7 @@ Have an algo recommend you:
     * Query of type : " Most popular channels among people who have your skills/interests..."
 * to connect with slack members
     * Query of type : "People who have your skills/interest also interact with..."
-* to follow on github the three most interesting projects for you 
+* to follow on github the three most interesting projects for you
     * Query of type : "People who have your skills/interests contribute to..."
 
 
@@ -63,22 +63,79 @@ Have an algo recommend you:
 Slack:
 
 * `data[channel][userid]` to list user id
-* `data[channel][userid][posts]` 
-* `data[channel][userid][links]` 
-* `data[channel][userid][mention]`: pairs of id mentionned / # of mention 
+* `data[channel][userid][posts]`
+* `data[channel][userid][links]`
+* `data[channel][userid][mention]`: pairs of id mentionned / # of mention
 * `data[channel][userid][category]`: int of terms used in each category (see below)
 
 
 Categories:
 
-* Hardware: pcb, electronic, fpga, cpld, stm32, arduino, power, pulser, kicad, 
-* Software: code, android, java, 
-* Legal: patent, agreement, cla, 
+* Hardware: pcb, electronic, fpga, cpld, stm32, arduino, power, pulser, kicad,
+* Software: code, android, java,
+* Legal: patent, agreement, cla,
 * Medical: doctor, patient,
-* Design: design, user, 
+* Design: design, user,
 * Community: graph, community, communication, event, contribution, contributor, wiki
 
 ### Todo
 
 * Include reactions to link two users
-* 
+*
+
+### Ideal json structure (one .json per channel) :
+```json
+{
+  "channel_id" : ,
+  "info": {
+    "nb_users" : ,
+    "community": ,
+    "design": ,
+    "hardware": ,
+    "legal": ,
+    "medical": ,
+    "posts": ,
+    "software":
+  },
+  "users_info": {
+    <id_of_user1>: {
+      "community": ,
+      "design": ,
+      "hardware": ,
+      "legal": ,
+      "medical": ,
+      "posts": ,
+      "software":
+    },
+    <id_of_user2>: {
+      "community": ,
+      "design": ,
+      "hardware": ,
+      "legal": ,
+      "medical": ,
+      "posts": ,
+      "software":
+    },
+  },
+  "mentions": {
+    <id_of_user1>: {
+      <id_of_mentioned_user1>: <nb_mentions>,
+      <id_of_mentioned_user2>: <nb_mentions>
+    },
+    <id_of_user2>: {
+      <id_of_mentioned_user1>: <nb_mentions>,
+      <id_of_mentioned_user2>: <nb_mentions>
+    },
+  },
+  "reactions": {
+    <id_of_user1>: {
+      <id_of_user1>: <nb_reactions>,
+      <id_of_user2>: <nb_reactions>
+    },
+    <id_of_user2>: {
+      <id_of_user1>: <nb_reactions>,
+      <id_of_user2>: <nb_reactions>
+    },
+  }  
+}
+```
