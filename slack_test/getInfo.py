@@ -20,6 +20,8 @@ import json
 # username = "myusername"
 from mySlackIDs import *
 import re	
+import subprocess
+import os
 
 def test_slack(sc):
     # use for debugging
@@ -66,32 +68,46 @@ def post_message(sc,text,channel,icon_url,username):
 def delete_message(sc,tmstp,channel):
     print (sc.api_call("chat.delete",channel=channel,ts=tmstp))	
 
-def getLastMessages(sc,chnl,lasttimestamp,item):
+def getLastMessages(sc,chnl,lasttimestamp,item,update):
     log = ""
-    Msgs = sc.api_call("channels.history",channel=chnl,latest=lasttimestamp,count=item)
 
-    Hasmore = json.dumps(Msgs["has_more"])
-    Hasmore = json.loads(str(Hasmore))
+    if not update:
+    	Msgs = sc.api_call("channels.history",channel=chnl,latest=lasttimestamp,count=item)
+    else:
+        Msgs = sc.api_call("channels.history",channel=chnl,oldest=lasttimestamp,count=item)
 
-    Msgs = json.dumps(Msgs["messages"])
-    Msgs = json.loads(str(Msgs))
+    try:
+	Hasmore = json.dumps(Msgs["has_more"])
+	Hasmore = json.loads(str(Hasmore))
+    except KeyError:
+	Hasmore = 0
+	
+    try:
+    	Msgs = json.dumps(Msgs["messages"])
+    	Msgs = json.loads(str(Msgs))
+    except KeyError:
+	Msgs = []
 
-    
-    #print Msgs
-    for i in Msgs:
-	#print i
-	if "message" in i['type']:
-	    try:
-		UserNick = str(i['user'])	 	
-	    except KeyError:
-		UserNick = "Hyacinthe"
+    LastTimeStamp = 0
+    if len(Msgs):
+	    for oneMsg in Msgs:
+		#print i
+		if "message" in oneMsg['type']:
+		    try:
+			UserNick = str(oneMsg['user'])	 	
+		    except KeyError:
+			UserNick = "Hyacinthe"
 
-	    OneMessage = re.sub('\|.*>', '>', i['text'])
+		    OneMessage = re.sub('\|.*>', '>', oneMsg['text'])
+		    OneMessage = OneMessage.replace('\n',' ')
+		    OneMessage = OneMessage.replace('\t',' ')
+		    OneMessage = OneMessage.replace('\r',' ')
+		    log = oneMsg['ts'] +"> @"+UserNick+": "+OneMessage+"\n"+log
+	    LastTimeStamp = oneMsg['ts']
 
-	    log = i['ts'] +"> @"+UserNick+": "+OneMessage+"\n"+log
-    LastTimeStamp = i['ts']
     log = log.encode("utf8")
     return Msgs,log,LastTimeStamp,Hasmore
+
 
 def get_users(sc):
     print("Get Users")
@@ -101,6 +117,19 @@ def get_users(sc):
     users = json.dumps(users)
     users = json.loads(str(users))
     return users
+
+def createUsers(sc,users):
+    print("Create User List")
+    print(80 * "=")
+    List=[]
+    for i in users['members']:
+ 	List.append(i['id'])
+
+    f = open("logs/users.log","w+")
+    f.write("\n".join(List))
+    f.close()
+
+    return List
 
 def display_users(sc,users):
     print("User List")
@@ -112,20 +141,35 @@ def display_users(sc,users):
             # don't display deleted users
             if not i['deleted']:
                 # display real name
-		print i
-		print i['name']
-                print (i['profile']['real_name'])   
+		#print i
+		print i['id']
+                #print (i['profile']['real_name'])   
+
+def getLastTS(sc,ChannelID):
+	filename = "logs/"+ChannelID+".log"
+	line = subprocess.check_output(['tail', '-1', filename]).split(">")[0]
+	print line
+	Results = getLastMessages(sc,ChannelID,line,"100",1)
+	LogChannel =  Results[1]
+	print LogChannel
+	with open(filename, "a") as myfile:
+	    myfile.write(LogChannel)
+
+
 
 def getChannelHistory(sc,ChannelID):
     LastTimeStamp = ""
     LogChannel = ""
     StillMoreMessages = True
     while StillMoreMessages:
-    	Results = getLastMessages(sc,ChannelID,LastTimeStamp,"100") # general channel for echopen
+    	Results = getLastMessages(sc,ChannelID,LastTimeStamp,"100",0) # general channel for echopen
 	LogChannel =  Results[1]+LogChannel
 	LastTimeStamp = Results[2]
 	StillMoreMessages = Results[3]
    	print Results[1]
+    appendLog(ChannelID,LogChannel)
+
+def appendLog(ChannelID,LogChannel):
     f = open("logs/"+ChannelID+".log","w+")
     f.write(LogChannel)
     f.close()
@@ -149,12 +193,16 @@ def main():
     users = get_users(sc)
     print sc
     # display users
-    #display_users(sc,users)
+    createUsers(sc,users)
     # get last 10 messages
     for myCanal in OurChannels:
 	print "=== Going for "+ myCanal
-        getChannelHistory(sc,myCanal)
-
+	if not os.path.exists("./logs/"+myCanal+".log"):
+		print "Generating logs"
+        	getChannelHistory(sc,myCanal)
+	else:
+		print "Updating logs"
+		getLastTS(sc,myCanal)
 
 main()
 

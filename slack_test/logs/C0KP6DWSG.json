@@ -1,0 +1,41 @@
+[
+    {
+        "channel": "C0KP6DWSG.log", 
+        "info": {
+            "community": "1", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "5", 
+            "software": "0"
+        }, 
+        "user": "U0FN1B8KD"
+    }, 
+    {
+        "channel": "C0KP6DWSG.log", 
+        "info": {
+            "community": "2", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "3", 
+            "software": "0"
+        }, 
+        "user": "U0AAL4W13"
+    }, 
+    {
+        "channel": "C0KP6DWSG.log", 
+        "info": {
+            "community": "4", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "21", 
+            "software": "0"
+        }, 
+        "user": "U04DFTZ7D"
+    }
+]

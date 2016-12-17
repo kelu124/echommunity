@@ -1,0 +1,41 @@
+[
+    {
+        "channel": "C07SRLVGD.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "0", 
+            "medical": "0", 
+            "posts": "8", 
+            "software": "1"
+        }, 
+        "user": "U07SS18MT"
+    }, 
+    {
+        "channel": "C07SRLVGD.log", 
+        "info": {
+            "community": "7", 
+            "design": "0", 
+            "hardware": "1", 
+            "legal": "12", 
+            "medical": "0", 
+            "posts": "21", 
+            "software": "1"
+        }, 
+        "user": "U0AAL4W13"
+    }, 
+    {
+        "channel": "C07SRLVGD.log", 
+        "info": {
+            "community": "6", 
+            "design": "0", 
+            "hardware": "3", 
+            "legal": "13", 
+            "medical": "0", 
+            "posts": "28", 
+            "software": "1"
+        }, 
+        "user": "U04DFTZ7D"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "1", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "3", 
+            "medical": "0", 
+            "posts": "3", 
+            "software": "0"
+        }, 
+        "user": "U0AAL4W13"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "1", 
+            "medical": "0", 
+            "posts": "7", 
+            "software": "1"
+        }, 
+        "user": "U04DFTZ7D"
+    }, 
+    {
+        "channel": "C3F765DT7.log", 
+        "info": {
+            "community": "0", 
+            "design": "0", 
+            "hardware": "0", 
+            "legal": "6", 
+            "medical": "0", 
+            "posts": "10", 
+            "software": "0"
+        }, 
+        "user": "U38HVMZ6K"
+    }
+]

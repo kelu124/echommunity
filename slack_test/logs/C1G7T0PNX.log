@@ -475,3 +475,29 @@ Improved graphical interface
 1481285768.000047> @U0B47KC3S: I created a project and issue but I couldn’t attach the issue to the project. Maybe a matter of time ?
 1481301051.000048> @U3CV9P9NH: <@U3CV9P9NH> has joined the channel
 1481548291.000049> @U2PFHNN3C: I’m at HD, <@U3CV9P9NH> just in case you’re around :slightly_smiling_face:
+1481617800.000050> @U3D9HA0N4: <@U3D9HA0N4> has joined the channel
+1481643024.000051> @U0B47KC3S: when we’ll be ready to denoise image through neural networks, we could submit a PR on this repo :wink:
+1481643024.000052> @U0B47KC3S: <https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap?imm_mid=0ea317&amp;cmp=em-data-na-na-newsltr_20161102>
+1481657336.000054> @U37GZRZU6: <@U37GZRZU6> and commented: here's a comparative evaluation of despeckle filters applied to ultrasound imaging of carotid arteries. the evaluations include image quality (PSNR and so on...) but also percentages of correct classifications (symptomatic vs. asymptomatic) obtained with a kNN classifier and form experts :wink:
+1481713200.000056> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1481727574.000057> @U0B47KC3S: tonight we have two visiting physicists in our sigproc meeting ! <@U2MF267L2> <@U3D9HA0N4>
+1481727606.000060> @U37GZRZU6: yeees physicists :hugging_face:
+1481728765.000061> @U0AAL4W13: <@U2MF267L2> oO you were in microflu, you may have met Eloise C. (who left last year?)
+1481728771.000062> @U2MF267L2: <@U2MF267L2> has joined the channel
+1481743234.000063> @U37GZRZU6: a thesis about GPU ultrasound simulation : 
+<http://campar.in.tum.de/twiki/pub/Main/AthanasiosKaramalis/Thesis.pdf>
+1481749548.000064> @U2PFHNN3C: Awesome <@U37GZRZU6> Thankiess!
+1481806614.000065> @U0AAL4W13: Hey sigproc guys, a quick thought. Cheap, chinese wireless probes exist. The images are streamed over wifi. I'm confident it's feasible to hack the communication protocol and have a server up and running on a computer to capture images from this type of probe, and acquiring those, to get a feel of real images. What do you think?
+1481806750.000066> @U38HVMZ6K: :+1::skin-tone-2: +1 for me depending on the price
+1481806774.000067> @U38HVMZ6K: and I'm ready to reverse engineer and hack the gadget for testing
+1481806839.000068> @U0AAL4W13: EBay is like 700$
+1481806855.000069> @U0AAL4W13: Could be cheaper when asking for a sample from alibaba directly 
+1481806880.000070> @U0AAL4W13: I'd be in to play with wireshark 
+1481806950.000071> @U38HVMZ6K: OK. I already have to invest in 2 devkits (CPU and ADC) so this would make the bill a bit high for this year end (with Christmas gifts)
+1481806962.000072> @U0AAL4W13: Haha
+1481806968.000073> @U0AAL4W13: What have you ordered ?
+1481807018.000074> @U38HVMZ6K: Board OMAP: <http://www.ti.com/tool/tmdslcdk138> 195$ Eval kit ADC: <http://www.ti.com/tool/ads6142evm> 299$
+1481808867.000075> @U0AAL4W13: Nice !
+1481825230.000076> @U3FE9KW4D: <@U3FE9KW4D> has joined the channel
+1481922517.000077> @U0B47KC3S: hey <#C2MAANG0P>, one word to let you know that the node app for controlling the ultrasound probe from remote, is all set up ! we can now feed you with echOpen data. We will deploy it in the next few days :wink:
+1481922549.000078> @U0B47KC3S: now going back to GPU stuffs #CapMed hackathon :wink:

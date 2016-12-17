@@ -56,3 +56,29 @@ Have an algo recommend you:
     * Query of type : "People who have your skills/interest also interact with..."
 * to follow on github the three most interesting projects for you 
     * Query of type : "People who have your skills/interests contribute to..."
+
+
+### Doing..
+
+Slack:
+
+* `data[channel][userid]` to list user id
+* `data[channel][userid][posts]` 
+* `data[channel][userid][links]` 
+* `data[channel][userid][mention]`: pairs of id mentionned / # of mention 
+* `data[channel][userid][category]`: int of terms used in each category (see below)
+
+
+Categories:
+
+* Hardware: pcb, electronic, fpga, cpld, stm32, arduino, power, pulser, kicad, 
+* Software: code, android, java, 
+* Legal: patent, agreement, cla, 
+* Medical: doctor, patient,
+* Design: design, user, 
+* Community: graph, community, communication, event, contribution, contributor, wiki
+
+### Todo
+
+* Include reactions to link two users
+* 
