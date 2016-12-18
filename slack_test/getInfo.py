@@ -76,6 +76,7 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
     else:
         Msgs = sc.api_call("channels.history",channel=chnl,oldest=lasttimestamp,count=item)
 
+
     try:
 	Hasmore = json.dumps(Msgs["has_more"])
 	Hasmore = json.loads(str(Hasmore))
@@ -87,11 +88,13 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
     	Msgs = json.loads(str(Msgs))
     except KeyError:
 	Msgs = []
-
+    print Msgs
     LastTimeStamp = 0
+
     if len(Msgs):
 	    for oneMsg in Msgs:
 		#print i
+		WhoReacted = []
 		if "message" in oneMsg['type']:
 		    try:
 			UserNick = str(oneMsg['user'])	 	
@@ -102,7 +105,26 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
 		    OneMessage = OneMessage.replace('\n',' ')
 		    OneMessage = OneMessage.replace('\t',' ')
 		    OneMessage = OneMessage.replace('\r',' ')
-		    log = oneMsg['ts'] +"> @"+UserNick+": "+OneMessage+"\n"+log
+
+		    log = log+oneMsg['ts'] +"> @"+UserNick+": "+OneMessage
+
+		    try:
+			Reactions = oneMsg['reactions']	
+		    	Reactions = json.dumps(Reactions)
+		    	Reactions = json.loads(Reactions)
+		    except KeyError:
+			Reactions = []
+		    if len(Reactions):
+ 		    	print Reactions
+			for reac in Reactions:
+				print reac
+				for user in reac['users']:
+					WhoReacted.append(user)
+		    if len(Reactions):
+		    	log = log+" (reactions: "+",".join(WhoReacted)+")\n"
+			print ",".join(WhoReacted)
+		    else:
+			log = log+"\n"
 	    LastTimeStamp = oneMsg['ts']
 
     log = log.encode("utf8")
@@ -195,6 +217,11 @@ def main():
     # display users
     createUsers(sc,users)
     # get last 10 messages
+
+
+
+    #getChannelHistory(sc,"C04DFTZ7X")
+
     for myCanal in OurChannels:
 	print "=== Going for "+ myCanal
 	if not os.path.exists("./logs/"+myCanal+".log"):
@@ -203,7 +230,6 @@ def main():
 	else:
 		print "Updating logs"
 		getLastTS(sc,myCanal)
-
 main()
 
 
