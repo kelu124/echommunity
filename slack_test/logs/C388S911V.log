@@ -1,0 +1,102 @@
+1480321918.000002> @U0B47KC3S: <@U0B47KC3S> has joined the channel
+1480321993.000003> @U0B47KC3S: <@U0B47KC3S> set the channel topic: dedicated to patients issues : co-construction, patients/doctors/connected app interactions, ethics &amp;such
+1480322029.000004> @U33817K25: <@U33817K25> has joined the channel
+1480333334.000005> @U0B47KC3S: hi <@U33817K25> I have just created this channel, this is where our patients related discussion will take place !
+1480375512.000002> @U33817K25: hi <@U0B47KC3S> I've just shared the framing document of the patient stream here : <https://drive.google.com/open?id=1TGfV86ApHdfFWCMrzMj1Vy-pkc38DmwIC1qw7KfhLi8>
+1480375807.000004> @U33817K25: this document is meant ot be discussed and further developed, so please help yourself !! :grinning:
+1480375863.000005> @U33817K25: maybe it is better if I import the document here (sorry, discovering slack...) <https://drive.google.com/open?id=1TGfV86ApHdfFWCMrzMj1Vy-pkc38DmwIC1qw7KfhLi8>
+1480375912.000007> @U33817K25: <@U33817K25>
+1480408542.000002> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1480408553.000003> @U0B47KC3S: thanks <@U33817K25>. Anyone interested can contribute to this gDoc !
+1480408640.000004> @U04DFTZ7D: <@U04DFTZ7D> has joined the channel
+1480408640.000005> @U07UEJC2H: <@U07UEJC2H> has joined the channel
+1480408640.000006> @U0DRKLMS4: <@U0DRKLMS4> has joined the channel
+1480408640.000007> @U2X419KJS: <@U2X419KJS> has joined the channel
+1480408640.000008> @U34N7NQNR: <@U34N7NQNR> has joined the channel
+1480408640.000009> @U20C8CKTL: <@U20C8CKTL> has joined the channel
+1480408641.000010> @U0GMX7QUB: <@U0GMX7QUB> has joined the channel
+1480408641.000011> @U32AR6TED: <@U32AR6TED> has joined the channel
+1480408641.000012> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1480408641.000013> @U0AAL4W13: <@U0AAL4W13> has joined the channel
+1480408641.000014> @U1N5Q9334: <@U1N5Q9334> has joined the channel
+1480408641.000015> @U32FZ0QLX: <@U32FZ0QLX> has joined the channel
+1480410889.000016> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj_medtec_patients" to "prj_publichealth_pati"
+1480416423.000017> @U38HVMZ6K: #prj_medtec_patients was a bit clearer than <#C388S911V>, no ? having the full word "patients" in the name is self-explanatory and intuitive :wink:
+1480416733.000018> @U33817K25: I concur :slightly_smiling_face: 
+1480416755.000019> @U04DFTZ7D: <@U38HVMZ6K>: thanks for your reply, but medtec is defined by all technical aspects of the project including the medical link with the technical aspects. Then, we cannot crop the mid word as the information system developed to automate the content will not be able to integrate it. And the channel name is constraint by a number of signs. If you have any suggestion? 
+1480416829.000020> @U04DFTZ7D: We could have something wider and rename patient by user, as the definition of the project include both patients and doctors ? 
+1480416858.000021> @U04DFTZ7D: Or simply "use"
+1480416931.000022> @U33817K25: I propose that we stick to patient for the time being . 
+1480417048.000023> @U33817K25: Maybe it is too narrow but it really emphasizes the fact that we want to reintegrate the other subject in the examination 
+1480417072.000024> @U33817K25: Or of the examination 
+1480417072.000025> @U04DFTZ7D: I agree ! Thanks 
+1480417097.000026> @U04DFTZ7D: So how could we rename the channel considering the constrains according to you ? 
+1480417150.000028> @U33817K25: #prj_patient ? 
+1480417194.000029> @U38HVMZ6K: &gt;Then, we cannot crop the mid word as the information system developed to automate the content will not be able to integrate it.
+1480417224.000030> @U38HVMZ6K: don't undersatnad the limitation here... which content is generated where ? (sorry newbie question...)
+1480417301.000031> @U04DFTZ7D: We developed an automatic web site generator to publish content from github repository. You can see in <http://echOpen.org> / documentation an example of what we are currently generalizing with all sub-project in echOpen. 
+1480417320.000032> @U38HVMZ6K: publichealth will always limit the length of the "interesting part" to 4 characters --&gt; pubhlth or just health ?
+1480417327.000033> @U38HVMZ6K: OK thx I'll have a look
+1480417338.000034> @U04DFTZ7D: It's a good question, we also developing the information about this. It's still on going and will be release in a few weeks 
+1480417395.000035> @U33817K25: Why not #prj_patient (for the time being)? 
+1480417399.000036> @U04DFTZ7D: At the end, all echOpen content on each project/ thread will be stored in a GitHub repository and automatically publicly released on the website  
+1480417501.000037> @U04DFTZ7D: <@U33817K25>: it's going to be the same issue as the system already include 9 topics (liste available here <http://www.echopen.org/join_us>) and we developed the system including each project in a specific topic. 
+1480417509.000038> @U33817K25: I think patient exceeds public health and public health limits patient issues
+1480417539.000039> @U04DFTZ7D: We can define a new topic 
+1480417639.000041> @U33817K25: Patient connects with ethical issues as well
+1480417711.000042> @U04DFTZ7D: We have a topic dedicated to ethic. We probably could rename it and including ethic inside. Shouldn't we include patient and healthcare pro in it ? To have a wider topic ?
+1480417720.000043> @U0B47KC3S: :+1: defining new topic;)
+1480418800.000045> @U04DFTZ7D: Ok, so we have several options :  1. Changing publichealth by pubhlth and setting up PRJ_pubhlth_patient 2. We rename ethic by something wider including patient, user and ethic and we include “patient" inside 3. We keep it as it is and we create a new topic that will have no overlap with public health, neither ethic.  What should we do according to you ? Thanks for your answers… cc <@U0B47KC3S> <@U38HVMZ6K> <@U33817K25>
+1480419029.000047> @U33817K25: Why not 3 and we decide later whether connections with public health and ethics mean inclusion in one sense or another ? 
+1480419414.000048> @U04DFTZ7D: Thank you <@U33817K25> but changing the topics will be an important work as we need to update the website, the wiki, the repositories, change the code inside the system, update the gitbooks, etc. So if we can find a solution that will not be changing in the next weeks, it would be great :wink:
+1480419702.000049> @U33817K25: Maybe we can preempt ethics for the time being ? 
+1480419764.000050> @U04DFTZ7D: Great that's the easiest way for the moment ;) and we change later if we need it ! 
+1480419782.000051> @U04DFTZ7D: <@U04DFTZ7D> set the channel topic: dedicated to patients issues : co-construction, patients/doctors/connected app interactions, ethics &amp;such
+1480419782.000052> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj_publichealth_pati" to "prj_ethic_patient"
+1480419817.000053> @U04DFTZ7D: It's done here and I'll change the repository in the github to get the content in the future. 
+1480420181.000054> @U33817K25: Alright, Thx
+1480421621.000055> @U38HVMZ6K: :+1::skin-tone-2: great I didn't want to cause so much trouble with a simple question/remark :sweat_smile:
+1480421731.000056> @U38HVMZ6K: but in the process I learnt about the automated publishing tool! (reactions: U0B47KC3S)
+1480422474.000057> @U04DFTZ7D: Of course not <@U38HVMZ6K> ;) it's extremely valuable to have your remark !! It helps all of us to improve... and to provide clearer information to the community ! Thanks 
+1480426314.000059> @U33817K25: <@U38HVMZ6K> <@U04DFTZ7D> discussing names is always important, especially when we can converge towards a common (transient) solution that fast :+1:
+1480426375.000060> @U04DFTZ7D: Sure !!
+1480426649.000061> @U33817K25: just to let you now, I partly attended the symposium "les chercheurs et l'action" at MSH Paris Nord this morning and briefly discussed echOpen/patients with Bernard Stiegler and Marc Lipinski who showed interest and possibly meetings to come and more connections... keep you updated
+1480426774.000062> @U33817K25: btw I realized I needed to hone my PR skills a bit...
+1480426831.000063> @U04DFTZ7D: Great, that is a good news :wink:
+1480426901.000064> @U38HVMZ6K: <@U33817K25> technical and PR skills are not so often merged in a single person :slightly_smiling_face:
+1480426950.000065> @U33817K25: <@U38HVMZ6K> I hoped you wouldn't say that... I have no technical skills either :smile:
+1480495987.000068> @U38JDLY2E: <@U38JDLY2E> has joined the channel
+1480502946.000069> @U32UWGGN9: <@U32UWGGN9> has joined the channel
+1480671357.000070> @U0KLG7CP8: <@U0KLG7CP8> has joined the channel
+1480930846.000002> @U0B47KC3S: hi <@U33817K25> , I had a dinner yesterday with yann algan, who is the dean of the school of public affairs at Sciences Po
+1480930851.000003> @U0B47KC3S: <https://fr.wikipedia.org/wiki/Yann_Algan>
+1480930865.000005> @U0B47KC3S: he runs many projects on many subjects implying ScPo students and developers of epita/epitech/42
+1480930870.000006> @U0B47KC3S: He is not really satisfied by his health projects but he is interested by echOpen, especillay by the `patients` track
+1480930872.000007> @U0B47KC3S: We should meet this month, I ll tell you when we schedule that
+1480931248.000008> @U33817K25: Sounds just great! 
+1480964550.000009> @U33817K25: i had no time to be more demonstrative this morning but this is great news, especially when you consider the kind of subjects this guy is knowledgeable about !!
+1480966979.000010> @U0B47KC3S: yes indeed, he wants students to be more aware of the paradigm shift for health. He do not want to train and form bureaucrats. He is looking for a tech project that could embrasse several subjects, such as ethics, economical impacts, doctor-patients relationships, remote medecine. echOpen sounds to be a good fit :wink:
+1480973775.000011> @U33817K25: Absolutely :slightly_smiling_face: 
+1480974901.000012> @U33817K25: just for the heads up : Lionel Dagot of LAPPS (Laboratoire Parisien de Psychologie Sociale) is interested and I also had a feedback from Bernard Stiegler, we are currently trying to settle a date for a meeting (reactions: U04DFTZ7D)
+1480977044.000013> @U33817K25: Marc Lipinski also told me the Mission Associations at INSERM could be of some help in targeting patient associations (their mission is to connect patient associations with research labs at INSERM). Do you happen to know of them ? <@U0B47KC3S>
+1480977301.000014> @U0B47KC3S: unfortunately not, but maybe we should could contact them !
+1480977324.000015> @U33817K25: will do, anyways
+1481080112.000016> @U3ARRLDQ8: <@U3ARRLDQ8> has joined the channel
+1481134081.000017> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel
+1481155534.000018> @U33817K25: When even McKinsey says it: "Companies that do attempt to match product features and capabilities more closely to their customers’ perceptions of value must answer a difficult question: Who are their customers? Fragmented decision-making in many healthcare markets makes it extremely difficult for companies to understand the requirements of all key stakeholders. To be selected for use, a device might have to be approved by a national or regional authority, selected by a healthcare provider, specified by a particular clinical team, and then chosen by doctors, often in consultation with patients. *Finally, it may be the patient’s own reactions to the device that define its success in use*"
+1481155652.000019> @U33817K25: <@U33817K25>
+1481184876.000020> @U04DFTZ7D: Thanks <@U33817K25> it’s very interesting and proves that we are on the right way :wink:
+1481187663.000021> @U0B47KC3S: indeed <@U33817K25> #interesting. I retain the idea that we should think and try "conjoint analyses” and“teardown analysis”
+1481188502.000022> @U0B47KC3S: hi brunocp I reached this morning Yann Algan the head of the public affaires school of ScPo. He just answered for a meeting :wink: So you have mail on your inbox @echopen.org
+1481188509.000023> @U0B47KC3S: for the record, Yann’s students use to work on tech projects and they have to build up a technology all along with raising and tackling institutional problematics. But, on the health side, he is looking for a broad and transversal project. echOpen seems to fit :wink:
+1481191706.000024> @U38HVMZ6K: <@U33817K25> thanks for sharing! very interesting analysis. Will read it more in details later but already shared with UX, Human Factors engineers on my side
+1481191978.000025> @U04DFTZ7D: Great, thanks <@U38HVMZ6K> let us know their feedbacks ;)
+1481192785.000026> @U38HVMZ6K: Already almost "hired" one of them on echOpen :stuck_out_tongue: (reactions: U0AAL4W13,U04DFTZ7D,U0B47KC3S)
+1481230988.000027> @U3CDR25JP: <@U3CDR25JP> has joined the channel
+1481238688.000028> @U33817K25: <@U0B47KC3S> it seems conjoint analyses are not that easy to set up, and teardown analysis might be costly (you need to buy competitor equipment). Maybe clean sheet analysis is the first thing we need to tackle.  From what I know most of the knowledge, elements and competences for such a task are already existing within echOpen, and I guess part of the analysis has already been carreid out, but to what extent I don't know.
+1481238969.000029> @U33817K25: <@U0B47KC3S> I'm really excited about the meeting with science po. I guess we should talk about it how we want to prepare for it.
+1481239664.000030> @U33817K25: btw the "chaire de statistiques avancées" at CNAM seems to be knowledgeable about conjoint analysis... maybe we could talk to them
+1481240285.000031> @U0B47KC3S: <@U33817K25> I’ll tell you as soon as we’ll have meeting date proposals
+1481301050.000032> @U3CV9P9NH: <@U3CV9P9NH> has joined the channel
+1481617802.000033> @U3D9HA0N4: <@U3D9HA0N4> has joined the channel
+1481984340.000034> @U3GQS8JTZ: <@U3GQS8JTZ> has joined the channel

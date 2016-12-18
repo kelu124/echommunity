@@ -106,7 +106,7 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
 		    OneMessage = OneMessage.replace('\t',' ')
 		    OneMessage = OneMessage.replace('\r',' ')
 
-		    log = log+oneMsg['ts'] +"> @"+UserNick+": "+OneMessage
+
 
 		    try:
 			Reactions = oneMsg['reactions']	
@@ -121,10 +121,10 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
 				for user in reac['users']:
 					WhoReacted.append(user)
 		    if len(Reactions):
-		    	log = log+" (reactions: "+",".join(WhoReacted)+")\n"
+			log = oneMsg['ts'] +"> @"+UserNick+": "+OneMessage+" (reactions: "+",".join(WhoReacted)+")\n"+log
 			print ",".join(WhoReacted)
 		    else:
-			log = log+"\n"
+			log = oneMsg['ts'] +"> @"+UserNick+": "+OneMessage+"\n"+log
 	    LastTimeStamp = oneMsg['ts']
 
     log = log.encode("utf8")
