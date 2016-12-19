@@ -15,3 +15,26 @@
 1481891483.000017> @U04DFTZ7D: Yes and we using it this way for code repo
 1481893282.000018> @U0AAL4W13: For the copyright, in the absence of other agreements, should mention "echopen and it's contributors"  ;) cf <http://ben.balter.com/2015/06/03/copyright-notices-for-websites-and-open-source-projects/> ^^
 1481984340.000020> @U3GQS8JTZ: <@U3GQS8JTZ> has joined the channel
+1482154079.000021> @U3GHS132Q: <@U3GHS132Q> has joined the channel
+1482154140.000022> @U04DFTZ7D: <@U3GHS132Q>: discussion about embedded system are here ;)
+1482154168.000023> @U3GHS132Q: Hello ! Thank you <@U04DFTZ7D> :slightly_smiling_face:
+1482154304.000024> @U3GHS132Q: The last time I came to Hôtel-Dieu we discussed about the probes : * Which board will be used ? * Will the probe will embed a Linux ? * If so how does the DSP and Linux will communicate ?  And another question : if the board embed an ARM can we use <https://fr.wikipedia.org/wiki/Single_instruction_multiple_data> ?
+1482154522.000028> @U38HVMZ6K: Hello <@U3GHS132Q> , I don't know about the discussions you had but from what I got from <@U3GQS8JTZ> , the probes would be based on Texas Instruments OMAP L138 MCU
+1482154581.000030> @U38HVMZ6K: There would be an embedded Linux on board. 
+1482154663.000031> @U38HVMZ6K: On OMAP-L138 the DSP and MCU cores are in the same chip, TI provides libraries for inter-cores communication.
+1482154699.000032> @U38HVMZ6K: Syslink or TI-link, no longer remember the exact name.
+1482154738.000033> @U3GHS132Q: Ok, all is clear now :stuck_out_tongue_winking_eye: ! Thank you :slightly_smiling_face:
+1482154843.000035> @U38HVMZ6K: We would still need to discuss together with <@U0B47KC3S>  and <@U3GQS8JTZ> . I just had a single discussion with them. 
+1482154874.000036> @U38HVMZ6K: The idea was to start with eval boards : Board OMAP: <http://www.ti.com/tool/tmdslcdk138> Eval kit ADC: <http://www.ti.com/tool/ads6142evm>
+1482155094.000037> @U3GHS132Q: Woh they are not cheaper :s And what about the software development environment ? What are the tools needed to put the program on this board ?
+1482155157.000038> @U3GHS132Q: Oh and also what are the licences of TI components (like the libraries) ?
+1482155311.000039> @U3GHS132Q: It seems Sys-Link library is BSD licensed ;D
+1482155769.000043> @U38HVMZ6K: For the development environment, for the ARM core on the board we can use whatever we want. Open-source cross-toolchain (Linaro cross-toolcchains are quite good and easy to use).
+1482155811.000044> @U38HVMZ6K: For the DSP side, I don't know but we are probably stuck at TI tools (Code Composer and debugger).
+1482156299.000045> @U3GHS132Q: That's cool for the ARM side :slightly_smiling_face:
+1482156396.000046> @U3GHS132Q: That's less cool for the DSP side, but it seems that Code Composer can be easily installed on Ubuntu
+1482156449.000047> @U3GHS132Q: Is it possible to just got the DSP-compiler and DSP-debugger and not all the IDE xD ?
+1482156780.000048> @U38HVMZ6K: Don't know. I didn't do any DSP development for long and at that time everything was really bound to TI tools.
+1482156829.000049> @U38HVMZ6K: Code Composer in itself is not that bad (standard eclipse with a few plugins)
+1482156950.000050> @U3GHS132Q: It seems there are emulators, during the holidays I will try to install this components and try to compile the "helloworld" program to familiarize me with the tools
+1482159178.000051> @U3GHS132Q: I have to go, I will be here tomorrow. Good bye and thank you for the informations :slightly_smiling_face:

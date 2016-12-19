@@ -119,7 +119,7 @@ def getLastMessages(sc,chnl,lasttimestamp,item,update):
 			for reac in Reactions:
 				print reac
 				for user in reac['users']:
-					WhoReacted.append(user)
+					WhoReacted.append("@"+user)
 		    if len(Reactions):
 			log = oneMsg['ts'] +"> @"+UserNick+": "+OneMessage+" (reactions: "+",".join(WhoReacted)+")\n"+log
 			print ",".join(WhoReacted)

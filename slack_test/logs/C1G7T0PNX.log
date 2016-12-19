@@ -464,3 +464,6 @@
 1481922549.000078> @U0B47KC3S: now going back to GPU stuffs #CapMed hackathon :wink:
 1481984340.000079> @U3GQS8JTZ: <@U3GQS8JTZ> has joined the channel
 1482055698.000080> @U0AAL4W13: Still about phantoms: mixing 3d printing and wax molding - <http://link.springer.com/article/10.1007%2Fs10439-016-1757-5>
+1482151886.000082> @U3GHS132Q: <@U3GHS132Q> has joined the channel
+1482169748.000083> @U0AAL4W13: Hey, got a question for you guys :) Say you have a ultrasound-like signal, centered around zero, but that you set all negative elements to zero. Would you find a way to rebuild the original signal?
+1482169887.000084> @U0AAL4W13: Knowing that you miss half the signal, maybe half the information, may be a challenge - still, using the signal "physical" origin could help. Or not.

@@ -106,3 +106,14 @@
 1482023420.000059> @U0B47KC3S: 3) and it uses `RenderScript`!
 1482023422.000060> @U0B47KC3S: Published 2 months ago, and Open Source t <https://github.com/ENCP/CNNdroid>
 1482075564.000062> @U3FCS2UP3: For me the renderscript examples work as well! So what exactly are the computations that need to be ported to the App?
+1482108587.000063> @U0B47KC3S: <@U37GZRZU6> <@U3FCS2UP3> I have just pushed the last version and here is the current state :
+1482108592.000064> @U0B47KC3S: 1) It’s working :wink:
+1482108597.000065> @U0B47KC3S: 2) We have a pretty good performance of 1,4µs per frame which can let us hope of 70 frames per second for simple images !!
+1482108601.000066> @U0B47KC3S: But
+1482108608.000067> @U0B47KC3S: 3) The image is slightly noisy, I don’t understand why. You have an idea ?
+1482108619.000068> @U0B47KC3S: 4) The code can be still optimized : in fact, I didn’t use the `rs_allocation` because I can’t get the index of the rs_allocation being parsed (the index not the counter). So how to do that ? RenderScript is still poorly documented
+1482108623.000069> @U0B47KC3S: btw <@U3FCS2UP3> what I understand is that the loop of the kernel methods which are taken in charge by RenderScript's internals are not the natural increasing order, but rather randomly, which I think explain the images that we got earlier
+1482108640.000070> @U0B47KC3S: 5) Btw, when the RenderScript algo will be optimized, I ll make some clean up code to throw out all the allocation in a more static context so that it doesn’t have to be parsed at each loop
+1482139231.000074> @U37GZRZU6: you rock <@U0B47KC3S> :wink: I'll have look at the last version, hopefully this evening. BTW, I just told our lead dev about Renderscript, first time of my life I teach him something about Androïd :sunglasses: (reactions: @U0B47KC3S,@U0AAL4W13)
+1482151886.000075> @U3GHS132Q: <@U3GHS132Q> has joined the channel
+1482181364.000076> @U37GZRZU6: <@U0B47KC3S> well, on my side the app crashes :confused: what device/OS are you using in your emulator ?

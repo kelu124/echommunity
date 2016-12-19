@@ -47,6 +47,13 @@ def OpenLog(logfile):
 	f.close()
 	return text
 
+def find_between( s, first, last ):
+    try:
+        start = s.index( first ) + len( first )
+        end = s.index( last, start )
+        return s[start:end]
+    except ValueError:
+        return ""
 
 # Initiate user list
 Users = GetUserList("users.log")
@@ -54,10 +61,9 @@ Users = GetUserList("users.log")
 Files = getChannelLogs("./logs/")
 # Process each log
 for ChannelID in Files:
-	
 	Log = OpenLog(ChannelID)
+	ChannelID = ChannelID.split(".")[0]
 	ChannelData = [] 
-
 	for User in Users:
 		CountSoft = 0
 		CountHard = 0
@@ -79,21 +85,40 @@ for ChannelID in Files:
 				CountDesign += line.lower().count(design)
 			for community  in Community:
 				CountCommunity += line.lower().count(community)
+			if "(reactions: " in line:
+				reacted = find_between( line, "(reactions: ", ")" ).split(",")
+				for reac in reacted:
+					reactions = {'user': User, 'channel': ChannelID, 'reactions' : reac, "ts" : line.split(">")[0]}
+					ChannelData.append(reactions)
+					MainJSON.append(reactions)
+					print reactions
+			if "<@" in line:
+				m = re.findall ( '<@(.*?)>', line, re.DOTALL)
+				for mentions in m:
+				    if not (User == mentions):
+					mentions = mentions
+					mentionsJSON = {'user': User, 'channel': ChannelID, 'mentions' : mentions, "ts" : line.split(">")[0]}
+					ChannelData.append(mentionsJSON)
+					MainJSON.append(mentionsJSON)
+					print mentionsJSON
 
 		entry = {'user': User, 'channel': ChannelID, 'info' : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
+
 		if (CountSoft+CountHard+CountLegal+CountMedical+CountCommunity+CountDesign):
-			ChannelData.append(entry)
+			#ChannelData.append(entry)
 			MainJSON.append(entry)
 		#print User+": "+str(Log.count(User))
+	
 
 
-	json_data = json.dumps(ChannelData, sort_keys=True, indent=4)
-	#print 'JSON: ', json_data
 
+	#dumping channel-wise json
+	#json_data = json.dumps(ChannelData, sort_keys=True, indent=4)
+	#f = open("logs/"+ChannelID.split(".")[0]+".json","w+")
+	#f.write(json_data)
+	#f.close()
 
-	f = open("logs/"+ChannelID.split(".")[0]+".json","w+")
-	f.write(json_data)
-	f.close()
+# Dumping main json
 json_data = json.dumps(MainJSON, sort_keys=True, indent=4)
 f = open("logs/MainJSON.json","w+")
 f.write(json_data)
