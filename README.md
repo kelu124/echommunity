@@ -59,17 +59,9 @@ Have an algo recommend you:
 
 
 ### Doing..
+ 
 
-Slack:
-
-* `data[channel][userid]` to list user id
-* `data[channel][userid][posts]`
-* `data[channel][userid][links]`
-* `data[channel][userid][mention]`: pairs of id mentionned / # of mention
-* `data[channel][userid][category]`: int of terms used in each category (see below)
-
-
-Categories:
+#### Categories:
 
 * Hardware: pcb, electronic, fpga, cpld, stm32, arduino, power, pulser, kicad,
 * Software: code, android, java,
@@ -78,12 +70,11 @@ Categories:
 * Design: design, user,
 * Community: graph, community, communication, event, contribution, contributor, wiki
 
-### Todo
-
 * Include reactions to link two users
-*
 
-### Ideal json structure (one .json per channel) :
+
+#### Ideal json structure (one .json per channel)
+
 ```json
 {
   "channel_id" : ,
@@ -143,3 +134,23 @@ Categories:
     ]
 }
 ```
+
+### TODO
+
+#### Mettre sur des pages statiques:
+
+* Par top 3 channel
+    * Top 3 users per channel
+    * Top 3 topic per channel
+
+* Les plus actifs
+    * Top 5 ecrivains (et leurs top 3 topics)
+    * Top 5 channels 
+    * Top 6 topics 
+
+* Connected
+    * Les 3 plus mentionnes
+    * Les 3 qui ont le plus de mentions
+    * Les 3 qui réagissent le plus
+    * Les 3 auxquels on réagit le plus
+

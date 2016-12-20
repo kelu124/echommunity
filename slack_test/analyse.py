@@ -18,8 +18,8 @@ import json
 MainJSON = []
 
 # List of keywords
-Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware"]
-Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural"]
+Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor"]
+Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural","deep learning"]
 Legal = ["patent", "agreement", "cla","licence","license","legal","copyright"] 
 Medical = ["doctor", "patient",'médecin',"medical"]
 Design = ["design", "user"] 
