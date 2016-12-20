@@ -63,7 +63,11 @@ Files = getChannelLogs("./logs/")
 for ChannelID in Files:
 	Log = OpenLog(ChannelID)
 	ChannelID = ChannelID.split(".")[0]
-	ChannelData = [] 
+	ChannelData = {"channel_id":ChannelID} 
+	ChannelUsers = []
+	ChannelUserMentions = []
+	ChannelUserReactions = []
+	ChannelUserInfos = []
 	for User in Users:
 		CountSoft = 0
 		CountHard = 0
@@ -88,35 +92,33 @@ for ChannelID in Files:
 			if "(reactions: " in line:
 				reacted = find_between( line, "(reactions: ", ")" ).split(",")
 				for reac in reacted:
-					reactions = {'user': User, 'channel': ChannelID, 'reactions' : reac, "ts" : line.split(">")[0]}
-					ChannelData.append(reactions)
-					MainJSON.append(reactions)
-					print reactions
+					reactions = {'user_id': User, 'mentioned_user_id': reac, "ts" : line.split(">")[0]}
+					ChannelUserReactions.append(reactions)
 			if "<@" in line:
 				m = re.findall ( '<@(.*?)>', line, re.DOTALL)
 				for mentions in m:
-				    if not (User == mentions):
-					mentions = mentions
-					mentionsJSON = {'user': User, 'channel': ChannelID, 'mentions' : mentions, "ts" : line.split(">")[0]}
-					ChannelData.append(mentionsJSON)
-					MainJSON.append(mentionsJSON)
-					print mentionsJSON
+				    if not (User == mentions): 
+					mentionsJSON = {'user_id': User, 'mentioned_user_id' : mentions, "ts" : line.split(">")[0]}
+					ChannelUserMentions.append(mentionsJSON)
 
-		entry = {'user': User, 'channel': ChannelID, 'info' : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
+		UserInfo = {User : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
+		ChannelUserInfos.append(UserInfo)
 
-		if (CountSoft+CountHard+CountLegal+CountMedical+CountCommunity+CountDesign):
-			#ChannelData.append(entry)
-			MainJSON.append(entry)
-		#print User+": "+str(Log.count(User))
-	
+		if Log.count(User):
+			ChannelUsers.append(User)
 
+		
 
+		ChannelData["mentions"] = ChannelUserMentions
+		ChannelData["reactions"] = ChannelUserReactions
 
+	ChannelData["users_info"] = ChannelUserInfos
+	ChannelData["users"] = ChannelUsers
 	#dumping channel-wise json
-	#json_data = json.dumps(ChannelData, sort_keys=True, indent=4)
-	#f = open("logs/"+ChannelID.split(".")[0]+".json","w+")
-	#f.write(json_data)
-	#f.close()
+	json_data = json.dumps(ChannelData, sort_keys=True, indent=4)
+	f = open("logs/"+ChannelID.split(".")[0]+".json","w+")
+	f.write(json_data)
+	f.close()
 
 # Dumping main json
 json_data = json.dumps(MainJSON, sort_keys=True, indent=4)

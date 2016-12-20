@@ -117,3 +117,5 @@
 1482139231.000074> @U37GZRZU6: you rock <@U0B47KC3S> :wink: I'll have look at the last version, hopefully this evening. BTW, I just told our lead dev about Renderscript, first time of my life I teach him something about Androïd :sunglasses: (reactions: @U0B47KC3S,@U0AAL4W13)
 1482151886.000075> @U3GHS132Q: <@U3GHS132Q> has joined the channel
 1482181364.000076> @U37GZRZU6: <@U0B47KC3S> well, on my side the app crashes :confused: what device/OS are you using in your emulator ?
+1482189353.000077> @U0B47KC3S: <@U37GZRZU6> yes I use an emulator with API 25, it should not depend on the device, however I use Galaxy Nexus. Could you tell us what you in the logs ? especially the ones marked in red with a thrown exception
+1482232061.000078> @U2PFHNN3C: <@U2PFHNN3C> has joined the channel

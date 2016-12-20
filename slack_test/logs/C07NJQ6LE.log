@@ -205,3 +205,7 @@
 1481985141.000019> @U0AAL4W13: Au lieu de 1024pts tu mets 150us d'acquisition, ensuite ça dépend de ton adc (150x30 à 30msps -- ça dépend aussi après si tu transmets ton plein signal ou un signal tronqué dans l'espace de fourrier) 
 1481985451.000020> @U0AAL4W13: Oops that was in French, sorry, but the idea is understandable in English as well ;)
 1482151886.000021> @U3GHS132Q: <@U3GHS132Q> has joined the channel
+1482219517.000022> @U0AAL4W13: <@U0AAL4W13> and commented: to qualify your system, you can use a simple, robust, easy-to-do phantom made out of a stripboard + long pins to create a 2.54mm pitch network of wires :smiley:
+1482232089.000023> @U2PFHNN3C: <@U2PFHNN3C> has joined the channel
+1482244842.000024> @U394HRZ1B: hello, a slovenian bioartist wants to work with ultrasound and she's interested in this device (totally non-openhardware !) <http://www.medicalequipment-msl.com/htm/portable-ultrasound-machine/Usb-Ultrasound-Probe-MSLPU39.html> any feedback on this ?
+1482265830.000026> @U0AAL4W13: <@U394HRZ1B> : the name MSLPU39 shows that it's also a uprobe-20, the last born of  the uprobe series (after the 1 and the 2). That being said, to hack it, I'd say it depends on the artist, if she has the skills to hack it. Anyhow, it seems the probe comes with a PC software :smiley:
