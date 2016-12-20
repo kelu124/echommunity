@@ -97,8 +97,12 @@ Categories:
     "posts": ,
     "software":
   },
+  "users": [
+    id_of_user1,
+    id_of_user2,
+  ],
   "users_info": {
-    <id_of_user1>: {
+    id_of_user1: {
       "community": ,
       "design": ,
       "hardware": ,
@@ -107,7 +111,7 @@ Categories:
       "posts": ,
       "software":
     },
-    <id_of_user2>: {
+    id_of_user2: {
       "community": ,
       "design": ,
       "hardware": ,
@@ -117,25 +121,25 @@ Categories:
       "software":
     },
   },
-  "mentions": {
-    <id_of_user1>: {
-      <id_of_mentioned_user1>: <nb_mentions>,
-      <id_of_mentioned_user2>: <nb_mentions>
-    },
-    <id_of_user2>: {
-      <id_of_mentioned_user1>: <nb_mentions>,
-      <id_of_mentioned_user2>: <nb_mentions>
-    },
-  },
-  "reactions": {
-    <id_of_user1>: {
-      <id_of_user1>: <nb_reactions>,
-      <id_of_user2>: <nb_reactions>
-    },
-    <id_of_user2>: {
-      <id_of_user1>: <nb_reactions>,
-      <id_of_user2>: <nb_reactions>
-    },
-  }  
+  "mentions" : [
+       {"user_id" : id_of_user1,
+        "mentioned_user_id" : id_of_user2,
+        "timestamp" : ts
+        },
+       {"user_id" : id_of_user1,
+        "mentioned_user_id" : id_of_user2,
+        "timestamp" : ts
+        }
+   ],
+   "reactions" : [
+        {"user_id" : id_of_user1,
+         "mentioned_user_id" : id_of_user2,
+         "timestamp" : ts
+         },
+        {"user_id" : id_of_user1,
+         "mentioned_user_id" : id_of_user2,
+         "timestamp" : ts
+         }
+    ]
 }
 ```
