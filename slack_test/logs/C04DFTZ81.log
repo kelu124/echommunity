@@ -208,3 +208,29 @@
 1482189887.000095> @U0B47KC3S: despite this, I still find Joel’s de Rosnay's concept “pronetariat” interesting and potentially, but only potentially, empowering
 1482228566.000096> @U2PFHNN3C: <https://octobox.io/> cc <@U0B47KC3S> <@U04DFTZ7D>
 1482228635.000097> @U04DFTZ7D: Merci <@U2PFHNN3C> :wink: looks great (reactions: @U2PFHNN3C)
+1482329391.000098> @U3HH0CEAW: <@U3HH0CEAW> has joined the channel
+1482412373.000099> @U3J40RUDT: <@U3J40RUDT> has joined the channel
+1482433976.000100> @U2PFHNN3C: Mandatory things to know about software engineering <http://nvie.com/posts/a-successful-git-branching-model/>
+1482436778.000101> @U38HVMZ6K: <@U2PFHNN3C> I already already read this article about 2 years ago and applied this methodology on 2 large projects. Very nice workflow!
+1482436841.000102> @U38HVMZ6K: If you are interested, git add-ons have been developed to streamline this workflow with additional high-level commands: see <https://github.com/nvie/gitflow> (reactions: @U0AAL4W13)
+1482437138.000104> @U2PFHNN3C: Yep <@U38HVMZ6K> indeed :) I also use the plugin, I just saw the post pooling up again, I remembered how good it was and then shared it :)
+1482869289.000105> @U38HVMZ6K: <@U38HVMZ6K> and commented: Already quite old (2001) but still actual and nice 10'000 feet overview.
+1482883326.000107> @U0B47KC3S: love it :wink:
+1482926328.000110> @U2PFHNN3C: Interesting discussion on the Code of Conduct the jupyter community is currrently writing (might benefit echOpen to read it) <https://github.com/jupyter/governance/pull/23#issuecomment-269227712> (I like @tacaswell’s clever answer below)
+1482929800.000112> @U0B47KC3S: excellent <@U2PFHNN3C>, some months ago, we forecasted to produce some ! there is also this one <http://rubyonrails.org/conduct/>
+1483083403.000114> @U0AAL4W13: For the sake of it: <https://youtu.be/ZfCfTYZJWtI> (reactions: @U37GZRZU6,@U0B47KC3S)
+1483111625.000116> @U0B47KC3S: @all and especially for database language lovers <@U37GZRZU6> <@U0GMX7QUB> <@U0AAL4W13> here’s something nice "Gitql is a Git query language”, an sql like langage for git, <https://github.com/cloudson/gitql>
+1483283371.000119> @U0AAL4W13: In the 2016 losses series, another noble inventor passed away: <https://www.washingtonpost.com/news/the-switch/wp/2016/12/30/2-reasons-why-the-red-solo-cup-is-a-marvel-of-modern-engineering/?utm_term=.90a66e605a87> .
+1483283855.000121> @U3GV4N878: Happy New Year to everyone!! :) :)
+1483283896.000122> @U0AAL4W13: ( and for math-guys : <http://weijr-note.blogspot.fr/2017/01/2017-is-not-just-another-prime-number.html> ) (reactions: @U38HVMZ6K,@U0B47KC3S)
+1483290095.000124> @U0B47KC3S: amazing, I don’t know if these are classical facts. Perhaps 2017 is an instance of a primes subset getting these properties. Or, perhaps this guy is Ramanujan-like minded
+1483477935.000126> @U0B47KC3S: deep learning is everywhere :wink: now we have “Deep Patients" <@U2PFHNN3C> <http://www.nature.com/articles/srep26094>
+1483518958.000128> @U0B47KC3S: IA vs Human work threads #Concurrency #RaceCondition :wink: <http://qz.com/875491/japanese-white-collar-workers-are-already-being-replaced-by-artificial-intelligence/?utm_source=pocket&amp;utm_medium=email&amp;utm_campaign=pockethits>
+1483524430.000130> @U2PFHNN3C: Interesting. Thanks mate. It’s intriguing that in medicine, seems like everyone is rushing on denoising autoencoders… I think there are a lot of things to do with other algorithms, especially when the data is scarce. Anyway, if deep learning has, at least, the benefit to open the field of healthcare to AI, it’s already a great thing. So <@U0B47KC3S> when are you gonna apply these things to AP-HP data :slightly_smiling_face: ?
+1483538496.000131> @U0B47KC3S: yes <@U2PFHNN3C>, let’s do it inside echOpen !
+1483565083.000132> @U33817K25: Deep Patients! :stuck_out_tongue_winking_eye: (reactions: @U0B47KC3S)
+1483628186.000133> @U3ML4L01Z: <@U3ML4L01Z> has joined the channel
+1483654075.000134> @U3N1SENJY: <@U3N1SENJY> has joined the channel
+1483655068.000135> @U38HVMZ6K: Open Hardware pushed to the extrem: open source microcontrollers :heart_eyes: : <http://hackaday.com/2017/01/05/hands-on-with-the-first-open-source-microcontroller/> (reactions: @U0AAL4W13)
+1483655265.000137> @U3GHS132Q: RISC-V is the future ! I am not really sure but It seems that RISC-V is made by the same people which made MIPS. I hope that someday we will have "classical" computer with RISC-V CPU :smile: :smile: :smile:
+1483655598.000138> @U0B47KC3S: Thanks for sharing, delicious indeed !:grinning:!

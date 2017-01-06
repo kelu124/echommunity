@@ -152,6 +152,7 @@
         "U0GMX7QUB", 
         "U1PKXQVDW", 
         "U33817K25", 
+        "U3HH0CEAW", 
         "U34N7NQNR", 
         "U3GHS132Q", 
         "U0FN1B8KD", 
@@ -162,9 +163,12 @@
         "U3CDR25JP", 
         "U3GQS8JTZ", 
         "U07UEJC2H", 
+        "U3N1SENJY", 
+        "U3ML4L01Z", 
         "U0AAL4W13", 
         "U32UWGGN9", 
         "U04DFTZ7D", 
+        "U3J40RUDT", 
         "U0DRKLMS4", 
         "U2X419KJS", 
         "U38HVMZ6K", 
@@ -393,6 +397,17 @@
             }
         }, 
         {
+            "U3HH0CEAW": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
             "U34N7NQNR": {
                 "community": "0", 
                 "design": "0", 
@@ -602,6 +617,17 @@
             }
         }, 
         {
+            "U3N1SENJY": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
             "U3FE9KW4D": {
                 "community": "0", 
                 "design": "0", 
@@ -609,6 +635,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3ML4L01Z": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 
@@ -885,6 +922,17 @@
                 "medical": "13", 
                 "posts": "31", 
                 "software": "2"
+            }
+        }, 
+        {
+            "U3J40RUDT": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
             }
         }, 
         {

@@ -39,3 +39,140 @@
 1482156950.000050> @U3GHS132Q: It seems there are emulators, during the holidays I will try to install this components and try to compile the "helloworld" program to familiarize me with the tools
 1482159178.000051> @U3GHS132Q: I have to go, I will be here tomorrow. Good bye and thank you for the informations :slightly_smiling_face:
 1482232082.000052> @U2PFHNN3C: <@U2PFHNN3C> has joined the channel
+1482329391.000053> @U3HH0CEAW: <@U3HH0CEAW> has joined the channel
+1482362721.000054> @U3GHS132Q: Just (an other) question : will we have to develop a linux driver ???
+1482386210.000055> @U38HVMZ6K: <@U3GHS132Q> , no idea for now. It will depend on many aspects like existing drivers on the platform we will use, performance needs/real-time processing.  My general rule is: avoid to develop specific drivers as far as you can and try all other possibilities before going into driver/kernel development.
+1482386856.000056> @U38HVMZ6K: It is much easier and comfortable to develop in user space than in kernel (drivers). Few examples: in user mode you can crash your application/process without any impact on other applications/processes which can go on, detect the crash and take actions. In the kernel, if you crash... you crash! :wink: with a bit chance a nice kernel panic with a stack trace helping you a bit to track down the issue but not so much more. (reactions: @U20C8CKTL)
+1482386886.000057> @U38HVMZ6K: Debugging is also much easier in user space than in the kernel.
+1482387047.000058> @U38HVMZ6K: At the end of the day we often had a compromise solution in the projects I worked on: 1) a minimal, dumbest possible kernel driver acquiring the raw data 2) a user space application processing the raw data into more elaborated useful format
+1482387082.000059> @U38HVMZ6K: The limit of scope between the 2 is always a trade-off.
+1482387158.000060> @U38HVMZ6K: Sometimes it's still necessary to perform some pre-processing in the kernel/driver to limit the amount of data and load on user processes.
+1482387280.000061> @U38HVMZ6K: The approach we took was always "go user space first" then you can evaluate the performance, try first optimizations, identify bottlenecks,... 
+1482395269.000062> @U0AAL4W13: That's in that sense that I love working with the beaglebone prudaq: the 40msps adc is a /dev/prudaq and you play within directly in userspace 
+1482395273.000063> @U0AAL4W13: Very convenient 
+1482395325.000064> @U0AAL4W13: It also gives you a ram buffer,  it's always great to have 300Mo+ buffer of continuous acquisition 
+1482415679.000065> @U3J40RUDT: <@U3J40RUDT> has joined the channel
+1482416355.000066> @U37GZRZU6: <@U37GZRZU6> has joined the channel
+1482416355.000067> @U0KLG7CP8: <@U0KLG7CP8> has joined the channel
+1482416355.000068> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel
+1482416355.000069> @U3FCS2UP3: <@U3FCS2UP3> has joined the channel
+1482416356.000070> @U0GMX7QUB: <@U0GMX7QUB> has joined the channel
+1482416356.000071> @U34N7NQNR: <@U34N7NQNR> has joined the channel
+1482416356.000072> @U20C8CKTL: <@U20C8CKTL> has joined the channel
+1482416356.000073> @U07UEJC2H: <@U07UEJC2H> has joined the channel
+1482416356.000074> @U32FZ0QLX: <@U32FZ0QLX> has joined the channel
+1482416357.000075> @U3210MXC5: <@U3210MXC5> has joined the channel
+1482416357.000076> @U34231VFH: <@U34231VFH> has joined the channel
+1482416357.000077> @U31UCUFPW: <@U31UCUFPW> has joined the channel
+1482416357.000078> @U32AR6TED: <@U32AR6TED> has joined the channel
+1482416357.000079> @U32UWGGN9: <@U32UWGGN9> has joined the channel
+1482416358.000080> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1482416358.000081> @U33817K25: <@U33817K25> has joined the channel
+1482416358.000082> @U38JDLY2E: <@U38JDLY2E> has joined the channel
+1482416358.000083> @U2XLJS5L0: <@U2XLJS5L0> has joined the channel
+1482416358.000084> @U2X419KJS: <@U2X419KJS> has joined the channel
+1482416359.000085> @U2Y7FPEUB: <@U2Y7FPEUB> has joined the channel
+1482416360.000086> @U2YN8FREG: <@U2YN8FREG> has joined the channel
+1482416360.000087> @U2X7189QR: <@U2X7189QR> has joined the channel
+1482416360.000088> @U3GV4N878: <@U3GV4N878> has joined the channel
+1482416360.000089> @U352MKG4V: <@U352MKG4V> has joined the channel
+1482416360.000090> @U32V2JWFJ: <@U32V2JWFJ> has joined the channel
+1482416360.000091> @U394HRZ1B: <@U394HRZ1B> has joined the channel
+1482416360.000092> @U336DPZV4: <@U336DPZV4> has joined the channel
+1482416360.000093> @U2UU194RZ: <@U2UU194RZ> has joined the channel
+1482416360.000094> @U2V03QR8E: <@U2V03QR8E> has joined the channel
+1482416361.000095> @U3BAH0X62: <@U3BAH0X62> has joined the channel
+1482416361.000096> @U3B1RKVSP: <@U3B1RKVSP> has joined the channel
+1482416361.000097> @U0DRKLMS4: <@U0DRKLMS4> has joined the channel
+1482416361.000098> @U2Q4137LL: <@U2Q4137LL> has joined the channel
+1482416361.000099> @U1PAGSKGU: <@U1PAGSKGU> has joined the channel
+1482416361.000100> @U2404BG5N: <@U2404BG5N> has joined the channel
+1482416361.000101> @U0GN7EB32: <@U0GN7EB32> has joined the channel
+1482416362.000102> @U0HF2S3QX: <@U0HF2S3QX> has joined the channel
+1482416362.000103> @U33389FRA: <@U33389FRA> has joined the channel
+1482416362.000104> @U2NAWHM9N: <@U2NAWHM9N> has joined the channel
+1482416362.000105> @U1N5Q9334: <@U1N5Q9334> has joined the channel
+1482416362.000106> @U2M9XDS5N: <@U2M9XDS5N> has joined the channel
+1482416363.000107> @U2PTWF6SX: <@U2PTWF6SX> has joined the channel
+1482416767.000108> @U0B47KC3S: joined
+1482419710.000109> @U38HVMZ6K: Yeahhh so many people interested in embedded systems great!
+1482438682.000110> @U3GHS132Q: <@U38HVMZ6K> I totally agree with you, it is just that I have a few knowledge in kernel programming and I want to improve them ^^
+1482438838.000111> @U3GHS132Q: <@U0AAL4W13> I never play with a beaglebone so what is a prudaq ? And how do you play with it in user land ? With `cat /dev/prudaq` and `echo "pen" &gt; /dev/prudaq` ???
+1482438920.000113> @U38HVMZ6K: We will have plenty of stuff to explore for sure and you'll have the opportunity to play at the kernel level if you wish :wink: 
+1482438945.000114> @U3GHS132Q: YES :smile:
+1482439010.000115> @U38HVMZ6K: For PRUDAQ see <https://github.com/google/prudaq/wiki>
+1482439181.000117> @U3GHS132Q: It seems interesting :slightly_smiling_face:
+1482439205.000118> @U3GHS132Q: Also what is Eagle I already saw it in another git repo, is it a language like Verilog or VHDL ?
+1482439427.000119> @U38HVMZ6K: No, a CAD software for designing PCBs, schematics,... like Altium, OrCad or open-source kiCad
+1482439472.000120> @U38HVMZ6K: Eagle is a commercial (but affordable) CAD: <https://cadsoft.io>
+1482439520.000122> @U3GHS132Q: Ok I understand more, I will speak about this with the electronicians of my promo :slightly_smiling_face:
+1482439538.000123> @U3GHS132Q: I have to go, I will read more about the prudaq, good bye
+1482444763.000124> @U0B47KC3S: <@U38HVMZ6K> bouncing on your chat with <@U3GHS132Q> : just for my culture, we are ok that kernel/module programming on a VM is safe ? Btw, thinking about performance : in the design you have in mind, you think we will first program in user space and then wrap into modules ?
+1482478128.000129> @U0AAL4W13: <@U3GHS132Q>: the prudaq is the best integration of a high speed adc in a Linux 
+1482478268.000130> @U0AAL4W13: Some notes on it: <https://kelu124.gitbooks.io/echomods/content/Chapter2/toadkiller.html>
+1482480099.000131> @U38HVMZ6K: The prudaq is using the PRU (programmable realtime unit) of the Texas Instruments AM335x micro-controller. The PRU is a co-processor/subsystem with a separate core optimized for real-time operations in different areas like data acquisition, real-time industrial communication protocols or motor control. (reactions: @U0AAL4W13)
+1482480515.000132> @U0AAL4W13: There are two per beaglebone, each running at 200mhz. The guy who did the prudaq started with a 100Mhz logic analyser 
+1482480902.000133> @U0AAL4W13: Now its doing a great job a programming and exposing the adc is userspace 
+1482495906.000134> @U3GHS132Q: <@U0B47KC3S> Yes, kernel debuging/testing through a virtual machine is safe. I always use qemu to test the driver I coded. In fact, if you test your driver directly on your computer if it crashes then your computer crashes and in some case you can lose data. Kernel programming is not really about performance, of course in the kernel we are, I think, a bit more performing that in user land because we do not have to do a syscall to get information from a device.  A little definition about kernel is that it is a software that handle access to peripheral. In our cases if we have to develop a driver it will just get the data from the probe and then send it in user land.  I hope that I was clear, I can explain this better with a schema which show the relations between user and kernel land. (reactions: @U0B47KC3S)
+1482495991.000135> @U3GHS132Q: <@U38HVMZ6K> this PRU seems very interesting :slightly_smiling_face: I do not know that there are real time specific processor
+1482496211.000136> @U0AAL4W13: <@U3GHS132Q> @Rbo - let me know if you want to play with those, I have a spare bbb and a spare prudaq ;)
+1482496299.000137> @U3GHS132Q: <@U0AAL4W13> I never played with something like that but if we need to use it in our project it will be with pleasure :slightly_smiling_face:
+1482497990.000138> @U38HVMZ6K: I must still have a BBB laying somewhere in my mess :thinking_face: don't have time to play with the PRUDAQ right now but I keep the info in case I want to start sth with it thanks 
+1482785954.000139> @U24BZF8UR: <@U24BZF8UR> has joined the channel
+1482786479.000141> @Hyacinthe: @rbo used `/poll`! Each person can vote for multiple items. 
+1482882423.000159> @U3GHS132Q: I think it is a good idea :slightly_smiling_face: But which technology will we use for the virtual meetup ?
+1482883398.000160> @U0B47KC3S: <@U3GHS132Q> I think skype or hangout will be ok - btw, seems the 4th is winning :wink:
+1482906782.000161> @U38HVMZ6K: Ok let's book the 4th! <@U0B47KC3S> can you check with <@U3GQS8JTZ>  if it's also OK with him? It's important to have it in the discussions. I'll prepare a small agenda and will share it before the meeting.
+1482912766.000162> @U0B47KC3S: yes <@U38HVMZ6K> ! will let you know this morning
+1482921013.000165> @U3GHS132Q: For those we are in Paris maybe we can physically meet to speak virtually with those who are remote ? About the technology I will be boring but maybe we can use <https://framatalk.org/accueil/> ? I am not really on the same wave length with GAFAM tools and it does not need any installation or registration ^^"""
+1482922004.000168> @U0B47KC3S: sure <@U3GHS132Q>
+1482923039.000169> @U38HVMZ6K: If it doesn't need any installation we can give it a try this time and can take it as a reference tool for future meetups.
+1482962685.000170> @U3GHS132Q: <@U38HVMZ6K> That is a good idea, to be honest I never used this ^^"""" but I think that the basics are presents ^^ <@U0B47KC3S> So we meet Wednesday at Hôtel-Dieu ?
+1482970951.000171> @U0B47KC3S: <@U3GHS132Q> yes !
+1483004667.000172> @U3GHS132Q: <@U0B47KC3S> Ok perfect :slightly_smiling_face:
+1483058305.000173> @U3J40RUDT: Have we decided on which software to chat with?
+1483085387.000174> @U38HVMZ6K: We'll give a try to framatalk as proposed by <@U3GHS132Q> . I'll send the link and a proposal for the agenda tomorrow.
+1483285333.000175> @U38HVMZ6K: Hi all! All the best for 2017 !!! I created a first wiki page for the Embedded System part: <http://wiki.echopen.org/index.php/Embedded_System> (reactions: @U0B47KC3S)
+1483285439.000176> @U38HVMZ6K: I also created a "Meetup" page for collecting links to the individual meetings/sessions on the embedded system: <http://wiki.echopen.org/index.php/Embedded_System:Meetups> with a first session next Wednesday (<http://wiki.echopen.org/index.php/January_4,_2017>).
+1483285533.000177> @U38HVMZ6K: We will try jitsi (<https://jitsi.org/>) for this first session. This the mainline open-source project behind Framatalk suggested by <@U3GHS132Q>.
+1483285870.000178> @U38HVMZ6K: I don't know if the wiki and the structure is the good one (concurrent editing solutions like GDoc or open-source alternative Etherpad may be better) but let's give a first shot with this in place.
+1483351781.000179> @U38HVMZ6K: set up a reminder to “join 1st Embbedded System meetup at Hôtel-Dieu or online (https://meet.jit.si/echopenEmbedded)” in this channel at 8pm tomorrow, Central European Time.
+1483351897.000181> @U38HVMZ6K: Remind <#C3F765DT7>)” at 20:00 January 4
+1483351958.000183> @U38HVMZ6K: set up a reminder to “Join 1st Embbedded System meetup on January 4 at Hôtel-Dieu or online (https://meet.jit.si/echopenEmbedded)” in this channel at 6pm Wednesday, January 4th, Central European Time.
+1483352022.000185> @U38HVMZ6K: sorry for spam... playing with /remind function for the 1st time :wink:
+1483352368.000186> @U0AAL4W13: :)
+1483370190.000187> @U38HVMZ6K: as suggested by <@U04DFTZ7D> I created a markdown doc in PRJ-medtech_embsys repo for holding the agenda and minutes of Wednesday's meeting (reactions: @U04DFTZ7D)
+1483370194.000188> @U38HVMZ6K: <https://github.com/echopen/PRJ-medtech_embsys/blob/master/meetups/2017-01-04-meetup.md>
+1483549200.000190> @USLACKBOT: Reminder: Join 1st Embbedded System meetup on January 4 at Hôtel-Dieu or online (<https://meet.jit.si/echopenEmbedded>)
+1483602583.000192> @U38HVMZ6K: Thanks to all of you who participated to the first Embedded System meetup yesterday ! It was great to meet you all, even remotely, and to discuss the basics of the embedded system platform. I'll try to publish my notes of the meeting today evening and put in place the Framapad/Framindmap to think about the desired features of the embedded platform as well. Let's keep in touch and make this channel a living one with many contributions ! Have a nice day :boom: (reactions: @U0AAL4W13,@U37GZRZU6,@U3GHS132Q,@U0B47KC3S)
+1483628185.000193> @U3ML4L01Z: <@U3ML4L01Z> has joined the channel
+1483654769.000194> @U3GHS132Q: I am just thinking that I always speak about SIMD but I just remembered that GCC can use it on this own with -O3 or -ftree-vectorize. I tested it on Intel computer and it worked but I do not know if it is used on ARM. Here is the link for more information on this compiler's optimization <https://gcc.gnu.org/projects/tree-ssa/vectorization.html>
+1483655151.000195> @U3GHS132Q: Moreover I can not determine if ARM9 has SIMD...
+1483655264.000196> @U38HVMZ6K: Hi all, I pushed my minutes of yesterday's meeting on github: <https://github.com/echopen/PRJ-medtech_embsys/blob/master/meetups/2017-01-04-meetup.md>
+1483655326.000198> @U38HVMZ6K: And the Framapad for brainstorming on features of the embedded system is on air: <https://annuel.framapad.org/p/embsysBrainstorm>
+1483655344.000199> @U3GHS132Q: That is perfect <@U38HVMZ6K> :slightly_smiling_face:
+1483655391.000200> @U38HVMZ6K: don't hesitate to complete the doc and put all your ideas (even the craziest ones) ! We will select the doable ones and prioritize them later
+1483655430.000201> @U38HVMZ6K: Just put what you would like to see in your dream echOpen probe :wink:
+1483655485.000202> @U38HVMZ6K: <@U3GHS132Q> SIMD on ARM is implemented by the NEON engine (<https://www.arm.com/products/processors/technologies/neon.php>)
+1483655532.000204> @U38HVMZ6K: NEON is not available on ARM9 processors like the one in OMAP-L138 but only in more recent ARM MCUs of the Cortex-A family
+1483655666.000205> @U3GHS132Q: It seems to be available on A7 <http://infocenter.arm.com/help/topic/com.arm.doc.ddi0462f/DDI0462F_cortex_a7_neon_mpe_r0p5_trm.pdf> I just saw that you suggest a card from NXP with an A7 core. So if we use this card we can use SIMD to "replace" the DSP (maybe the compiler can help us, I do not know)
+1483655715.000206> @U3GHS132Q: Honestly I am not very familiar with ARM CPU "organization", what is ARM9 compared to Cortex A ?
+1483655808.000207> @U3GHS132Q: Moreover an other advantage for the card you suggest is that there is a 2 core version so we can use multithreading like pthread or openMP :slightly_smiling_face:
+1483655841.000208> @U38HVMZ6K: ARM9 is an older family of processor which include ARM926 CPUs
+1483655892.000209> @U38HVMZ6K: Cortex-A family is a newer family which include newer 32-bits and 64-bits cores
+1483655975.000210> @U3GHS132Q: Ok it is clearer now, thank you :slightly_smiling_face:
+1483656258.000211> @U38HVMZ6K: To add more to the confusion every ARM generation implements a newer version of the instruction set... ARM9 family implement the ARMv4 and ARMv5 instruction set ARM11 family implements the ARMv6 instruction set ARM Cortex-A 32bits family implements ARMv7 instruction set And finally, the most recent generation ARM Cortex-A 64 bits implement the ARMv8 instruction set :joy: :joy: :joy: 
+1483656330.000212> @U3GHS132Q: Oh i confounded the family name ARMnumber with the ISA name ARMvnumber !
+1483656406.000213> @U38HVMZ6K: My proposal for iMX7 is to handle with care! The DSP is an important piece in the OMAP-L138 and I'm not sure that the Cortex-M4 core on the iMX7 can perform as well as the DSP core
+1483656488.000214> @U38HVMZ6K: Moreover, an important feature of the L138 is it's uPP port to interface with the ADC. Not sure that we have an equivalent on the iMX7 and can interface or ADC in a similar fashion.
+1483656507.000215> @U38HVMZ6K: This will have to be discussed with <@U3GQS8JTZ> 
+1483656530.000216> @U3GHS132Q: Yes it seems that the ADC is an important thing. I think that it is wiser to discuss it tomorrow. It is always hard to choose the good hardware, they are all interesting and powerful (fpga, gpu, dsp, cpu) !
+1483656533.000217> @U38HVMZ6K: But don't focus on SIMD-capable CPUs only
+1483656568.000218> @U38HVMZ6K: It's only one part of the equation and not the most important one in my opinion
+1483656585.000220> @U38HVMZ6K: So now... :sleeping: :zzz: 
+1483656595.000221> @U38HVMZ6K: See you tomorrow
+1483656600.000222> @U3GHS132Q: Good bye :slightly_smiling_face:
+1483659913.000223> @U0AAL4W13: <@U38HVMZ6K> a couple of thoughts / inputs in parallel of your minutes :
+1483660155.000224> @U0AAL4W13: - do we need to send raw signal or image from probe to smartphone? If you have 200 lines at 15cm, 15cm means 200us of acquisition, that's 12k points at 60msps.  If you have 20fps, that's 200 x 12000 x 20 bytes x (12 bits depending on your adc) per sec to transmit. If you have the image, that'd be say 5 to 10 times smaller. Need to think of the relevance as well of the need to have a raw-signal on the smartphone vs having it on a set dsp/fpga.
+1483660283.000226> @U0AAL4W13: - Second point is scan conversion. I trust the SC is done one the smartphone as of today, not on the red pitaya ?
+1483660298.000227> @U0AAL4W13: Anyhow, thanks for the notes, have a good night ;)
