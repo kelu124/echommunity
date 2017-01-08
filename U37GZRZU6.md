@@ -1,4 +1,6 @@
-# Some info on aurelie (_@U37GZRZU6_)
+[Home](https://kelu124.github.io/echommunity/)
+
+# Some info on __aurelie__ (_@U37GZRZU6_)
 
 
 ## Topics of interest

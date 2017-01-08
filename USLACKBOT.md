@@ -1,4 +1,6 @@
-# Some info on slackbot (_@USLACKBOT_)
+[Home](https://kelu124.github.io/echommunity/)
+
+# Some info on __slackbot__ (_@USLACKBOT_)
 
 
 ## Topics of interest
