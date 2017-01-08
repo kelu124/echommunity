@@ -15,10 +15,10 @@ Number of posts: 109
 
 * __posts__: 109 posts
 * __software__: 11 posts
+* __hardware__: 10 posts
 * __design__: 5 posts
-* __hardware__: 4 posts
 * __legal__: 3 posts
-* __community__: 2 posts
+* __community__: 3 posts
 
 ## Key interactions 
 

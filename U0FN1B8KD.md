@@ -16,8 +16,8 @@ Number of posts: 118
 * __posts__: 118 posts
 * __software__: 10 posts
 * __community__: 7 posts
-* __hardware__: 1 posts
-* __medical__: 1 posts
+* __medical__: 3 posts
+* __hardware__: 2 posts
 
 ## Key interactions 
 

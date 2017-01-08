@@ -15,7 +15,7 @@ Number of posts: 45
 
 * __posts__: 45 posts
 * __software__: 5 posts
-* __medical__: 1 posts
+* __medical__: 3 posts
 
 ## Key interactions 
 

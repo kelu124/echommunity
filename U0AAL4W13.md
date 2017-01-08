@@ -16,10 +16,10 @@ Number of posts: 648
 * __posts__: 648 posts
 * __community__: 64 posts
 * __legal__: 53 posts
-* __software__: 28 posts
-* __hardware__: 27 posts
-* __design__: 16 posts
-* __medical__: 5 posts
+* __hardware__: 38 posts
+* __software__: 34 posts
+* __design__: 17 posts
+* __medical__: 11 posts
 
 ## Key interactions 
 

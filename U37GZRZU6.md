@@ -18,6 +18,7 @@ Number of posts: 161
 * __community__: 7 posts
 * __design__: 3 posts
 * __legal__: 2 posts
+* __medical__: 2 posts
 * __hardware__: 1 posts
 
 ## Key interactions 

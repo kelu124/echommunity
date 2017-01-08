@@ -14,7 +14,7 @@ Number of posts: 75
 ### Topics:
 
 * __posts__: 75 posts
-* __medical__: 2 posts
+* __medical__: 3 posts
 * __hardware__: 1 posts
 
 ## Key interactions 

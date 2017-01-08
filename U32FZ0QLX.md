@@ -14,7 +14,7 @@ Number of posts: 65
 ### Topics:
 
 * __posts__: 65 posts
-* __hardware__: 2 posts
+* __hardware__: 4 posts
 * __software__: 1 posts
 * __design__: 1 posts
 * __community__: 1 posts
