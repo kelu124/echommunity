@@ -22,10 +22,10 @@
 1468397417.000007> @U1P9ARRU3: cc !! j'ai avancer un peu mais jen'ai pas encore récupérer toutes les metrics attendu
 1468411919.000008> @U1P9ARRU3: Je penses que l'on devrait se voir la semaine pro
 1468422274.000002> @U0B47KC3S: et bien reposez-vous bien et on se dit à la semaine prochaine, <@U1PKXQVDW> j’imagine que toi aussi tu es Ok ?
-1468786487.000002> @U0B47KC3S: ca va vous intéresser ;)1 cours sur l’image processing , ca commence en septembre <https://www.coursera.org/learn/image-processing> (reactions: U1P9ARRU3)
+1468786487.000002> @U0B47KC3S: ca va vous intéresser ;)1 cours sur l’image processing , ca commence en septembre <https://www.coursera.org/learn/image-processing> (reactions: @U1P9ARRU3)
 1469035273.000002> @U1P9ARRU3: <http://xmcvs.free.fr/astroart/Chapitre4.pdf>
 1469191802.000002> @U0B47KC3S: hello à tous, je me suis mis en relation avec Loizou et Pattichis pour leur demander de partager ceci <http://www.morganclaypool.com/doi/abs/10.2200/S00116ED1V01Y200805ASE001>. Je vous tiens au courant, pour la suite
-1469212112.000002> @U0B47KC3S: set up a reminder “un message automatique pour nous rappeler la réunion du mercredi” in this channel at 12:18pm every Monday, Central European Summer Time. (reactions: U04DFTZ7D)
+1469212112.000002> @U0B47KC3S: set up a reminder “un message automatique pour nous rappeler la réunion du mercredi” in this channel at 12:18pm every Monday, Central European Summer Time. (reactions: @U04DFTZ7D)
 1469212145.000003> @U0B47KC3S: set up a reminder “un message automatique pour nous rappeler la réunion du mercredi” in this channel at 12:18pm every Monday, Central European Summer Time.
 1469212185.000004> @U0B47KC3S: set up a reminder “"un message automatique pour nous rappeler la réunion du mercredi" at 18:00h eve” in this channel at 9am every Monday, Central European Summer Time.
 1469212211.000005> @U0B47KC3S: set up a reminder “un message automatique pour nous rappeler la réunion du mercredi” in this channel at 6pm every Monday, Central European Summer Time.
@@ -41,7 +41,7 @@
 1470672000.990188> @USLACKBOT: Reminder: un message automatique pour nous rappeler la réunion du mercredi.
 1470924651.000002> @U20C8CKTL: <@U20C8CKTL> has joined the channel
 1470924740.000003> @U0B47KC3S: hello à tous, un mot pour vous présenter Loic. Loic est développeur python et nous rejoint notamment autour de l’écriture de script de validation des soumissions + update du leaderboadr. Welcome :wink: !
-1470924808.000004> @U0B47KC3S: <@U20C8CKTL>: pour info, il n’ets pas impossible que je double parfois les infos sur une boucle mail car certains d’entre nous n’utilisent pas slack. Néanmoins c ici qu’on va basculer l’essentiel de la circulation de l’information (reactions: U04DFTZ7D)
+1470924808.000004> @U0B47KC3S: <@U20C8CKTL>: pour info, il n’ets pas impossible que je double parfois les infos sur une boucle mail car certains d’entre nous n’utilisent pas slack. Néanmoins c ici qu’on va basculer l’essentiel de la circulation de l’information (reactions: @U04DFTZ7D)
 1471021147.000002> @U0AAL4W13: pour ceux que ca pourrait amuser, petit dump de data brutes de 32M d'une loop echo sortie d'une sonde ATL3 <https://github.com/kelu124/echomods/blob/7550201f092bcc825ad175e80f880b3f18b0f153/toadkiller/data/sonde3Vnobitscpe.bin.bz2> - avec pour défi d'en sortir une image / loop ^^ (ok, j'avoue, ca fait beaucoup)
 1471097876.000002> @U0B47KC3S: ok on a pas encoire fini le set-up mais on regardera ça asap
 1471276800.000002> @USLACKBOT: Reminder: un message automatique pour nous rappeler la réunion du mercredi.
@@ -213,12 +213,12 @@
 1478127883.000036> @U0B47KC3S: top job <@U20C8CKTL> !!
 1478128075.000037> @U20C8CKTL: <@U0B47KC3S>  super. Je vous tiens au courant pour la suite au plus vite.
 1478128140.000038> @U0B47KC3S: cc <@U04DFTZ7D> check
-1478366344.000039> @U0AAL4W13: Trouvé un truc fun: <https://github.com/sigurdstorve/OpenBCSim> pour émuler des images.. or so it seems. (reactions: U0B47KC3S)
+1478366344.000039> @U0AAL4W13: Trouvé un truc fun: <https://github.com/sigurdstorve/OpenBCSim> pour émuler des images.. or so it seems. (reactions: @U0B47KC3S)
 1478543195.000041> @U0B47KC3S: <@U0B47KC3S> set the channel topic: dedicated to  signal processing, image denoising software tools
 1478622758.000042> @U0B47KC3S: <@U1PAGSKGU> je suis en train de cleaner le repo `kit-soft`. peux-tu pusher tes scripts ? @++
 1478624416.000043> @U20C8CKTL: Il faudrait fusionner Image Processing et EchoImageProcessing
 1478624527.000044> @U0B47KC3S: yes exactement ce que g en tête;)
-1478650894.000045> @U20C8CKTL: Plop ! Je viens de mettre en place les notifications pour les jobs soumis par les developpeurs avec des couleurs et un fik d actu des jobs soumis pour voir l activité zn temps réel. Vous pouvez  tester tout ça  par ici : <http://37.187.117.106/> (reactions: U0B47KC3S)
+1478650894.000045> @U20C8CKTL: Plop ! Je viens de mettre en place les notifications pour les jobs soumis par les developpeurs avec des couleurs et un fik d actu des jobs soumis pour voir l activité zn temps réel. Vous pouvez  tester tout ça  par ici : <http://37.187.117.106/> (reactions: @U0B47KC3S)
 1478684139.000046> @U2PFHNN3C: <@U20C8CKTL> ya moyen de reset le password? oups...
 1478688040.000047> @U0B47KC3S: <@U20C8CKTL> peux-tu prévoir une PR -  je vais mettre notre dev UI sur le coup, de façon à intégrer notre charte de style
 1478689200.000048> @USLACKBOT: Reminder: un memo pour la réunion du jeudi.
@@ -311,7 +311,7 @@
 1479750623.000149> @U20C8CKTL: Burgerquizz:could you tell me the minimal fps for an echographe ?
 1479750687.000150> @U0AAL4W13: Ballpark guess: 10 is low, 15 acceptable?
 1479821328.000151> @U0B47KC3S: <#C1G7T0PNX> : To inform you that the acquirium with a dived probe inside will be up and running at the beginning of next week [Can’ WAIT] !!:grinning:
-1479825506.000152> @U0B47KC3S: <@U20C8CKTL> as you suggested, there is now a dev branch on the kit-soft repo. You can know collaborate in proper conditions cc <@U34N7NQNR> (reactions: U34N7NQNR)
+1479825506.000152> @U0B47KC3S: <@U20C8CKTL> as you suggested, there is now a dev branch on the kit-soft repo. You can know collaborate in proper conditions cc <@U34N7NQNR> (reactions: @U34N7NQNR)
 1479828309.000153> @U20C8CKTL: <@U34N7NQNR> a dev version is  available  on PR. try to install it and tell me if something goes wrong
 1479828535.000155> @U34N7NQNR: cool <@U20C8CKTL> , where can I find the PR repository. I'll intall it this nite
 1479841471.000156> @U0B47KC3S: <@U20C8CKTL> <@U34N7NQNR> PR merged !
@@ -362,11 +362,11 @@
 1480079063.000207> @U0AAL4W13: Okay !
 1480080586.000208> @U0GMX7QUB: One (or more) goldfish with a GPS tracker collar ?
 1480081683.000209> @U0B47KC3S: <@U0GMX7QUB> :wink: funny. the pb is that the fixed focus distance interval can miss the moving fish, and moving too constantly is not the real exam conditions. unless we put a dead floating fish :wink:
-1480083546.000211> @U0GMX7QUB: Some possible solutions: - two cd-rom mechanisms - an XY plotter kit: <http://www.lextronic.fr/P35072-table-plotter-xy---v20.html> - recycle mechanisms of old printers - two stepping motors winding a wire tensioned by a spring like a "Y".  We can also save time in the realization by using mechanical elements like: <http://www.lextronic.fr/R3931-makerbeam--openbeam.html> (reactions: U0AAL4W13,U32FZ0QLX)
+1480083546.000211> @U0GMX7QUB: Some possible solutions: - two cd-rom mechanisms - an XY plotter kit: <http://www.lextronic.fr/P35072-table-plotter-xy---v20.html> - recycle mechanisms of old printers - two stepping motors winding a wire tensioned by a spring like a "Y".  We can also save time in the realization by using mechanical elements like: <http://www.lextronic.fr/R3931-makerbeam--openbeam.html> (reactions: @U0AAL4W13,@U32FZ0QLX)
 1480091171.000213> @U2PFHNN3C: Guys, as a general remark, I think we should use python 3 rather than 2. By definition, it has a brighter future :slightly_smiling_face:
 1480091255.000214> @U2PFHNN3C: and if it’s really painful to some, at least, we ca write some code that is compatible with both versions
 1480091272.000215> @U2PFHNN3C: Simply _never_ using the print statement (i.e without parenthesis)
-1480091315.000216> @U2PFHNN3C: and, better, comply with these guidelines <http://python-future.org/compatible_idioms.html> (reactions: U37GZRZU6)
+1480091315.000216> @U2PFHNN3C: and, better, comply with these guidelines <http://python-future.org/compatible_idioms.html> (reactions: @U37GZRZU6)
 1480091326.000217> @U2PFHNN3C: (using the `six` library etc.)
 1480093160.000220> @U20C8CKTL: Good suggestion. The problem is about the availability of exotics library in python3
 1480093170.000221> @U20C8CKTL: future is a good practice for compatibility
@@ -385,14 +385,14 @@
 1480419639.000235> @U07UEJC2H: <@U07UEJC2H>
 1480420033.000236> @U2PFHNN3C: Classe :sunglasses: <@U07UEJC2H>
 1480420192.000237> @U0B47KC3S: Bien trop bien <@U07UEJC2H> !!
-1480420305.000239> @U0B47KC3S: [:muscle::clap::zap:] <@U20C8CKTL> <@U2PFHNN3C> <@U1PKXQVDW> <@U1PAGSKGU> <@U34N7NQNR> <@U36QEPF51> <@U37GZRZU6> + nourredine_elouze we are going to begin have fun with the platform !! (reactions: U37GZRZU6,U34N7NQNR)
+1480420305.000239> @U0B47KC3S: [:muscle::clap::zap:] <@U20C8CKTL> <@U2PFHNN3C> <@U1PKXQVDW> <@U1PAGSKGU> <@U34N7NQNR> <@U36QEPF51> <@U37GZRZU6> + nourredine_elouze we are going to begin have fun with the platform !! (reactions: @U37GZRZU6,@U34N7NQNR)
 1480492772.000241> @U20C8CKTL: Yeah !! Echopen ce soir ? <@U2PFHNN3C> <@U1PKXQVDW>  <@U1PAGSKGU>  <@U36QEPF51>  <@U37GZRZU6>  <@U0B47KC3S> <@U34N7NQNR>
 1480494712.000245> @U0B47KC3S: sure !! it is on Wednesday now. See you later !
 1480496011.000246> @U38JDLY2E: <@U38JDLY2E> has joined the channel
 1480503600.000247> @USLACKBOT: Reminder: un memo pour la réunion du jeudi.
 1480504411.000249> @U0B47KC3S: set up a reminder “:mega: a memo for our weekly meeting  on wednesday” in this channel at noon every Wednesday, Central European Time.
 1480504463.000251> @U0B47KC3S: set up a reminder “:mega: a memo for our weekly meeting  on wednesday” in this channel at 12:30pm every Wednesday, Central European Time.
-1480505400.000252> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday. (reactions: U37GZRZU6,U20C8CKTL)
+1480505400.000252> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday. (reactions: @U37GZRZU6,@U20C8CKTL)
 1480530474.000253> @U38TWKY9Y: <@U38TWKY9Y> has joined the channel
 1480530557.000254> @U38TWKY9Y: Bonjour à tous, <@U2PFHNN3C> m'a invité !
 1480536165.000255> @U04DFTZ7D: Welcome <@U38TWKY9Y> !! Nice to see you here ;)
@@ -400,12 +400,12 @@
 1480614535.000257> @U0B47KC3S: <@U0B47KC3S>
 1480614571.000258> @U0B47KC3S: <@U2PFHNN3C> <@U38TWKY9Y> if you want to complete, you’re welcome because I reported until I left
 1480671290.000259> @U0KLG7CP8: <@U0KLG7CP8> has joined the channel
-1480950104.000002> @U0B47KC3S: [:mega:] at last, we bought an ultrasound phantom, after scrutinizing for more than a year on ebay an affordable one. For the record, it is dreadfully costy :wink: (reactions: U04DFTZ7D,U20C8CKTL,U37GZRZU6)
+1480950104.000002> @U0B47KC3S: [:mega:] at last, we bought an ultrasound phantom, after scrutinizing for more than a year on ebay an affordable one. For the record, it is dreadfully costy :wink: (reactions: @U04DFTZ7D,@U20C8CKTL,@U37GZRZU6)
 1480950137.000003> @U0B47KC3S: <@U0B47KC3S>
 1480950140.000004> @U0B47KC3S: Practical consequence, All the stuffs for the challenge are ready, it only remains to hang up the wagons :grinning:
 1481010492.000006> @U38HVMZ6K: :heart_eyes: great !!!
 1481080112.000007> @U3ARRLDQ8: <@U3ARRLDQ8> has joined the channel
-1481103116.000008> @U0B47KC3S: hey channel ! one word to say our weekly meeting will hold 30 minutes later than usual cc <@U20C8CKTL> <@U34N7NQNR> <@U2PFHNN3C> <@U37GZRZU6> <@U1PKXQVDW> <@U38TWKY9Y> <@U1PAGSKGU> (reactions: U37GZRZU6,U20C8CKTL)
+1481103116.000008> @U0B47KC3S: hey channel ! one word to say our weekly meeting will hold 30 minutes later than usual cc <@U20C8CKTL> <@U34N7NQNR> <@U2PFHNN3C> <@U37GZRZU6> <@U1PKXQVDW> <@U38TWKY9Y> <@U1PAGSKGU> (reactions: @U37GZRZU6,@U20C8CKTL)
 1481103398.000009> @U20C8CKTL: Ok. ill be there at 18h30
 1481104033.000011> @U0B47KC3S: <@U20C8CKTL>, you re welcome :wink: just to make sure I delivered a clear information, the meeting the meeting will begin 30mn later so at 19H00
 1481104137.000012> @U20C8CKTL: Ahah. Ok ! 
@@ -442,12 +442,12 @@
 1481643024.000052> @U0B47KC3S: <https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap?imm_mid=0ea317&amp;cmp=em-data-na-na-newsltr_20161102>
 1481657336.000054> @U37GZRZU6: <@U37GZRZU6> and commented: here's a comparative evaluation of despeckle filters applied to ultrasound imaging of carotid arteries. the evaluations include image quality (PSNR and so on...) but also percentages of correct classifications (symptomatic vs. asymptomatic) obtained with a kNN classifier and form experts :wink:
 1481713200.000056> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
-1481727574.000057> @U0B47KC3S: tonight we have two visiting physicists in our sigproc meeting ! <@U2MF267L2> <@U3D9HA0N4> (reactions: U37GZRZU6)
-1481727606.000060> @U37GZRZU6: yeees physicists :hugging_face: (reactions: U0AAL4W13)
+1481727574.000057> @U0B47KC3S: tonight we have two visiting physicists in our sigproc meeting ! <@U2MF267L2> <@U3D9HA0N4> (reactions: @U37GZRZU6)
+1481727606.000060> @U37GZRZU6: yeees physicists :hugging_face: (reactions: @U0AAL4W13)
 1481728765.000061> @U0AAL4W13: <@U2MF267L2> oO you were in microflu, you may have met Eloise C. (who left last year?)
 1481728771.000062> @U2MF267L2: <@U2MF267L2> has joined the channel
 1481743234.000063> @U37GZRZU6: a thesis about GPU ultrasound simulation :  <http://campar.in.tum.de/twiki/pub/Main/AthanasiosKaramalis/Thesis.pdf>
-1481749548.000064> @U2PFHNN3C: Awesome <@U37GZRZU6> Thankiess! (reactions: U37GZRZU6)
+1481749548.000064> @U2PFHNN3C: Awesome <@U37GZRZU6> Thankiess! (reactions: @U37GZRZU6)
 1481806614.000065> @U0AAL4W13: Hey sigproc guys, a quick thought. Cheap, chinese wireless probes exist. The images are streamed over wifi. I'm confident it's feasible to hack the communication protocol and have a server up and running on a computer to capture images from this type of probe, and acquiring those, to get a feel of real images. What do you think?
 1481806750.000066> @U38HVMZ6K: :+1::skin-tone-2: +1 for me depending on the price
 1481806774.000067> @U38HVMZ6K: and I'm ready to reverse engineer and hack the gadget for testing
@@ -460,7 +460,7 @@
 1481807018.000074> @U38HVMZ6K: Board OMAP: <http://www.ti.com/tool/tmdslcdk138> 195$ Eval kit ADC: <http://www.ti.com/tool/ads6142evm> 299$
 1481808867.000075> @U0AAL4W13: Nice !
 1481825230.000076> @U3FE9KW4D: <@U3FE9KW4D> has joined the channel
-1481922517.000077> @U0B47KC3S: hey <#C2MAANG0P>, one word to let you know that the node app for controlling the ultrasound probe from remote, is all set up ! we can now feed you with echOpen data. We will deploy it in the next few days :wink: (reactions: U37GZRZU6,U38HVMZ6K,U20C8CKTL)
+1481922517.000077> @U0B47KC3S: hey <#C2MAANG0P>, one word to let you know that the node app for controlling the ultrasound probe from remote, is all set up ! we can now feed you with echOpen data. We will deploy it in the next few days :wink: (reactions: @U37GZRZU6,@U38HVMZ6K,@U20C8CKTL)
 1481922549.000078> @U0B47KC3S: now going back to GPU stuffs #CapMed hackathon :wink:
 1481984340.000079> @U3GQS8JTZ: <@U3GQS8JTZ> has joined the channel
 1482055698.000080> @U0AAL4W13: Still about phantoms: mixing 3d printing and wax molding - <http://link.springer.com/article/10.1007%2Fs10439-016-1757-5>
@@ -573,3 +573,27 @@
 1483654525.000226> @U3GHS132Q: Ah ok all is clear now, thank you
 1483654548.000227> @U3GHS132Q: I think it is a good idea !
 1483654747.000228> @U37GZRZU6: So do I by the way! thanks <@U38HVMZ6K> and <@U0AAL4W13>, it's an important matter :slightly_smiling_face:
+1483806994.000229> @U0AAL4W13: Some reading: (may be interesting to get a standard bibliography (bibtex ?) in the repo) both for signal and image processing. 
+1483806997.000230> @U0AAL4W13: SigProc: Frequency Domain Compressive Sampling for Ultrasound Imaging: <https://www.researchgate.net/publication/258382829_Frequency_Domain_Compressive_Sampling_for_Ultrasound_Imaging>
+1483807009.000232> @U0AAL4W13: Image processing: ML for fetal standard planes: <https://arxiv.org/abs/1612.05601>
+1483807022.000233> @U0AAL4W13: The later is really neat 
+1483828800.000234> @U38HVMZ6K:  I also thought about a general bibliography for the echOpen community and I would recommend Mendeley (<http://www.mendeley.com>) to keep this bibliography. It's not only a bibliography but a full-featured references/documents management. You can upload PDFs in your library and they will be accessible online from anywhere in "My Library". You can create groups or communities based on topics/project. With the desktop version all PDFs in your library are indexed to allow full-text search in them (very useful!). Authors, title,... are automatically resolved when you import the PDF. It can also easily export bibliographies from selected entries in your library in different formats (bibtex, word,...) This is a life-saver when you have 500+ entries in your library, select 20 of them for a publication, click generate bibliography and done, you have your bibtex :wink:  (reactions: @U37GZRZU6,@U0B47KC3S)
+1483828873.000235> @U38HVMZ6K: It's also helpful to manage personal annotations on PDFs you can put while you are reading the document.
+1483832564.000236> @U37GZRZU6: <@U38HVMZ6K>  Mendeley is pretty cool but when you exceed a certain amount of uploaded PDFs then you have to pay... I don't know what's the limit though, but we should be careful with that :wink:
+1483832804.000237> @U37GZRZU6: Anyway we can still use Mendeley to share some references. It's possible to use it without PDF sync. But then we lose some of the magic of this tool actually :thinking_face:
+1483837128.000238> @U0B47KC3S: <@U04DFTZ7D> what you think ? cc <@U2MF267L2> do you know that ?
+1483861791.000239> @U38HVMZ6K: <@U37GZRZU6> free plan gives 2GB of storage. For more pricing is here: <https://www.mendeley.com/upgrade/storage/>
+1483861817.000241> @U38HVMZ6K: 2GB of PDFs is already quite large...
+1483862008.000242> @U38HVMZ6K: My bad... 2GB for personal library and 100MB for shared... That's a limit indeed.
+1483862142.000243> @U38HVMZ6K: We may apply for an "Institutional Edition" <https://www.elsevier.com/solutions/mendeley/Mendeley-Institutional-Edition>
+1483862196.000245> @U38HVMZ6K: It seems to be eligible for Society/Association... With 5GB of personal library and 20GB for shared... (reactions: @U37GZRZU6)
+1483877989.000246> @U37GZRZU6: <@U38HVMZ6K> this rocks! have you an idea if that's free or not ?!
+1483878602.000247> @U38HVMZ6K: No idea if this is free or if discount price is available for non-profit open source... We should ask
+1483878658.000248> @U37GZRZU6: <@U0B47KC3S> <@U04DFTZ7D> what do you think? :hugging_face:
+1483880293.000249> @U0AAL4W13: Fi I've also been using zotero, quite nice for collaborating.. In terms of functionalities seems similar to this one :)
+1483880874.000250> @U37GZRZU6: <@U0AAL4W13> didn't know about zotero, but I really like the way it allows to organize documents into collections :slightly_smiling_face: seems really useful !
+1483882135.000251> @U0AAL4W13: Yup, you can also tag them, annote them,..  It's also collaborative, so quite good. 
+1483885071.000252> @U38HVMZ6K: <@U0AAL4W13> seems quite cool as well. Can you do a full-text search in your whole library with zotero? Never used it and I found this to be very useful in Mendeley
+1483886008.000253> @U0B47KC3S: <@U37GZRZU6> seems nice ! but I think <@U04DFTZ7D>’s point of view can be interesting :wink:
+1483886674.000255> @U0AAL4W13: <@U38HVMZ6K>  : yup, you can. (reactions: @U37GZRZU6)
+1483886740.000256> @U37GZRZU6: <@U0AAL4W13> is it completely free without limitations ? :heart_eyes:

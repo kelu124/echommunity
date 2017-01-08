@@ -2,6 +2,11 @@
     "channel_id": "C3F765DT7", 
     "mentions": [
         {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483731574.000260", 
+            "user_id": "U37GZRZU6"
+        }, 
+        {
             "mentioned_user_id": "U38HVMZ6K", 
             "ts": "1481890317.000011", 
             "user_id": "U0B47KC3S"
@@ -39,6 +44,71 @@
         {
             "mentioned_user_id": "U3GHS132Q", 
             "ts": "1482970951.000171", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483724094.000230", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483724094.000230", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483724094.000230", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3J40RUDT", 
+            "ts": "1483724094.000230", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483726352.000234", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483726352.000234", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483726352.000234", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3J40RUDT", 
+            "ts": "1483726352.000234", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483729227.000252", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483729227.000252", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483731750.000265", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483731831.000268", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483732135.000273", 
             "user_id": "U0B47KC3S"
         }, 
         {
@@ -175,52 +245,92 @@
             "mentioned_user_id": "U3GQS8JTZ", 
             "ts": "1483656507.000215", 
             "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0AAL4W13", 
+            "ts": "1483682855.000228", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483682855.000228", 
+            "user_id": "U38HVMZ6K"
         }
     ], 
     "reactions": [
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483733069.000282", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1482495906.000134", 
             "user_id": "U3GHS132Q"
         }, 
         {
-            "mentioned_user_id": "@U20C8CKTL", 
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483735490.000291", 
+            "user_id": "U3GHS132Q"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483732486.000279", 
+            "user_id": "U0AAL4W13"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483726613.000239", 
+            "user_id": "U3J40RUDT"
+        }, 
+        {
+            "mentioned_user_id": "U20C8CKTL", 
             "ts": "1482386856.000056", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U0AAL4W13", 
+            "mentioned_user_id": "U0AAL4W13", 
             "ts": "1482480099.000131", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1483285333.000175", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U04DFTZ7D", 
+            "mentioned_user_id": "U04DFTZ7D", 
             "ts": "1483370190.000187", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U0AAL4W13", 
+            "mentioned_user_id": "U0AAL4W13", 
             "ts": "1483602583.000192", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U37GZRZU6", 
+            "mentioned_user_id": "U37GZRZU6", 
             "ts": "1483602583.000192", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U3GHS132Q", 
+            "mentioned_user_id": "U3GHS132Q", 
             "ts": "1483602583.000192", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1483602583.000192", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483731590.000261", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1483732374.000275", 
             "user_id": "U38HVMZ6K"
         }
     ], 
@@ -372,11 +482,11 @@
         {
             "U37GZRZU6": {
                 "community": "0", 
-                "design": "0", 
+                "design": "1", 
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "3", 
+                "posts": "14", 
                 "software": "0"
             }
         }, 
@@ -387,7 +497,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "18", 
+                "posts": "42", 
                 "software": "0"
             }
         }, 
@@ -526,12 +636,12 @@
         {
             "U3GHS132Q": {
                 "community": "2", 
-                "design": "4", 
+                "design": "5", 
                 "hardware": "4", 
                 "legal": "2", 
                 "medical": "0", 
-                "posts": "51", 
-                "software": "5"
+                "posts": "68", 
+                "software": "10"
             }
         }, 
         {
@@ -772,7 +882,7 @@
                 "hardware": "5", 
                 "legal": "3", 
                 "medical": "0", 
-                "posts": "20", 
+                "posts": "22", 
                 "software": "0"
             }
         }, 
@@ -1032,11 +1142,11 @@
         {
             "U3J40RUDT": {
                 "community": "0", 
-                "design": "0", 
+                "design": "1", 
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "3", 
+                "posts": "13", 
                 "software": "1"
             }
         }, 
@@ -1130,12 +1240,12 @@
         }, 
         {
             "U38HVMZ6K": {
-                "community": "9", 
+                "community": "11", 
                 "design": "7", 
                 "hardware": "5", 
                 "legal": "6", 
                 "medical": "0", 
-                "posts": "71", 
+                "posts": "86", 
                 "software": "7"
             }
         }, 

@@ -271,7 +271,7 @@
 1462638823.000002> @U0AAL4W13: <@U0AAL4W13> and commented: C'est la seconde génération des sondes chinoises :)
 1464852976.000002> @U1DGN6S80: <@U1DGN6S80> has joined the channel
 1464853193.000003> @U04DFTZ7D: On accueille <@U1DGN6S80> dans la team :wink: Welcome
-1464853330.000005> @U1DGN6S80: Hello, je vous rejoins dans l'équipe pour 2 mois, je vais travailler avec <@U07UEJC2H> (reactions: U04DFTZ7D)
+1464853330.000005> @U1DGN6S80: Hello, je vous rejoins dans l'équipe pour 2 mois, je vais travailler avec <@U07UEJC2H> (reactions: @U04DFTZ7D)
 1464860738.000006> @U0AAL4W13: Welcome :)
 1464889876.000002> @U0FN1B8KD: Bienvenue!!
 1465304366.000002> @U1EP1RDGE: <@U1EP1RDGE> has joined the channel
@@ -301,8 +301,8 @@
 1467826767.000003> @U1P9ARRU3: <@U1P9ARRU3> has joined the channel
 1467902957.000004> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel
 1468995874.000002> @U1TAU2NES: <@U1TAU2NES> has joined the channel
-1469639072.000002> @U04DFTZ7D: Bravo et merci à <@U1N5Q9334> qui finit ce soir un mois de résidence chez Echopen et qui a travaillé sur la documentation ainsi que les bases d'un guide à destination de la communauté que vous pouvez découvrir en suivant ce lien : <https://echopen.gitbooks.io/starterkit/content/> les fichiers sources sont sur le github Echopen dans le repo starterkit que nous pourrons alimenter et compléter petit à petit.  (reactions: U1NTT0ZPH,U0B47KC3S,U0FN1B8KD)
-1469642228.000002> @U1N5Q9334: Merci à tous pour cette expérience à EchOpen! :slightly_smiling_face: (reactions: U04DFTZ7D,U0B47KC3S,U0AAL4W13,U1NTT0ZPH,U0FN1B8KD)
+1469639072.000002> @U04DFTZ7D: Bravo et merci à <@U1N5Q9334> qui finit ce soir un mois de résidence chez Echopen et qui a travaillé sur la documentation ainsi que les bases d'un guide à destination de la communauté que vous pouvez découvrir en suivant ce lien : <https://echopen.gitbooks.io/starterkit/content/> les fichiers sources sont sur le github Echopen dans le repo starterkit que nous pourrons alimenter et compléter petit à petit.  (reactions: @U1NTT0ZPH,@U0B47KC3S,@U0FN1B8KD)
+1469642228.000002> @U1N5Q9334: Merci à tous pour cette expérience à EchOpen! :slightly_smiling_face: (reactions: @U04DFTZ7D,@U0B47KC3S,@U0AAL4W13,@U1NTT0ZPH,@U0FN1B8KD)
 1469645892.000002> @U0AAL4W13: GG :smiley:
 1470142630.000002> @U0B47KC3S: <@U1N5Q9334> si tu as besoin qu’on discute d’une solution, tu me dis :wink: !!
 1470144681.000005> @U0AAL4W13: Y'a un colis de edgeflex qui serait arrivé, l'auriez vous vu?
@@ -328,8 +328,8 @@
 1471944298.000002> @U2404BG5N: <@U2404BG5N> has joined the channel
 1471944362.000003> @U2404BG5N: mise en route du module slackin test.
 1471944421.000004> @U0B47KC3S: working;)
-1472024977.000002> @U0B47KC3S: [INFO] vous pouvez utiliser 1 bot  pour créer un sondage en 1 commande `/poll “Ma question ?” “Option1” “Option2”`. Btw, le bot s’appelle polly et il faut l’inviter dans le channel dans lequel vous créez le sondage `/invite <@U24BZF8UR> #name_of_the_channel` :wink: <!everyone> (reactions: U04H8570R)
-1473177474.000002> @U07UEJC2H: Le plan des PCBs des différentes cartes filles a été envoyé à l'ENS pour fabrication. J'y passe Jeudi pour voir un peu le process de fabrication et récupérer tout ou partie des cartes. (reactions: U04DFTZ7D,U0B47KC3S,U20C8CKTL,U0AAL4W13)
+1472024977.000002> @U0B47KC3S: [INFO] vous pouvez utiliser 1 bot  pour créer un sondage en 1 commande `/poll “Ma question ?” “Option1” “Option2”`. Btw, le bot s’appelle polly et il faut l’inviter dans le channel dans lequel vous créez le sondage `/invite <@U24BZF8UR> #name_of_the_channel` :wink: <!everyone> (reactions: @U04H8570R)
+1473177474.000002> @U07UEJC2H: Le plan des PCBs des différentes cartes filles a été envoyé à l'ENS pour fabrication. J'y passe Jeudi pour voir un peu le process de fabrication et récupérer tout ou partie des cartes. (reactions: @U04DFTZ7D,@U0B47KC3S,@U20C8CKTL,@U0AAL4W13)
 1473344188.000002> @U07UEJC2H: <@U07UEJC2H> and commented: Ca y est, les PCBs sont arrivés dans nos locaux :slightly_smiling_face:. Faut maintenant souder tous les composants et tester chaque carte.
 1473344239.000003> @U04DFTZ7D: Great !!
 1473347861.000004> @U0B47KC3S: Zupa Toll !
@@ -372,7 +372,7 @@
 1477572951.000003> @U2UU194RZ: <@U2UU194RZ> has joined the channel
 1477572974.000004> @U2V0F9YAK: <@U2V0F9YAK> has joined the channel
 1477576191.000005> @U04DFTZ7D: Welcome <@U2V03QR8E> <@U2UU194RZ> <@U2V0F9YAK> in the slack !! We are happy to have you all onboard and ready to spread echOpen in Belgium !!
-1477576796.000006> @U2V03QR8E: Yeah ! glad to part of it ! (reactions: U04DFTZ7D)
+1477576796.000006> @U2V03QR8E: Yeah ! glad to part of it ! (reactions: @U04DFTZ7D)
 1477577130.000007> @U2UV28W2F: <@U2UV28W2F> has joined the channel
 1477579327.000008> @U2UU194RZ: I'm happy to be there too ! :slightly_smiling_face:
 1477584286.000009> @U2V03QR8E: <@U07UEJC2H> <@U0B47KC3S> <@U04DFTZ7D>  thanks for the demo day !!
@@ -397,17 +397,17 @@
 1478293242.000024> @U2YN8FREG: <@U2YN8FREG> has joined the channel
 1478297901.000025> @U04DFTZ7D: <@U04DFTZ7D>
 1478299098.000026> @U04DFTZ7D: <@U04DFTZ7D>
-1478368926.000030> @U0B47KC3S: oyé oyé les amis, nous revenons de Marrakech avec tout plein de nouvelles : (reactions: U2Y7FPEUB)
+1478368926.000030> @U0B47KC3S: oyé oyé les amis, nous revenons de Marrakech avec tout plein de nouvelles : (reactions: @U2Y7FPEUB)
 1478368932.000031> @U0B47KC3S: 1) d’une part la over-wonder team de <@U2X7189QR> a produit en 48 une app hybride de l’UI, que l’on va porter en matif dans les jours qui viennent. Merci <@U2X7189QR> :+1: <@U2XLJS5L0> :clap: <@U2Y7FPEUB> :ok_hand: <@U2YN8FREG> :muscle:, ravi de vous avoir rencontrés
 1478368941.000032> @U0B47KC3S: 2) on discute d'un hackathon android à Casablanca quelque part vers décembre/janvier avec 1 des pointures mondiales de JAVA et son gang, (qu’on s’entende, un dev qui code pas en JAVA mais JAVA &amp; qui est à fond d’Open Source) <@U2X7189QR> you in ? :wink:
 1478368947.000033> @U0B47KC3S: 3) le ministre de la Santé du Togo est très intéressé par echOpen, un entretien est en train de se monter, on vous tient au courant
 1478368956.000034> @U0B47KC3S: 4) Des chercheurs veulent déployer un lab echOpen au Bénin, rdv mardi + mille autre chose qu’on debriefera lundi en réunion hebdo <#C1G7T0PNX>
-1478413384.000038> @U2X7189QR: <@U0B47KC3S>  <@U04DFTZ7D>  c'était un grand plaisir de vous rencontrer :slightly_smiling_face:  <@U0B47KC3S>  sure i am in :+1: (reactions: U0B47KC3S,U2X7189QR,U04DFTZ7D,U0AAL4W13)
+1478413384.000038> @U2X7189QR: <@U0B47KC3S>  <@U04DFTZ7D>  c'était un grand plaisir de vous rencontrer :slightly_smiling_face:  <@U0B47KC3S>  sure i am in :+1: (reactions: @U0B47KC3S,@U2X7189QR,@U04DFTZ7D,@U0AAL4W13)
 1478565931.000042> @U0B47KC3S: hi there, comme promis grosse news :grinning:
 1478565939.000043> @U0B47KC3S: Un laboratoire de chercheurs de l’Université Simon Bolivar en Colombie :flag-co:  souhaitent développer une instance echOpen.:zap: :department_store:
 1478565949.000044> @U0B47KC3S: Il y a des hardwaristes, des roboticiens, des spécialistes de l’IA &amp; such
 1478565969.000045> @U0B47KC3S: :point_up:
-1478565972.000046> @U20C8CKTL: Nice (reactions: U0B47KC3S,U04H8570R)
+1478565972.000046> @U20C8CKTL: Nice (reactions: @U0B47KC3S,@U04H8570R)
 1478565973.000047> @U0B47KC3S: De plus, le responsable du laboratoire nous propose de lui adresser une lettre d’intention de façon qu’un programme echOpen intègre le programme de recherche de la faculté, ce qui suppose un financement pérennise :grinning:
 1478566052.000049> @U0B47KC3S: Now
 1478566068.000050> @U0B47KC3S: On doit leur adresser la doc ce jour. Du coup, j’ai updaté le StarterKit avec une section “Intégration” des contributeurs
@@ -417,7 +417,7 @@
 1478618342.000058> @U24BZF8UR: <@U24BZF8UR> has joined the channel
 1478618508.000062> @U24BZF8UR: @benchoufi used `/poll`! Each person can only vote for :one: item.  Results will be visible to everyone.
 1478619281.000068> @U0B47KC3S: the motivation of the poll rises because we are currently joined by teams of researchers in Perou and in Columbia and this can be more simple toi integrate them in the community
-1478621317.000071> @U0AAL4W13: It is then also essential to clarify the copyrights policy of the association towards the contribution of these contributors too :) (reactions: U04H8570R)
+1478621317.000071> @U0AAL4W13: It is then also essential to clarify the copyrights policy of the association towards the contribution of these contributors too :) (reactions: @U04H8570R)
 1478621836.000072> @U0B47KC3S: sure, you said you would organize a workshop on the subject. we are still waiting :wink:
 1478626806.000073> @U0AAL4W13: Would need inputs from the jurists who were already consulted (those who advised for echopen collecting copyright assignments) to prepare this workshop, makes no sense to have a unprepared one. Btw <@U04DFTZ7D>, we had given you a short list of questions for the legal advisors, do you have the answers ?
 1478627004.000074> @U0AAL4W13: Also expecting feedback (including from you <@U0B47KC3S> :slightly_smiling_face: )  on the first points shared on CLA at <https://github.com/kelu124/echomods/blob/master/include/ppt_CLA.md> -- @all, dont hesitate to discuss this on <#C07SRLVGD> :slightly_smiling_face:
@@ -435,7 +435,7 @@
 1478978876.000091> @U32FZ0QLX: Hi mehdi
 1478978890.000092> @U32FZ0QLX: Is really incredible for me
 1478978906.000093> @U20C8CKTL: Welcome Victor !
-1478978908.000094> @U32FZ0QLX: Apply the frugal ideas in medicine (reactions: U04DFTZ7D,U0B47KC3S)
+1478978908.000094> @U32FZ0QLX: Apply the frugal ideas in medicine (reactions: @U04DFTZ7D,@U0B47KC3S)
 1478979387.000095> @U0B47KC3S: <@U32FZ0QLX> to find the meaning of the slack channels, you can get to this section <https://echopen.gitbooks.io/starterkit/content/community_tools.html>
 1478979391.000096> @U0B47KC3S: btw,  if you have any question about the StarterKit, <@U04DFTZ7D> <@U1N5Q9334> or any informed guy in the community can help you. Don’t hesitate to ping in this channel :point_up:
 1478979464.000097> @U04DFTZ7D: To talk about the kit <@U32FZ0QLX> jump on channel <#C07NJQ6LE> 
@@ -465,7 +465,7 @@
 1479170257.000123> @U0B47KC3S: Hi Julio, welcome here ! it is now quite late in the night in France, where we wish to appreciate the super moon :wink:
 1479170277.000124> @U0B47KC3S: <@U0B47KC3S>
 1479221950.000125> @U0B47KC3S: [Announce echOpen #Global Hackathon]
-1479221959.000126> @U0B47KC3S: Hi there, we had a call tomorrow with the SOKORO team, the one that led the echOpen’s workshop in Marrackech, in the context of Africa4Tech event, and who produces the semi-native App. (reactions: U2Y7FPEUB)
+1479221959.000126> @U0B47KC3S: Hi there, we had a call tomorrow with the SOKORO team, the one that led the echOpen’s workshop in Marrackech, in the context of Africa4Tech event, and who produces the semi-native App. (reactions: @U2Y7FPEUB)
 1479221971.000127> @U0B47KC3S: And we can announce that...
 1479221976.000128> @U0B47KC3S: we are going to organize a global echOpen’s hackathon that will took place, at minimum in Casablanca and in Paris.
 1479221984.000129> @U0B47KC3S: It will be 3 full crazy coding days from 16.12.16 - 19.12.16 cc <@U2X7189QR> <@U2Y7FPEUB> <@U2XLJS5L0>.
@@ -474,13 +474,13 @@
 1479222068.000135> @U0B47KC3S: we are going to dump the informations in the gDoc, but fundamentals are there :wink:
 1479222095.000136> @U0B47KC3S: It is a plan fixing the strategic elements and the logistic part
 1479222106.000137> @U0B47KC3S: So happy to make it happen :wink:
-1479222114.000138> @U2X7189QR: Ok well received ;) (reactions: U0B47KC3S,U2X7189QR)
+1479222114.000138> @U2X7189QR: Ok well received ;) (reactions: @U0B47KC3S,@U2X7189QR)
 1479222149.000140> @U2X7189QR: :+1: 
 1479222178.000141> @Hyacinthe: <@U04DFTZ7D>
 1479224739.000145> @U0B47KC3S: <@U04DFTZ7D> sure, I have just put the right channe to jump in !
-1479226849.000146> @U0B47KC3S: We are happy to announce that a Fablab, based in  Lomé Togo is joining the echOpen community :wink: They will develop and improve echOpen in their lab and contribute to the Signal Processing team :grinning: :zap: (reactions: U04DFTZ7D,U32FZ0QLX)
+1479226849.000146> @U0B47KC3S: We are happy to announce that a Fablab, based in  Lomé Togo is joining the echOpen community :wink: They will develop and improve echOpen in their lab and contribute to the Signal Processing team :grinning: :zap: (reactions: @U04DFTZ7D,@U32FZ0QLX)
 1479229866.000147> @U32UWGGN9: <@U32UWGGN9> has joined the channel
-1479235391.000148> @U2X419KJS: Welcome <@U336DPZV4>! Más latinoamericanos a la comunidad! Saludos desde Lima, Peru. (reactions: U0B47KC3S,U32FZ0QLX)
+1479235391.000148> @U2X419KJS: Welcome <@U336DPZV4>! Más latinoamericanos a la comunidad! Saludos desde Lima, Peru. (reactions: @U0B47KC3S,@U32FZ0QLX)
 1479235734.000149> @U04DFTZ7D: Welcome <@U336DPZV4> ;)
 1479237582.000150> @Hyacinthe: <@U2Y7FPEUB>: (Y)
 1479237811.000151> @U32FZ0QLX: the CAPDev transmmsion is for streaming too
@@ -500,7 +500,7 @@
 1479287515.000166> @U0B47KC3S: Hi <@U32AR6TED>, It is a pleasure to see you there
 1479287518.000167> @U0B47KC3S: Amklou with his team are based in Togo and beginning developing echOpen in the fablab minodoo
 1479287578.000168> @U04DFTZ7D: Hi <@U3267ST8C> welcome on board... I present you to <@U2X419KJS> who started to think about the public health impact of echOpen. For more discussion jump on channel <#C2MAANG0P> there is a link to a google doc that I invite you to check and add your insight. 
-1479297041.000169> @U0B47KC3S: just had a call, with Badr ElHouari, CIO at xHub and Devoxx, which is one of the core contributor to the `java` language (worldwide best contribution 2012) and we are defined field of our future collaboration :wink: Jump in <#C04DFUV41> for more informations (reactions: U04DFTZ7D)
+1479297041.000169> @U0B47KC3S: just had a call, with Badr ElHouari, CIO at xHub and Devoxx, which is one of the core contributor to the `java` language (worldwide best contribution 2012) and we are defined field of our future collaboration :wink: Jump in <#C04DFUV41> for more informations (reactions: @U04DFTZ7D)
 1479306077.000170> @U0B47KC3S: just to let you know that Slack can benefit of a cool app doing monkey testing. We just tested it on the future image processing challenge website. End here's the result : <https://monkeytest.it/test/6b7afcf6-112b-4474-95b1-6730f4cfd3d7>
 1479306115.000172> @U0B47KC3S: cool no :wink: ? <@U04DFTZ7D> you can test it on our regular website;)
 1479306327.000175> @U04DFTZ7D: <@U0B47KC3S> sure, it’s great and everything looks good though =&gt; <https://monkeytest.it/test/b1e4d53f-bf83-4ff3-9737-e68432397bd2>. Except the SEO we can improve :wink:
@@ -511,16 +511,16 @@
 1479309433.000183> @U34231VFH: Hi, thank you for the invitation. As you said, PhD student at IMNC lab, working on rat brain molecular imaging, willing to help a beautiful open science project. Motivated to learn about collaborative science, imaging and everything else. Trombone player on my free time :smile:
 1479309703.000184> @U0B47KC3S: <@U34231VFH> what kind of trombone, jazz ?
 1479309779.000185> @U34231VFH: Now, mostly Funk and New Orleans jazz
-1479315884.000186> @U0AAL4W13: <@U04DFTZ7D> <@U0B47KC3S> for seo audits and site health, until the wiki was shifted to the wiki subdomain, I had a Google console setup + traffic analysis on. If there's any space where it can be shared (which channel?), you can have results over the past 2 years :) (reactions: U0B47KC3S)
+1479315884.000186> @U0AAL4W13: <@U04DFTZ7D> <@U0B47KC3S> for seo audits and site health, until the wiki was shifted to the wiki subdomain, I had a Google console setup + traffic analysis on. If there's any space where it can be shared (which channel?), you can have results over the past 2 years :) (reactions: @U0B47KC3S)
 1479316319.000187> @U04DFTZ7D: <@U0AAL4W13>, i guess the <#C053TJGCC> channel should be fine, no ? And it would be great !! thanks
 1479317956.000188> @U0AAL4W13: <@U04DFTZ7D> why not? There's already trafic info there. The issue with newsfeed is that the commit alerts flood everything. Moreover,  it's more comprehension of who is visiting the site, which which keywords, which pages are visited most.. Not something similar to what is posted at <#C053TJGCC> 
 1479320916.000189> @U0AAL4W13: <@U0AAL4W13> and commented: Ca donne aussi des feedback sympa sur les visites :smiley: (sachant que la chute en octobre c'est que la landing page n'a pas le code de suivi :smiley: )
 1479330231.000190> @U0B47KC3S: ok interesting;)
 1479344797.000191> @U32V2JWFJ: <@U32V2JWFJ> has joined the channel
-1479346234.000192> @U32V2JWFJ: Hi there. I am a collaborator of the Open Source Imaging project, which is also on medical imaging but with a focus in MRI: <http://www.opensourceimaging.org> I believe that our projects have similar philosophies and roadmaps, so we may be able to help each other. Thanks for inviting us to your slack channel. Cheers! (reactions: U32FZ0QLX)
+1479346234.000192> @U32V2JWFJ: Hi there. I am a collaborator of the Open Source Imaging project, which is also on medical imaging but with a focus in MRI: <http://www.opensourceimaging.org> I believe that our projects have similar philosophies and roadmaps, so we may be able to help each other. Thanks for inviting us to your slack channel. Cheers! (reactions: @U32FZ0QLX)
 1479369825.000193> @U04DFTZ7D: Welcome <@U32V2JWFJ> good to see you here ;) and let's share experience, values and philosophy together... great to see both project interacting this way !
-1479395081.000194> @U33817K25: <@U33817K25> has joined the channel (reactions: U0B47KC3S)
-1479421540.000195> @U0FN1B8KD: Great meeting tonight with researchers at IRD and <@U0B47KC3S> about setting the basis for a clinical trial in Laos on liver applications (cancer in particular). More info in the <#C2MAANG0P> channel (reactions: U0B47KC3S,U0B47KC3S)
+1479395081.000194> @U33817K25: <@U33817K25> has joined the channel (reactions: @U0B47KC3S)
+1479421540.000195> @U0FN1B8KD: Great meeting tonight with researchers at IRD and <@U0B47KC3S> about setting the basis for a clinical trial in Laos on liver applications (cancer in particular). More info in the <#C2MAANG0P> channel (reactions: @U0B47KC3S,@U0B47KC3S)
 1479462124.000196> @U33KM85FA: <@U33KM85FA> has joined the channel
 1479473994.000197> @U04DFTZ7D: Welcome <@U33KM85FA> nice to see you here !! You can explore the various channels such as <#C07NJQ6LE>. Or any other channel ! 
 1479486817.000199> @U2PFHNN3C: Un peu de veille… <http://www.sonoscanner.com/en/our-products/u-lite/> cc <@U0B47KC3S>
@@ -542,20 +542,20 @@
 1479723213.000218> @U0B47KC3S: :point_up: Tuesday, Wednesday - Wireframes  complete workflows
 1479723217.000219> @U0B47KC3S: :point_up: Thursday, Friday - Marvel and Invision templates
 1479723380.000225> @U0B47KC3S: <@U0B47KC3S>
-1479811315.000228> @U0B47KC3S: happy to announce that (reactions: U0B47KC3S,U2X419KJS)
+1479811315.000228> @U0B47KC3S: happy to announce that (reactions: @U0B47KC3S,@U2X419KJS)
 1479811320.000229> @U0B47KC3S: 1) echOpen has won a call for proposal, jointly with Makery - the french makers and fablabs web magazine
 1479811327.000230> @U0B47KC3S: 2) We are hosting a 6 months residency of the artist ShuLea
 1479811331.000231> @U0B47KC3S: -&gt; <https://fr.wikipedia.org/wiki/Shu_Lea_Cheang> on an electronico artistic hack on echOpen
 1479811335.000233> @U0B47KC3S: 3) She will work with hardware and software (white) hackers
 1479811341.000234> @U0B47KC3S: 4) [Kick-Off] We are glad to host at Hôtel Dieu on the 28, 29, and 30th of november part of her crue Romain Papion and Benjamin Cadon, head of Labomedia
 1479811342.000235> @U0B47KC3S: <https://labomedia.org/>
-1479815574.000237> @U2X419KJS: Great news! :D (reactions: U04DFTZ7D,U0B47KC3S)
-1479835167.000238> @U04DFTZ7D: echOpen is now partner member of France e-Health Tech :wink: <http://www.france-ehealthtech.org/> It’s an organization dedicated to digital health initiatives in France. Hope that will bring good opportunities to echOpen !! (reactions: U0B47KC3S)
+1479815574.000237> @U2X419KJS: Great news! :D (reactions: @U04DFTZ7D,@U0B47KC3S)
+1479835167.000238> @U04DFTZ7D: echOpen is now partner member of France e-Health Tech :wink: <http://www.france-ehealthtech.org/> It’s an organization dedicated to digital health initiatives in France. Hope that will bring good opportunities to echOpen !! (reactions: @U0B47KC3S)
 1479838623.000239> @U0B47KC3S: great dude :wink:
 1479859363.000240> @U2X419KJS: <@U04DFTZ7D> <@U0B47KC3S> don't forget our European friends from Open Biomedical Initiative
 1479890851.000241> @U04DFTZ7D: Thanks <@U2X419KJS> how could we get in touch with them ? Shall we organize a skype ?
 1479902233.000242> @U2X419KJS: <@U04DFTZ7D> I will send them a message asking for a meeting next week. Is it OK?
-1479906664.000244> @U0B47KC3S: [:mega:] <@U32FZ0QLX> <@U336DPZV4> <@U31UCUFPW>  <@U32AR6TED> <@U34N7NQNR> <@U2X419KJS>  one word to say the updated kit documentation is online - jump here <#C07NJQ6LE> for more informations (reactions: U2X419KJS,U34N7NQNR)
+1479906664.000244> @U0B47KC3S: [:mega:] <@U32FZ0QLX> <@U336DPZV4> <@U31UCUFPW>  <@U32AR6TED> <@U34N7NQNR> <@U2X419KJS>  one word to say the updated kit documentation is online - jump here <#C07NJQ6LE> for more informations (reactions: @U2X419KJS,@U34N7NQNR)
 1479907003.000246> @U32FZ0QLX: Very thanks mehdi
 1479907107.000247> @U336DPZV4: Hi Mehdi,  that's great
 1479907154.000248> @U32AR6TED: Thanks <@U0B47KC3S> 
@@ -565,13 +565,13 @@
 1479917476.000252> @U0B47KC3S: 2) how to share commons : legal, medical, certification, technical frameworks
 1479917478.000253> @U0B47KC3S: 3) schedule a irl Open Health Summit . We are going to structure that on a gDoc and let you know tomorrWoW !!
 1479919557.000256> @U35LGETA4: <@U35LGETA4> has joined the channel
-1479981377.000257> @U352MKG4V: Thanks for the great call yesterday! Looking forward to cooperate with you guys and keep up the good work! Best, Lukas (reactions: U04DFTZ7D)
+1479981377.000257> @U352MKG4V: Thanks for the great call yesterday! Looking forward to cooperate with you guys and keep up the good work! Best, Lukas (reactions: @U04DFTZ7D)
 1479994301.000258> @U04DFTZ7D: Thanks <@U352MKG4V> that was great indeed !! I remain at your disposal :wink:
 1480019813.000259> @U36QEPF51: <@U36QEPF51> has joined the channel
 1480020527.000260> @U0B47KC3S: hi Mahdi, you're welcome in this space :wink: For the record, Mahdi is graduate in Polytechnique School Tunis and currently mastering in Ecole des Mines. His skills and interests are robotics and signal processing
 1480021078.000261> @U37GZRZU6: <@U37GZRZU6> has joined the channel
 1480073285.000264> @U37GZRZU6: <@U37GZRZU6> and commented: Hi everyone,  There’s now an app running that aggregates all tweets/retweets/replies about echOpen on twitter :slightly_smiling_face: data about users interacting within the community is also stored.  The information is stored in a graph database which will allow to perform community analysis and to detect the opinion leaders.  For now, only tweets from/mentioning @echopenorg or including an #echopen are collected. Users/Hashtags that are strongly related to the community will be automatically detected and added to the « watch list ».   If you have any idea of other account or hashtag that would be relevant to follow, just let me know :slightly_smiling_face:
-1480086858.000265> @U0AAL4W13: Hey <@U37GZRZU6> , there was a similar work done, which you can find on the twitter repo on github. I've also a tool which is tracking similar tweets (echopen is mentioned, ad well as key portable ultrasound device) - let me know if that db of tweets can be of interest (reactions: U0B47KC3S,U37GZRZU6)
+1480086858.000265> @U0AAL4W13: Hey <@U37GZRZU6> , there was a similar work done, which you can find on the twitter repo on github. I've also a tool which is tracking similar tweets (echopen is mentioned, ad well as key portable ultrasound device) - let me know if that db of tweets can be of interest (reactions: @U0B47KC3S,@U37GZRZU6)
 1480086886.000266> @U0AAL4W13: You have a similar graphing of the tweetosphere in the repo, for info 
 1480093948.000269> @U0B47KC3S: :mega: after one complete week of hard design/UI work, led by @Jules Bassoleil, @DanielVillaMonteiro @Alexandre Warnia de Zarzecki, and 23 HETIC’s school students, it was produced 11 sets of amazing templates so that the whole app is now  templated, from the hardware sync to the archives manipulations. This completes and achieves the work of <@U2X7189QR> <@U2Y7FPEUB> <@U2XLJS5L0>
 1480093949.000270> @U0B47KC3S: Great ideas have been submitted, a lot of them are brand new ! So now, let’s jump to the next challenge of the integration Hackathon that will deal on ly on the main screen of the app
@@ -581,7 +581,7 @@
 1480117206.000274> @U0B47KC3S: <@U0AAL4W13>, the last article seems interesting indeed. It is rather dense, could you bring us some insight of their input ? I understand that their work consists in binding the position of the probe and the corresponding slice of data of the phantom, right ?
 1480154926.000277> @U0AAL4W13: Lol :) yes, it locates the probe position and orientation through gyroscope and rfid to serve the corresponding scan to a display. 
 1480363471.000280> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
-1480364227.000281> @U38HVMZ6K: Hello, Romain de Lausanne en Suisse. Ingénieur sénior R&amp;D en software embarqué dans une entreprise de devices médicaux (cycler de dialyse péritonéale à domicile). Je suis passionné de software embarqué, logiciel bas niveau, temps réel et proche du hardware. Sinon j'aime également tout ce qui est un peu geek: drones, imprimantes 3D, laser-cutter,... ainsi que la robotique, la mécanique et les vieilles VW Coccinelle :wink: J'espère pouvoir contribuer un peu sur la partie soft bas niveau, acquisition, traitement et drivers sur echOpen, notamment avec des contacts à la Haute École d'Ingénierie et de Gestion du canton de Vaud (<http://www.heig-vd.ch>). À bientôt (reactions: U04DFTZ7D,U0B47KC3S)
+1480364227.000281> @U38HVMZ6K: Hello, Romain de Lausanne en Suisse. Ingénieur sénior R&amp;D en software embarqué dans une entreprise de devices médicaux (cycler de dialyse péritonéale à domicile). Je suis passionné de software embarqué, logiciel bas niveau, temps réel et proche du hardware. Sinon j'aime également tout ce qui est un peu geek: drones, imprimantes 3D, laser-cutter,... ainsi que la robotique, la mécanique et les vieilles VW Coccinelle :wink: J'espère pouvoir contribuer un peu sur la partie soft bas niveau, acquisition, traitement et drivers sur echOpen, notamment avec des contacts à la Haute École d'Ingénierie et de Gestion du canton de Vaud (<http://www.heig-vd.ch>). À bientôt (reactions: @U04DFTZ7D,@U0B47KC3S)
 1480365233.000282> @U0FN1B8KD: +-
 1480365233.000283> @U0FN1B8KD: +
 1480365269.000284> @U0FN1B8KD: : ;3--------                                                                             11111111nn
@@ -592,17 +592,17 @@
 1480371260.000289> @U0B47KC3S: Hi <@U38HVMZ6K> ! happy to see you there. I’ll get you the informations you’re looking for tomorow
 1480371488.000290> @U0FN1B8KD: Hi ! Welcome ! Sorry my computer decided to say welcome without my permission :wink:
 1480408469.000291> @U0B47KC3S: hi there, for those interested by patients issues, <@U33817K25> is beginning to work on a manifesto. The idea is to set up a working group on different aspects : co-design, ethics, doctor and patients experiences mediated by unusual tech object. For more info jump here <#C388S911V> !
-1480430010.000294> @U33817K25: hi there, thx <@U0B47KC3S> for the heads up! (reactions: U0B47KC3S)
+1480430010.000294> @U33817K25: hi there, thx <@U0B47KC3S> for the heads up! (reactions: @U0B47KC3S)
 1480430227.000297> @U33817K25: maybe it makes sense that i introduce myself
-1480431134.000298> @U0B47KC3S: sure proceed :wink: (reactions: U33817K25)
+1480431134.000298> @U0B47KC3S: sure proceed :wink: (reactions: @U33817K25)
 1480431468.000299> @U33817K25: I am Bruno from Paris, France. I am an IT exec with a (too?) long experience in industry and services. I am also strongly interested in humanities (psychology, sociology, philosophy, anthropology), so much so that I started studying psychology at Paris 8 a few years back, as a side occupation. I am totally enthusiastic about echOpen and the possibility of bringing back imaging in the doctor-patient bond, where the patient is not only an object but rather a subject. This is why I think we must involve patients in the project, in order to benefit from their point of view and knowledge. Feel free to contact me anytime.
-1480431721.000300> @U33817K25: a work-in-progress framing document for patient issues is available here <https://drive.google.com/open?id=1TGfV86ApHdfFWCMrzMj1Vy-pkc38DmwIC1qw7KfhLi8> (reactions: U0FN1B8KD)
+1480431721.000300> @U33817K25: a work-in-progress framing document for patient issues is available here <https://drive.google.com/open?id=1TGfV86ApHdfFWCMrzMj1Vy-pkc38DmwIC1qw7KfhLi8> (reactions: @U0FN1B8KD)
 1480431721.000301> @U33817K25: <@U33817K25>
 1480432759.000302> @U33817K25: feel free to contribute in <#C388S911V>
-1480432786.000303> @U38HVMZ6K: great <@U33817K25> :+1::skin-tone-2: (reactions: U33817K25)
-1480439655.000304> @U0B47KC3S: <@U33817K25> I put some form remarks on the doc, I find it synthetic and clear (reactions: U33817K25)
-1480441497.000306> @U33817K25: <@U0B47KC3S> I acknowledged most of them (reactions: U0B47KC3S)
-1480449798.000307> @U33817K25: I just wanted to mention that I am also totally enthusiastic about all the aspects of the project - technically in hw, sw, how it is organized, its goals - everything... and especially the energy and dedication I can only begin to observe around here! (reactions: U38HVMZ6K,U0B47KC3S,U0B47KC3S)
+1480432786.000303> @U38HVMZ6K: great <@U33817K25> :+1::skin-tone-2: (reactions: @U33817K25)
+1480439655.000304> @U0B47KC3S: <@U33817K25> I put some form remarks on the doc, I find it synthetic and clear (reactions: @U33817K25)
+1480441497.000306> @U33817K25: <@U0B47KC3S> I acknowledged most of them (reactions: @U0B47KC3S)
+1480449798.000307> @U33817K25: I just wanted to mention that I am also totally enthusiastic about all the aspects of the project - technically in hw, sw, how it is organized, its goals - everything... and especially the energy and dedication I can only begin to observe around here! (reactions: @U38HVMZ6K,@U0B47KC3S,@U0B47KC3S)
 1480455066.000309> @U0FN1B8KD: Hi all, here is a functional analysis we made a few months ago, feel free to comment. It is there to recall the different aspects of the project and feed the ethical, technical and juridical conceptions. (Not sure about the english though!) <https://docs.google.com/drawings/d/1Zs7bs-wU8_WsmQyzmnNqWwbvsu6D--Sh_vQHPjeJirc/edit>
 1480478515.000312> @U38JDLY2E: <@U38JDLY2E> has joined the channel
 1480498670.000313> @U04DFTZ7D: Welcome <@U38JDLY2E> you will find here all the info and access to the community !! Each channel is dedicated to a specific project inside echOpen. For the kit, jump on channel <#C07NJQ6LE> and explore other channels to see what is interesting for you :wink:
@@ -622,9 +622,9 @@
 1480584362.000328> @U33817K25: Hi <@U37GZRZU6> I am very interested for the patient workstream. Could we meet/interact one way or another on this?
 1480584632.000329> @U37GZRZU6: <@U33817K25> sure :slightly_smiling_face: we might meet at echOpen with <@U0AAL4W13> tomorrow around 9pm, if you can/want to join us. Actually I should be there from 7pm to attend the aperOpen update meetup.
 1480585009.000330> @U33817K25: sounds good, I'm very apéro-open :yum: I'll see how I can benefit from both worlds (aperOpen and <@U0AAL4W13> &amp; you)
-1480585066.000332> @U0AAL4W13: Hey <@U33817K25>,  Indeed, a great application is visual biofeedback for (among others) stroke victims. Glad you saw this! (reactions: U33817K25)
+1480585066.000332> @U0AAL4W13: Hey <@U33817K25>,  Indeed, a great application is visual biofeedback for (among others) stroke victims. Glad you saw this! (reactions: @U33817K25)
 1480585995.000333> @U33817K25: hey <@U0AAL4W13> I think there's a host of existing and future applications to be discovered
-1480591664.000335> @U0AAL4W13: Yup! Btw, <@U33817K25> and @Aurelie, I had started mapping the graphs of relevant patent (see some example at <http://wiki.echopen.org/index.php/Patent_US4579122>). The way patents are structured make them ideal to graph. Let me know if you're interested to explore this aspect as well ;) (reactions: U37GZRZU6)
+1480591664.000335> @U0AAL4W13: Yup! Btw, <@U33817K25> and @Aurelie, I had started mapping the graphs of relevant patent (see some example at <http://wiki.echopen.org/index.php/Patent_US4579122>). The way patents are structured make them ideal to graph. Let me know if you're interested to explore this aspect as well ;) (reactions: @U37GZRZU6)
 1480592126.000336> @U37GZRZU6: great! I'd be happy to help
 1480592739.000337> @U33817K25: same here!
 1480594252.000338> @U0AAL4W13: Top btw, will try to be there earlier tomorrow, can't wait :)
@@ -633,7 +633,7 @@
 1480610774.000341> @U0B47KC3S: GOSH was founded at prestigious CERN and is composed by cutting edge institutions and organisations designing the future of Sciences' methodology. <http://openhardware.science/> On a broader scope, gathering health tech initiatives in order to define the commons in Open Source Health and share codes and knowledge will be one of the key roles that echOpen will advocate in 2017.
 1480610776.000342> @U0B47KC3S: :zap: We're in and this year GOSH will take place in Chili, Santiago
 1480615180.000347> @U39GX1A69: <@U39GX1A69> has joined the channel
-1480624769.000348> @U38HVMZ6K: Great :+1::skin-tone-2: :boom: :sports_medal: :airplane_departure:  (reactions: U0B47KC3S)
+1480624769.000348> @U38HVMZ6K: Great :+1::skin-tone-2: :boom: :sports_medal: :airplane_departure:  (reactions: @U0B47KC3S)
 1480624813.000349> @U38HVMZ6K: We'll done <@U0B47KC3S> and all the team!
 1480625375.000350> @U0AAL4W13: GG! Btw, GOSH has a manifesto which would benefit from being shared: don't hesitate to read, sign, and share :wink:
 1480663877.000351> @U38HVMZ6K: Done :+1::skin-tone-2: #181 great initiative and manifesto!
@@ -667,8 +667,8 @@
 1480946193.000019> @U04DFTZ7D: Welcome <@U3BAH0X62> ;) great to see you here !! Could you present yourself in a few words ? 
 1480965992.000020> @U3BFTB7M4: <@U3BFTB7M4> has joined the channel
 1481017025.000021> @U3B1RKVSP: <@U3B1RKVSP> has joined the channel
-1481018476.000022> @U0B47KC3S: Some weeks ago, we had a talk with <@U352MKG4V> who is working on an amazing Open Source low-cost MRI.  We evoked the utility and even the necessity to mobilize the upraising and scattered movement of open health communities in order to share commons and in fact first things first, to identify those commons. So, the idea emerged of  a global hangout at the end of january/beginning of the february which can be a prolegomenon to an Open Health Summit at the end of the year. We are on the go, and we prepared a draft which can be the support of the hangout. To get it and share your thoughts, jump here <#C0GE6Q709> (reactions: U352MKG4V,U04H8570R)
-1481033403.000023> @U3BAH0X62: <!everyone> , thanks Olivier! I'm researcher on optics and photonics, I did my PhD thesis at the Institut of Optics in Palaiseau, and I'm working on some projects about fluorescence microscopy, and I am active on scientific cooperation with differents latinoamericain countries (reactions: U04DFTZ7D,U0FN1B8KD,U2X419KJS)
+1481018476.000022> @U0B47KC3S: Some weeks ago, we had a talk with <@U352MKG4V> who is working on an amazing Open Source low-cost MRI.  We evoked the utility and even the necessity to mobilize the upraising and scattered movement of open health communities in order to share commons and in fact first things first, to identify those commons. So, the idea emerged of  a global hangout at the end of january/beginning of the february which can be a prolegomenon to an Open Health Summit at the end of the year. We are on the go, and we prepared a draft which can be the support of the hangout. To get it and share your thoughts, jump here <#C0GE6Q709> (reactions: @U352MKG4V,@U04H8570R)
+1481033403.000023> @U3BAH0X62: <!everyone> , thanks Olivier! I'm researcher on optics and photonics, I did my PhD thesis at the Institut of Optics in Palaiseau, and I'm working on some projects about fluorescence microscopy, and I am active on scientific cooperation with differents latinoamericain countries (reactions: @U04DFTZ7D,@U0FN1B8KD,@U2X419KJS)
 1481034775.000024> @U336DPZV4:  Welcome <@U3BAH0X62>, it Will be a pleasure work with you
 1481041711.000025> @U04DFTZ7D: Great <@U336DPZV4> and <@U3BAH0X62> to see your anthousiasm in working together around echOpen :wink: <@U3BAH0X62> will pass by next Monday :wink:
 1481080111.000026> @U3ARRLDQ8: <@U3ARRLDQ8> has joined the channel
@@ -686,26 +686,26 @@
 1481294476.000041> @U0FN1B8KD: Arh! Sounds great ! will try my best to be able to make it ...!
 1481294567.000042> @U38HVMZ6K: &gt;now large of more than 250 hunderds articles Really ? Amazing!!!
 1481294688.000043> @U0B47KC3S: <@U38HVMZ6K> oups sorry, **typo** 250 articles !
-1481294731.000044> @U38HVMZ6K: Still a huge job! :+1::skin-tone-2:  (reactions: U0B47KC3S)
-1481299672.000045> @U33817K25: <@U2MF267L2> is it too late if I'm there around 6:30pm? (reactions: U37GZRZU6,U0AAL4W13)
+1481294731.000044> @U38HVMZ6K: Still a huge job! :+1::skin-tone-2:  (reactions: @U0B47KC3S)
+1481299672.000045> @U33817K25: <@U2MF267L2> is it too late if I'm there around 6:30pm? (reactions: @U37GZRZU6,@U0AAL4W13)
 1481299712.000046> @U37GZRZU6: same question for me :slightly_smiling_face:
 1481301051.000047> @U3CV9P9NH: <@U3CV9P9NH> has joined the channel
 1481301234.000048> @U0B47KC3S: <@U33817K25> <@U37GZRZU6> <@U0AAL4W13>, <@U2MF267L2> will be there at 6.30pm :wink:
 1481301416.000049> @U37GZRZU6: great I hope I'll make it :slightly_smiling_face:
 1481301420.000050> @U33817K25: hem... 30ish
 1481304155.000051> @U3CV9P9NH: Hello echOpen family, I am Sourava, doing PhD on artificial intelligence at Paris-Sud. I primarily work on studying various families of machine learning (ML) algorithms and datasets. <@U2PFHNN3C> introduced me to echOpen community. We would implement few ML techniques for image demonising and see if and how that works for creating open echo-stethoscope. I look forward to see how I can contribute to this awesome idea along with an open community.
-1481304585.000052> @U0B47KC3S: hello <@U3CV9P9NH> glad to see you here, gonna have fun with ML tricks and stuffs :wink: cc <@U2PFHNN3C> <@U37GZRZU6> (reactions: U37GZRZU6)
+1481304585.000052> @U0B47KC3S: hello <@U3CV9P9NH> glad to see you here, gonna have fun with ML tricks and stuffs :wink: cc <@U2PFHNN3C> <@U37GZRZU6> (reactions: @U37GZRZU6)
 1481315525.000053> @U38HVMZ6K: Hi, nice to have a short presentation by every new member but these quickly get lost in the channel history. Is there a directory/listing of members somewhere? Perhaps a page on the wiki would be nice? With name, areas of interest and/or expertise for example. Complemented with simple filtering it could be useful. I would be interested in knowing who is working on or interested in embedded software for example whereas other team members would be interested in finding specialists in medical field. If this would help I can start to work on such a page.
-1481316486.000054> @U0AAL4W13: Hi <@U38HVMZ6K>, I'm working on such a thing, let's have a chat this weekend ? + @Aurelie and <@U33817K25> who have a couple of ideas too ;) (reactions: U37GZRZU6)
+1481316486.000054> @U0AAL4W13: Hi <@U38HVMZ6K>, I'm working on such a thing, let's have a chat this weekend ? + @Aurelie and <@U33817K25> who have a couple of ideas too ;) (reactions: @U37GZRZU6)
 1481316830.000056> @U38HVMZ6K: Great :+1::skin-tone-2: not sure if I can make it this week-end :thinking_face: :stopwatch: eventually tomorrow 
 1481317335.000057> @U0AAL4W13: No issues, will share some basic code, just to test a mvp ;)
 1481325101.000058> @U37GZRZU6: <@U0AAL4W13> <@U38HVMZ6K> <@U33817K25> sure we should meet to gather ideas :slightly_smiling_face: this weekend or an evening next week ?
 1481326695.000059> @U33817K25: <@U37GZRZU6> <@U38HVMZ6K> <@U0AAL4W13> sure! Sunday this weekend or wed/Fri evening next week
 1481370866.000060> @U37GZRZU6: is there someone @ echOpen this afternoon? :slightly_smiling_face:
-1481395191.000061> @U0B47KC3S: <@U37GZRZU6> I have just seen your post, too late ! (reactions: U37GZRZU6)
+1481395191.000061> @U0B47KC3S: <@U37GZRZU6> I have just seen your post, too late ! (reactions: @U37GZRZU6)
 1481395870.000062> @U2PFHNN3C: <@U38HVMZ6K> <@U0AAL4W13> excellent idea! let me know if you want to discuss it
 1481421914.000063> @U37GZRZU6: <@U0B47KC3S> my question is still valid for this afternoon (sunday) btw
-1481450477.000064> @U0AAL4W13: <@U37GZRZU6> fais signe, normalement jvais me poser un peu vers 19h (reactions: U37GZRZU6)
+1481450477.000064> @U0AAL4W13: <@U37GZRZU6> fais signe, normalement jvais me poser un peu vers 19h (reactions: @U37GZRZU6)
 1481456768.000065> @U2PFHNN3C: A couple of links potentially pertinent to the Android dev part <http://arstechnica.com/information-technology/2014/11/how-google-inbox-shares-70-of-its-code-across-android-ios-and-the-web/>
 1481457207.000068> @U2PFHNN3C: <https://news.ycombinator.com/item?id=8554339>
 1481457218.000069> @U2PFHNN3C: <https://gmail.googleblog.com/2014/11/going-under-hood-of-inbox.html>
@@ -719,34 +719,34 @@
 1481462377.000078> @U38HVMZ6K: OK I also feared that we need more control than what ionic can do
 1481464492.000079> @U0B47KC3S: thank you <@U38HVMZ6K> ! we have a hackathon next week to integrate templates into native Android app. Could be interesting for non android developers, to use `ionic` and to compare with our performances :wink:
 1481464495.000080> @U0B47KC3S: btw, if you have android dev on your neighboorhood, here are the main informations <https://echopen.github.io/CAPDev20161216.html>
-1481484923.000081> @U0AAL4W13: An awesome project: <https://hackaday.io/project/7225-low-cost-x-ray-systems-for-developing-nations> (reactions: U0B47KC3S,U04H8570R)
+1481484923.000081> @U0AAL4W13: An awesome project: <https://hackaday.io/project/7225-low-cost-x-ray-systems-for-developing-nations> (reactions: @U0B47KC3S,@U04H8570R)
 1481487531.000083> @U38HVMZ6K: So cool :heart_eyes: 
 1481487578.000084> @U38HVMZ6K: <@U0AAL4W13> you're getting your news and inspiration from the same sources as me :wink: 
 1481488402.000085> @U0AAL4W13: haha <@U38HVMZ6K>, fan of hackaday too? Or HN ?
 1481488426.000086> @U0B47KC3S: excellent ! we’ll reach him for Open Source Health Commons hangout :wink:
-1481555474.000087> @U0B47KC3S: [:mega:] the ESIEE engineer school is going to purchase the echOpen kit. They want to contribute to electronics, embedded softwares and data processing ! :grinning: In the long run, we will study the possiblity of joint efforts on the transducers (reactions: U2PFHNN3C,U38HVMZ6K,U37GZRZU6,U38HVMZ6K)
+1481555474.000087> @U0B47KC3S: [:mega:] the ESIEE engineer school is going to purchase the echOpen kit. They want to contribute to electronics, embedded softwares and data processing ! :grinning: In the long run, we will study the possiblity of joint efforts on the transducers (reactions: @U2PFHNN3C,@U38HVMZ6K,@U37GZRZU6,@U38HVMZ6K)
 1481555724.000088> @U38HVMZ6K: Great!
 1481566573.000089> @U0AAL4W13: Yeayyyy! BTW, is there a pre-assembled batch to be produced ?
 1481568376.000090> @U2PFHNN3C: must read guys <http://cognitivemedium.com/tat/index.html> (somehow related to the next android hackathon) (cc <@U0B47KC3S> )
-1481572630.000094> @U0AAL4W13: ooops mistake, sorry :smiley: (reactions: U37GZRZU6)
+1481572630.000094> @U0AAL4W13: ooops mistake, sorry :smiley: (reactions: @U37GZRZU6)
 1481577453.000096> @U0B47KC3S: thanks <@U2PFHNN3C> I got from your text this link <http://cognitivemedium.com/emm/emm.html>
 1481577465.000097> @U0B47KC3S: where there are interesting mathematical examples !
-1481577542.000098> @U0B47KC3S: <@U0AAL4W13> : we are now in a position to book some with edgeflex as a provider, but <@U07UEJC2H> has to finish to test one card in order to avoid superfluous costs (reactions: U38HVMZ6K)
+1481577542.000098> @U0B47KC3S: <@U0AAL4W13> : we are now in a position to book some with edgeflex as a provider, but <@U07UEJC2H> has to finish to test one card in order to avoid superfluous costs (reactions: @U38HVMZ6K)
 1481577994.000100> @U0AAL4W13: superb !
-1481578004.000101> @U0AAL4W13: would be interested to get one assembled :smiley: (reactions: U38HVMZ6K)
+1481578004.000101> @U0AAL4W13: would be interested to get one assembled :smiley: (reactions: @U38HVMZ6K)
 1481614464.000102> @U38HVMZ6K: me too...:wink:
 1481617800.000103> @U3D9HA0N4: <@U3D9HA0N4> has joined the channel
 1481618120.000104> @U0B47KC3S: hi <@U3D9HA0N4> nice to see around there ! could you say a few words about you :studio_microphone: for the community to know you better
-1481676951.000106> @U0AAL4W13: Some other project:  <http://www.oscult.com/medical.html> (reactions: U38HVMZ6K)
+1481676951.000106> @U0AAL4W13: Some other project:  <http://www.oscult.com/medical.html> (reactions: @U38HVMZ6K)
 1481700443.000107> @U38HVMZ6K: Quite similar to what we target... We should start thinking about our USP (unique selling proposition) to put our strengths and unique features in highlights.
 1481701070.000108> @U38HVMZ6K: Do we already have marketing &amp; communication people on board? If not I may find someone (already 2 names in my head :thinking_face: )
 1481701689.000109> @U0AAL4W13: usp: it'd go along the motto: open, low-cost, portable (and high quality) 
 1481701783.000110> @U38HVMZ6K: yes, sure but by experience technical guys know well the strengths and technologic value of a product/device but they don't know well how to present and "sell" them
 1481701880.000111> @U0AAL4W13: Throw in the 3As: accessible, affordable, available ;)
-1481701903.000112> @U38HVMZ6K: it is where GOOD marketing and communication people can play an important role... BAD marketing &amp; comm people in the opposite, put technical guys under pressure to design and implement useless stuff and features :slightly_smiling_face: (reactions: U37GZRZU6)
+1481701903.000112> @U38HVMZ6K: it is where GOOD marketing and communication people can play an important role... BAD marketing &amp; comm people in the opposite, put technical guys under pressure to design and implement useless stuff and features :slightly_smiling_face: (reactions: @U37GZRZU6)
 1481701917.000113> @U0AAL4W13: And you have a nice marketing matrix and further communication plan ;)
 1481701935.000114> @U38HVMZ6K: experience from others may be different but this is what I experienced :wink:
-1481702013.000115> @U0AAL4W13: Haha agree! Always better to have a strong, simple case (basically a strong mvp) which convinces a client and have short iteration cycles to determine which features are really needed  (reactions: U37GZRZU6)
+1481702013.000115> @U0AAL4W13: Haha agree! Always better to have a strong, simple case (basically a strong mvp) which convinces a client and have short iteration cycles to determine which features are really needed  (reactions: @U37GZRZU6)
 1481702038.000116> @U0AAL4W13: Basically, you're describing quite a number of dilbert strips ^^
 1481702102.000117> @U38HVMZ6K: exactly... but agile process is not taught in marketing &amp; communication cursus...
 1481702384.000118> @U0AAL4W13: Design starts to get the hang of it though. I'd say the issue lie more with the bizdev guys, who accept any request or idea, and with the product manager, who doesn't say no, rather than market/comm. They sometime find it easy to get a simple message and hammer it again and again. That being said, it requires a deep understanding of the user's real needs (where agile comes in handy)
@@ -759,14 +759,14 @@
 1481709724.000126> @U2PFHNN3C: The iPad is an investment in and of itself, we’re far from the motto of echOpen…
 1481709749.000127> @U2PFHNN3C: I like the three A’s of <@U0AAL4W13> :slightly_smiling_face:
 1481709868.000128> @U2PFHNN3C: we can also orient our future dream-team marketing team towards more general language, sth like “bring medical imaging to everyone” or “let’s replace stethoscopes with a more modern device” :))
-1481710165.000129> @U38HVMZ6K: Fully agree <@U2PFHNN3C>. Capitalize on what we do well and promote it as it deserves. Stay on the KISS (keep it stupid simple) and convince users of the value instead of adding thousands of new features and gadgets. (reactions: U04DFTZ7D)
+1481710165.000129> @U38HVMZ6K: Fully agree <@U2PFHNN3C>. Capitalize on what we do well and promote it as it deserves. Stay on the KISS (keep it stupid simple) and convince users of the value instead of adding thousands of new features and gadgets. (reactions: @U04DFTZ7D)
 1481710296.000130> @U2PFHNN3C: btw, the impact-resistant case of Oscult is a good idea, let’s produce some merchandizing around echOpen and sell them :DD
-1481710783.000131> @U38HVMZ6K: Regarding impact resistance I had a demonstration in the past with a veterinary portable ultrasound system. The demo was really "american-style" with a huge pickup driving over the machine (reactions: U2PFHNN3C,U0AAL4W13)
+1481710783.000131> @U38HVMZ6K: Regarding impact resistance I had a demonstration in the past with a veterinary portable ultrasound system. The demo was really "american-style" with a huge pickup driving over the machine (reactions: @U2PFHNN3C,@U0AAL4W13)
 1481710866.000132> @U38HVMZ6K: Here is the beast: <http://www.eimedical.com/products/ibex-pro>
 1481710890.000134> @U38HVMZ6K: With head-up display glasses
 1481730172.000135> @U04DFTZ7D: <!channel> [REMINDER] the CAPDev (echOpen Hackathon) starts Friday evening at 05.00 pm (Paris Time) :wink: More detail : <https://echopen.github.io/CAPDev20161216.html>. We will discuss on channel <#C04DFUV41> during the workshop !! Follow the signal....
 1481819979.000136> @U38HVMZ6K: Competitors get fierce! Clarius (<http://www.clarius.me/product/>) got FDA 510(k) clearance yesterday ! (<http://www.clarius.me/fda-510k-clearance/>)
-1481820007.000138> @U38HVMZ6K: 6900-9900$ piece ! (reactions: U37GZRZU6)
+1481820007.000138> @U38HVMZ6K: 6900-9900$ piece ! (reactions: @U37GZRZU6)
 1481820138.000139> @U38HVMZ6K: FDA clearance summary page: <http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K163138>
 1481820174.000140> @U38HVMZ6K: <@U38HVMZ6K>
 1481820356.000141> @U38HVMZ6K: here you go to the shop... <http://www.clarius.me/shop>
@@ -791,7 +791,7 @@
 1481975897.000181> @U0B47KC3S: Started a <https://echopen.slack.com/call/R3GQ8MCTZ>.
 1481984339.000189> @U3GQS8JTZ: <@U3GQS8JTZ> has joined the channel
 1481984688.000190> @U38HVMZ6K: Hi <@U3GQS8JTZ> ! Nice to see you here on slack! It will be easier to discuss live!
-1481998299.000191> @U2PFHNN3C: Didn’t know <http://www.mkdocs.org/> was so awesome O_o ! (reactions: U38HVMZ6K)
+1481998299.000191> @U2PFHNN3C: Didn’t know <http://www.mkdocs.org/> was so awesome O_o ! (reactions: @U38HVMZ6K)
 1482001378.000193> @U38HVMZ6K: Will have to give it à try
 1482003168.000194> @U0B47KC3S: thanks <@U2PFHNN3C>, do you think the functions that are implemented in our doc are available ?
 1482004108.000195> @U0AAL4W13: All in all, seems a theming tool at first
@@ -800,24 +800,24 @@
 1482005265.000198> @U38HVMZ6K: Yep same opinion. I'm still an old-style C/C++ guy most often using Doxygen :wink: 
 1482005324.000199> @U38HVMZ6K: And Sphinx a few times for Python
 1482014005.000200> @U2PFHNN3C: sphinx is quite exhaustive in terms of features indeed
-1482014032.000201> @U2PFHNN3C: I see mkdocs as an alternative to gitbooks rather (reactions: U0AAL4W13)
+1482014032.000201> @U2PFHNN3C: I see mkdocs as an alternative to gitbooks rather (reactions: @U0AAL4W13)
 1482014259.000202> @U2PFHNN3C: now what seduced me is: 1) open source, 2) the CLI is nice, 3) when you run `mkdocs serve` you can preview your documentation and whenever you make a modification, the website gets updated without refreshing the page (I know this is an old feature for web developer, but here it comes bundled so you have to install nothing), 4) speaking of themes, I like it when you have the outline on the left and it follows your scrolling :slightly_smiling_face:
-1482016201.000203> @U0AAL4W13: Had fun today playing with a very "jugaad" phantom... yet simple and basic enough to enable testing over it :smiley: (reactions: U37GZRZU6,U2X7189QR,U38HVMZ6K)
+1482016201.000203> @U0AAL4W13: Had fun today playing with a very "jugaad" phantom... yet simple and basic enough to enable testing over it :smiley: (reactions: @U37GZRZU6,@U2X7189QR,@U38HVMZ6K)
 1482016203.000204> @U0AAL4W13: <https://github.com/kelu124/echomods/blob/master/croaker/data/20161217/20161217-TestingArduinoAndPhantom.md>
 1482016229.000206> @U0AAL4W13: Raw data is included, if you want to play with it ^^
 1482048823.000207> @U38HVMZ6K: Great
 1482085725.000208> @U3GV4N878: <@U3GV4N878> has joined the channel
-1482085901.000209> @U3GV4N878: Hi all! Thanks Olivier and Pierre for adding me. I'm the co founder of the Open BioMedical Initiative, a non profit organization dedicated to develop 3D printed, open source and low cost health supports to help anyone in need, everywhere in the world. We could share our work and experience to approach similar issues :) (reactions: U2X419KJS,U0B47KC3S)
+1482085901.000209> @U3GV4N878: Hi all! Thanks Olivier and Pierre for adding me. I'm the co founder of the Open BioMedical Initiative, a non profit organization dedicated to develop 3D printed, open source and low cost health supports to help anyone in need, everywhere in the world. We could share our work and experience to approach similar issues :) (reactions: @U2X419KJS,@U0B47KC3S,@U0FN1B8KD)
 1482086277.000210> @U04DFTZ7D: Hi <@U3GV4N878> great to see you here :wink:
 1482086308.000211> @U38HVMZ6K: Hi <@U3GV4N878> ! What a nice initiative. We will for sure have some common areas of interest ! 
 1482086356.000212> @U3GV4N878: It is a pleasure to share our experience and volunteers :)
 1482086415.000213> @U3GV4N878: Later Bruno, another of the cofounders, will join us too in the channel
-1482086482.000214> @U38HVMZ6K: It's nice to see "merges", collaborations and synergies between different open communities. It a proof that these communities are moving in the right direction. (reactions: U0B47KC3S)
+1482086482.000214> @U38HVMZ6K: It's nice to see "merges", collaborations and synergies between different open communities. It a proof that these communities are moving in the right direction. (reactions: @U0B47KC3S)
 1482086502.000215> @U04DFTZ7D: Indeed :wink: <@U38HVMZ6K> that is great though :wink:
 1482089702.000219> @U2X419KJS: Hi <@U3GV4N878>
 1482089748.000220> @U2X419KJS: It will be very interesting how both communities can work together!
 1482093634.000221> @U3GV4N878: Hi <@U2X419KJS> absolutely! :)
-1482099373.000222> @U0B47KC3S: [:mega::confetti_ball::tada:] A few words to say how we are proud to announce that the main front of the Android App is up adnd running. Marocco's @phaino team did an amazing job :flag-ma: !!  15 developers worked hard to produce the app in a Crazy flash time :zap::zap:. Moreover, in my experience, it is the first time I see web-minded UI people taking some much care of performance issues.
+1482099373.000222> @U0B47KC3S: [:mega::confetti_ball::tada:] A few words to say how we are proud to announce that the main front of the Android App is up and running. Marocco's @phaino team did an amazing job :flag-ma: !!  15 developers worked hard to produce the app in a Crazy flash time :zap::zap:. Moreover, in my experience, it is the first time I see web-minded UI people taking some much care of performance issues. (reactions: @U04DFTZ7D,@U2X419KJS,@U04H8570R)
 1482099377.000223> @U0B47KC3S: Code is neat.
 1482099384.000224> @U0B47KC3S: A big up to <@U2X7189QR> <@U2YN8FREG> <@U2Y7FPEUB> <@U2XLJS5L0> and Sikoro, Phaino, XHub, Fikra, Essor Line teams, and the support of Africa4Tech :clap:
 1482099391.000225> @U0B47KC3S: 2) A Big Up too for the french team :flag-mf: with <@U37GZRZU6> <@U3FCS2UP3> <@U1PKXQVDW> <@U2PFHNN3C> working on the GPU implementation. We ported the code on RenderScript. There are remaining some issues that we are going to correct in the next few hours

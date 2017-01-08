@@ -26,6 +26,12 @@ Possible data per user:
 
 Channels of capture: slack, github, ...?
 
+### The Slack Project
+
+* the [getInfo.py](/slack_test/getInfo.py) gets the content of the slack channels;
+* then [analyse.py](/slack_test/analyse.py) creates the content of the json, per channel;
+* and [CreateUsers.py](/slack_test/CreateUsers.py) creates the main user_json, and creates the pages on the github pages.
+
 ### Deliverables
 
 #### Graphs

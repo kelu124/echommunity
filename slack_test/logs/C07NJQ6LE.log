@@ -149,7 +149,7 @@
 1479421120.000020> @U336DPZV4: mehdi that's great, can you send us the number tracking
 1479421184.000021> @U336DPZV4: Carlos is in Venezuela right now, I hope he can answer soon
 1479423232.000022> @U0B47KC3S: ok great I call for <@U07UEJC2H> who proceeded :wink:
-1479424123.000023> @U32FZ0QLX: Hi, Mehdi, thank you very much for you ship, I ready to work :nerd_face: (reactions: U0B47KC3S)
+1479424123.000023> @U32FZ0QLX: Hi, Mehdi, thank you very much for you ship, I ready to work :nerd_face: (reactions: @U0B47KC3S)
 1479504169.000024> @U34N7NQNR: <@U34N7NQNR> has joined the channel
 1479544628.000002> @U33817K25: <@U33817K25> has joined the channel
 1479906641.000002> @U07UEJC2H: <@U2V03QR8E>, <@U2UU194RZ>, <@U2V0F9YAK>, how do the project progress? We have receive the PCBs of the daughter boards we had ordered, so if you want one set, we can ship it to you (need address).
@@ -157,7 +157,7 @@
 1479906682.000004> @U0B47KC3S: here <http://echopen.org/doc-website/CAT-configuration/CFG-sweeping_probe/content>
 1479906709.000005> @U0B47KC3S: [:point_up:] You’ll find the state-of-our art stable configuration called `CFG-sweeping_probe`
 1479906716.000006> @U0B47KC3S: Here’s the doc principles :
-1479906722.000007> @U0B47KC3S: each configuration, corresponds to modules and daughter-boards, each module or daughter-board implements interfaces which describes describes an electrical signal or a specific data structure (reactions: U04DFTZ7D,U32FZ0QLX,U32FZ0QLX)
+1479906722.000007> @U0B47KC3S: each configuration, corresponds to modules and daughter-boards, each module or daughter-board implements interfaces which describes describes an electrical signal or a specific data structure (reactions: @U04DFTZ7D,@U32FZ0QLX,@U32FZ0QLX)
 1479908936.000008> @U0AAL4W13: Superb ! Two questions to complete: are the tgc and the pulses modules evaluation boards? And are there instructions for an error-proof soldering of the daughter cards?
 1479910457.000009> @U07UEJC2H: <@U336DPZV4>, the traking number is RK031315319FR
 1479910595.000010> @U07UEJC2H: <@U0AAL4W13>, the pulser has two versions, one with evaluation kit and one home made version. The TGC has only evaluation kit version for the moment, other version will be on tests soon
@@ -184,7 +184,7 @@
 1480671283.000032> @U0KLG7CP8: <@U0KLG7CP8> has joined the channel
 1480680428.000033> @U39GX1A69: <@U39GX1A69> has joined the channel
 1480680428.000034> @U394HRZ1B: <@U394HRZ1B> has joined the channel
-1480680495.000035> @U07UEJC2H: Bienvenu à <@U39GX1A69> et <@U394HRZ1B> de labomedia qui vont travailler avec shu sur le projet artistique intégrant notre prototype (reactions: U04DFTZ7D)
+1480680495.000035> @U07UEJC2H: Bienvenu à <@U39GX1A69> et <@U394HRZ1B> de labomedia qui vont travailler avec shu sur le projet artistique intégrant notre prototype (reactions: @U04DFTZ7D)
 1481080112.000002> @U3ARRLDQ8: <@U3ARRLDQ8> has joined the channel
 1481119092.000003> @U3BN2NTFU: <@U3BN2NTFU> has joined the channel
 1481134092.000004> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel

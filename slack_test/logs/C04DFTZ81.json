@@ -272,6 +272,11 @@
             "user_id": "U0AAL4W13"
         }, 
         {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483720243.000143", 
+            "user_id": "U0AAL4W13"
+        }, 
+        {
             "mentioned_user_id": "U0HN7G093", 
             "ts": "1451990886.000004", 
             "user_id": "U04DFTZ7D"
@@ -289,6 +294,11 @@
         {
             "mentioned_user_id": "U2PFHNN3C", 
             "ts": "1482436778.000101", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0AAL4W13", 
+            "ts": "1483721991.000146", 
             "user_id": "U38HVMZ6K"
         }, 
         {
@@ -334,7 +344,7 @@
             "user_id": "U0B47KC3S"
         }, 
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1483565083.000132", 
             "user_id": "U33817K25"
         }, 
@@ -365,6 +375,11 @@
         }, 
         {
             "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1482064163.000088", 
+            "user_id": "U2PFHNN3C"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1481826220.000081", 
             "user_id": "U0FN1B8KD"
         }, 
@@ -384,37 +399,47 @@
             "user_id": "U20C8CKTL"
         }, 
         {
-            "mentioned_user_id": "@U37GZRZU6", 
+            "mentioned_user_id": "U37GZRZU6", 
             "ts": "1483083403.000114", 
             "user_id": "U0AAL4W13"
         }, 
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1483083403.000114", 
             "user_id": "U0AAL4W13"
         }, 
         {
-            "mentioned_user_id": "@U38HVMZ6K", 
+            "mentioned_user_id": "U38HVMZ6K", 
             "ts": "1483283896.000122", 
             "user_id": "U0AAL4W13"
         }, 
         {
-            "mentioned_user_id": "@U0B47KC3S", 
+            "mentioned_user_id": "U0B47KC3S", 
             "ts": "1483283896.000122", 
             "user_id": "U0AAL4W13"
         }, 
         {
-            "mentioned_user_id": "@U2PFHNN3C", 
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483720243.000143", 
+            "user_id": "U0AAL4W13"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483720243.000143", 
+            "user_id": "U0AAL4W13"
+        }, 
+        {
+            "mentioned_user_id": "U2PFHNN3C", 
             "ts": "1482228635.000097", 
             "user_id": "U04DFTZ7D"
         }, 
         {
-            "mentioned_user_id": "@U0AAL4W13", 
+            "mentioned_user_id": "U0AAL4W13", 
             "ts": "1482436841.000102", 
             "user_id": "U38HVMZ6K"
         }, 
         {
-            "mentioned_user_id": "@U0AAL4W13", 
+            "mentioned_user_id": "U0AAL4W13", 
             "ts": "1483655068.000135", 
             "user_id": "U38HVMZ6K"
         }
@@ -620,9 +645,9 @@
                 "community": "5", 
                 "design": "0", 
                 "hardware": "0", 
-                "legal": "3", 
+                "legal": "4", 
                 "medical": "2", 
-                "posts": "84", 
+                "posts": "88", 
                 "software": "6"
             }
         }, 
@@ -1004,11 +1029,11 @@
             "U0AAL4W13": {
                 "community": "5", 
                 "design": "1", 
-                "hardware": "4", 
+                "hardware": "6", 
                 "legal": "3", 
                 "medical": "1", 
-                "posts": "31", 
-                "software": "2"
+                "posts": "36", 
+                "software": "4"
             }
         }, 
         {
@@ -1260,7 +1285,7 @@
                 "hardware": "1", 
                 "legal": "0", 
                 "medical": "1", 
-                "posts": "14", 
+                "posts": "15", 
                 "software": "0"
             }
         }, 
@@ -1370,7 +1395,7 @@
                 "hardware": "1", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "16", 
+                "posts": "20", 
                 "software": "1"
             }
         }, 

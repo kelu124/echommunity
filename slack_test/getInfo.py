@@ -145,8 +145,7 @@ def createUsers(sc,users):
     print(80 * "=")
     List=[]
     for i in users['members']:
- 	List.append(i['id'])
-
+ 	List.append(i['id']+";"+i["name"])
     f = open("logs/users.log","w+")
     f.write("\n".join(List))
     f.close()

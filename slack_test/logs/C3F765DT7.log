@@ -176,3 +176,60 @@
 1483660155.000224> @U0AAL4W13: - do we need to send raw signal or image from probe to smartphone? If you have 200 lines at 15cm, 15cm means 200us of acquisition, that's 12k points at 60msps.  If you have 20fps, that's 200 x 12000 x 20 bytes x (12 bits depending on your adc) per sec to transmit. If you have the image, that'd be say 5 to 10 times smaller. Need to think of the relevance as well of the need to have a raw-signal on the smartphone vs having it on a set dsp/fpga.
 1483660283.000226> @U0AAL4W13: - Second point is scan conversion. I trust the SC is done one the smartphone as of today, not on the red pitaya ?
 1483660298.000227> @U0AAL4W13: Anyhow, thanks for the notes, have a good night ;)
+1483682855.000228> @U38HVMZ6K: Thanks for the comment <@U0AAL4W13> I asked <@U0B47KC3S> to confirm my current understanding of the current setup since I am still ramping up to speed on the topic and you did it before. :+1::skin-tone-2: 
+1483700742.000229> @U38HVMZ6K: Hi guys. I have some hold-up for today's evening meetup and can only start at 8:30 PM. Hope this is OK for those of you who planned to attend. I updated the open_calendar accordingly. :alarm_clock:
+1483724094.000230> @U0B47KC3S: <@U38HVMZ6K> <@U37GZRZU6> <@U3GHS132Q> <@U3J40RUDT>  hey there, I am quite troubled, I don’t have any news from Jean-Christophe, hope nothing wrong. I propose we cancel our tonight meeting, what do you think ?
+1483724097.000231> @U0B47KC3S: I tell you as soon as we have news from him, so that we can schedule an other moment. Anyway, we maintain the meeting of next wednesday
+1483726352.000234> @U0B47KC3S: hi there <@U38HVMZ6K> <@U37GZRZU6> <@U3GHS132Q> <@U3J40RUDT>, I roolbak the information :grinning:
+1483726388.000236> @U0B47KC3S: jean-christophe is back !
+1483726543.000237> @U0B47KC3S: so Jean-Christophe does not have skype, but has a phone
+1483726585.000238> @U0B47KC3S: so I am going to organize a conf call - I’ll give you all the informations asap
+1483726613.000239> @U3J40RUDT: Ok! The meeting is at 8:30 yes ?  (reactions: @U37GZRZU6)
+1483726619.000240> @U0B47KC3S: yes
+1483726662.000241> @U3J40RUDT: Ok see you guys then! 
+1483726703.000242> @U38HVMZ6K: :+1::skin-tone-2: 
+1483727958.000245> @U0B47KC3S: dear fellows, here’s what I suggest -&gt; first we’ll try to skype if JC has gets a connectoin, which is not sure. If not, we can go reach the meeting, call -&gt; +33 1 70 94 60 22 and the conf no is 164807. However, if it is not free, it is about 0.10€/mn, so around 6€ for an hour. So what I suggest, is that this can be on supported by the association. What you think ?
+1483728394.000246> @U38HVMZ6K: Ok for me.
+1483728450.000247> @U3J40RUDT: That's fine for me too 
+1483728565.000248> @U3J40RUDT: How would the skype call work? Do you need my username ? 
+1483728673.000249> @U0B47KC3S: yes please :wink:
+1483728924.000250> @U3J40RUDT: It's omaciu
+1483729054.000251> @U0B47KC3S: great
+1483729227.000252> @U0B47KC3S: we have perhaps an option suggested by <@U37GZRZU6> ! I got some Skype credits to make a call on phone. Overall it seem to be less costy and we can pay without having to refill you;) Btw, I have tried it, it seems to work :wink: thks <@U37GZRZU6>
+1483729313.000253> @U3J40RUDT: great!
+1483729893.000254> @U38HVMZ6K: I also have free credits in case you get short
+1483730768.000255> @U37GZRZU6: :slightly_smiling_face: my username is aurelie.mutschler
+1483731317.000256> @U3GHS132Q: Hello, my skype username is silverlankaiz. I hope I can use it through my web browser
+1483731327.000257> @U38HVMZ6K: mine is <mailto:r.bornet@outlook.com>
+1483731548.000259> @U0B47KC3S: JC is available in 5 mns,I call you then because I have to add him first
+1483731574.000260> @U37GZRZU6: <@U0B47KC3S> ok :slightly_smiling_face:
+1483731590.000261> @U38HVMZ6K: just the time for my dessert :wink: (reactions: @U37GZRZU6)
+1483731606.000262> @U0B47KC3S: ok :wink:
+1483731643.000263> @U3GHS132Q: It seems that I can not call the button is not available hum :disappointed:
+1483731677.000264> @U38HVMZ6K: Mehdi will call you
+1483731750.000265> @U0B47KC3S: ok <@U3GHS132Q> I am going to try
+1483731812.000266> @U3GHS132Q: I will install it on my phone, I think that I miss some javascript or something like this
+1483731826.000267> @U3GHS132Q: You can begin without me of course ^^
+1483731831.000268> @U0B47KC3S: <@U3GHS132Q>  I can’t reach you
+1483731847.000269> @U0B47KC3S: but I see you connected
+1483731855.000270> @U0B47KC3S: do you see something ringing
+1483731872.000271> @U3GHS132Q: I just see the missed call but nothing is ringing
+1483731923.000272> @U0B47KC3S: I sent you a text message, you received it ?
+1483732135.000273> @U0B47KC3S: ok <@U3GHS132Q> misses some button, he s going to connect through his andoird interface
+1483732203.000274> @U3GHS132Q: I think it will take some time, so begin without me ^^"""
+1483732374.000275> @U38HVMZ6K: <https://www.youtube.com/watch?v=DYu_bGbZiiQ> ... (reactions: @U37GZRZU6)
+1483732459.000277> @U3J40RUDT: :laughing:
+1483732466.000278> @U3GHS132Q: xD
+1483732486.000279> @U0AAL4W13: Lolz (reactions: @U37GZRZU6)
+1483732977.000280> @U0B47KC3S: hey ther it does not seem to work, let’s switch to call conf : +33 1 70 94 60 22 and the conf no is 164807
+1483733055.000281> @U3J40RUDT: So i have terrible cell service in the apartment, let’s hope it works :smile:
+1483733069.000282> @U0B47KC3S: for french people the no call 0821 616 111 (reactions: @U37GZRZU6)
+1483733116.000283> @U3GHS132Q: Does we change because of me ? Because the skype app is ready for me lol
+1483733154.000284> @U38HVMZ6K: no because of J-C not having a connection
+1483733172.000285> @U3GHS132Q: Ok ^^
+1483734824.000286> @U3GHS132Q: Basically what is SysLink ? Is it a kernel shared buffer between the OMAP and the ARM ?
+1483734975.000287> @U38HVMZ6K: it's more than a simple shared buffer...
+1483735015.000288> @U38HVMZ6K: it's a whole framework with services and abstraction for interprocessors communication
+1483735038.000289> @U38HVMZ6K: have a look at Syslink overview here to get an idea: <http://processors.wiki.ti.com/index.php/SysLink_Overview>
+1483735208.000290> @U3GHS132Q: If i find the source code for this I think I will read it, it seems interessting
+1483735490.000291> @U3GHS132Q: But before I will have to eat xD ! For those who did not eat : enjoy your meal ! And for those who ate : enjoy your digestion :stuck_out_tongue: (reactions: @U0B47KC3S)

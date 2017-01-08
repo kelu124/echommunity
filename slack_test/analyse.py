@@ -15,7 +15,7 @@ import os
 from os import walk
 import json
 
-MainJSON = []
+
 
 # List of keywords
 Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor"]
@@ -36,10 +36,15 @@ def getChannelLogs(mypath):
 	return good
 
 def GetUserList(list):
-	f = open("./logs/"+list,'r')
-	text = f.read().split("\n")
-	f.close()
-	return text
+	People = []
+	usernames = {}
+	with open("./logs/users.log") as users:  
+		for user in users:
+			WhoIs = user.strip().split(";")
+			People.append(WhoIs[0])
+			usernames[WhoIs[0]] = WhoIs[1]
+	#print usernames
+	return People
 
 def OpenLog(logfile):
 	f = open("./logs/"+logfile,'r')
@@ -59,6 +64,9 @@ def find_between( s, first, last ):
 Users = GetUserList("users.log")
 # Get logs
 Files = getChannelLogs("./logs/")
+
+MainJSON = {"id":"MainJSON"} 
+
 # Process each log
 for ChannelID in Files:
 	Log = OpenLog(ChannelID)
@@ -92,23 +100,23 @@ for ChannelID in Files:
 			if "(reactions: " in line:
 				reacted = find_between( line, "(reactions: ", ")" ).split(",")
 				for reac in reacted:
-					reactions = {'user_id': User, 'mentioned_user_id': reac, "ts" : line.split(">")[0]}
+					reactions = {'user_id': User, 'mentioned_user_id': reac.replace("@",""), "ts" : line.split(">")[0]}
 					ChannelUserReactions.append(reactions)
 			if "<@" in line:
 				m = re.findall ( '<@(.*?)>', line, re.DOTALL)
 				for mentions in m:
 				    if not (User == mentions): 
-					mentionsJSON = {'user_id': User, 'mentioned_user_id' : mentions, "ts" : line.split(">")[0]}
+					mentionsJSON = {'user_id': User, 'mentioned_user_id' : mentions.replace("@",""), "ts" : line.split(">")[0]}
 					ChannelUserMentions.append(mentionsJSON)
 
 		UserInfo = {User : {'posts': str(Log.count(User)), 'software': str(CountSoft), 'hardware': str(CountHard), 'legal': str(CountLegal), 'medical': str(CountMedical), 'design': str(CountDesign), 'community': str(CountCommunity)}}
-		ChannelUserInfos.append(UserInfo)
+
 
 		if Log.count(User):
 			ChannelUsers.append(User)
 
-		
 
+		ChannelUserInfos.append(UserInfo)
 		ChannelData["mentions"] = ChannelUserMentions
 		ChannelData["reactions"] = ChannelUserReactions
 
@@ -121,7 +129,7 @@ for ChannelID in Files:
 	f.close()
 
 # Dumping main json
-json_data = json.dumps(MainJSON, sort_keys=True, indent=4)
-f = open("logs/MainJSON.json","w+")
-f.write(json_data)
-f.close()
+#json_data = json.dumps(MainJSON, sort_keys=True, indent=4)
+#f = open("logs/MainJSON.json","w+")
+#f.write(json_data)
+#f.close()
