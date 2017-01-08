@@ -17,7 +17,6 @@ from pprint import pprint
 import operator
 
 def getChannelLogs(mypath):
-	# getChannelLogs("./logs/")
 	f = []
 	for (dirpath, dirnames, filenames) in walk(mypath):
 	    f.extend(filenames)
@@ -33,12 +32,10 @@ def GetPeople():
 			WhoIs = user.strip().split(";")
 			People.append(WhoIs[0])
 			usernames[WhoIs[0]] = WhoIs[1]
-	#print usernames
 	return People,usernames
 
 def CreatePage(PeopleID,usernames,PeopleJSON):
 	k = 0
-	print PeopleID
 	UserPage = "# Some info on "+usernames[PeopleID]+" (_@"+PeopleID+"_)\n\n\n"
 	UserPage += "## Topics of interest\n\n"
 	UserPage += "### Posts: \n\nNumber of posts: "+str(PeopleJSON["posts"]["posts"])
@@ -49,6 +46,7 @@ def CreatePage(PeopleID,usernames,PeopleJSON):
 		PPLPost.reverse()
 
 	for post in PPLPost:
+	    if post[1]:
 		UserPage += "* __"+post[0]+"__: " + str(post[1])+" posts\n"
 
 	UserPage += "\n## Key interactions \n\n"
@@ -59,7 +57,7 @@ def CreatePage(PeopleID,usernames,PeopleJSON):
 		PPLReaction.reverse()
 
 	for ppl in PPLReaction:
-		UserPage += "* ["+ppl[0]+"](./"+ppl[0]+".md): " + str(ppl[1])+" reactions\n"	
+		UserPage += "* [@"+usernames[ppl[0]]+"](./"+ppl[0]+".md): " + str(ppl[1])+" reactions\n"	
 
 	f = open("../gh-pages/"+PeopleID+".md","w+")
 	f.write(UserPage)
@@ -97,16 +95,12 @@ for PeopleID in PPList:
 		with open('./logs/'+JsonFile) as data_file:    
 		    data = json.load(data_file)
 		if PeopleID in data["users"]:
-			#print PeopleID + " --> "+str(data["users"])
-			#pprint(data)
 			for mention in data['mentions']:
 				if PeopleID == mention["user_id"]:
-					#print reaction["mentioned_user_id"]+" "+PeopleID
 					PeopleJSON["reactions"][mention["mentioned_user_id"]] += 1
 
 			for reaction in data['reactions']:
 				if PeopleID == reaction["user_id"]:
-					#print reaction["mentioned_user_id"]+" "+PeopleID
 					PeopleJSON["reactions"][reaction["mentioned_user_id"]] += 1
 
 			for UserID in data['users_info']:
@@ -114,15 +108,13 @@ for PeopleID in PPList:
 				if (i == PeopleID):
 					for subject in UserID[i]:
 					    if (int(UserID[i][subject])):
-						print JsonFile+" - "+UserID[i][subject]+" "+subject+" -- "+i
+						#print JsonFile+" - "+UserID[i][subject]+" "+subject+" -- "+i
 					    	PeopleJSON["posts"][subject] += int(UserID[i][subject])
-					    #print (UserID[i][subject])
 	for ppl in PPList:
 		if not PeopleJSON["reactions"][ppl]:
 			del PeopleJSON["reactions"][ppl]
 
 	MainJSON["MainData"][PeopleID] = PeopleJSON
-	#print PeopleJSON
 
 	CreatePage(PeopleID,usernames,PeopleJSON)
 
