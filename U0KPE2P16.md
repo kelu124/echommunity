@@ -3,6 +3,8 @@
 # Some info on __yohann__ (_@U0KPE2P16_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@yohann/).
+
 ## Topics of interest
 
 ### Posts: 

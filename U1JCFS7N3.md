@@ -3,6 +3,8 @@
 # Some info on __david.ydre__ (_@U1JCFS7N3_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@david.ydre/).
+
 ## Topics of interest
 
 ### Posts: 

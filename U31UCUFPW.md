@@ -3,6 +3,8 @@
 # Some info on __garycano__ (_@U31UCUFPW_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@garycano/).
+
 ## Topics of interest
 
 ### Posts: 

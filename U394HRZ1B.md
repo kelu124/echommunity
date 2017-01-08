@@ -3,6 +3,8 @@
 # Some info on __benjaminlabomedia__ (_@U394HRZ1B_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@benjaminlabomedia/).
+
 ## Topics of interest
 
 ### Posts: 

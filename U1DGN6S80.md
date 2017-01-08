@@ -3,6 +3,8 @@
 # Some info on __jojojbz__ (_@U1DGN6S80_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@jojojbz/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -15,5 +17,5 @@ Number of posts: 13
 
 ## Key interactions 
 
-* [@jerome](./U07UEJC2H.md): 1 reactions
-* [@olivier](./U04DFTZ7D.md): 1 reactions
+* [@jerome](./U07UEJC2H.md): 1 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

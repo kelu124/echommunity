@@ -3,6 +3,8 @@
 # Some info on __soobash__ (_@U1PAGSKGU_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@soobash/).
+
 ## Topics of interest
 
 ### Posts: 

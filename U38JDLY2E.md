@@ -3,6 +3,8 @@
 # Some info on __guido_bendezu__ (_@U38JDLY2E_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@guido_bendezu/).
+
 ## Topics of interest
 
 ### Posts: 

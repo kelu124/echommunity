@@ -3,6 +3,8 @@
 # Some info on __nicolas__ (_@U0LLJC03V_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@nicolas/).
+
 ## Topics of interest
 
 ### Posts: 

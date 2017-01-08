@@ -3,6 +3,8 @@
 # Some info on __eddumon__ (_@U3HH0CEAW_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@eddumon/).
+
 ## Topics of interest
 
 ### Posts: 

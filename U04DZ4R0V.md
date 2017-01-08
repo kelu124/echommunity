@@ -3,6 +3,8 @@
 # Some info on __xtof__ (_@U04DZ4R0V_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@xtof/).
+
 ## Topics of interest
 
 ### Posts: 

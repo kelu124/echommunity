@@ -3,6 +3,8 @@
 # Some info on __mabdous__ (_@U2YN8FREG_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@mabdous/).
+
 ## Topics of interest
 
 ### Posts: 

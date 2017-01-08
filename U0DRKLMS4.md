@@ -3,6 +3,8 @@
 # Some info on __ozanne__ (_@U0DRKLMS4_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@ozanne/).
+
 ## Topics of interest
 
 ### Posts: 

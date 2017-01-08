@@ -3,6 +3,8 @@
 # Some info on __virginie__ (_@U13UA10KS_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@virginie/).
+
 ## Topics of interest
 
 ### Posts: 

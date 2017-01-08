@@ -3,6 +3,8 @@
 # Some info on __benschan__ (_@U1PKXQVDW_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@benschan/).
+
 ## Topics of interest
 
 ### Posts: 

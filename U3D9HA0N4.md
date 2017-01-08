@@ -3,6 +3,8 @@
 # Some info on __fulvio.michelis__ (_@U3D9HA0N4_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@fulvio.michelis/).
+
 ## Topics of interest
 
 ### Posts: 

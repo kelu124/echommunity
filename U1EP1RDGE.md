@@ -3,6 +3,8 @@
 # Some info on __matt__ (_@U1EP1RDGE_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@matt/).
+
 ## Topics of interest
 
 ### Posts: 

@@ -3,6 +3,8 @@
 # Some info on __nassim.ch__ (_@U1NM17NHF_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@nassim.ch/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -17,7 +19,7 @@ Number of posts: 49
 
 ## Key interactions 
 
-* [@alienor](./U1N5Q9334.md): 3 reactions
-* [@narimene](./U1NTT0ZPH.md): 2 reactions
-* [@olivier](./U04DFTZ7D.md): 2 reactions
-* [@luc](./U0AAL4W13.md): 1 reactions
+* [@alienor](./U1N5Q9334.md): 3 mention and/or reactions
+* [@narimene](./U1NTT0ZPH.md): 2 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 2 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 1 mention and/or reactions

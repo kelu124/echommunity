@@ -3,6 +3,8 @@
 # Some info on __momo__ (_@U1NLWV4BZ_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@momo/).
+
 ## Topics of interest
 
 ### Posts: 

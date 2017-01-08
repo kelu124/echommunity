@@ -3,6 +3,8 @@
 # Some info on __jules__ (_@U3ML4L01Z_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@jules/).
+
 ## Topics of interest
 
 ### Posts: 

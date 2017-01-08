@@ -3,6 +3,8 @@
 # Some info on __feng__ (_@U1G9KDFNE_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@feng/).
+
 ## Topics of interest
 
 ### Posts: 

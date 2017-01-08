@@ -3,6 +3,8 @@
 # Some info on __gregsadetsky__ (_@U0KLG7CP8_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@gregsadetsky/).
+
 ## Topics of interest
 
 ### Posts: 

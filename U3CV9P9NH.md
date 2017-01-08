@@ -3,6 +3,8 @@
 # Some info on __sourava.mishra__ (_@U3CV9P9NH_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@sourava.mishra/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -17,4 +19,4 @@ Number of posts: 25
 
 ## Key interactions 
 
-* [@djabbz](./U2PFHNN3C.md): 1 reactions
+* [@djabbz](./U2PFHNN3C.md): 1 mention and/or reactions

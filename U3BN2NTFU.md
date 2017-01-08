@@ -3,6 +3,8 @@
 # Some info on __aliceconcordel__ (_@U3BN2NTFU_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@aliceconcordel/).
+
 ## Topics of interest
 
 ### Posts: 

@@ -3,6 +3,8 @@
 # Some info on __mathieu__ (_@U0PPGEYFK_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@mathieu/).
+
 ## Topics of interest
 
 ### Posts: 

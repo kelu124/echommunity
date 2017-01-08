@@ -3,6 +3,8 @@
 # Some info on __mario_j__ (_@U32UWGGN9_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@mario_j/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -18,6 +20,6 @@ Number of posts: 46
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 1 reactions
-* [@pierrepadilla](./U2X419KJS.md): 1 reactions
-* [@olivier](./U04DFTZ7D.md): 1 reactions
+* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
+* [@pierrepadilla](./U2X419KJS.md): 1 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

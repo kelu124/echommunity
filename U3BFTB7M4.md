@@ -3,6 +3,8 @@
 # Some info on __manuelquezada__ (_@U3BFTB7M4_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@manuelquezada/).
+
 ## Topics of interest
 
 ### Posts: 

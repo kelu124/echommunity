@@ -3,6 +3,8 @@
 # Some info on __aaylith__ (_@U3ARRLDQ8_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@aaylith/).
+
 ## Topics of interest
 
 ### Posts: 

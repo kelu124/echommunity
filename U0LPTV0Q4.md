@@ -3,6 +3,8 @@
 # Some info on __michel_bala__ (_@U0LPTV0Q4_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@michel_bala/).
+
 ## Topics of interest
 
 ### Posts: 

@@ -3,6 +3,8 @@
 # Some info on __narimene__ (_@U1NTT0ZPH_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@narimene/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -17,8 +19,8 @@ Number of posts: 47
 
 ## Key interactions 
 
-* [@alienor](./U1N5Q9334.md): 2 reactions
-* [@olivier](./U04DFTZ7D.md): 2 reactions
-* [@benchoufi](./U0B47KC3S.md): 1 reactions
-* [@nassim.ch](./U1NM17NHF.md): 1 reactions
-* [@luc](./U0AAL4W13.md): 1 reactions
+* [@alienor](./U1N5Q9334.md): 2 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 2 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
+* [@nassim.ch](./U1NM17NHF.md): 1 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 1 mention and/or reactions

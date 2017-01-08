@@ -3,6 +3,8 @@
 # Some info on __ivan.l__ (_@U3CDR25JP_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@ivan.l/).
+
 ## Topics of interest
 
 ### Posts: 

@@ -3,6 +3,8 @@
 # Some info on __richard__ (_@U0M70EXNC_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@richard/).
+
 ## Topics of interest
 
 ### Posts: 

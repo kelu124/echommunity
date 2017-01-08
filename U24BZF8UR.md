@@ -3,6 +3,8 @@
 # Some info on __polly__ (_@U24BZF8UR_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@polly/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -16,4 +18,4 @@ Number of posts: 10
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 1 reactions
+* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions

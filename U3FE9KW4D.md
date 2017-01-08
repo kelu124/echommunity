@@ -3,6 +3,8 @@
 # Some info on __joseph__ (_@U3FE9KW4D_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@joseph/).
+
 ## Topics of interest
 
 ### Posts: 

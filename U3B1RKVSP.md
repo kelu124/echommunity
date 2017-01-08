@@ -3,6 +3,8 @@
 # Some info on __patdollard__ (_@U3B1RKVSP_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@patdollard/).
+
 ## Topics of interest
 
 ### Posts: 

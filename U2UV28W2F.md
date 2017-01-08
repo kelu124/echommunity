@@ -3,6 +3,8 @@
 # Some info on __ramzi__ (_@U2UV28W2F_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@ramzi/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -15,4 +17,4 @@ Number of posts: 9
 
 ## Key interactions 
 
-* [@luc](./U0AAL4W13.md): 1 reactions
+* [@luc](./U0AAL4W13.md): 1 mention and/or reactions

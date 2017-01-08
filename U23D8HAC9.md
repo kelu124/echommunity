@@ -3,6 +3,8 @@
 # Some info on __priyank__ (_@U23D8HAC9_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@priyank/).
+
 ## Topics of interest
 
 ### Posts: 

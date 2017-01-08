@@ -3,6 +3,8 @@
 # Some info on __gautier.ferandelle__ (_@U0PKUKHPC_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@gautier.ferandelle/).
+
 ## Topics of interest
 
 ### Posts: 

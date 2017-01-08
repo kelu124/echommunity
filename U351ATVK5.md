@@ -3,6 +3,8 @@
 # Some info on __miguel_egoavil__ (_@U351ATVK5_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@miguel_egoavil/).
+
 ## Topics of interest
 
 ### Posts: 

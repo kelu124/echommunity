@@ -3,6 +3,8 @@
 # Some info on __quentin_dg__ (_@U2UU194RZ_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@quentin_dg/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -16,4 +18,4 @@ Number of posts: 22
 
 ## Key interactions 
 
-* [@jerome](./U07UEJC2H.md): 1 reactions
+* [@jerome](./U07UEJC2H.md): 1 mention and/or reactions

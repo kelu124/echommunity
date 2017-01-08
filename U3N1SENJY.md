@@ -3,6 +3,8 @@
 # Some info on __jos__ (_@U3N1SENJY_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@jos/).
+
 ## Topics of interest
 
 ### Posts: 

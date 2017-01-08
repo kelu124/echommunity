@@ -3,6 +3,8 @@
 # Some info on __romaxx__ (_@U35LGETA4_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@romaxx/).
+
 ## Topics of interest
 
 ### Posts: 

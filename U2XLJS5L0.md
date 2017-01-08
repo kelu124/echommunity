@@ -3,6 +3,8 @@
 # Some info on __aminekhaddar__ (_@U2XLJS5L0_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@aminekhaddar/).
+
 ## Topics of interest
 
 ### Posts: 

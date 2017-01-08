@@ -3,6 +3,8 @@
 # Some info on __edem__ (_@U34N7NQNR_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@edem/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -15,5 +17,5 @@ Number of posts: 48
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 1 reactions
-* [@hackolite](./U20C8CKTL.md): 1 reactions
+* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
+* [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions

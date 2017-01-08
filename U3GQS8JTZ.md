@@ -3,6 +3,8 @@
 # Some info on __jcbillard__ (_@U3GQS8JTZ_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@jcbillard/).
+
 ## Topics of interest
 
 ### Posts: 

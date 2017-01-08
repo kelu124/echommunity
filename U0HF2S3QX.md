@@ -3,6 +3,8 @@
 # Some info on __ufarad__ (_@U0HF2S3QX_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@ufarad/).
+
 ## Topics of interest
 
 ### Posts: 

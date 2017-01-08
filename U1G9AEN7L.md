@@ -3,6 +3,8 @@
 # Some info on __samy121__ (_@U1G9AEN7L_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@samy121/).
+
 ## Topics of interest
 
 ### Posts: 

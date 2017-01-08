@@ -3,6 +3,8 @@
 # Some info on __slackbot__ (_@USLACKBOT_)
 
 
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@slackbot/).
+
 ## Topics of interest
 
 ### Posts: 
@@ -16,5 +18,5 @@ Number of posts: 26
 
 ## Key interactions 
 
-* [@aurelie](./U37GZRZU6.md): 1 reactions
-* [@hackolite](./U20C8CKTL.md): 1 reactions
+* [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
+* [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions
