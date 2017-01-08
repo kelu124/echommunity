@@ -11,12 +11,7 @@ Number of posts: 19
 
 * __posts__: 19 posts
 * __medical__: 1 posts
-* __software__: 0 posts
-* __legal__: 0 posts
-* __design__: 0 posts
-* __hardware__: 0 posts
-* __community__: 0 posts
 
 ## Key interactions 
 
-* [U32FZ0QLX](./U32FZ0QLX.md): 1 reactions
+* [@victor_arias](./U32FZ0QLX.md): 1 reactions
