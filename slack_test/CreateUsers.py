@@ -15,6 +15,9 @@ from os import walk
 import json 
 from pprint import pprint
 import operator
+from operator import itemgetter
+
+Header = UserPage = "[Home](https://kelu124.github.io/echommunity/)\n\n"
 
 def getChannelLogs(mypath):
 	f = []
@@ -36,7 +39,8 @@ def GetPeople():
 
 def CreatePage(PeopleID,usernames,PeopleJSON):
 	k = 0
-	UserPage = "# Some info on "+usernames[PeopleID]+" (_@"+PeopleID+"_)\n\n\n"
+	UserPage = Header
+	UserPage += "# Some info on __"+usernames[PeopleID]+"__ (_@"+PeopleID+"_)\n\n\n"
 	UserPage += "## Topics of interest\n\n"
 	UserPage += "### Posts: \n\nNumber of posts: "+str(PeopleJSON["posts"]["posts"])
 	UserPage += "\n\n### Topics:\n\n"
@@ -74,11 +78,16 @@ def CreatePage(PeopleID,usernames,PeopleJSON):
 PPList, usernames = GetPeople()
 
 MainJSON = {"MainData":{}}
+HighScorePostsJSON = []
+
+
 for PeopleID in PPList:
+	TopicsNames = []
 	PeopleJSON = {"id":usernames[PeopleID],"reactions":{},"posts":{}}
 
 	for ppl in PPList:
 		PeopleJSON["reactions"][ppl]=0
+		
 
 
 	PeopleJSON["posts"]["hardware"]=0	
@@ -110,6 +119,13 @@ for PeopleID in PPList:
 					    if (int(UserID[i][subject])):
 						#print JsonFile+" - "+UserID[i][subject]+" "+subject+" -- "+i
 					    	PeopleJSON["posts"][subject] += int(UserID[i][subject])
+	Vector = [PeopleID]
+	for subject in UserID[i]:
+		Vector.append(int(PeopleJSON["posts"][subject]))
+		TopicsNames.append(str(subject))
+	HighScorePostsJSON.append(Vector)
+	#print HighScorePostsJSON
+
 	for ppl in PPList:
 		if not PeopleJSON["reactions"][ppl]:
 			del PeopleJSON["reactions"][ppl]
@@ -117,6 +133,27 @@ for PeopleID in PPList:
 	MainJSON["MainData"][PeopleID] = PeopleJSON
 
 	CreatePage(PeopleID,usernames,PeopleJSON)
+
+#print HighScorePostsJSON
+
+
+
+MainPage = Header
+MainPage += "# What is it?\n This page shows the different spokepersons for the different themes of the project.\n"
+
+for i in range(len(TopicsNames)):
+	Post =  sorted(HighScorePostsJSON,key=itemgetter(i+1))
+	Post.reverse()
+	MainPage += "\n### "+TopicsNames[i]+"\n\n"
+	for j in range(5):
+		MainPage += "* [@"+usernames[Post[j][0]]+"](./"+Post[j][0]+".md): " + str(Post[j][i+1])+" posts\n"
+
+print MainPage
+
+f = open("../gh-pages/README.md","w+")
+f.write(MainPage)
+f.close()
+
 
 json_data = json.dumps(MainJSON, sort_keys=True, indent=4)
 f = open("logs/MainUsers.jason","w+")
