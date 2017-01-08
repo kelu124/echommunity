@@ -103,16 +103,20 @@ for PeopleID in PPList:
 				if PeopleID == mention["user_id"]:
 					#print reaction["mentioned_user_id"]+" "+PeopleID
 					PeopleJSON["reactions"][mention["mentioned_user_id"]] += 1
+
 			for reaction in data['reactions']:
 				if PeopleID == reaction["user_id"]:
 					#print reaction["mentioned_user_id"]+" "+PeopleID
 					PeopleJSON["reactions"][reaction["mentioned_user_id"]] += 1
+
 			for UserID in data['users_info']:
-			    #print UserID
 			    for i in UserID:
-				for subject in UserID[i]:
-				    PeopleJSON["posts"][subject] += int(UserID[i][subject])
-				    #print (UserID[i][subject])
+				if (i == PeopleID):
+					for subject in UserID[i]:
+					    if (int(UserID[i][subject])):
+						print JsonFile+" - "+UserID[i][subject]+" "+subject+" -- "+i
+					    	PeopleJSON["posts"][subject] += int(UserID[i][subject])
+					    #print (UserID[i][subject])
 	for ppl in PPList:
 		if not PeopleJSON["reactions"][ppl]:
 			del PeopleJSON["reactions"][ppl]
