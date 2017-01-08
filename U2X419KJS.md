@@ -9,13 +9,13 @@ Number of posts: 4361
 
 ### Topics:
 
-* __medical__: 81 posts
 * __posts__: 4361 posts
+* __software__: 364 posts
 * __community__: 232 posts
+* __medical__: 81 posts
 * __hardware__: 71 posts
 * __design__: 65 posts
 * __legal__: 53 posts
-* __software__: 364 posts
 
 ## Key interactions 
 
