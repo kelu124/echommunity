@@ -1,0 +1,80 @@
+digraph {
+	graph [fontsize=12 label="the echOmmunity" layout=twopi overlap=false rankdir=BT splines=true]
+		medical [fillcolor=blue fontsize=22 shape=box style=filled]
+		olivier [fillcolor=yellow style=filled]
+			medical -> olivier
+		brunocp [fillcolor=yellow style=filled]
+			medical -> brunocp
+		benchoufi [fillcolor=yellow style=filled]
+			medical -> benchoufi
+		rbo [fillcolor=yellow style=filled]
+			medical -> rbo
+		luc [fillcolor=yellow style=filled]
+			medical -> luc
+		posts [fillcolor=blue fontsize=22 shape=box style=filled]
+		benchoufi [fillcolor=yellow style=filled]
+			posts -> benchoufi
+		luc [fillcolor=yellow style=filled]
+			posts -> luc
+		olivier [fillcolor=yellow style=filled]
+			posts -> olivier
+		rbo [fillcolor=yellow style=filled]
+			posts -> rbo
+		hackolite [fillcolor=yellow style=filled]
+			posts -> hackolite
+		legal [fillcolor=blue fontsize=22 shape=box style=filled]
+		luc [fillcolor=yellow style=filled]
+			legal -> luc
+		olivier [fillcolor=yellow style=filled]
+			legal -> olivier
+		rbo [fillcolor=yellow style=filled]
+			legal -> rbo
+		benchoufi [fillcolor=yellow style=filled]
+			legal -> benchoufi
+		eiffel [fillcolor=yellow style=filled]
+			legal -> eiffel
+		hardware [fillcolor=blue fontsize=22 shape=box style=filled]
+		luc [fillcolor=yellow style=filled]
+			hardware -> luc
+		olivier [fillcolor=yellow style=filled]
+			hardware -> olivier
+		rbo [fillcolor=yellow style=filled]
+			hardware -> rbo
+		benchoufi [fillcolor=yellow style=filled]
+			hardware -> benchoufi
+		jerome [fillcolor=yellow style=filled]
+			hardware -> jerome
+		design [fillcolor=blue fontsize=22 shape=box style=filled]
+		benchoufi [fillcolor=yellow style=filled]
+			design -> benchoufi
+		luc [fillcolor=yellow style=filled]
+			design -> luc
+		rbo [fillcolor=yellow style=filled]
+			design -> rbo
+		olivier [fillcolor=yellow style=filled]
+			design -> olivier
+		eiffel [fillcolor=yellow style=filled]
+			design -> eiffel
+		community [fillcolor=blue fontsize=22 shape=box style=filled]
+		benchoufi [fillcolor=yellow style=filled]
+			community -> benchoufi
+		olivier [fillcolor=yellow style=filled]
+			community -> olivier
+		luc [fillcolor=yellow style=filled]
+			community -> luc
+		rbo [fillcolor=yellow style=filled]
+			community -> rbo
+		hackolite [fillcolor=yellow style=filled]
+			community -> hackolite
+		software [fillcolor=blue fontsize=22 shape=box style=filled]
+		benchoufi [fillcolor=yellow style=filled]
+			software -> benchoufi
+		olivier [fillcolor=yellow style=filled]
+			software -> olivier
+		luc [fillcolor=yellow style=filled]
+			software -> luc
+		rbo [fillcolor=yellow style=filled]
+			software -> rbo
+		djabbz [fillcolor=yellow style=filled]
+			software -> djabbz
+}
