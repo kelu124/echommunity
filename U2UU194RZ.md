@@ -1,21 +1,21 @@
-# Some info on quentin_dg (U2UU194RZ)
+# Some info on quentin_dg (_@U2UU194RZ_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3721
+Number of posts: 22
 
 ### Topics:
 
-* __posts__: 3721 posts
-* __software__: 287 posts
-* __community__: 213 posts
-* __hardware__: 69 posts
-* __design__: 56 posts
-* __legal__: 52 posts
-* __medical__: 35 posts
+* __posts__: 22 posts
+* __software__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

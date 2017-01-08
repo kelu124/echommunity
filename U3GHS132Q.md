@@ -1,21 +1,21 @@
-# Some info on eiffel (U3GHS132Q)
+# Some info on eiffel (_@U3GHS132Q_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4788
+Number of posts: 109
 
 ### Topics:
 
-* __posts__: 4788 posts
-* __software__: 371 posts
-* __community__: 264 posts
-* __medical__: 86 posts
-* __legal__: 81 posts
-* __hardware__: 76 posts
-* __design__: 68 posts
+* __posts__: 109 posts
+* __software__: 11 posts
+* __design__: 5 posts
+* __hardware__: 4 posts
+* __legal__: 3 posts
+* __community__: 2 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

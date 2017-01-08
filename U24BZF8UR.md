@@ -1,21 +1,21 @@
-# Some info on polly (U24BZF8UR)
+# Some info on polly (_@U24BZF8UR_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 2701
+Number of posts: 10
 
 ### Topics:
 
-* __posts__: 2701 posts
-* __software__: 253 posts
-* __community__: 170 posts
-* __design__: 47 posts
-* __legal__: 41 posts
-* __hardware__: 36 posts
-* __medical__: 28 posts
+* __posts__: 10 posts
+* __software__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

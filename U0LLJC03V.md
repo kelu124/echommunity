@@ -1,21 +1,21 @@
-# Some info on nicolas (U0LLJC03V)
+# Some info on nicolas (_@U0LLJC03V_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 1855
+Number of posts: 7
 
 ### Topics:
 
-* __posts__: 1855 posts
-* __software__: 147 posts
-* __community__: 126 posts
-* __legal__: 32 posts
-* __medical__: 32 posts
-* __design__: 25 posts
-* __hardware__: 23 posts
+* __posts__: 7 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on edem (U34N7NQNR)
+# Some info on edem (_@U34N7NQNR_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4945
+Number of posts: 48
 
 ### Topics:
 
-* __posts__: 4945 posts
-* __software__: 382 posts
-* __community__: 282 posts
-* __legal__: 94 posts
-* __medical__: 88 posts
-* __hardware__: 81 posts
-* __design__: 70 posts
+* __posts__: 48 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

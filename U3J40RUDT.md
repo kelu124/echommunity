@@ -1,21 +1,21 @@
-# Some info on omaciu (U3J40RUDT)
+# Some info on omaciu (_@U3J40RUDT_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4557
+Number of posts: 44
 
 ### Topics:
 
-* __posts__: 4557 posts
-* __software__: 364 posts
-* __community__: 238 posts
-* __medical__: 86 posts
-* __hardware__: 71 posts
-* __design__: 67 posts
-* __legal__: 53 posts
+* __posts__: 44 posts
+* __software__: 3 posts
+* __design__: 3 posts
+* __legal__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

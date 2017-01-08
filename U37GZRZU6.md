@@ -1,21 +1,21 @@
-# Some info on aurelie (U37GZRZU6)
+# Some info on aurelie (_@U37GZRZU6_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4278
+Number of posts: 161
 
 ### Topics:
 
-* __posts__: 4278 posts
-* __software__: 361 posts
-* __community__: 229 posts
-* __hardware__: 72 posts
-* __design__: 64 posts
-* __legal__: 54 posts
-* __medical__: 46 posts
+* __posts__: 161 posts
+* __software__: 12 posts
+* __community__: 7 posts
+* __design__: 3 posts
+* __legal__: 2 posts
+* __hardware__: 1 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on djabbz (U2PFHNN3C)
+# Some info on djabbz (_@U2PFHNN3C_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4308
+Number of posts: 161
 
 ### Topics:
 
-* __posts__: 4308 posts
-* __software__: 357 posts
-* __community__: 226 posts
-* __hardware__: 71 posts
-* __design__: 63 posts
-* __legal__: 53 posts
-* __medical__: 51 posts
+* __posts__: 161 posts
+* __software__: 21 posts
+* __community__: 5 posts
+* __medical__: 2 posts
+* __legal__: 1 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
 
 ## Key interactions 
 

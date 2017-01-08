@@ -1,21 +1,21 @@
-# Some info on luc (U0AAL4W13)
+# Some info on luc (_@U0AAL4W13_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 5351
+Number of posts: 647
 
 ### Topics:
 
-* __posts__: 5351 posts
-* __software__: 399 posts
-* __community__: 321 posts
-* __legal__: 121 posts
-* __hardware__: 89 posts
-* __medical__: 89 posts
-* __design__: 73 posts
+* __posts__: 647 posts
+* __community__: 64 posts
+* __legal__: 53 posts
+* __software__: 28 posts
+* __hardware__: 27 posts
+* __design__: 16 posts
+* __medical__: 5 posts
 
 ## Key interactions 
 

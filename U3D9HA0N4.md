@@ -1,21 +1,21 @@
-# Some info on fulvio.michelis (U3D9HA0N4)
+# Some info on fulvio.michelis (_@U3D9HA0N4_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3914
+Number of posts: 24
 
 ### Topics:
 
-* __posts__: 3914 posts
-* __software__: 327 posts
-* __community__: 227 posts
-* __medical__: 81 posts
-* __legal__: 58 posts
-* __hardware__: 53 posts
-* __design__: 48 posts
+* __posts__: 24 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

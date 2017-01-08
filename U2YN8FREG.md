@@ -1,21 +1,21 @@
-# Some info on mabdous (U2YN8FREG)
+# Some info on mabdous (_@U2YN8FREG_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3408
+Number of posts: 13
 
 ### Topics:
 
-* __posts__: 3408 posts
-* __software__: 338 posts
-* __community__: 192 posts
-* __design__: 55 posts
-* __legal__: 50 posts
-* __hardware__: 45 posts
-* __medical__: 33 posts
+* __posts__: 13 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

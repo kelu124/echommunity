@@ -1,21 +1,21 @@
-# Some info on pierrepadilla (U2X419KJS)
+# Some info on pierrepadilla (_@U2X419KJS_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4361
+Number of posts: 75
 
 ### Topics:
 
-* __posts__: 4361 posts
-* __software__: 364 posts
-* __community__: 232 posts
-* __medical__: 81 posts
-* __hardware__: 71 posts
-* __design__: 65 posts
-* __legal__: 53 posts
+* __posts__: 75 posts
+* __medical__: 2 posts
+* __hardware__: 1 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __community__: 0 posts
 
 ## Key interactions 
 

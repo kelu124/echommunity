@@ -1,21 +1,21 @@
-# Some info on jerome (U07UEJC2H)
+# Some info on jerome (_@U07UEJC2H_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3967
+Number of posts: 117
 
 ### Topics:
 
-* __posts__: 3967 posts
-* __software__: 311 posts
-* __community__: 243 posts
-* __legal__: 91 posts
-* __hardware__: 79 posts
-* __medical__: 72 posts
-* __design__: 60 posts
+* __posts__: 117 posts
+* __software__: 9 posts
+* __hardware__: 8 posts
+* __design__: 1 posts
+* __community__: 1 posts
+* __legal__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

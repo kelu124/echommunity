@@ -1,21 +1,21 @@
-# Some info on slackbot (USLACKBOT)
+# Some info on slackbot (_@USLACKBOT_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 1282
+Number of posts: 26
 
 ### Topics:
 
-* __posts__: 1282 posts
-* __software__: 128 posts
-* __community__: 62 posts
-* __design__: 23 posts
-* __hardware__: 21 posts
-* __legal__: 17 posts
-* __medical__: 1 posts
+* __posts__: 26 posts
+* __software__: 14 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

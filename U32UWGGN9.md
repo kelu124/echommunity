@@ -1,21 +1,21 @@
-# Some info on mario_j (U32UWGGN9)
+# Some info on mario_j (_@U32UWGGN9_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4984
+Number of posts: 46
 
 ### Topics:
 
-* __posts__: 4984 posts
-* __software__: 390 posts
-* __community__: 286 posts
-* __legal__: 95 posts
-* __medical__: 88 posts
-* __hardware__: 83 posts
-* __design__: 70 posts
+* __posts__: 46 posts
+* __software__: 5 posts
+* __hardware__: 1 posts
+* __medical__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __community__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on guido_bendezu (U38JDLY2E)
+# Some info on guido_bendezu (_@U38JDLY2E_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4695
+Number of posts: 28
 
 ### Topics:
 
-* __posts__: 4695 posts
-* __software__: 367 posts
-* __community__: 254 posts
-* __medical__: 86 posts
-* __hardware__: 72 posts
-* __design__: 69 posts
-* __legal__: 55 posts
+* __posts__: 28 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

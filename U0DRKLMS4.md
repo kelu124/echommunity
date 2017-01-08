@@ -1,21 +1,21 @@
-# Some info on ozanne (U0DRKLMS4)
+# Some info on ozanne (_@U0DRKLMS4_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4591
+Number of posts: 33
 
 ### Topics:
 
-* __posts__: 4591 posts
-* __software__: 325 posts
-* __community__: 285 posts
-* __legal__: 95 posts
-* __hardware__: 83 posts
-* __medical__: 73 posts
-* __design__: 66 posts
+* __posts__: 33 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

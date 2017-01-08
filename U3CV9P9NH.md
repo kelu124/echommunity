@@ -1,21 +1,21 @@
-# Some info on sourava.mishra (U3CV9P9NH)
+# Some info on sourava.mishra (_@U3CV9P9NH_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3935
+Number of posts: 25
 
 ### Topics:
 
-* __posts__: 3935 posts
-* __software__: 330 posts
-* __community__: 221 posts
-* __medical__: 81 posts
-* __legal__: 59 posts
-* __hardware__: 54 posts
-* __design__: 49 posts
+* __posts__: 25 posts
+* __community__: 2 posts
+* __software__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

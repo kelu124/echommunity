@@ -1,21 +1,21 @@
-# Some info on jcbillard (U3GQS8JTZ)
+# Some info on jcbillard (_@U3GQS8JTZ_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4672
+Number of posts: 32
 
 ### Topics:
 
-* __posts__: 4672 posts
-* __software__: 371 posts
-* __community__: 258 posts
-* __medical__: 86 posts
-* __legal__: 81 posts
-* __hardware__: 76 posts
-* __design__: 66 posts
+* __posts__: 32 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

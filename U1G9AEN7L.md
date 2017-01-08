@@ -1,21 +1,21 @@
-# Some info on samy121 (U1G9AEN7L)
+# Some info on samy121 (_@U1G9AEN7L_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 3054
+Number of posts: 12
 
 ### Topics:
 
-* __posts__: 3054 posts
-* __software__: 319 posts
-* __community__: 177 posts
-* __legal__: 38 posts
-* __design__: 37 posts
-* __medical__: 33 posts
-* __hardware__: 31 posts
+* __posts__: 12 posts
+* __hardware__: 1 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on benchoufi (U0B47KC3S)
+# Some info on benchoufi (_@U0B47KC3S_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 5343
+Number of posts: 832
 
 ### Topics:
 
-* __posts__: 5343 posts
-* __software__: 399 posts
-* __community__: 321 posts
-* __legal__: 121 posts
-* __hardware__: 89 posts
-* __medical__: 89 posts
-* __design__: 73 posts
+* __posts__: 832 posts
+* __software__: 179 posts
+* __community__: 98 posts
+* __medical__: 19 posts
+* __design__: 17 posts
+* __legal__: 11 posts
+* __hardware__: 11 posts
 
 ## Key interactions 
 

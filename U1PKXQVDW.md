@@ -1,21 +1,21 @@
-# Some info on benschan (U1PKXQVDW)
+# Some info on benschan (_@U1PKXQVDW_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4511
+Number of posts: 38
 
 ### Topics:
 
-* __posts__: 4511 posts
-* __software__: 368 posts
-* __community__: 245 posts
-* __medical__: 81 posts
-* __hardware__: 72 posts
-* __design__: 66 posts
-* __legal__: 56 posts
+* __posts__: 38 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

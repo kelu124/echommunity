@@ -1,21 +1,21 @@
-# Some info on gregsadetsky (U0KLG7CP8)
+# Some info on gregsadetsky (_@U0KLG7CP8_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4620
+Number of posts: 25
 
 ### Topics:
 
-* __posts__: 4620 posts
-* __software__: 364 posts
-* __community__: 248 posts
-* __medical__: 86 posts
-* __hardware__: 71 posts
-* __design__: 67 posts
-* __legal__: 55 posts
+* __posts__: 25 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

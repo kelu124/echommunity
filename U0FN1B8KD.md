@@ -1,21 +1,21 @@
-# Some info on emilie (U0FN1B8KD)
+# Some info on emilie (_@U0FN1B8KD_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 5204
+Number of posts: 118
 
 ### Topics:
 
-* __posts__: 5204 posts
-* __software__: 396 posts
-* __community__: 307 posts
-* __legal__: 96 posts
-* __medical__: 89 posts
-* __hardware__: 85 posts
-* __design__: 73 posts
+* __posts__: 118 posts
+* __software__: 10 posts
+* __community__: 7 posts
+* __hardware__: 1 posts
+* __medical__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on david.ydre (U1JCFS7N3)
+# Some info on david.ydre (_@U1JCFS7N3_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 2962
+Number of posts: 9
 
 ### Topics:
 
-* __posts__: 2962 posts
-* __software__: 261 posts
-* __community__: 185 posts
-* __legal__: 37 posts
-* __medical__: 33 posts
-* __hardware__: 31 posts
-* __design__: 30 posts
+* __posts__: 9 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

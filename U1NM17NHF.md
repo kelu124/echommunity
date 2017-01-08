@@ -1,21 +1,21 @@
-# Some info on nassim.ch (U1NM17NHF)
+# Some info on nassim.ch (_@U1NM17NHF_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4659
+Number of posts: 49
 
 ### Topics:
 
-* __posts__: 4659 posts
-* __software__: 364 posts
-* __community__: 286 posts
-* __legal__: 108 posts
-* __hardware__: 73 posts
-* __medical__: 54 posts
-* __design__: 53 posts
+* __posts__: 49 posts
+* __community__: 2 posts
+* __legal__: 1 posts
+* __software__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on garycano (U31UCUFPW)
+# Some info on garycano (_@U31UCUFPW_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4775
+Number of posts: 34
 
 ### Topics:
 
-* __posts__: 4775 posts
-* __software__: 375 posts
-* __community__: 276 posts
-* __legal__: 94 posts
-* __hardware__: 81 posts
-* __design__: 68 posts
-* __medical__: 53 posts
+* __posts__: 34 posts
+* __software__: 1 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

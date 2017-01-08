@@ -1,21 +1,21 @@
-# Some info on medmahdi (U36QEPF51)
+# Some info on medmahdi (_@U36QEPF51_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4421
+Number of posts: 31
 
 ### Topics:
 
-* __posts__: 4421 posts
-* __software__: 356 posts
-* __community__: 261 posts
-* __legal__: 82 posts
-* __hardware__: 67 posts
-* __medical__: 53 posts
-* __design__: 50 posts
+* __posts__: 31 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

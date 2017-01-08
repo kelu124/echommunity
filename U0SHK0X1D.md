@@ -1,21 +1,21 @@
-# Some info on olga_k (U0SHK0X1D)
+# Some info on olga_k (_@U0SHK0X1D_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 1930
+Number of posts: 6
 
 ### Topics:
 
-* __posts__: 1930 posts
-* __software__: 150 posts
-* __community__: 132 posts
-* __legal__: 32 posts
-* __medical__: 32 posts
-* __design__: 27 posts
-* __hardware__: 24 posts
+* __posts__: 6 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

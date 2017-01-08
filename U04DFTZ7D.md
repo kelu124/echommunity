@@ -1,21 +1,21 @@
-# Some info on olivier (U04DFTZ7D)
+# Some info on olivier (_@U04DFTZ7D_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 5333
+Number of posts: 547
 
 ### Topics:
 
-* __posts__: 5333 posts
-* __software__: 399 posts
-* __community__: 320 posts
-* __legal__: 121 posts
-* __hardware__: 89 posts
-* __medical__: 89 posts
-* __design__: 73 posts
+* __posts__: 547 posts
+* __community__: 75 posts
+* __legal__: 35 posts
+* __software__: 32 posts
+* __medical__: 26 posts
+* __hardware__: 16 posts
+* __design__: 11 posts
 
 ## Key interactions 
 

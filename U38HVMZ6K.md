@@ -1,21 +1,21 @@
-# Some info on rbo (U38HVMZ6K)
+# Some info on rbo (_@U38HVMZ6K_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4242
+Number of posts: 274
 
 ### Topics:
 
-* __posts__: 4242 posts
-* __software__: 357 posts
-* __community__: 223 posts
-* __medical__: 75 posts
-* __hardware__: 70 posts
-* __design__: 65 posts
-* __legal__: 53 posts
+* __posts__: 274 posts
+* __community__: 31 posts
+* __software__: 25 posts
+* __design__: 13 posts
+* __legal__: 12 posts
+* __hardware__: 11 posts
+* __medical__: 5 posts
 
 ## Key interactions 
 

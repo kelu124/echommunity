@@ -1,21 +1,21 @@
-# Some info on 20cent (U0GN7EB32)
+# Some info on 20cent (_@U0GN7EB32_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4010
+Number of posts: 26
 
 ### Topics:
 
-* __posts__: 4010 posts
-* __software__: 350 posts
-* __community__: 218 posts
-* __hardware__: 70 posts
-* __design__: 63 posts
-* __legal__: 53 posts
-* __medical__: 35 posts
+* __posts__: 26 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

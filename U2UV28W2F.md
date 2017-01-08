@@ -1,21 +1,21 @@
-# Some info on ramzi (U2UV28W2F)
+# Some info on ramzi (_@U2UV28W2F_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 2260
+Number of posts: 9
 
 ### Topics:
 
-* __posts__: 2260 posts
-* __software__: 154 posts
-* __community__: 139 posts
-* __hardware__: 47 posts
-* __legal__: 35 posts
-* __medical__: 34 posts
-* __design__: 33 posts
+* __posts__: 9 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

@@ -1,21 +1,21 @@
-# Some info on eddumon (U3HH0CEAW)
+# Some info on eddumon (_@U3HH0CEAW_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4597
+Number of posts: 25
 
 ### Topics:
 
-* __posts__: 4597 posts
-* __software__: 370 posts
-* __community__: 251 posts
-* __medical__: 86 posts
-* __legal__: 78 posts
-* __hardware__: 76 posts
-* __design__: 67 posts
+* __posts__: 25 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 

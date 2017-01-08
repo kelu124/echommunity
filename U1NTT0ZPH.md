@@ -1,21 +1,21 @@
-# Some info on narimene (U1NTT0ZPH)
+# Some info on narimene (_@U1NTT0ZPH_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4578
+Number of posts: 47
 
 ### Topics:
 
-* __posts__: 4578 posts
-* __software__: 361 posts
-* __community__: 273 posts
-* __legal__: 83 posts
-* __hardware__: 69 posts
-* __medical__: 54 posts
-* __design__: 53 posts
+* __posts__: 47 posts
+* __community__: 1 posts
+* __medical__: 1 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
 
 ## Key interactions 
 

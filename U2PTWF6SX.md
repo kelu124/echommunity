@@ -1,21 +1,21 @@
-# Some info on adrien_rohfritsch (U2PTWF6SX)
+# Some info on adrien_rohfritsch (_@U2PTWF6SX_)
 
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 4256
+Number of posts: 20
 
 ### Topics:
 
-* __posts__: 4256 posts
-* __software__: 365 posts
-* __community__: 257 posts
-* __legal__: 91 posts
-* __hardware__: 79 posts
-* __design__: 65 posts
-* __medical__: 37 posts
+* __posts__: 20 posts
+* __software__: 0 posts
+* __legal__: 0 posts
+* __design__: 0 posts
+* __hardware__: 0 posts
+* __community__: 0 posts
+* __medical__: 0 posts
 
 ## Key interactions 
 
