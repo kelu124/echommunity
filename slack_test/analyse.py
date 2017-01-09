@@ -18,12 +18,12 @@ import json
 
 
 # List of keywords
-Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor"]
-Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural","deep learning"]
+Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor","kit","boards","redpitaya","dsp","amplifier"]
+Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural","deep learning","opengl","scan conversion", "scanconversion"]
 Legal = ["patent", "agreement", "cla","licence","license","legal","copyright"] 
-Medical = ["doctor", "patient",'médecin',"medical"]
-Design = ["design", "user"] 
-Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki","documentation","presentation","contributeur","gitbook"]
+Medical = ["doctor", "patient",'médecin',"medical","medecin","health", "healthcare","physician","diagnosis"]
+Design = ["design", "user","interface"] 
+Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki","documentation","presentation","contributeur","gitbook","onboard","knowledge "]
 
 
 def getChannelLogs(mypath):

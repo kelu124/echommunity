@@ -153,7 +153,7 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "10", 
-                "software": "7"
+                "software": "8"
             }
         }, 
         {
@@ -1082,6 +1082,17 @@
         }, 
         {
             "U04DZ4R0V": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
                 "community": "0", 
                 "design": "0", 
                 "hardware": "0", 

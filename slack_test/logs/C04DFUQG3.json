@@ -6,7 +6,8 @@
         "U0GMX7QUB", 
         "U0AAL4W13", 
         "U04DFTZ7D", 
-        "U04DZ4R0V"
+        "U04DZ4R0V", 
+        "U3NT8G2BC"
     ], 
     "users_info": [
         {
@@ -1045,6 +1046,17 @@
         }, 
         {
             "U04DZ4R0V": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
                 "community": "0", 
                 "design": "0", 
                 "hardware": "0", 

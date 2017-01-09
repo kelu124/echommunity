@@ -277,6 +277,7 @@
         "U0HF2S3QX", 
         "U3210MXC5", 
         "U32FZ0QLX", 
+        "U3NT8G2BC", 
         "U04CV54A4", 
         "U2404BG5N"
     ], 
@@ -383,12 +384,12 @@
         {
             "U0B47KC3S": {
                 "community": "3", 
-                "design": "4", 
+                "design": "6", 
                 "hardware": "1", 
                 "legal": "1", 
                 "medical": "0", 
                 "posts": "62", 
-                "software": "47"
+                "software": "50"
             }
         }, 
         {
@@ -773,7 +774,7 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "11", 
-                "software": "1"
+                "software": "2"
             }
         }, 
         {
@@ -1021,7 +1022,7 @@
         {
             "U04DFTZ7D": {
                 "community": "0", 
-                "design": "1", 
+                "design": "2", 
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
@@ -1323,6 +1324,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

@@ -462,6 +462,7 @@
         "U3GV4N878", 
         "U3210MXC5", 
         "U32FZ0QLX", 
+        "U3NT8G2BC", 
         "U2404BG5N"
     ], 
     "users_info": [
@@ -567,8 +568,8 @@
         {
             "U0B47KC3S": {
                 "community": "0", 
-                "design": "0", 
-                "hardware": "2", 
+                "design": "1", 
+                "hardware": "4", 
                 "legal": "1", 
                 "medical": "0", 
                 "posts": "18", 
@@ -887,7 +888,7 @@
             "U07UEJC2H": {
                 "community": "1", 
                 "design": "1", 
-                "hardware": "5", 
+                "hardware": "14", 
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "43", 
@@ -953,7 +954,7 @@
             "U0AAL4W13": {
                 "community": "3", 
                 "design": "0", 
-                "hardware": "9", 
+                "hardware": "12", 
                 "legal": "2", 
                 "medical": "0", 
                 "posts": "74", 
@@ -1204,9 +1205,9 @@
         }, 
         {
             "U04DFTZ7D": {
-                "community": "9", 
+                "community": "10", 
                 "design": "3", 
-                "hardware": "2", 
+                "hardware": "5", 
                 "legal": "0", 
                 "medical": "1", 
                 "posts": "55", 
@@ -1316,7 +1317,7 @@
             "U38HVMZ6K": {
                 "community": "0", 
                 "design": "2", 
-                "hardware": "1", 
+                "hardware": "3", 
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "9", 
@@ -1481,7 +1482,7 @@
             "U32FZ0QLX": {
                 "community": "0", 
                 "design": "1", 
-                "hardware": "2", 
+                "hardware": "3", 
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "14", 
@@ -1507,6 +1508,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

@@ -598,3 +598,19 @@
 1483886674.000255> @U0AAL4W13: <@U38HVMZ6K>  : yup, you can. (reactions: @U37GZRZU6)
 1483886740.000256> @U37GZRZU6: <@U0AAL4W13> is it completely free without limitations ? :heart_eyes:
 1483888982.000257> @U0AAL4W13: there are plans in terms of storage
+1483957002.000258> @U2PFHNN3C: I’m trying to use Zotero but not quite satisfied AFAIK :slightly_smiling_face: so for now, I’m just using Bibdesk...
+1483957048.000259> @U2PFHNN3C: coupled with Sublime Text and its latex plugin, it’s super easy to add references after a .bib lookup
+1483957160.000260> @U2PFHNN3C: but lacks annotation, collaboration etc
+1483957322.000261> @U04DFTZ7D: De mon côté, j'utilise <https://www.refme.com/> Que je trouve génial pour la bibliographie :wink:
+1483957410.000263> @U38HVMZ6K: and I used JabRef (<http://www.jabref.org/>) in the past... seems to have evolved a lot since the last time I used it :slightly_smiling_face:
+1483957487.000265> @U38HVMZ6K: I think we have plenty of tools and ideas to do this. We should then align on a common tool. All of them are good for personal/standalone use I think. The difference will be in the sharing/aggregating options and storage.
+1483957506.000266> @U38HVMZ6K: we should collect info on all of them and decide after I would say
+1483958339.000267> @U0B47KC3S: <@U04DFTZ7D> indeed `refme` is amazing and simple
+1483958349.000268> @U2PFHNN3C: I’m gonna give RefMe a try! Thanks <@U04DFTZ7D>
+1483958368.000270> @U2PFHNN3C: (or we can code one from scratch…)
+1483958414.000271> @U38HVMZ6K: &gt;(or we can code one from scratch…) this is the last option I go for :joy:
+1483958483.000272> @U38HVMZ6K: this often an issue in professional life... "let's code a bugtracker/documentation system/reference manager/editor/simulator/..." where thousands of good free tools exist
+1483958515.000273> @U38HVMZ6K: at the end of the day you spend more time on the homegrown tools than on your effective project :slightly_smiling_face:
+1483958677.000274> @U2PFHNN3C: <@U38HVMZ6K> I totally agree in fact :)) (it was even half-provocative). That said, in the present case, there is no “thousands of good free tools”, as for myself, I’m still looking for the right bib management tool
+1483959192.000275> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
+1483959496.000276> @U2PFHNN3C: “Highlighter is unavailable for PDF” in RefMe :disappointed: that’s was I was looking for

@@ -29,7 +29,8 @@
         "U0DRKLMS4", 
         "U35LGETA4", 
         "U3210MXC5", 
-        "U32FZ0QLX"
+        "U32FZ0QLX", 
+        "U3NT8G2BC"
     ], 
     "users_info": [
         {
@@ -1074,6 +1075,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

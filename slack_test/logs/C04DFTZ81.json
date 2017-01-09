@@ -172,6 +172,26 @@
             "user_id": "U0B47KC3S"
         }, 
         {
+            "mentioned_user_id": "U20C8CKTL", 
+            "ts": "1483951724.000154", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U20C8CKTL", 
+            "ts": "1483958298.000169", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483958298.000169", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483958298.000169", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
             "mentioned_user_id": "U2PFHNN3C", 
             "ts": "1481232327.000055", 
             "user_id": "U33817K25"
@@ -302,6 +322,11 @@
             "user_id": "U38HVMZ6K"
         }, 
         {
+            "mentioned_user_id": "U3GHS132Q", 
+            "ts": "1483956950.000162", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
             "mentioned_user_id": "U0B47KC3S", 
             "ts": "1479911403.000062", 
             "user_id": "U32FZ0QLX"
@@ -341,6 +366,16 @@
         {
             "mentioned_user_id": "U38HVMZ6K", 
             "ts": "1481581175.000066", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U20C8CKTL", 
+            "ts": "1483951725.000155", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U38HVMZ6K", 
+            "ts": "1483951725.000155", 
             "user_id": "U0B47KC3S"
         }, 
         {
@@ -442,6 +477,16 @@
             "mentioned_user_id": "U0AAL4W13", 
             "ts": "1483655068.000135", 
             "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U20C8CKTL", 
+            "ts": "1483956950.000162", 
+            "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483958358.000171", 
+            "user_id": "U38HVMZ6K"
         }
     ], 
     "users": [
@@ -536,6 +581,7 @@
         "U32FZ0QLX", 
         "U13UA10KS", 
         "U04DZ4R0V", 
+        "U3NT8G2BC", 
         "U04CV54A4", 
         "U2404BG5N", 
         "U0KPE2P16"
@@ -635,19 +681,19 @@
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "0", 
-                "medical": "0", 
+                "medical": "1", 
                 "posts": "19", 
                 "software": "0"
             }
         }, 
         {
             "U0B47KC3S": {
-                "community": "5", 
+                "community": "6", 
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "4", 
-                "medical": "2", 
-                "posts": "88", 
+                "medical": "6", 
+                "posts": "93", 
                 "software": "6"
             }
         }, 
@@ -745,7 +791,7 @@
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "0", 
-                "medical": "0", 
+                "medical": "3", 
                 "posts": "47", 
                 "software": "9"
             }
@@ -790,7 +836,7 @@
                 "hardware": "0", 
                 "legal": "1", 
                 "medical": "0", 
-                "posts": "3", 
+                "posts": "5", 
                 "software": "0"
             }
         }, 
@@ -800,7 +846,7 @@
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "0", 
-                "medical": "0", 
+                "medical": "2", 
                 "posts": "14", 
                 "software": "1"
             }
@@ -878,7 +924,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "8", 
+                "posts": "14", 
                 "software": "0"
             }
         }, 
@@ -1029,7 +1075,7 @@
             "U0AAL4W13": {
                 "community": "5", 
                 "design": "1", 
-                "hardware": "6", 
+                "hardware": "7", 
                 "legal": "3", 
                 "medical": "1", 
                 "posts": "36", 
@@ -1284,7 +1330,7 @@
                 "design": "0", 
                 "hardware": "1", 
                 "legal": "0", 
-                "medical": "1", 
+                "medical": "2", 
                 "posts": "15", 
                 "software": "0"
             }
@@ -1390,12 +1436,12 @@
         }, 
         {
             "U38HVMZ6K": {
-                "community": "1", 
-                "design": "0", 
+                "community": "2", 
+                "design": "1", 
                 "hardware": "1", 
                 "legal": "0", 
-                "medical": "0", 
-                "posts": "20", 
+                "medical": "3", 
+                "posts": "29", 
                 "software": "1"
             }
         }, 
@@ -1577,6 +1623,17 @@
         }, 
         {
             "U04DZ4R0V": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
                 "community": "0", 
                 "design": "0", 
                 "hardware": "0", 

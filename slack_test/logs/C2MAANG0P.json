@@ -205,7 +205,8 @@
         "U3CV9P9NH", 
         "U3267ST8C", 
         "U3210MXC5", 
-        "U32FZ0QLX"
+        "U32FZ0QLX", 
+        "U3NT8G2BC"
     ], 
     "users_info": [
         {
@@ -311,9 +312,9 @@
             "U0B47KC3S": {
                 "community": "2", 
                 "design": "0", 
-                "hardware": "0", 
+                "hardware": "2", 
                 "legal": "0", 
-                "medical": "0", 
+                "medical": "4", 
                 "posts": "22", 
                 "software": "2"
             }
@@ -760,11 +761,11 @@
         }, 
         {
             "U32UWGGN9": {
-                "community": "0", 
+                "community": "1", 
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "0", 
-                "medical": "1", 
+                "medical": "3", 
                 "posts": "6", 
                 "software": "2"
             }
@@ -947,11 +948,11 @@
         }, 
         {
             "U04DFTZ7D": {
-                "community": "5", 
+                "community": "6", 
                 "design": "0", 
-                "hardware": "0", 
+                "hardware": "1", 
                 "legal": "0", 
-                "medical": "6", 
+                "medical": "11", 
                 "posts": "28", 
                 "software": "0"
             }
@@ -995,7 +996,7 @@
                 "design": "0", 
                 "hardware": "1", 
                 "legal": "0", 
-                "medical": "1", 
+                "medical": "2", 
                 "posts": "39", 
                 "software": "0"
             }
@@ -1250,6 +1251,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

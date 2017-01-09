@@ -332,6 +332,11 @@
             "mentioned_user_id": "U37GZRZU6", 
             "ts": "1483732374.000275", 
             "user_id": "U38HVMZ6K"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1483950134.000294", 
+            "user_id": "U38HVMZ6K"
         }
     ], 
     "users": [
@@ -387,6 +392,7 @@
         "U3GV4N878", 
         "U3210MXC5", 
         "U32FZ0QLX", 
+        "U3NT8G2BC", 
         "U2404BG5N", 
         "USLACKBOT"
     ], 
@@ -493,11 +499,11 @@
         {
             "U0B47KC3S": {
                 "community": "0", 
-                "design": "2", 
+                "design": "3", 
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "42", 
+                "posts": "43", 
                 "software": "0"
             }
         }, 
@@ -635,9 +641,9 @@
         }, 
         {
             "U3GHS132Q": {
-                "community": "2", 
+                "community": "3", 
                 "design": "5", 
-                "hardware": "4", 
+                "hardware": "10", 
                 "legal": "2", 
                 "medical": "0", 
                 "posts": "68", 
@@ -879,11 +885,11 @@
             "U0AAL4W13": {
                 "community": "2", 
                 "design": "2", 
-                "hardware": "5", 
+                "hardware": "6", 
                 "legal": "3", 
                 "medical": "0", 
                 "posts": "22", 
-                "software": "0"
+                "software": "1"
             }
         }, 
         {
@@ -1241,11 +1247,11 @@
         {
             "U38HVMZ6K": {
                 "community": "11", 
-                "design": "7", 
-                "hardware": "5", 
+                "design": "9", 
+                "hardware": "13", 
                 "legal": "6", 
                 "medical": "0", 
-                "posts": "86", 
+                "posts": "88", 
                 "software": "7"
             }
         }, 
@@ -1433,6 +1439,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3NT8G2BC": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 
