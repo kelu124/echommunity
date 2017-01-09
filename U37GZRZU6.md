@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 161
+Number of posts: 172
 
 ### Topics:
 
-* __posts__: 161 posts
+* __posts__: 172 posts
 * __software__: 12 posts
 * __community__: 7 posts
 * __design__: 3 posts
@@ -23,9 +23,9 @@ Number of posts: 161
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 18 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 21 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 15 mention and/or reactions
-* [@djabbz](./U2PFHNN3C.md): 5 mention and/or reactions
+* [@djabbz](./U2PFHNN3C.md): 6 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 4 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 4 mention and/or reactions
 * [@brunocp](./U33817K25.md): 3 mention and/or reactions

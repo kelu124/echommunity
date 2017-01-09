@@ -9,35 +9,35 @@
 
 ### Posts: 
 
-Number of posts: 832
+Number of posts: 855
 
 ### Topics:
 
-* __posts__: 832 posts
-* __software__: 183 posts
-* __community__: 99 posts
-* __medical__: 41 posts
+* __posts__: 855 posts
+* __software__: 184 posts
+* __community__: 100 posts
+* __medical__: 44 posts
 * __hardware__: 30 posts
 * __design__: 24 posts
 * __legal__: 11 posts
 
 ## Key interactions 
 
-* [@aurelie](./U37GZRZU6.md): 41 mention and/or reactions
-* [@hackolite](./U20C8CKTL.md): 38 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 44 mention and/or reactions
+* [@hackolite](./U20C8CKTL.md): 41 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 34 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 33 mention and/or reactions
-* [@olivier](./U04DFTZ7D.md): 33 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 21 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 23 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 21 mention and/or reactions
+* [@brunocp](./U33817K25.md): 14 mention and/or reactions
 * [@devamine](./U2X7189QR.md): 14 mention and/or reactions
-* [@brunocp](./U33817K25.md): 13 mention and/or reactions
 * [@benschan](./U1PKXQVDW.md): 13 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 13 mention and/or reactions
 * [@soobash](./U1PAGSKGU.md): 12 mention and/or reactions
 * [@edem](./U34N7NQNR.md): 12 mention and/or reactions
+* [@eiffel](./U3GHS132Q.md): 11 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 10 mention and/or reactions
 * [@houssam](./U2Y7FPEUB.md): 10 mention and/or reactions
-* [@eiffel](./U3GHS132Q.md): 10 mention and/or reactions
 * [@victor_arias](./U32FZ0QLX.md): 9 mention and/or reactions
 * [@sami](./U2MF267L2.md): 9 mention and/or reactions
 * [@pierrepadilla](./U2X419KJS.md): 8 mention and/or reactions
@@ -62,9 +62,10 @@ Number of posts: 832
 * [@fulvio.michelis](./U3D9HA0N4.md): 2 mention and/or reactions
 * [@noureddine](./U38TWKY9Y.md): 2 mention and/or reactions
 * [@jcbillard](./U3GQS8JTZ.md): 1 mention and/or reactions
-* [@ydre](./U2404BG5N.md): 1 mention and/or reactions
+* [@yan_k](./U3NT8G2BC.md): 1 mention and/or reactions
 * [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
 * [@priyank](./U23D8HAC9.md): 1 mention and/or reactions
+* [@ydre](./U2404BG5N.md): 1 mention and/or reactions
 * [@nassim.ch](./U1NM17NHF.md): 1 mention and/or reactions
 * [@medmahdi](./U36QEPF51.md): 1 mention and/or reactions
 * [@gregsadetsky](./U0KLG7CP8.md): 1 mention and/or reactions

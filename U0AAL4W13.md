@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 648
+Number of posts: 650
 
 ### Topics:
 
-* __posts__: 648 posts
+* __posts__: 650 posts
 * __community__: 64 posts
 * __legal__: 53 posts
 * __hardware__: 38 posts
@@ -28,8 +28,8 @@ Number of posts: 648
 * [@aurelie](./U37GZRZU6.md): 20 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 13 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 12 mention and/or reactions
+* [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 5 mention and/or reactions
-* [@brunocp](./U33817K25.md): 5 mention and/or reactions
 * [@20cent](./U0GN7EB32.md): 5 mention and/or reactions
 * [@ufarad](./U0HF2S3QX.md): 4 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 4 mention and/or reactions
