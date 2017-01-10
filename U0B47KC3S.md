@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 855
+Number of posts: 857
 
 ### Topics:
 
-* __posts__: 855 posts
+* __posts__: 857 posts
 * __software__: 184 posts
 * __community__: 100 posts
 * __medical__: 44 posts
@@ -29,7 +29,7 @@ Number of posts: 855
 * [@djabbz](./U2PFHNN3C.md): 33 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 23 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 21 mention and/or reactions
-* [@brunocp](./U33817K25.md): 14 mention and/or reactions
+* [@brunocp](./U33817K25.md): 16 mention and/or reactions
 * [@devamine](./U2X7189QR.md): 14 mention and/or reactions
 * [@benschan](./U1PKXQVDW.md): 13 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 13 mention and/or reactions

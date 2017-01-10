@@ -1,11 +1,17 @@
 [Home](https://kelu124.github.io/echommunity/)
 
 # What is it?
- This page shows the different spokepersons for the different themes of the project.
+ ## Disclaimer 
+ A small bot is crawling the public channels of the echOpen slack and trying to figure out who is doing what by having a look at the public messages. (_fear not, for it has no access to direct messages / user to user chats / ... _ ). From the topics of discussion, it tries to map the interest of the users.
+
+ It is of course a very raw and rude bot, will miss a lot of things, and is only taking its inspiration from the chat in a basic manner - but you're free to participate to educating this bot. 
+
+ This very page shows the different persons who are speaking the most about some of the different themes of the project.
+ Click on the names to further explore profiles, and get direct links to Message them on slack, at the top of their profile pages.
 
 ### medical
 
-* [@olivier](./U04DFTZ7D.md): 44 posts
+* [@olivier](./U04DFTZ7D.md): 45 posts
 * [@benchoufi](./U0B47KC3S.md): 44 posts
 * [@brunocp](./U33817K25.md): 36 posts
 * [@luc](./U0AAL4W13.md): 11 posts
@@ -13,10 +19,10 @@
 
 ### posts
 
-* [@benchoufi](./U0B47KC3S.md): 855 posts
-* [@luc](./U0AAL4W13.md): 650 posts
-* [@olivier](./U04DFTZ7D.md): 551 posts
-* [@rbo](./U38HVMZ6K.md): 293 posts
+* [@benchoufi](./U0B47KC3S.md): 857 posts
+* [@luc](./U0AAL4W13.md): 652 posts
+* [@olivier](./U04DFTZ7D.md): 552 posts
+* [@rbo](./U38HVMZ6K.md): 296 posts
 * [@hackolite](./U20C8CKTL.md): 215 posts
 
 ### legal
