@@ -15,7 +15,7 @@
 This very page shows the different persons who are speaking the most about some of the different themes of the project.
  Click on the names to further explore profiles, and get direct links to Message them on slack, at the top of their profile pages.
 
-### medical
+## medical-related users
 
 * [@olivier](./U04DFTZ7D.md): 45 posts
 * [@benchoufi](./U0B47KC3S.md): 44 posts
@@ -23,7 +23,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@luc](./U0AAL4W13.md): 11 posts
 * [@rbo](./U38HVMZ6K.md): 10 posts
 
-### posts
+## posts-related users
 
 * [@benchoufi](./U0B47KC3S.md): 857 posts
 * [@luc](./U0AAL4W13.md): 652 posts
@@ -31,7 +31,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@rbo](./U38HVMZ6K.md): 296 posts
 * [@hackolite](./U20C8CKTL.md): 215 posts
 
-### legal
+## legal-related users
 
 * [@luc](./U0AAL4W13.md): 53 posts
 * [@olivier](./U04DFTZ7D.md): 35 posts
@@ -39,7 +39,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@benchoufi](./U0B47KC3S.md): 11 posts
 * [@eiffel](./U3GHS132Q.md): 3 posts
 
-### hardware
+## hardware-related users
 
 * [@luc](./U0AAL4W13.md): 38 posts
 * [@olivier](./U04DFTZ7D.md): 32 posts
@@ -47,7 +47,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@rbo](./U38HVMZ6K.md): 23 posts
 * [@jerome](./U07UEJC2H.md): 19 posts
 
-### design
+## design-related users
 
 * [@benchoufi](./U0B47KC3S.md): 24 posts
 * [@luc](./U0AAL4W13.md): 17 posts
@@ -55,7 +55,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@olivier](./U04DFTZ7D.md): 12 posts
 * [@eiffel](./U3GHS132Q.md): 5 posts
 
-### community
+## community-related users
 
 * [@benchoufi](./U0B47KC3S.md): 100 posts
 * [@olivier](./U04DFTZ7D.md): 80 posts
@@ -63,7 +63,7 @@ This very page shows the different persons who are speaking the most about some 
 * [@rbo](./U38HVMZ6K.md): 33 posts
 * [@hackolite](./U20C8CKTL.md): 8 posts
 
-### software
+## software-related users
 
 * [@benchoufi](./U0B47KC3S.md): 184 posts
 * [@luc](./U0AAL4W13.md): 34 posts
