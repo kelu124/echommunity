@@ -222,12 +222,12 @@ for PeopleID in PPList:
 MainPage = Header
 TopContrib = []
 TopContribName = []
-MainPage += "# What is it?\n This page shows the different spokepersons for the different themes of the project.\n"
+MainPage += "# What is it?\n\n## Disclaimer \n\n A small bot is crawling the public channels of the echOpen slack and trying to figure out who is doing what by having a look at the public messages. (_fear not, for it has no access to direct messages / user to user chats / ... _ ). From the topics of discussion, it tries to map the interest of the users.\n\n It is of course a very raw and rude bot, will miss a lot of things, and is only taking its inspiration from the chat in a basic manner - but you're free to participate to educating this bot. \n\n* This bot is a pet project, not an official support from the echOpen association. If you have any issues, ping me at _luc at echopen.org_\n\n## What is this page?\n\nThis very page shows the different persons who are speaking the most about some of the different themes of the project.\n Click on the names to further explore profiles, and get direct links to Message them on slack, at the top of their profile pages.\n"
 
 for i in range(len(TopicsNames)):
 	Post =  sorted(HighScorePostsJSON,key=itemgetter(i+1))
 	Post.reverse()
-	MainPage += "\n### "+TopicsNames[i]+"\n\n"
+	MainPage += "\n## "+TopicsNames[i]+"-related users\n\n"
 	GraphIntro.node(TopicsNames[i], style="filled", fillcolor="blue", shape="box",fontsize="22")
 
 

@@ -236,3 +236,35 @@
 1483949959.000292> @U38HVMZ6K: Hi all, I'll be in Germany for work the whole week and will probably not be able to join the weekly embedded system meetup. You can nevertheless hold the meeting. On <http://jit.si>) for remote attendees.
 1483950134.000294> @U38HVMZ6K: For me the important points this week would be: - Create a first block schema (OMAP-L138, ADC, acquisition chain) to have everyone almost up to date on the basics - Set the first specifications on performance (acquisition frequency, data rate, frames per seconds,...) in brief, all parts where numbers may be frightening ... :wink: :scream: (reactions: @U0B47KC3S)
 1483959192.000295> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
+1484078862.000296> @U3GHS132Q: Hello <@U3NT8G2BC> Have a good trip <@U38HVMZ6K> :slightly_smiling_face:
+1484089364.000297> @U0AAL4W13: Hey embsys guys, a quick message for plenty of links... First, a veerrryyy interesting HN post on hardware, and "raw comments" on it. Extremely interesting: <https://news.ycombinator.com/item?id=13230741> (the post itself isn't that great).  An answer was published at <http://liesandstartuppr.blogspot.fr/2016/12/why-are-medical-ultrasound-systems-so.html> (by someone I know, yeayyy) he's recommending a book, which I'll try to find as a PDF :slightly_smiling_face: ( <https://www.amazon.com/Diagnostic-Ultrasound-Imaging-Biomedical-Engineering/dp/0123964873> ). (reactions: @U38HVMZ6K)
+1484089415.000299> @U0AAL4W13: Lots of reading, but in a nutshell:  * HN post is great for comments * the blogspot post has a very good critical view on the overall design * let's try to find the book :wink:
+1484090906.000300> @U0AAL4W13: there's no channel for overall design/architecture of the probe, so I'm posting a last link too : <http://liesandstartuppr.blogspot.fr/2016/12/medical-ultrasound-systems-pt-ii-where.html> -- very interesting take on the point :smiley:
+1484091362.000302> @U0AAL4W13: and.. discussion goes on at : <https://news.ycombinator.com/item?id=13241295> - in the comments. Not that all points of view are valid of course, but at least shows that people are thinking about background/core issues :smiley:
+1484094180.000303> @U0B47KC3S: I read quickly the `liesandstartuppr` article but NB, I didn’t read the comments yet. It is indeed interesting, however Sodini, MIT world specialist of ultrasound, who was in the VScan conception loop, told us that we were wright targeting less than 100$. For him the 2 bottlenecks are transducer and sample rate ! so now I am going to read the comments asap :wink:
+1484122308.000304> @U38HVMZ6K: great !!! I put the links in my "read later" list!
+1484122361.000305> @U38HVMZ6K: what is the target price for echOpen ? production or selling price ?
+1484122802.000306> @U0B47KC3S: <@U38HVMZ6K> it is not definitely fixed but we think to target, for a first round of product, less than 400, selling price !
+1484122901.000307> @U38HVMZ6K: yes clear that this is not frozen but just to have a rough idea...
+1484123021.000308> @U38HVMZ6K: and do we have a target manufacturing price (components, PCBs, manufacturing) and quantities (1k, 10k 100k pieces ?)
+1484126291.000309> @U0B47KC3S: <@U04DFTZ7D> do you have an idea about that ?
+1484129680.000310> @U04DFTZ7D: Well, not yet...
+1484143741.000311> @U3J40RUDT: Hey guys, unfortunately I won't be able to make tonight's meeting as I will be working late! 
+1484151353.000312> @U0B47KC3S: <@U3J40RUDT> no worry, anyway have a nice working time !
+1484157521.000313> @U0B47KC3S: ok I think we can reprogram the meeting. <@U38HVMZ6K> with regards to the question you asked, we had a talk with JC, and I have informations !
+1484161013.000314> @U0AAL4W13: <@U38HVMZ6K> : I've done the exercise in the past, I guess from back-of-a-napkin computation would be (very optimistic) as follows (when at scale): (piezo: 70$, electronics: 150$ (parts+fab), materials+motors: 50$) -- add a 1.25 multiplier for a factory to assemble, add 1.3 factor for distributor (very optimistic for the distributor). You're at ~450$ in terms of costs
+1484161088.000315> @U0AAL4W13: Then, it depends on the commercial strategy (Any margin? What about the certification costs? What about the patents - if any - costs? do we factor r&amp;d costs in?  Do we add any salaries / overheads? Do we include a license to use the echOpen name?) -- you add your other factors.
+1484161112.000316> @U0AAL4W13: but that's only a very rough, and optimistic figure
+1484161525.000317> @U38HVMZ6K: Thanks <@U0AAL4W13> for the input. This is something in the range I had expected. So rough estimation is 400-500$ costs for raw material and production. This does not take into account R&amp;D and other aspects you mentioned.
+1484161557.000318> @U0AAL4W13: indeed
+1484161612.000319> @U0AAL4W13: the benchmark in terms of price I have is that of a chinese probe, 3.5MHz mechanical scanning, which is sold at ~850$
+1484161643.000320> @U0AAL4W13: so that would be a lower-bracket price, including some (but I guess not all) overheads
+1484161675.000321> @U38HVMZ6K: Even if we are not targeting to manufacture ourselves the device and this is a task to be undertaken by a commercial manufacturer we should have realistic figures when we communicate out...
+1484161720.000322> @U0AAL4W13: especially if we don't manufacture ourselves and we don't distribute -- these guys can take some liberties with their costs and margin, and that would influence the final selling price
+1484161728.000323> @U0AAL4W13: (Ooops and I forgot the 20% VAT :wink: )
+1484161775.000324> @U38HVMZ6K: I'm a bit reluctant when we speak about a target selling price of 400$ when we see that we have a 400-500$ BOM+manufacturing expense
+1484161804.000325> @U0AAL4W13: Disclaimer: this is only back-of-the-napkin figures
+1484161817.000326> @U0AAL4W13: we may have variations IRL ^^
+1484161984.000327> @U38HVMZ6K: Yes sure and I would not commit to any cost/selling price as well without having a deeper analysis of the whole but your approximation converges with what I could imagine... Reason why I asked about the target selling price.
+1484221928.000328> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
+1484388421.000329> @U3RKUJHHS: <@U3RKUJHHS> has joined the channel

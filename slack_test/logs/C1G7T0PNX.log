@@ -614,3 +614,26 @@
 1483958677.000274> @U2PFHNN3C: <@U38HVMZ6K> I totally agree in fact :)) (it was even half-provocative). That said, in the present case, there is no “thousands of good free tools”, as for myself, I’m still looking for the right bib management tool
 1483959192.000275> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
 1483959496.000276> @U2PFHNN3C: “Highlighter is unavailable for PDF” in RefMe :disappointed: that’s was I was looking for
+1484090287.000277> @U0AAL4W13: SigProbeBiblio.append ( UsimagTool: An Open source Freeware Software for Ultrasound Imaging and Elastography  @ <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.98.4549> ) (reactions: @U0B47KC3S,@U38HVMZ6K)
+1484093771.000279> @U0B47KC3S: nice tool indeed :wink: did you install it ?
+1484132400.000280> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1484176713.000281> @U3PLYAJPJ: <@U3PLYAJPJ> has joined the channel
+1484209189.000282> @U0B47KC3S: here’s the report of 11.01.17 meeting + the report of 14.12.16 by <@U1PKXQVDW> <https://docs.google.com/document/d/1kn_oJnskOg4OONO4MK5Ft724OLPkn4NYzj-qJHVMMXo/edit#heading=h.xsjhfeqw1gz9> <@U2PFHNN3C> if you want to complete, go !
+1484209189.000283> @U0B47KC3S: <@U0B47KC3S>
+1484209227.000301> @U2PFHNN3C: I was thinking about that this morning :) thanks!
+1484210337.000302> @U37GZRZU6: thanks !
+1484210496.000303> @U2PFHNN3C: Btw guys (<@U0B47KC3S> and <@U20C8CKTL>), putting jupyter notebooks on the challenge platform is nice (awesome even IMO) but will it serve to generate a new submission?
+1484210982.000304> @U0B47KC3S: <@U2PFHNN3C> you mean how to submit ? I think <@U37GZRZU6> wants to complete the doc of the challenge, <@U37GZRZU6> am I right ?
+1484211055.000305> @U37GZRZU6: yes I will probably do that today in the lunchtime, but not sure if <@U2PFHNN3C>  is talking about this notebook :thinking_face:
+1484211488.000307> @U2PFHNN3C: the thing is, if you want to use the notebooks as a way to make a submission to the server, you’ll need to parse it and execute with `nbconvert`
+1484211633.000308> @U0B47KC3S: ah ok got it :wink:
+1484211635.000309> @U37GZRZU6: for submission we could imagine submitting only the processed image, or the processing function, what would be the best practice ?
+1484211664.000310> @U37GZRZU6: not sure if submitting a whole notebook is worth it
+1484211915.000311> @U37GZRZU6: <@U2PFHNN3C> I'm thinking about the RAMPS where we had some ready-to-use notebooks which were really useful for explaining the challenge, but then we only submitted a .py implementing the classifier function, right ?
+1484211917.000312> @U0B47KC3S: yes I agree, perhaps it is the simplest
+1484216671.000313> @U2PFHNN3C: yep, the notebooks serve as a starting-kit, with some basic code and the explanation of the problem and the metric. Now whether submitting the code or the image is subject to a couple of questions:  - do you want the participants to see (and potentially reuse) others’ submission? if yes, you’ll need to send the code - what’s the size of the predictions made by the algorithm? if it’s a binary classification it’s just a boolean, so it’s lightweight, but if it’s about denoising, then the whole image needs to be sent. In this case, you’d better send the python algorithm instead. (reactions: @U37GZRZU6,@U0AAL4W13)
+1484216689.000314> @U2PFHNN3C: both approaches have their use cases as well as their pros and cons
+1484217110.000315> @U37GZRZU6: ok so I think we have the answer : the best approach here is to submit the code implementing the envelope detection function, in the form of a .py script, as it might be interesting for people to see other challengers' ideas. I'll work on that by the end of the week.  :slightly_smiling_face: (reactions: @U2PFHNN3C,@U0B47KC3S,@U0AAL4W13)
+1484261086.000319> @U0AAL4W13: <@U37GZRZU6> count on me to finish the signal processing (not image though, I leave this to you guys ^^) (reactions: @U37GZRZU6)
+1484389846.000320> @U0AAL4W13: A sweet repo for ultrasound : <https://kitwaremedical.github.io/SlicerITKUltrasoundDoc/Modules/ScanConversion/index.html>
+1484389881.000321> @U0AAL4W13: "A 3D Slicer [Fedorov2012] extension for ultrasound image formation, processing, and analysis. Interfaces are built off the ITKUltrasound library [McCormick2014]. The modules available in this extension are useful for both 2D and 3D image generation for traditional B-mode imaging [McCormick2010], but also next-generation ultrasound image modalities like ultrasound spectroscopy [Aylward2016], acoustic radiation force imaging (ARFI) [Palmeri2016], acoustic radiation force shear wave imaging (ARFI-SWEI), and others."
