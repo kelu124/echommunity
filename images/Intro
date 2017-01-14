@@ -1,10 +1,10 @@
 digraph {
 	graph [fontsize=12 label="the echOmmunity" layout=twopi overlap=false rankdir=BT splines=true]
 		medical [fillcolor=blue fontsize=22 shape=box style=filled]
-		olivier [fillcolor=yellow style=filled]
-			medical -> olivier
 		benchoufi [fillcolor=yellow style=filled]
 			medical -> benchoufi
+		olivier [fillcolor=yellow style=filled]
+			medical -> olivier
 		brunocp [fillcolor=yellow style=filled]
 			medical -> brunocp
 		luc [fillcolor=yellow style=filled]
@@ -64,8 +64,8 @@ digraph {
 			community -> luc
 		rbo [fillcolor=yellow style=filled]
 			community -> rbo
-		hackolite [fillcolor=yellow style=filled]
-			community -> hackolite
+		emilie [fillcolor=yellow style=filled]
+			community -> emilie
 		software [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			software -> benchoufi
@@ -73,8 +73,8 @@ digraph {
 			software -> luc
 		olivier [fillcolor=yellow style=filled]
 			software -> olivier
-		rbo [fillcolor=yellow style=filled]
-			software -> rbo
 		djabbz [fillcolor=yellow style=filled]
 			software -> djabbz
+		rbo [fillcolor=yellow style=filled]
+			software -> rbo
 }

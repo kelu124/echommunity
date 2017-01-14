@@ -9,15 +9,15 @@
 
 ### Posts: 
 
-Number of posts: 552
+Number of posts: 561
 
 ### Topics:
 
-* __posts__: 552 posts
+* __posts__: 561 posts
 * __community__: 80 posts
 * __medical__: 45 posts
 * __legal__: 35 posts
-* __software__: 32 posts
+* __software__: 33 posts
 * __hardware__: 32 posts
 * __design__: 12 posts
 
@@ -55,11 +55,13 @@ Number of posts: 552
 * [@victor_arias](./U32FZ0QLX.md): 1 mention and/or reactions
 * [@aliceconcordel](./U3BN2NTFU.md): 1 mention and/or reactions
 * [@djoke](./U07SS18MT.md): 1 mention and/or reactions
+* [@chris_erlangen](./U3PC2A4GZ.md): 1 mention and/or reactions
 * [@20cent](./U0GN7EB32.md): 1 mention and/or reactions
 * [@virginie](./U13UA10KS.md): 1 mention and/or reactions
 * [@sami](./U2MF267L2.md): 1 mention and/or reactions
 * [@quentin_dg](./U2UU194RZ.md): 1 mention and/or reactions
 * [@vbermudez](./U3210MXC5.md): 1 mention and/or reactions
+* [@masoud](./U3PLYAJPJ.md): 1 mention and/or reactions
 * [@noureddine](./U38TWKY9Y.md): 1 mention and/or reactions
 * [@ufarad](./U0HF2S3QX.md): 1 mention and/or reactions
 * [@feng](./U1G9KDFNE.md): 1 mention and/or reactions
@@ -71,6 +73,7 @@ Number of posts: 552
 * [@adrien_rohfritsch](./U2PTWF6SX.md): 1 mention and/or reactions
 * [@houssam](./U2Y7FPEUB.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
+* [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions
 * [@ruben.pellicer](./U32V2JWFJ.md): 1 mention and/or reactions
 * [@lukas.winter](./U352MKG4V.md): 1 mention and/or reactions
 * [@hakim](./U0HN7G093.md): 1 mention and/or reactions
