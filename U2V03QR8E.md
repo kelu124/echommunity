@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 23
+Number of posts: 25
 
 ### Topics:
 
-* __posts__: 23 posts
+* __posts__: 25 posts
 
 ## Key interactions 
 

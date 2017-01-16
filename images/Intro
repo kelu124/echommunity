@@ -71,10 +71,10 @@ digraph {
 			software -> benchoufi
 		luc [fillcolor=yellow style=filled]
 			software -> luc
+		rbo [fillcolor=yellow style=filled]
+			software -> rbo
 		olivier [fillcolor=yellow style=filled]
 			software -> olivier
 		djabbz [fillcolor=yellow style=filled]
 			software -> djabbz
-		rbo [fillcolor=yellow style=filled]
-			software -> rbo
 }

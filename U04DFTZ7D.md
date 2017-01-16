@@ -9,22 +9,22 @@
 
 ### Posts: 
 
-Number of posts: 561
+Number of posts: 563
 
 ### Topics:
 
-* __posts__: 561 posts
+* __posts__: 563 posts
 * __community__: 80 posts
 * __medical__: 45 posts
 * __legal__: 35 posts
-* __software__: 33 posts
-* __hardware__: 32 posts
+* __software__: 34 posts
+* __hardware__: 34 posts
 * __design__: 12 posts
 
 ## Key interactions 
 
 * [@luc](./U0AAL4W13.md): 16 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 9 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 10 mention and/or reactions
 * [@pierrepadilla](./U2X419KJS.md): 9 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 8 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 7 mention and/or reactions
@@ -42,11 +42,13 @@ Number of posts: 561
 * [@emilie](./U0FN1B8KD.md): 3 mention and/or reactions
 * [@odebeir](./U2V03QR8E.md): 2 mention and/or reactions
 * [@ivan.l](./U3CDR25JP.md): 2 mention and/or reactions
+* [@vsaase](./U3S1G3AE8.md): 2 mention and/or reactions
 * [@ozanne](./U0DRKLMS4.md): 2 mention and/or reactions
 * [@anaisdrihem](./U2M9XDS5N.md): 2 mention and/or reactions
 * [@eiffel](./U3GHS132Q.md): 2 mention and/or reactions
 * [@j.contrerasv](./U336DPZV4.md): 2 mention and/or reactions
 * [@thomas](./U2Q4137LL.md): 2 mention and/or reactions
+* [@traffael](./U3RKUJHHS.md): 1 mention and/or reactions
 * [@jojojbz](./U1DGN6S80.md): 1 mention and/or reactions
 * [@ithonet](./U2QMN3L1F.md): 1 mention and/or reactions
 * [@guido_bendezu](./U38JDLY2E.md): 1 mention and/or reactions
@@ -73,6 +75,7 @@ Number of posts: 561
 * [@adrien_rohfritsch](./U2PTWF6SX.md): 1 mention and/or reactions
 * [@houssam](./U2Y7FPEUB.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
+* [@stevenvanrij](./U3QS683R6.md): 1 mention and/or reactions
 * [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions
 * [@ruben.pellicer](./U32V2JWFJ.md): 1 mention and/or reactions
 * [@lukas.winter](./U352MKG4V.md): 1 mention and/or reactions

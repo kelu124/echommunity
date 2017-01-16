@@ -9,24 +9,24 @@
 
 ### Posts: 
 
-Number of posts: 683
+Number of posts: 710
 
 ### Topics:
 
-* __posts__: 683 posts
-* __community__: 69 posts
-* __legal__: 56 posts
-* __hardware__: 41 posts
-* __software__: 37 posts
+* __posts__: 710 posts
+* __community__: 72 posts
+* __legal__: 59 posts
+* __hardware__: 44 posts
+* __software__: 40 posts
 * __design__: 20 posts
-* __medical__: 16 posts
+* __medical__: 18 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 24 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 23 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 25 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 24 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 22 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 17 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 19 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 12 mention and/or reactions
 * [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 5 mention and/or reactions
@@ -40,6 +40,7 @@ Number of posts: 683
 * [@emilie](./U0FN1B8KD.md): 2 mention and/or reactions
 * [@nicolasloubet](./U04H8570R.md): 2 mention and/or reactions
 * [@sadams](./U2V0F9YAK.md): 2 mention and/or reactions
+* [@traffael](./U3RKUJHHS.md): 1 mention and/or reactions
 * [@jojojbz](./U1DGN6S80.md): 1 mention and/or reactions
 * [@david.ydre](./U1JCFS7N3.md): 1 mention and/or reactions
 * [@na](./U07SNUM7F.md): 1 mention and/or reactions
