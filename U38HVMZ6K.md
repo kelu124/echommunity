@@ -9,15 +9,15 @@
 
 ### Posts: 
 
-Number of posts: 339
+Number of posts: 349
 
 ### Topics:
 
-* __posts__: 339 posts
+* __posts__: 349 posts
+* __hardware__: 62 posts
 * __community__: 38 posts
 * __software__: 36 posts
-* __hardware__: 28 posts
-* __design__: 16 posts
+* __design__: 18 posts
 * __legal__: 12 posts
 * __medical__: 10 posts
 
@@ -38,4 +38,5 @@ Number of posts: 339
 * [@omaciu](./U3J40RUDT.md): 1 mention and/or reactions
 * [@valentino12](./U3GV4N878.md): 1 mention and/or reactions
 * [@aaylith](./U3ARRLDQ8.md): 1 mention and/or reactions
+* [@marielaureb](./U3T7KBEMV.md): 1 mention and/or reactions
 * [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions

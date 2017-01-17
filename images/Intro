@@ -3,14 +3,14 @@ digraph {
 		medical [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			medical -> benchoufi
-		olivier [fillcolor=yellow style=filled]
-			medical -> olivier
 		brunocp [fillcolor=yellow style=filled]
 			medical -> brunocp
+		olivier [fillcolor=yellow style=filled]
+			medical -> olivier
 		luc [fillcolor=yellow style=filled]
 			medical -> luc
-		rbo [fillcolor=yellow style=filled]
-			medical -> rbo
+		emilie [fillcolor=yellow style=filled]
+			medical -> emilie
 		posts [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			posts -> benchoufi
@@ -27,21 +27,21 @@ digraph {
 			legal -> luc
 		olivier [fillcolor=yellow style=filled]
 			legal -> olivier
-		rbo [fillcolor=yellow style=filled]
-			legal -> rbo
 		benchoufi [fillcolor=yellow style=filled]
 			legal -> benchoufi
+		rbo [fillcolor=yellow style=filled]
+			legal -> rbo
 		eiffel [fillcolor=yellow style=filled]
 			legal -> eiffel
 		hardware [fillcolor=blue fontsize=22 shape=box style=filled]
+		rbo [fillcolor=yellow style=filled]
+			hardware -> rbo
 		luc [fillcolor=yellow style=filled]
 			hardware -> luc
 		olivier [fillcolor=yellow style=filled]
 			hardware -> olivier
 		benchoufi [fillcolor=yellow style=filled]
 			hardware -> benchoufi
-		rbo [fillcolor=yellow style=filled]
-			hardware -> rbo
 		jerome [fillcolor=yellow style=filled]
 			hardware -> jerome
 		design [fillcolor=blue fontsize=22 shape=box style=filled]

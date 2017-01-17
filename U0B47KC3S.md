@@ -9,24 +9,24 @@
 
 ### Posts: 
 
-Number of posts: 901
+Number of posts: 910
 
 ### Topics:
 
-* __posts__: 901 posts
-* __software__: 187 posts
-* __community__: 101 posts
-* __medical__: 48 posts
-* __hardware__: 31 posts
-* __design__: 24 posts
-* __legal__: 12 posts
+* __posts__: 910 posts
+* __software__: 190 posts
+* __community__: 102 posts
+* __medical__: 80 posts
+* __hardware__: 33 posts
+* __design__: 25 posts
+* __legal__: 13 posts
 
 ## Key interactions 
 
 * [@aurelie](./U37GZRZU6.md): 50 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 42 mention and/or reactions
-* [@djabbz](./U2PFHNN3C.md): 38 mention and/or reactions
-* [@olivier](./U04DFTZ7D.md): 36 mention and/or reactions
+* [@djabbz](./U2PFHNN3C.md): 39 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 38 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 28 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 22 mention and/or reactions
 * [@brunocp](./U33817K25.md): 17 mention and/or reactions
@@ -77,4 +77,5 @@ Number of posts: 901
 * [@eddumon](./U3HH0CEAW.md): 1 mention and/or reactions
 * [@adrien_rohfritsch](./U2PTWF6SX.md): 1 mention and/or reactions
 * [@romaxx](./U35LGETA4.md): 1 mention and/or reactions
+* [@marielaureb](./U3T7KBEMV.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions

@@ -17,47 +17,47 @@ This very page shows the different persons who are speaking the most about some 
 
 ## medical-related users
 
-* [@benchoufi](./U0B47KC3S.md): 48 posts
+* [@benchoufi](./U0B47KC3S.md): 80 posts
+* [@brunocp](./U33817K25.md): 50 posts
 * [@olivier](./U04DFTZ7D.md): 45 posts
-* [@brunocp](./U33817K25.md): 36 posts
-* [@luc](./U0AAL4W13.md): 18 posts
-* [@rbo](./U38HVMZ6K.md): 10 posts
+* [@luc](./U0AAL4W13.md): 19 posts
+* [@emilie](./U0FN1B8KD.md): 18 posts
 
 ## posts-related users
 
-* [@benchoufi](./U0B47KC3S.md): 901 posts
-* [@luc](./U0AAL4W13.md): 710 posts
-* [@olivier](./U04DFTZ7D.md): 563 posts
-* [@rbo](./U38HVMZ6K.md): 339 posts
+* [@benchoufi](./U0B47KC3S.md): 910 posts
+* [@luc](./U0AAL4W13.md): 712 posts
+* [@olivier](./U04DFTZ7D.md): 566 posts
+* [@rbo](./U38HVMZ6K.md): 349 posts
 * [@hackolite](./U20C8CKTL.md): 217 posts
 
 ## legal-related users
 
 * [@luc](./U0AAL4W13.md): 59 posts
 * [@olivier](./U04DFTZ7D.md): 35 posts
+* [@benchoufi](./U0B47KC3S.md): 13 posts
 * [@rbo](./U38HVMZ6K.md): 12 posts
-* [@benchoufi](./U0B47KC3S.md): 12 posts
 * [@eiffel](./U3GHS132Q.md): 3 posts
 
 ## hardware-related users
 
-* [@luc](./U0AAL4W13.md): 44 posts
-* [@olivier](./U04DFTZ7D.md): 34 posts
-* [@benchoufi](./U0B47KC3S.md): 31 posts
-* [@rbo](./U38HVMZ6K.md): 28 posts
-* [@jerome](./U07UEJC2H.md): 19 posts
+* [@rbo](./U38HVMZ6K.md): 62 posts
+* [@luc](./U0AAL4W13.md): 45 posts
+* [@olivier](./U04DFTZ7D.md): 36 posts
+* [@benchoufi](./U0B47KC3S.md): 33 posts
+* [@jerome](./U07UEJC2H.md): 20 posts
 
 ## design-related users
 
-* [@benchoufi](./U0B47KC3S.md): 24 posts
+* [@benchoufi](./U0B47KC3S.md): 25 posts
 * [@luc](./U0AAL4W13.md): 20 posts
-* [@rbo](./U38HVMZ6K.md): 16 posts
+* [@rbo](./U38HVMZ6K.md): 18 posts
 * [@olivier](./U04DFTZ7D.md): 12 posts
 * [@eiffel](./U3GHS132Q.md): 5 posts
 
 ## community-related users
 
-* [@benchoufi](./U0B47KC3S.md): 101 posts
+* [@benchoufi](./U0B47KC3S.md): 102 posts
 * [@olivier](./U04DFTZ7D.md): 80 posts
 * [@luc](./U0AAL4W13.md): 72 posts
 * [@rbo](./U38HVMZ6K.md): 38 posts
@@ -65,11 +65,11 @@ This very page shows the different persons who are speaking the most about some 
 
 ## software-related users
 
-* [@benchoufi](./U0B47KC3S.md): 187 posts
+* [@benchoufi](./U0B47KC3S.md): 190 posts
 * [@luc](./U0AAL4W13.md): 40 posts
 * [@rbo](./U38HVMZ6K.md): 36 posts
 * [@olivier](./U04DFTZ7D.md): 34 posts
-* [@djabbz](./U2PFHNN3C.md): 32 posts
+* [@djabbz](./U2PFHNN3C.md): 33 posts
 
 ## Graph 
 

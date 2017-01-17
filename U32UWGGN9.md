@@ -14,8 +14,8 @@ Number of posts: 46
 ### Topics:
 
 * __posts__: 46 posts
+* __medical__: 6 posts
 * __software__: 5 posts
-* __medical__: 3 posts
 * __hardware__: 1 posts
 * __community__: 1 posts
 

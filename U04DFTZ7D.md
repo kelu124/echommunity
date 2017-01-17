@@ -9,16 +9,16 @@
 
 ### Posts: 
 
-Number of posts: 563
+Number of posts: 566
 
 ### Topics:
 
-* __posts__: 563 posts
+* __posts__: 566 posts
 * __community__: 80 posts
 * __medical__: 45 posts
+* __hardware__: 36 posts
 * __legal__: 35 posts
 * __software__: 34 posts
-* __hardware__: 34 posts
 * __design__: 12 posts
 
 ## Key interactions 
@@ -74,6 +74,7 @@ Number of posts: 563
 * [@michel_bala](./U0LPTV0Q4.md): 1 mention and/or reactions
 * [@adrien_rohfritsch](./U2PTWF6SX.md): 1 mention and/or reactions
 * [@houssam](./U2Y7FPEUB.md): 1 mention and/or reactions
+* [@marielaureb](./U3T7KBEMV.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
 * [@stevenvanrij](./U3QS683R6.md): 1 mention and/or reactions
 * [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions

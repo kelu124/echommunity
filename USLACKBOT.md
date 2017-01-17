@@ -15,6 +15,7 @@ Number of posts: 27
 
 * __posts__: 27 posts
 * __software__: 14 posts
+* __hardware__: 1 posts
 
 ## Key interactions 
 

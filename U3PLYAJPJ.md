@@ -9,13 +9,14 @@
 
 ### Posts: 
 
-Number of posts: 30
+Number of posts: 38
 
 ### Topics:
 
-* __posts__: 30 posts
-* __software__: 3 posts
-* __hardware__: 1 posts
+* __posts__: 38 posts
+* __hardware__: 8 posts
+* __software__: 4 posts
+* __design__: 1 posts
 
 ## Key interactions 
 

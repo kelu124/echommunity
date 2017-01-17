@@ -16,6 +16,7 @@ Number of posts: 49
 * __posts__: 49 posts
 * __community__: 2 posts
 * __legal__: 1 posts
+* __medical__: 1 posts
 
 ## Key interactions 
 

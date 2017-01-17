@@ -9,17 +9,17 @@
 
 ### Posts: 
 
-Number of posts: 710
+Number of posts: 712
 
 ### Topics:
 
-* __posts__: 710 posts
+* __posts__: 712 posts
 * __community__: 72 posts
 * __legal__: 59 posts
-* __hardware__: 44 posts
+* __hardware__: 45 posts
 * __software__: 40 posts
 * __design__: 20 posts
-* __medical__: 18 posts
+* __medical__: 19 posts
 
 ## Key interactions 
 
