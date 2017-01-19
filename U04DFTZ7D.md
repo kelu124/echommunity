@@ -9,14 +9,14 @@
 
 ### Posts: 
 
-Number of posts: 566
+Number of posts: 568
 
 ### Topics:
 
-* __posts__: 566 posts
+* __posts__: 568 posts
 * __community__: 80 posts
 * __medical__: 45 posts
-* __hardware__: 36 posts
+* __hardware__: 37 posts
 * __legal__: 35 posts
 * __software__: 34 posts
 * __design__: 12 posts
@@ -54,6 +54,7 @@ Number of posts: 566
 * [@guido_bendezu](./U38JDLY2E.md): 1 mention and/or reactions
 * [@jules](./U3ML4L01Z.md): 1 mention and/or reactions
 * [@romain_agaisse](./U2NAWHM9N.md): 1 mention and/or reactions
+* [@mickael15](./U3TUWV3SQ.md): 1 mention and/or reactions
 * [@victor_arias](./U32FZ0QLX.md): 1 mention and/or reactions
 * [@aliceconcordel](./U3BN2NTFU.md): 1 mention and/or reactions
 * [@djoke](./U07SS18MT.md): 1 mention and/or reactions

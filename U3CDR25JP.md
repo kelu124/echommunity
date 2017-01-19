@@ -9,15 +9,15 @@
 
 ### Posts: 
 
-Number of posts: 54
+Number of posts: 78
 
 ### Topics:
 
-* __posts__: 54 posts
-* __medical__: 15 posts
-* __software__: 6 posts
+* __posts__: 78 posts
+* __medical__: 16 posts
+* __software__: 7 posts
 * __community__: 1 posts
 
 ## Key interactions 
 
-* [@emilie](./U0FN1B8KD.md): 1 mention and/or reactions
+* [@emilie](./U0FN1B8KD.md): 2 mention and/or reactions
