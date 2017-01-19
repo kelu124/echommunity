@@ -9,12 +9,12 @@
 
 ### Posts: 
 
-Number of posts: 115
+Number of posts: 117
 
 ### Topics:
 
-* __posts__: 115 posts
-* __hardware__: 13 posts
+* __posts__: 117 posts
+* __hardware__: 17 posts
 * __software__: 11 posts
 * __design__: 5 posts
 * __legal__: 3 posts

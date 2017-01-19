@@ -9,17 +9,17 @@
 
 ### Posts: 
 
-Number of posts: 196
+Number of posts: 205
 
 ### Topics:
 
-* __posts__: 196 posts
+* __posts__: 205 posts
 * __software__: 15 posts
 * __community__: 7 posts
 * __legal__: 3 posts
 * __design__: 3 posts
+* __hardware__: 2 posts
 * __medical__: 2 posts
-* __hardware__: 1 posts
 
 ## Key interactions 
 
@@ -31,5 +31,7 @@ Number of posts: 196
 * [@brunocp](./U33817K25.md): 3 mention and/or reactions
 * [@omaciu](./U3J40RUDT.md): 3 mention and/or reactions
 * [@emilie](./U0FN1B8KD.md): 1 mention and/or reactions
+* [@masoud](./U3PLYAJPJ.md): 1 mention and/or reactions
+* [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions
 * [@eiffel](./U3GHS132Q.md): 1 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

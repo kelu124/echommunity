@@ -17,19 +17,19 @@ This very page shows the different persons who are speaking the most about some 
 
 ## medical-related users
 
-* [@benchoufi](./U0B47KC3S.md): 80 posts
+* [@benchoufi](./U0B47KC3S.md): 81 posts
 * [@brunocp](./U33817K25.md): 50 posts
 * [@olivier](./U04DFTZ7D.md): 45 posts
+* [@emilie](./U0FN1B8KD.md): 22 posts
 * [@luc](./U0AAL4W13.md): 19 posts
-* [@emilie](./U0FN1B8KD.md): 18 posts
 
 ## posts-related users
 
-* [@benchoufi](./U0B47KC3S.md): 910 posts
-* [@luc](./U0AAL4W13.md): 712 posts
-* [@olivier](./U04DFTZ7D.md): 566 posts
-* [@rbo](./U38HVMZ6K.md): 349 posts
-* [@hackolite](./U20C8CKTL.md): 217 posts
+* [@benchoufi](./U0B47KC3S.md): 930 posts
+* [@luc](./U0AAL4W13.md): 734 posts
+* [@olivier](./U04DFTZ7D.md): 568 posts
+* [@rbo](./U38HVMZ6K.md): 358 posts
+* [@hackolite](./U20C8CKTL.md): 224 posts
 
 ## legal-related users
 
@@ -41,17 +41,17 @@ This very page shows the different persons who are speaking the most about some 
 
 ## hardware-related users
 
-* [@rbo](./U38HVMZ6K.md): 62 posts
+* [@rbo](./U38HVMZ6K.md): 69 posts
 * [@luc](./U0AAL4W13.md): 45 posts
-* [@olivier](./U04DFTZ7D.md): 36 posts
+* [@olivier](./U04DFTZ7D.md): 37 posts
 * [@benchoufi](./U0B47KC3S.md): 33 posts
 * [@jerome](./U07UEJC2H.md): 20 posts
 
 ## design-related users
 
 * [@benchoufi](./U0B47KC3S.md): 25 posts
+* [@rbo](./U38HVMZ6K.md): 20 posts
 * [@luc](./U0AAL4W13.md): 20 posts
-* [@rbo](./U38HVMZ6K.md): 18 posts
 * [@olivier](./U04DFTZ7D.md): 12 posts
 * [@eiffel](./U3GHS132Q.md): 5 posts
 
@@ -59,14 +59,14 @@ This very page shows the different persons who are speaking the most about some 
 
 * [@benchoufi](./U0B47KC3S.md): 102 posts
 * [@olivier](./U04DFTZ7D.md): 80 posts
-* [@luc](./U0AAL4W13.md): 72 posts
+* [@luc](./U0AAL4W13.md): 73 posts
 * [@rbo](./U38HVMZ6K.md): 38 posts
-* [@emilie](./U0FN1B8KD.md): 13 posts
+* [@emilie](./U0FN1B8KD.md): 14 posts
 
 ## software-related users
 
-* [@benchoufi](./U0B47KC3S.md): 190 posts
-* [@luc](./U0AAL4W13.md): 40 posts
+* [@benchoufi](./U0B47KC3S.md): 198 posts
+* [@luc](./U0AAL4W13.md): 43 posts
 * [@rbo](./U38HVMZ6K.md): 36 posts
 * [@olivier](./U04DFTZ7D.md): 34 posts
 * [@djabbz](./U2PFHNN3C.md): 33 posts

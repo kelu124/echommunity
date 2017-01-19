@@ -9,24 +9,24 @@
 
 ### Posts: 
 
-Number of posts: 349
+Number of posts: 358
 
 ### Topics:
 
-* __posts__: 349 posts
-* __hardware__: 62 posts
+* __posts__: 358 posts
+* __hardware__: 69 posts
 * __community__: 38 posts
 * __software__: 36 posts
-* __design__: 18 posts
+* __design__: 20 posts
 * __legal__: 12 posts
 * __medical__: 10 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 22 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 23 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 16 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 10 mention and/or reactions
-* [@eiffel](./U3GHS132Q.md): 8 mention and/or reactions
+* [@eiffel](./U3GHS132Q.md): 9 mention and/or reactions
 * [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 6 mention and/or reactions
 * [@jcbillard](./U3GQS8JTZ.md): 5 mention and/or reactions
