@@ -27,12 +27,12 @@ digraph {
 			legal -> luc
 		olivier [fillcolor=yellow style=filled]
 			legal -> olivier
-		benchoufi [fillcolor=yellow style=filled]
-			legal -> benchoufi
 		rbo [fillcolor=yellow style=filled]
 			legal -> rbo
-		eiffel [fillcolor=yellow style=filled]
-			legal -> eiffel
+		benchoufi [fillcolor=yellow style=filled]
+			legal -> benchoufi
+		emilie [fillcolor=yellow style=filled]
+			legal -> emilie
 		hardware [fillcolor=blue fontsize=22 shape=box style=filled]
 		rbo [fillcolor=yellow style=filled]
 			hardware -> rbo
