@@ -637,3 +637,29 @@
 1484261086.000319> @U0AAL4W13: <@U37GZRZU6> count on me to finish the signal processing (not image though, I leave this to you guys ^^) (reactions: @U37GZRZU6)
 1484389846.000320> @U0AAL4W13: A sweet repo for ultrasound : <https://kitwaremedical.github.io/SlicerITKUltrasoundDoc/Modules/ScanConversion/index.html>
 1484389881.000321> @U0AAL4W13: "A 3D Slicer [Fedorov2012] extension for ultrasound image formation, processing, and analysis. Interfaces are built off the ITKUltrasound library [McCormick2014]. The modules available in this extension are useful for both 2D and 3D image generation for traditional B-mode imaging [McCormick2010], but also next-generation ultrasound image modalities like ultrasound spectroscopy [Aylward2016], acoustic radiation force imaging (ARFI) [Palmeri2016], acoustic radiation force shear wave imaging (ARFI-SWEI), and others."
+1484664310.000324> @U3T7KBEMV: <@U3T7KBEMV> has joined the channel
+1484737200.000325> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1484835251.000334> @U20C8CKTL: Hi, does the notebook have to be used as a documentation page or for submission plateform ?
+1484835378.000335> @U37GZRZU6: <@U20C8CKTL> the notebook is a doc / starting kit but is not supposed to be submitted
+1484835397.000336> @U20C8CKTL: Aaaaaah ok.
+1484835461.000337> @U37GZRZU6: the submit_function.py is an example of what should be submitted to the leaderboard
+1484835934.000338> @U20C8CKTL: Right. I just need to investigate further because the leaderboard is under bootstrap and the notebook have  to fit  with bootstrap
+1484837789.000339> @U0AAL4W13: We could do everything in python
+1484837801.000340> @U0AAL4W13: The notebook is only here for understanding 
+1484838316.000341> @U20C8CKTL: Ok. I will probably need help to add some new features on the leaderboard to do something cooler 
+1484838354.000342> @U20C8CKTL: Its a mix of django, bootsrap(javascript), html.
+1484853471.000343> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1484861969.000344> @U3PLYAJPJ: Hi everybody I browsed the history of this channel a bit.  Is there any specific task needs to be done now? I try to participate in the next week meeting.
+1484862906.000345> @U0B47KC3S: <@U20C8CKTL> <@U37GZRZU6> <@U0AAL4W13>, do you have some fancy tasks to boot it up :wink: or perhaps <@U3PLYAJPJ>   you have in mind next saturday’s meeting on the android app ?
+1484863064.000346> @U0AAL4W13: what would be great for a "hands-on" approach is this enveloppe detection challenge
+1484863094.000347> @U0AAL4W13: We have reconstructed a raw signal file, would be interesting to know how you would approach the challenge of enveloppe detection :smiley:
+1484863137.000348> @U0AAL4W13: see <https://github.com/echopen/PRJ-medtec_sigproc/blob/master/SigProc_101/SigProc-101.ipynb> (reactions: @U37GZRZU6)
+1484863173.000350> @U3PLYAJPJ: Thanks, I start playing with it
+1484864063.000351> @U37GZRZU6: <@U3PLYAJPJ> don't hesitate to tell us if something's not clear enough in the explanations provided in the notebook :slightly_smiling_face:
+1484864159.000352> @U3PLYAJPJ: Thanks <@U37GZRZU6>, sure  I'll do. (reactions: @U0AAL4W13)
+1484941539.000353> @U0AAL4W13: <https://news.ycombinator.com/item?id=13446086> -- A software solution to ultrasound blood flow monitoring ^^ (direct link: <http://bigwww.epfl.ch/algorithms/blood-flow-monitoring/#outline> ) (reactions: @U37GZRZU6)
+1484942162.000355> @U38HVMZ6K: Great! And nice to see top-level scientists publishing source code together with their publication and adding a "disclaimer":  &gt; 'We are seeking to develop this solution further, as we feel it has potential for continuous monitoring applications. We would be happy to discuss potential applications and technology transfers with any interested institution or company.'
+1484942253.000356> @U38HVMZ6K: This lab is located at EPFL in Lausanne, I'll try to get in contact with them. (reactions: @U37GZRZU6,@U0B47KC3S)
+1484942280.000357> @U0AAL4W13: Sweet!
+1485019575.000358> @U0FN1B8KD: Phantom :
+1485020196.000359> @U0B47KC3S: <@U0FN1B8KD> love it :wink:

@@ -268,3 +268,42 @@
 1484161984.000327> @U38HVMZ6K: Yes sure and I would not commit to any cost/selling price as well without having a deeper analysis of the whole but your approximation converges with what I could imagine... Reason why I asked about the target selling price.
 1484221928.000328> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
 1484388421.000329> @U3RKUJHHS: <@U3RKUJHHS> has joined the channel
+1484517471.000330> @U0AAL4W13: just for info -- found some info on the insides of a vscan - compiled here -&gt; <https://github.com/kelu124/echomods/blob/master/include/vscan/Readme.md> (reactions: @U0B47KC3S,@U38HVMZ6K)
+1484552736.000332> @U38HVMZ6K: Great ! Thanks a lot <@U0AAL4W13> ! Very instructive !
+1484553451.000333> @U38HVMZ6K: 999$ le report complet :cold_sweat:
+1484553665.000334> @U38HVMZ6K: Mais y a déjà des infos intéressantes... Un DSP Texas DM6446 (<http://www.ti.com/product/TMS320DM6446>) une grosse FPGA,...
+1484553874.000336> @U38HVMZ6K: 477-834$ piece for the FPGA alone... (back to English sorry...)
+1484553930.000337> @U38HVMZ6K: <http://www.digikey.com/products/en?newproducts=0&amp;keywords=xc5vsx35t>
+1484566803.000339> @U0AAL4W13: Electronics wise, it has only one AFE5851 (16 channels), with ADCs at 65Msps -- plus HV738 on the probe board (not depicted in the free access)
+1484664310.000340> @U3T7KBEMV: <@U3T7KBEMV> has joined the channel
+1484676580.000341> @U3PLYAJPJ: <@U3PLYAJPJ> has joined the channel
+1484676620.000342> @U3PLYAJPJ: I wish I had seen this channel earlier
+1484676651.000343> @U3PLYAJPJ: I share my personal notes  about embedded/dsp platforms and SoCs <https://docs.google.com/document/d/127PLITWRWDvm3vC3mLTwFvNJEo_imAp6XLYlTrRXE24/edit?usp=sharing>
+1484676660.000345> @U3PLYAJPJ: I am sure you are aware of them
+1484676727.000346> @U38HVMZ6K: :wink: this is the channel in which I am most active. Looking forward to discuss these topics with you tomorrow.
+1484676755.000347> @U38HVMZ6K: Thanks for sharing your doc!
+1484676907.000348> @U38HVMZ6K: I had similar ideas and components in mind. Zynq or Altera SoC (<https://www.altera.com/products/soc/overview.html>)
+1484677006.000349> @U38HVMZ6K: Or some TI DSPs you mentioned, Parallela or others.
+1484677066.000350> @U38HVMZ6K: The major issue is the ADC parallel interface for which only few MCUs/SoC provide a good interface.
+1484677094.000351> @U3PLYAJPJ: AM5728 seems very promising pros: Quad Cortex/DSP/GPU/PRU/MCU
+1484677121.000352> @U38HVMZ6K: And the price target of the system is also a limitation towards high-end CPUs/FPGAs....
+1484677127.000353> @U3PLYAJPJ: also there is an open design based on beagleboar x15
+1484677141.000354> @U38HVMZ6K: Let's discuss live tomorrow
+1484677177.000355> @U3PLYAJPJ: definitley
+1484677188.000356> @U3J40RUDT: Is there an online meeting tomorrow? 
+1484677234.000357> @U38HVMZ6K: Yep. Online and Masoud and I will be both together from. Lausanne/Switzerland.
+1484677253.000358> @U3J40RUDT: Ok cool! 
+1484677279.000359> @U38HVMZ6K: Online will be at the same address: <https://meet.jit.si/echopenEmbedded>
+1484679366.000361> @U0AAL4W13: Beagleboneblack + prudaq ^^ gives up to 40msps accessible as a /dev/adc/ device (OK, I'm out, need to stop hustling the bbb)
+1484723985.000362> @U38HVMZ6K: Hi all! Today evening 20:00 CET, we'll have our weekly embedded system meeting. To follow up with the discussion we had 2 weeks ago, you can put your inputs/ideas in the shared Framapad here: <https://annuel.framapad.org/p/embsysBrainstorm> So far only <@U3GHS132Q> added a short remark (reactions: @U0B47KC3S)
+1484745475.000363> @U3GHS132Q: About FPGA there is the Lattice Ice40 which has a totally open source toolchain (<http://www.clifford.at/icestorm/>). I do not really know this FPGA in term of power, some products can be found here <http://www.latticestore.com/default.aspx?tabid=417&amp;categoryid=9&amp;searchid=1&amp;searchvalue=ice40> There is a "cheap" dev kit <http://www.latticestore.com/products/tabid/417/categoryid/59/productid/258/searchid/1/searchvalue/ice40/default.aspx>  We can discuss the idea of FPGA tonight.
+1484745855.000368> @U38HVMZ6K: these Ice40 FPGAs are indeed cheap but really low-end (few I/Os, no DSP blocks, no high-speed interfaces,...)
+1484746034.000369> @U38HVMZ6K: the open-source toolchain is a nice initiative but... 1. it supports Verilog only. In Europe VHDL is generally preferred. 2. I fear that the tools are usable for small DIY projects but do not provide the functionality of commercial products.
+1484746094.000370> @U38HVMZ6K: by experience, even the most advanced tools from chip manufacturers  (Xilinx, Altera) who know perfectly well their architectures are buggy...
+1484746242.000371> @U38HVMZ6K: in the computer engineering GCC has established as one of the best and most used compilers and it is open source. In the EDA tools field, open source is (unfortunately) still way behind the state-of-the-art and thinks won't change so much as long as chip designs and architectures stay closed and proprietary
+1484746321.000372> @U38HVMZ6K: I know this is not an answer you like but this is the state of current world...
+1484746455.000373> @U38HVMZ6K: And even if some interesting initiatives start to get thrust (RISC-V and other open-hardware cores) we are still light years behind current technologies (Zynq, high-end FPGAs, heterogeneous CPUs,...)
+1484754218.000374> @U3PLYAJPJ: I have the lattice Ice40 and tried the open tool-chain before It seems relatively stable
+1484853471.000375> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1485018697.000376> @U38HVMZ6K: Clarius user manual released 2 days ago! Good manual with many technicals details (ISO,IEC standards, performance figures...) <https://www.clarius.me/wp-content/uploads/2017/01/UltrasoundUserManual.pdf> (reactions: @U0B47KC3S,@U3PLYAJPJ,@U0AAL4W13)
+1485024496.000377> @U0FN1B8KD: Top

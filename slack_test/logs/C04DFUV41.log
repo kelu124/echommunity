@@ -154,3 +154,21 @@
 1483959192.000111> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
 1484176713.000112> @U3PLYAJPJ: <@U3PLYAJPJ> has joined the channel
 1484221814.000113> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
+1484664135.000114> @U0B47KC3S: <@U0B47KC3S> and commented: some report with nice links about `Software` metrics, published by codacy #sweet
+1484664310.000115> @U3T7KBEMV: <@U3T7KBEMV> has joined the channel
+1484725273.000116> @U3QGT3Q74: Hi <@U0B47KC3S>, is there an online meeting to participate to signal processing weekly review this afternoon ? 
+1484730281.000117> @U0B47KC3S: hi <@U3QGT3Q74> sure there is also an online meeting ! we meet on skype at 6.30 pm, and generally at about 6.45/50 pm. Could you provide your skype id ?
+1484735024.000118> @U3QGT3Q74: Skype id - clement.lecouedic I will do my best to join at Hotel-Dieu otherwise I will join online. 
+1484737568.000119> @U0B47KC3S: great dude !
+1484853471.000120> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1484859431.000121> @U0B47KC3S: hi #channel : just to let you know that we have some jam coding session this saturday afternoon, playing around GPU and renderscript with some echTopians -&gt; <@U37GZRZU6> and <@U3QGT3Q74>
+1484859432.000122> @U0B47KC3S: On remote, or irl don’t hesitate to join :wink: (reactions: @U37GZRZU6)
+1484860408.000124> @U3TUWV3SQ: Ok, if I have some free time, I will come. Thanks for the invitation
+1484862112.000125> @U3QGT3Q74: Hi all, I will be available on Saturday in early afternoon. I gave a look a renderscript and it looks very promising in term of performances. I also want to mention ITK an other famous open source C++ framework specialized in medical imaging that could be compilated ans used in the Android NDK. It will probably not be as good as renderscript for perfs but it will provide many filters and renderers. Also it would be portable on both iOS and Android 
+1484862484.000126> @U0B47KC3S: that’s interesting ! do you think we can implement renderscript + ITK, jus to get filters and renderers if these are necessary, and try to implement them progressively in GPU if there are paralellizable
+1484997880.000127> @U3QGT3Q74: I think it's compatible yes. ITK provides automatic parallelization for most of the filters and I know some are also implemented with GPU  (reactions: @U37GZRZU6)
+1484997914.000128> @U3QGT3Q74: I will investigate a bit more 
+1484998342.000129> @U0B47KC3S: great :wink:
+1484998590.000130> @U38HVMZ6K: For the reference... <https://itk.org/> I also had a quick look at it and seems really good. Well documented and maintained with regular releases. (reactions: @U0B47KC3S)
+1485019903.000132> @U0B47KC3S: thanks <@U38HVMZ6K> we were just talking about it. Btw, we arben  trying now to document a robust rendering pipeline
+1485020072.000133> @U0B47KC3S: besides, we are working with <@U37GZRZU6> on refactoring the code for the RenderScript implementation and we get for the only ScanConversion algo `6ms` :wink:

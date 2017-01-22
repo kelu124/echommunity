@@ -48,3 +48,23 @@
 1483628186.000002> @U3ML4L01Z: <@U3ML4L01Z> has joined the channel
 1483654076.000003> @U3N1SENJY: <@U3N1SENJY> has joined the channel
 1483959192.000002> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
+1484593008.000002> @U0AAL4W13: A wealth of info: FDA ... -- cf <https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143493.pdf> : "Signostics   Ltd  believes  the  SignosRT Bladder  described  in  this  Submission   is   substantially  equivalent  to the predicate devices as follows:  a. Portascan Bladder  Scanner (K033906)  b. SignosRT  Ultrasound  System  (K130659)  etc..." (edit: going into english, sorry guys!)
+1484593095.000003> @U0AAL4W13: other critical inputs such as .. "3MHz, 8Fps or 16Fps (Imaging only), 128 lines for 90º frame at 10cm, Materials: Sab ic Cy co lo y  HC1204HF,  Mits u i TPX-MED18, Sab ic Vers o llen  OMX1255NX-1, ..."
+1484593147.000006> @U0AAL4W13: May be worth investigating and making a compilation of what's available :wink:
+1484594409.000007> @U0AAL4W13: ping <@U38HVMZ6K>
+1484594413.000008> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1484596502.000009> @U0AAL4W13: Same for the Clarius probe : <http://www.accessdata.fda.gov/cdrh_docs/pdf16/K163138.pdf> (interesting remark -- The device is not intended for use in Emergency Medical Service, ambulance, or aircraft environments )
+1484596639.000010> @U38HVMZ6K: Emergency services, ambulances and aircrafts are often special cases where you do not want to go if not forced to...
+1484596673.000011> @U38HVMZ6K: The regulatory and certification burdens are higher.
+1484596731.000012> @U38HVMZ6K: A common approach is to go without these, let the device in the field for some time and submit a second 510(k) with these additional environments.
+1484596825.000013> @U38HVMZ6K: Thus you are more quickly on the market, have time to complete your documentation and finally release a "new" version of the product which is compatible with emergency setups :wink: 
+1484596899.000014> @U38HVMZ6K: The same happen often with pediatric use of devices. Often release early without pediatric intended uses and covering these cases later.
+1484596994.000015> @U0AAL4W13: :)
+1484599820.000016> @U0AAL4W13: BTW, did a small exercice: mapping all the FDA requests that lead to the Clarius approval : <https://github.com/kelu124/echomods/tree/master/include/fda.gov>
+1484601540.000018> @U38HVMZ6K: Nice! Small typo in the caption of the graphique 501(k) --&gt; 510(k)
+1484601599.000020> @U0AAL4W13: thx
+1484601758.000021> @U0AAL4W13: corrigé :smiley:
+1484664311.000022> @U3T7KBEMV: <@U3T7KBEMV> has joined the channel
+1484681686.000023> @U0AAL4W13: <@U38HVMZ6K> -- I updated the graph, added the name of the devices for a bit more readibility :smiley: (reactions: @U38HVMZ6K)
+1484853471.000024> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1485024517.000025> @U0FN1B8KD: 

@@ -281,3 +281,32 @@
 1484325286.000201> @U3QJUCBKK: <@U3QJUCBKK> has joined the channel
 1484387636.000202> @U3QS683R6: <@U3QS683R6> has joined the channel
 1484388151.000203> @U3RKUJHHS: <@U3RKUJHHS> has joined the channel
+1484475196.000204> @U0AAL4W13: <@U0AAL4W13> and commented: Les deux ans et demi passés,  en image :) enjoy!
+1484482586.000208> @U38HVMZ6K: Je ne suis pas depuis assez longtemps dans le projet pour corréler les pics avec des événements, actions particulières mais il semble que l'on soit plutôt dans le "creux de la gaussienne". 
+1484483231.000209> @U0AAL4W13: Plusieurs phases: mid-2015,  acceleration avec l'arrivée à l'hôtel dieu, pic Q1 avec la présentation du proto. 
+1484483437.000210> @U0AAL4W13: A noter, ce sont les stats pour le wiki, d'où la chute en Oct-16 quand le wiki n'est plus la landing page. Pour voir la réalité, il faudrait faire réintégrer les nouvelles pages (post octobre-16)
+1484483463.000211> @U38HVMZ6K: Le rôle du wiki est un peu flou pour moi... Beaucoup d'activités sont réalisées sur d'autres canaux (slack, GitHub, gitbook,...) et le wiki est un peu à l'abandon il me semble.
+1484483581.000212> @U0AAL4W13: Tout à fait. Historiquement,  ça a été le lieu de captation de la connaissance.
+1484483606.000213> @U0AAL4W13: Tout comme pas mal d'information ont été stockées dans un basecamp2 et basecamp3 
+1484489484.000214> @U0AAL4W13: <http://imgs.xkcd.com/comics/team_chat.png> :smiley: (reactions: @U37GZRZU6)
+1484561141.000216> @U3S1G3AE8: <@U3S1G3AE8> has joined the channel
+1484602147.000217> @U0FN1B8KD: <http://xmp-biotech.org/conf-2017-01-23.html>  pour ceux que ça intéresse colloque sur l'innovation en neurosciences, <@U3CDR25JP> (reactions: @U3PLYAJPJ)
+1484602531.000218> @U0AAL4W13: Other events as well : <http://www.e-smi.eu/index.php?id=1976> in Koln (April) with a subchair in Imaging Probes,  and something about Therapeutic ultrasounds ( <https://www.institut-langevin.espci.fr/therapeutic_ultrasound_2017?lang=fr>  ) at the Ecole de Physique des Houches, France
+1484643262.000220> @U0B47KC3S: excellent article of Gaelle Varoquaux “Software for reproducible science: let’s not have a misunderstanding” cc <@U2PFHNN3C> <@U04DFTZ7D> <http://gael-varoquaux.info/programming/software-for-reproducible-science-lets-not-have-a-misunderstanding.html> (reactions: @U04DFTZ7D)
+1484664311.000222> @U3T7KBEMV: <@U3T7KBEMV> has joined the channel
+1484666094.000223> @U2PFHNN3C: [re-post] this one is even more interesting IMO :slightly_smiling_face: <http://ivory.idyll.org/blog/2017-pof-software-archivability.html> fundamentally, it says something similar, don’t idealistically dream of eternal reproducibility
+1484687724.000224> @U0AAL4W13: <https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a#.n07iqqxz9>
+1484771745.000226> @U0AAL4W13: First transducers at 70MHz: <https://www.dotmed.com/news/story/30506>
+1484853471.000228> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1484959104.000229> @U0B47KC3S: <#C2MAANG0P>  it is a vast subject to diagnose cirrhosis without being invasive, i.e. practising biopsy :microscope:
+1484959108.000230> @U0B47KC3S: There are some methods, and sometimes they aren’t sufficient and the biopsy is inevitable :hospital:
+1484959118.000231> @U0B47KC3S: so, now
+1484959122.000232> @U0B47KC3S: there is this very recent publication on an application of convolutional neural network on ultrasound imagery to diagnose liver cirrhosis + it is on open access :stuck_out_tongue:
+1484959124.000233> @U0B47KC3S: -&gt; <http://www.mdpi.com/1424-8220/17/1/149>
+1484963694.000235> @U37GZRZU6: Thanks <@U0B47KC3S> :wink: 
+1484986198.000236> @U2PFHNN3C: Very interesting, I’ll look at it more thoroughly. Do we know how humans score at this task?
+1484993275.000237> @U0B47KC3S: <@U2PFHNN3C> in fact humans score well when the biopsy is practiced, because it is a gold standard. Unfortunately, it can miss the target and it can bring medical complications, hemorrhages &amp; such...
+1485032331.000238> @U2PFHNN3C: benchoufi: and what about diagnosing from the US images? (cool thing these new threads)
+1485044582.000240> @U0B47KC3S: why not ? the dataset is available ?
+1485044582.000242> @U0B47KC3S: 
+1485078102.000243> @U2PFHNN3C: OK so if I understand, doctors are not really used to make a diagnosis from the US images right?
