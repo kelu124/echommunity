@@ -310,3 +310,35 @@
 1485044582.000240> @U0B47KC3S: why not ? the dataset is available ?
 1485044582.000242> @U0B47KC3S: 
 1485078102.000243> @U2PFHNN3C: OK so if I understand, doctors are not really used to make a diagnosis from the US images right?
+1485176277.000245> @U3V5J2BEZ: <@U3V5J2BEZ> has joined the channel
+1485178000.000246> @U04DFTZ7D: <@U04DFTZ7D>
+1485178694.000249> @U38HVMZ6K: Great! Guys at CERN are amazing! The Web, open hardware initiatives, open science contributions,...
+1485178737.000250> @U38HVMZ6K: We could once organize a visit with the echOpen community :wink:  (reactions: @U37GZRZU6,@U3QGT3Q74)
+1485178737.000251> @U04DFTZ7D: exactly
+1485178747.000252> @U04DFTZ7D: That would be great :wink:
+1485178793.000253> @U38HVMZ6K: I visited it 3 years ago with a PhD in physics as visiting guide, it was great.
+1485179015.000254> @U37GZRZU6: yes the visit of the experimental areas is worth it :grinning:   BTW <@U04DFTZ7D> I don't know if <@U0B47KC3S> transmitted the message, but the LHC beam is currently shut down, so you may be able to ask for a visit - I advise you CMS or ATLAS, which are quite impressive :wink:
+1485179306.000255> @U38HVMZ6K: <@U38HVMZ6K>
+1485179343.000256> @U38HVMZ6K: Atlas Control Room... Dream place for every geek :wink: 
+1485180925.000257> @U04DFTZ7D: Just come back from the control room ;) impressive indeed  (reactions: @U37GZRZU6)
+1485181017.000258> @U04DFTZ7D: <@U04DFTZ7D>
+1485181970.000259> @U38HVMZ6K: did you see a Higgs boson walking around ? :wink:
+1485185948.000260> @U0B47KC3S: euh I crossed some friendly streams of protons but no boson hanging around :upside_down_face: they re said to be playful and hide a lot and do not show to the first comer ! (reactions: @U37GZRZU6,@U04DFTZ7D)
+1485186107.000262> @U38HVMZ6K: I'm sure <@U37GZRZU6> would be pleased to get one as a PhD in nuclear physics :wink:
+1485186316.000263> @U37GZRZU6: if I had got one during my PhD I would have received the Nobel :heart_eyes:
+1485186514.000264> @U37GZRZU6: guys... we didn't hear from <@U04DFTZ7D> since he went to the experimental areas... I'm a bit worried, knowing there used to be weird things happening there... :thinking_face: <https://www.youtube.com/watch?v=eHw_TBxUm-A>
+1485186585.000266> @U37GZRZU6: (the movie is homemade by PhD students from CERN... :sweat_smile: )
+1485186662.000267> @U38HVMZ6K: :joy: PhD students always have plenty of time to do funny stuff :stuck_out_tongue:
+1485186882.000268> @U37GZRZU6: haha :slightly_smiling_face: the CERN's board of directors found the idea quite funny so they let them access to all the areas for the shooting, but told them "please put a disclaimer on your movie, we don't want to be associated with that" :wink: (reactions: @U0B47KC3S)
+1485190707.000269> @U2PFHNN3C: This <#C04DFTZ81> channel is very interesting… it directly quantifies the procrastination rate of echOpen… just sayin... (reactions: @U38HVMZ6K)
+1485191420.000270> @U37GZRZU6: <@U2PFHNN3C> don't know what you're talking about... :face_with_rolling_eyes: :innocent: :sweat_smile: (reactions: @U2PFHNN3C)
+1485194181.000271> @U04DFTZ7D: <@U37GZRZU6>: I am still alive ;) the LHC is currently under maintenance. It seems that they turn it off every year from January to march to répare what the bosons and other particule distroyed !! Actually it's pretty impressive and THIS is big data ;) 40 millions collisions per seconde and they analyse only 1000 per second they extract wisely selected ;) 
+1485200256.000272> @U37GZRZU6: Glad you survived <@U04DFTZ7D> ;) yes there's a yearly shutdown, for maintenance and as well because the cyclotron consumes so much energy that it could lead to a huge electricity blackout in the whole region if the experiment continued during winter... :smiley: 
+1485256441.000273> @U38HVMZ6K: For those of you active in the AI/machine learning stuff for embedded systems: <http://linuxgizmos.com/google-seeks-dev-feedback-for-putting-ai-on-raspberry-pi/>
+1485256634.000275> @U38HVMZ6K: Pros: it's Google-backed... so possibly with a large audience, visibility and plenty of resources Cons: it's Google-backed... So possibly very intrusive and not necessarily targeted for humanity well-being...
+1485256657.000276> @U20C8CKTL: Thanks <@U38HVMZ6K>,  <!everyone>  what do you think about unikernel ? 
+1485257055.000280> @U38HVMZ6K: <@U20C8CKTL> I just a look at unikernels/library OSes a few months ago for my general culture. I'm focused on embedded software development (and not high-end huge infrastructure backends where they may also be very useful).
+1485257544.000281> @U38HVMZ6K: From an embedded software/system perspective I see this approach very positively and possibly solving ever-lasting issues: - footprint/size: it is always useful to strip down to the very minimum - security: isolating services/applications is always and has always been a good approach (cf nano-kernels which support only the most trivial OS services in kernel/privileged space and all the rest in user space) - maintainability: separated/standalone images are easier to maintain and deploy without fighting against dependencies/compatibility issues - test and verification: a topic always important in critical systems (medical, aerospace,...) where it is always difficult to prove that "other parts of the system" will not disturb the critical application (e.g. drivers impacting other tasks, timing issues,...). With simpler/understandable sub-systems it's easier to get the whole picture.
+1485257688.000282> @U38HVMZ6K: It is not a black and white picture and there are always pros and cons but as a whole I think it is a nice approach!
+1485257877.000283> @U2PFHNN3C: I’m not an expert but from what I saw it’s a natural (and nice!) evolution from kernels, reducing even further the overhead but it is still not widely used.
+1485258291.000284> @U38HVMZ6K: I have an entry on my personal todo-list to evaluate Ubuntu Snappy (<https://www.ubuntu.com/desktop/snappy>) on top of Ubuntu Core. It does not go as far as unikernels but is a trade-off between stable/proven in field full-featured Linux distro and lightweight/self-contained packages updated in a transactional way (no dependency/compatibility nightmare).

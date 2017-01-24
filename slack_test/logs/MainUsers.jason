@@ -16,24 +16,24 @@
         "U04DFTZ7D": {
             "id": "olivier", 
             "posts": {
-                "community": 80, 
-                "design": 12, 
-                "hardware": 37, 
+                "community": 93, 
+                "design": 13, 
+                "hardware": 39, 
                 "legal": 35, 
-                "medical": 45, 
-                "posts": 569, 
-                "software": 34
+                "medical": 47, 
+                "posts": 618, 
+                "software": 36
             }, 
             "reactions": {
                 "U04CV54A4": 1, 
                 "U07SNUM7F": 3, 
                 "U07SS18MT": 1, 
                 "U07UEJC2H": 7, 
-                "U0AAL4W13": 16, 
-                "U0B47KC3S": 10, 
+                "U0AAL4W13": 17, 
+                "U0B47KC3S": 13, 
                 "U0DRKLMS4": 2, 
                 "U0FN1B8KD": 3, 
-                "U0GMX7QUB": 3, 
+                "U0GMX7QUB": 5, 
                 "U0GN7EB32": 1, 
                 "U0HF2S3QX": 1, 
                 "U0HN7G093": 1, 
@@ -47,7 +47,7 @@
                 "U1NM17NHF": 3, 
                 "U1NTT0ZPH": 1, 
                 "U2M9XDS5N": 2, 
-                "U2MF267L2": 1, 
+                "U2MF267L2": 2, 
                 "U2NAWHM9N": 1, 
                 "U2PFHNN3C": 4, 
                 "U2PTWF6SX": 1, 
@@ -68,7 +68,8 @@
                 "U33KM85FA": 1, 
                 "U34231VFH": 3, 
                 "U352MKG4V": 1, 
-                "U38HVMZ6K": 8, 
+                "U37GZRZU6": 8, 
+                "U38HVMZ6K": 11, 
                 "U38JDLY2E": 1, 
                 "U38TWKY9Y": 1, 
                 "U3B1RKVSP": 3, 
@@ -85,8 +86,9 @@
                 "U3QS683R6": 1, 
                 "U3RKUJHHS": 1, 
                 "U3S1G3AE8": 2, 
-                "U3T7KBEMV": 1, 
-                "U3TUWV3SQ": 1
+                "U3T7KBEMV": 3, 
+                "U3TUWV3SQ": 1, 
+                "U3V5J2BEZ": 1
             }
         }, 
         "U04DZ4R0V": {
@@ -151,7 +153,7 @@
                 "hardware": 20, 
                 "legal": 0, 
                 "medical": 0, 
-                "posts": 118, 
+                "posts": 124, 
                 "software": 9
             }, 
             "reactions": {
@@ -186,23 +188,23 @@
         "U0AAL4W13": {
             "id": "luc", 
             "posts": {
-                "community": 74, 
+                "community": 75, 
                 "design": 20, 
-                "hardware": 45, 
+                "hardware": 49, 
                 "legal": 59, 
-                "medical": 21, 
-                "posts": 748, 
-                "software": 44
+                "medical": 27, 
+                "posts": 789, 
+                "software": 50
             }, 
             "reactions": {
-                "U04DFTZ7D": 22, 
+                "U04DFTZ7D": 24, 
                 "U04H8570R": 2, 
                 "U07SNUM7F": 1, 
                 "U07UEJC2H": 12, 
                 "U087C42L8": 1, 
                 "U0B47KC3S": 26, 
-                "U0FN1B8KD": 2, 
-                "U0GMX7QUB": 6, 
+                "U0FN1B8KD": 6, 
+                "U0GMX7QUB": 7, 
                 "U0GN7EB32": 5, 
                 "U0HF2S3QX": 4, 
                 "U0PKUKHPC": 1, 
@@ -212,10 +214,11 @@
                 "U1G9AEN7L": 1, 
                 "U1G9KDFNE": 1, 
                 "U1JCFS7N3": 1, 
-                "U1N5Q9334": 4, 
+                "U1N5Q9334": 6, 
                 "U1NLWV4BZ": 1, 
                 "U1NM17NHF": 2, 
                 "U1NTT0ZPH": 1, 
+                "U20C8CKTL": 1, 
                 "U2MF267L2": 1, 
                 "U2PFHNN3C": 1, 
                 "U2UU194RZ": 4, 
@@ -223,8 +226,8 @@
                 "U2V0F9YAK": 2, 
                 "U2X7189QR": 1, 
                 "U33817K25": 6, 
-                "U37GZRZU6": 28, 
-                "U38HVMZ6K": 21, 
+                "U37GZRZU6": 30, 
+                "U38HVMZ6K": 22, 
                 "U394HRZ1B": 1, 
                 "U3GHS132Q": 3, 
                 "U3ML4L01Z": 1, 
@@ -240,16 +243,16 @@
                 "hardware": 33, 
                 "legal": 15, 
                 "medical": 83, 
-                "posts": 963, 
+                "posts": 979, 
                 "software": 204
             }, 
             "reactions": {
-                "U04DFTZ7D": 39, 
+                "U04DFTZ7D": 43, 
                 "U04H8570R": 3, 
                 "U07UEJC2H": 13, 
                 "U0AAL4W13": 23, 
                 "U0B47KC3S": 1, 
-                "U0FN1B8KD": 10, 
+                "U0FN1B8KD": 12, 
                 "U0GMX7QUB": 10, 
                 "U0KLG7CP8": 1, 
                 "U1N5Q9334": 4, 
@@ -263,7 +266,7 @@
                 "U2404BG5N": 1, 
                 "U24BZF8UR": 2, 
                 "U2MF267L2": 9, 
-                "U2PFHNN3C": 40, 
+                "U2PFHNN3C": 41, 
                 "U2PTWF6SX": 1, 
                 "U2Q4137LL": 4, 
                 "U2X419KJS": 9, 
@@ -283,7 +286,7 @@
                 "U352MKG4V": 3, 
                 "U35LGETA4": 1, 
                 "U36QEPF51": 1, 
-                "U37GZRZU6": 56, 
+                "U37GZRZU6": 58, 
                 "U38HVMZ6K": 29, 
                 "U38TWKY9Y": 2, 
                 "U3ARRLDQ8": 1, 
@@ -291,7 +294,7 @@
                 "U3CV9P9NH": 1, 
                 "U3D9HA0N4": 2, 
                 "U3FCS2UP3": 3, 
-                "U3GHS132Q": 11, 
+                "U3GHS132Q": 12, 
                 "U3GQS8JTZ": 1, 
                 "U3HH0CEAW": 1, 
                 "U3J40RUDT": 4, 
@@ -325,13 +328,13 @@
                 "hardware": 2, 
                 "legal": 3, 
                 "medical": 23, 
-                "posts": 193, 
-                "software": 15
+                "posts": 214, 
+                "software": 17
             }, 
             "reactions": {
                 "U04DFTZ7D": 5, 
                 "U07UEJC2H": 1, 
-                "U0AAL4W13": 2, 
+                "U0AAL4W13": 3, 
                 "U0B47KC3S": 13, 
                 "U0JFW4XTQ": 1, 
                 "U0KPE2P16": 1, 
@@ -355,7 +358,7 @@
                 "hardware": 1, 
                 "legal": 1, 
                 "medical": 0, 
-                "posts": 77, 
+                "posts": 84, 
                 "software": 1
             }, 
             "reactions": {
@@ -610,7 +613,7 @@
                 "hardware": 0, 
                 "legal": 0, 
                 "medical": 0, 
-                "posts": 64, 
+                "posts": 68, 
                 "software": 3
             }, 
             "reactions": {
@@ -733,7 +736,7 @@
                 "hardware": 7, 
                 "legal": 0, 
                 "medical": 0, 
-                "posts": 226, 
+                "posts": 229, 
                 "software": 20
             }, 
             "reactions": {
@@ -746,7 +749,8 @@
                 "U2PFHNN3C": 3, 
                 "U34N7NQNR": 3, 
                 "U36QEPF51": 1, 
-                "U37GZRZU6": 1
+                "U37GZRZU6": 1, 
+                "U38HVMZ6K": 1
             }
         }, 
         "U23D8HAC9": {
@@ -811,7 +815,7 @@
                 "hardware": 0, 
                 "legal": 0, 
                 "medical": 1, 
-                "posts": 35, 
+                "posts": 36, 
                 "software": 0
             }, 
             "reactions": {
@@ -841,7 +845,7 @@
                 "hardware": 2, 
                 "legal": 2, 
                 "medical": 9, 
-                "posts": 218, 
+                "posts": 225, 
                 "software": 33
             }, 
             "reactions": {
@@ -857,7 +861,7 @@
                 "U33817K25": 1, 
                 "U36QEPF51": 2, 
                 "U37GZRZU6": 12, 
-                "U38HVMZ6K": 5, 
+                "U38HVMZ6K": 6, 
                 "U3CV9P9NH": 1, 
                 "U3NT8G2BC": 1, 
                 "U3PC2A4GZ": 1, 
@@ -1308,49 +1312,52 @@
         "U37GZRZU6": {
             "id": "aurelie", 
             "posts": {
-                "community": 7, 
+                "community": 16, 
                 "design": 3, 
-                "hardware": 2, 
-                "legal": 3, 
+                "hardware": 10, 
+                "legal": 4, 
                 "medical": 2, 
-                "posts": 219, 
-                "software": 15
+                "posts": 255, 
+                "software": 19
             }, 
             "reactions": {
-                "U04DFTZ7D": 1, 
-                "U07UEJC2H": 4, 
-                "U0AAL4W13": 16, 
-                "U0B47KC3S": 26, 
-                "U0FN1B8KD": 1, 
+                "U04DFTZ7D": 10, 
+                "U07UEJC2H": 8, 
+                "U0AAL4W13": 25, 
+                "U0B47KC3S": 29, 
+                "U0FN1B8KD": 4, 
+                "U0GMX7QUB": 4, 
+                "U1N5Q9334": 2, 
                 "U20C8CKTL": 1, 
-                "U2PFHNN3C": 12, 
+                "U2PFHNN3C": 14, 
                 "U33817K25": 3, 
-                "U38HVMZ6K": 4, 
+                "U38HVMZ6K": 10, 
                 "U3GHS132Q": 1, 
                 "U3J40RUDT": 3, 
-                "U3PLYAJPJ": 1
+                "U3PLYAJPJ": 1, 
+                "U3QGT3Q74": 3
             }
         }, 
         "U38HVMZ6K": {
             "id": "rbo", 
             "posts": {
-                "community": 38, 
-                "design": 22, 
-                "hardware": 69, 
+                "community": 42, 
+                "design": 23, 
+                "hardware": 73, 
                 "legal": 17, 
-                "medical": 10, 
-                "posts": 371, 
-                "software": 40
+                "medical": 11, 
+                "posts": 409, 
+                "software": 51
             }, 
             "reactions": {
-                "U04DFTZ7D": 6, 
+                "U04DFTZ7D": 7, 
                 "U0AAL4W13": 18, 
                 "U0B47KC3S": 27, 
                 "U0FN1B8KD": 1, 
-                "U20C8CKTL": 2, 
+                "U20C8CKTL": 3, 
                 "U2PFHNN3C": 3, 
                 "U33817K25": 6, 
-                "U37GZRZU6": 12, 
+                "U37GZRZU6": 16, 
                 "U3ARRLDQ8": 1, 
                 "U3GHS132Q": 9, 
                 "U3GQS8JTZ": 5, 
@@ -1358,7 +1365,7 @@
                 "U3J40RUDT": 1, 
                 "U3ML4L01Z": 2, 
                 "U3PLYAJPJ": 3, 
-                "U3QGT3Q74": 1, 
+                "U3QGT3Q74": 2, 
                 "U3RKUJHHS": 1, 
                 "U3T7KBEMV": 1
             }
@@ -1565,7 +1572,7 @@
                 "hardware": 17, 
                 "legal": 3, 
                 "medical": 0, 
-                "posts": 117, 
+                "posts": 119, 
                 "software": 11
             }, 
             "reactions": {
@@ -1743,7 +1750,7 @@
                 "hardware": 0, 
                 "legal": 0, 
                 "medical": 6, 
-                "posts": 20, 
+                "posts": 26, 
                 "software": 6
             }, 
             "reactions": {
@@ -1806,16 +1813,18 @@
         "U3T7KBEMV": {
             "id": "marielaureb", 
             "posts": {
-                "community": 0, 
+                "community": 2, 
                 "design": 0, 
                 "hardware": 0, 
                 "legal": 0, 
-                "medical": 6, 
-                "posts": 41, 
+                "medical": 7, 
+                "posts": 46, 
                 "software": 0
             }, 
             "reactions": {
-                "U0B47KC3S": 1
+                "U04DFTZ7D": 1, 
+                "U0B47KC3S": 2, 
+                "U0FN1B8KD": 1
             }
         }, 
         "U3TUWV3SQ": {
@@ -1833,6 +1842,19 @@
                 "U0B47KC3S": 3, 
                 "U37GZRZU6": 1
             }
+        }, 
+        "U3V5J2BEZ": {
+            "id": "elisabeth", 
+            "posts": {
+                "community": 0, 
+                "design": 0, 
+                "hardware": 0, 
+                "legal": 0, 
+                "medical": 0, 
+                "posts": 5, 
+                "software": 0
+            }, 
+            "reactions": {}
         }, 
         "USLACKBOT": {
             "id": "slackbot", 
