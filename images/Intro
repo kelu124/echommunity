@@ -7,10 +7,10 @@ digraph {
 			medical -> brunocp
 		olivier [fillcolor=yellow style=filled]
 			medical -> olivier
-		emilie [fillcolor=yellow style=filled]
-			medical -> emilie
 		luc [fillcolor=yellow style=filled]
 			medical -> luc
+		emilie [fillcolor=yellow style=filled]
+			medical -> emilie
 		posts [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			posts -> benchoufi
@@ -20,8 +20,8 @@ digraph {
 			posts -> olivier
 		rbo [fillcolor=yellow style=filled]
 			posts -> rbo
-		hackolite [fillcolor=yellow style=filled]
-			posts -> hackolite
+		aurelie [fillcolor=yellow style=filled]
+			posts -> aurelie
 		legal [fillcolor=blue fontsize=22 shape=box style=filled]
 		luc [fillcolor=yellow style=filled]
 			legal -> luc
@@ -31,8 +31,8 @@ digraph {
 			legal -> rbo
 		benchoufi [fillcolor=yellow style=filled]
 			legal -> benchoufi
-		emilie [fillcolor=yellow style=filled]
-			legal -> emilie
+		aurelie [fillcolor=yellow style=filled]
+			legal -> aurelie
 		hardware [fillcolor=blue fontsize=22 shape=box style=filled]
 		rbo [fillcolor=yellow style=filled]
 			hardware -> rbo
@@ -64,15 +64,15 @@ digraph {
 			community -> luc
 		rbo [fillcolor=yellow style=filled]
 			community -> rbo
-		emilie [fillcolor=yellow style=filled]
-			community -> emilie
+		aurelie [fillcolor=yellow style=filled]
+			community -> aurelie
 		software [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			software -> benchoufi
-		luc [fillcolor=yellow style=filled]
-			software -> luc
 		rbo [fillcolor=yellow style=filled]
 			software -> rbo
+		luc [fillcolor=yellow style=filled]
+			software -> luc
 		olivier [fillcolor=yellow style=filled]
 			software -> olivier
 		djabbz [fillcolor=yellow style=filled]

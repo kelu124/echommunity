@@ -9,13 +9,16 @@
 
 ### Posts: 
 
-Number of posts: 41
+Number of posts: 46
 
 ### Topics:
 
-* __posts__: 41 posts
-* __medical__: 6 posts
+* __posts__: 46 posts
+* __medical__: 7 posts
+* __community__: 2 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 2 mention and/or reactions
+* [@emilie](./U0FN1B8KD.md): 1 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

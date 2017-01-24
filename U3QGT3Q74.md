@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 20
+Number of posts: 26
 
 ### Topics:
 
-* __posts__: 20 posts
+* __posts__: 26 posts
 * __software__: 6 posts
 * __medical__: 6 posts
 * __community__: 1 posts

@@ -9,13 +9,13 @@
 
 ### Posts: 
 
-Number of posts: 193
+Number of posts: 214
 
 ### Topics:
 
-* __posts__: 193 posts
+* __posts__: 214 posts
 * __medical__: 23 posts
-* __software__: 15 posts
+* __software__: 17 posts
 * __community__: 14 posts
 * __legal__: 3 posts
 * __hardware__: 2 posts
@@ -26,8 +26,8 @@ Number of posts: 193
 * [@ivan.l](./U3CDR25JP.md): 5 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 5 mention and/or reactions
 * [@jos](./U3N1SENJY.md): 3 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 3 mention and/or reactions
 * [@sami](./U2MF267L2.md): 2 mention and/or reactions
-* [@luc](./U0AAL4W13.md): 2 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 1 mention and/or reactions
 * [@muriel](./U0JFW4XTQ.md): 1 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
