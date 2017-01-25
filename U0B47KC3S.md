@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __benchoufi__ (_@U0B47KC3S_)
 
@@ -9,28 +9,28 @@
 
 ### Posts: 
 
-Number of posts: 979
+Number of posts: 987
 
 ### Topics:
 
-* __posts__: 979 posts
-* __software__: 204 posts
-* __community__: 103 posts
+* __posts__: 987 posts
+* __software__: 205 posts
+* __community__: 104 posts
 * __medical__: 83 posts
-* __hardware__: 33 posts
+* __hardware__: 35 posts
 * __design__: 25 posts
 * __legal__: 15 posts
 
 ## Key interactions 
 
-* [@aurelie](./U37GZRZU6.md): 58 mention and/or reactions
-* [@hackolite](./U20C8CKTL.md): 43 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 60 mention and/or reactions
+* [@hackolite](./U20C8CKTL.md): 44 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 43 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 41 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 29 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 31 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 23 mention and/or reactions
 * [@brunocp](./U33817K25.md): 18 mention and/or reactions
-* [@benschan](./U1PKXQVDW.md): 14 mention and/or reactions
+* [@benschan](./U1PKXQVDW.md): 16 mention and/or reactions
 * [@devamine](./U2X7189QR.md): 14 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 13 mention and/or reactions
 * [@soobash](./U1PAGSKGU.md): 12 mention and/or reactions
@@ -51,6 +51,7 @@ Number of posts: 979
 * [@masoud](./U3PLYAJPJ.md): 4 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 4 mention and/or reactions
 * [@zb](./U1P9ARRU3.md): 4 mention and/or reactions
+* [@lecoued](./U3QGT3Q74.md): 4 mention and/or reactions
 * [@thomas](./U2Q4137LL.md): 4 mention and/or reactions
 * [@ameklou](./U32AR6TED.md): 3 mention and/or reactions
 * [@jahuth](./U3FCS2UP3.md): 3 mention and/or reactions
@@ -64,7 +65,6 @@ Number of posts: 979
 * [@polly](./U24BZF8UR.md): 2 mention and/or reactions
 * [@fulvio.michelis](./U3D9HA0N4.md): 2 mention and/or reactions
 * [@noureddine](./U38TWKY9Y.md): 2 mention and/or reactions
-* [@lecoued](./U3QGT3Q74.md): 2 mention and/or reactions
 * [@jcbillard](./U3GQS8JTZ.md): 1 mention and/or reactions
 * [@yan_k](./U3NT8G2BC.md): 1 mention and/or reactions
 * [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions

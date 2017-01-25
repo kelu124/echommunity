@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # What is it?
 
@@ -25,11 +25,11 @@ This very page shows the different persons who are speaking the most about some 
 
 ## posts-related users
 
-* [@benchoufi](./U0B47KC3S.md): 979 posts
-* [@luc](./U0AAL4W13.md): 789 posts
-* [@olivier](./U04DFTZ7D.md): 618 posts
-* [@rbo](./U38HVMZ6K.md): 409 posts
-* [@aurelie](./U37GZRZU6.md): 255 posts
+* [@benchoufi](./U0B47KC3S.md): 987 posts
+* [@luc](./U0AAL4W13.md): 797 posts
+* [@olivier](./U04DFTZ7D.md): 620 posts
+* [@rbo](./U38HVMZ6K.md): 426 posts
+* [@aurelie](./U37GZRZU6.md): 267 posts
 
 ## legal-related users
 
@@ -41,10 +41,10 @@ This very page shows the different persons who are speaking the most about some 
 
 ## hardware-related users
 
-* [@rbo](./U38HVMZ6K.md): 73 posts
+* [@rbo](./U38HVMZ6K.md): 81 posts
 * [@luc](./U0AAL4W13.md): 49 posts
 * [@olivier](./U04DFTZ7D.md): 39 posts
-* [@benchoufi](./U0B47KC3S.md): 33 posts
+* [@benchoufi](./U0B47KC3S.md): 35 posts
 * [@jerome](./U07UEJC2H.md): 20 posts
 
 ## design-related users
@@ -57,16 +57,16 @@ This very page shows the different persons who are speaking the most about some 
 
 ## community-related users
 
-* [@benchoufi](./U0B47KC3S.md): 103 posts
+* [@benchoufi](./U0B47KC3S.md): 104 posts
 * [@olivier](./U04DFTZ7D.md): 93 posts
-* [@luc](./U0AAL4W13.md): 75 posts
-* [@rbo](./U38HVMZ6K.md): 42 posts
+* [@luc](./U0AAL4W13.md): 76 posts
+* [@rbo](./U38HVMZ6K.md): 48 posts
 * [@aurelie](./U37GZRZU6.md): 16 posts
 
 ## software-related users
 
-* [@benchoufi](./U0B47KC3S.md): 204 posts
-* [@rbo](./U38HVMZ6K.md): 51 posts
+* [@benchoufi](./U0B47KC3S.md): 205 posts
+* [@rbo](./U38HVMZ6K.md): 58 posts
 * [@luc](./U0AAL4W13.md): 50 posts
 * [@olivier](./U04DFTZ7D.md): 36 posts
 * [@djabbz](./U2PFHNN3C.md): 33 posts

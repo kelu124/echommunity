@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __benoit__ (_@U0GMX7QUB_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 84
+Number of posts: 85
 
 ### Topics:
 
-* __posts__: 84 posts
+* __posts__: 85 posts
 * __software__: 1 posts
 * __legal__: 1 posts
 * __hardware__: 1 posts

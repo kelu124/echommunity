@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __rbo__ (_@U38HVMZ6K_)
 
@@ -9,29 +9,29 @@
 
 ### Posts: 
 
-Number of posts: 409
+Number of posts: 426
 
 ### Topics:
 
-* __posts__: 409 posts
-* __hardware__: 73 posts
-* __software__: 51 posts
-* __community__: 42 posts
+* __posts__: 426 posts
+* __hardware__: 81 posts
+* __software__: 58 posts
+* __community__: 48 posts
 * __design__: 23 posts
 * __legal__: 17 posts
 * __medical__: 11 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 27 mention and/or reactions
-* [@luc](./U0AAL4W13.md): 18 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 16 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 28 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 19 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 18 mention and/or reactions
 * [@eiffel](./U3GHS132Q.md): 9 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 7 mention and/or reactions
 * [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@jcbillard](./U3GQS8JTZ.md): 5 mention and/or reactions
+* [@masoud](./U3PLYAJPJ.md): 4 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 3 mention and/or reactions
-* [@masoud](./U3PLYAJPJ.md): 3 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 3 mention and/or reactions
 * [@jules](./U3ML4L01Z.md): 2 mention and/or reactions
 * [@lecoued](./U3QGT3Q74.md): 2 mention and/or reactions

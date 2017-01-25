@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __slackbot__ (_@USLACKBOT_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 28
+Number of posts: 29
 
 ### Topics:
 
-* __posts__: 28 posts
+* __posts__: 29 posts
 * __software__: 14 posts
 * __hardware__: 1 posts
 

@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __masoud__ (_@U3PLYAJPJ_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 45
+Number of posts: 46
 
 ### Topics:
 
-* __posts__: 45 posts
+* __posts__: 46 posts
 * __hardware__: 8 posts
 * __software__: 4 posts
 * __design__: 1 posts

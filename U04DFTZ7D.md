@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __olivier__ (_@U04DFTZ7D_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 618
+Number of posts: 620
 
 ### Topics:
 
-* __posts__: 618 posts
+* __posts__: 620 posts
 * __community__: 93 posts
 * __medical__: 47 posts
 * __hardware__: 39 posts

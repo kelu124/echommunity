@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __jerome__ (_@U07UEJC2H_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 124
+Number of posts: 127
 
 ### Topics:
 
-* __posts__: 124 posts
+* __posts__: 127 posts
 * __hardware__: 20 posts
 * __software__: 9 posts
 * __design__: 1 posts

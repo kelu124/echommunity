@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __emilie__ (_@U0FN1B8KD_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 214
+Number of posts: 218
 
 ### Topics:
 
-* __posts__: 214 posts
+* __posts__: 218 posts
 * __medical__: 23 posts
 * __software__: 17 posts
 * __community__: 14 posts

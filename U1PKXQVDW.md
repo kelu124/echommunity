@@ -1,4 +1,4 @@
-[Home](https://kelu124.github.io/echommunity/)
+[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
 # Some info on __benschan__ (_@U1PKXQVDW_)
 
@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 41
+Number of posts: 43
 
 ### Topics:
 
-* __posts__: 41 posts
+* __posts__: 43 posts
 
 ## Key interactions 
 
