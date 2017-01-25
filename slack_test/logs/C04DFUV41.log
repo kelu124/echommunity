@@ -172,3 +172,10 @@
 1484998590.000130> @U38HVMZ6K: For the reference... <https://itk.org/> I also had a quick look at it and seems really good. Well documented and maintained with regular releases. (reactions: @U0B47KC3S)
 1485019903.000132> @U0B47KC3S: thanks <@U38HVMZ6K> we were just talking about it. Btw, we arben  trying now to document a robust rendering pipeline
 1485020072.000133> @U0B47KC3S: besides, we are working with <@U37GZRZU6> on refactoring the code for the RenderScript implementation and we get for the only ScanConversion algo `6ms` :wink:
+1485299669.000134> @U3QGT3Q74: <@U0B47KC3S> <@U37GZRZU6> Following our discussions from last saturday on the rendering pipeline I investigate on the communication part between the device and the mobile phone  * UDP protocol does not seems to be compatible with medical device as it allows packet loss during data transfert, we should focus on TCP/IP   * standard encoding for medical images is Lossless JPEG that ensure no image degradation with a compression factor between 6:1 to 12:1 (reactions: @U20C8CKTL,@U37GZRZU6)
+1485299868.000135> @U0B47KC3S: indeed <@U3QGT3Q74>, there is a legacy UDP implementation related to first POCtotype, we used  this protocol for opportunity reason. Currently, we have a TCP implementation running fine
+1485299913.000136> @U0B47KC3S: perfect for the JPEG implementation
+1485300469.000137> @U20C8CKTL: Last year i saw something at fosdem on picotcp. Some kind of resized tcp/ip stack
+1485300513.000138> @U20C8CKTL: Maybe it could be interesting to look at this stuff further.
+1485335873.000139> @U0AAL4W13: BTW, were there minutes from Saturday?
+1485335906.000140> @U37GZRZU6: <@U0AAL4W13> no... :sweat:

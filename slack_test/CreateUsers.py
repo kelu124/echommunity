@@ -80,7 +80,7 @@ styles = {
 
 ##########
 
-Header = UserPage = "[Home](https://kelu124.github.io/echommunity/)\n\n"
+Header = "[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)\n\n"
 
 def getThreeInter(Contrib,MainJSON,usernames):
 	s = []

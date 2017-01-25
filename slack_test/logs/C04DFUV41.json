@@ -27,6 +27,11 @@
             "user_id": "U37GZRZU6"
         }, 
         {
+            "mentioned_user_id": "U0AAL4W13", 
+            "ts": "1485335906.000140", 
+            "user_id": "U37GZRZU6"
+        }, 
+        {
             "mentioned_user_id": "U23D8HAC9", 
             "ts": "1471848932.000002", 
             "user_id": "U0B47KC3S"
@@ -172,8 +177,23 @@
             "user_id": "U0B47KC3S"
         }, 
         {
+            "mentioned_user_id": "U3QGT3Q74", 
+            "ts": "1485299868.000135", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
             "mentioned_user_id": "U0B47KC3S", 
             "ts": "1484725273.000116", 
+            "user_id": "U3QGT3Q74"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1485299669.000134", 
+            "user_id": "U3QGT3Q74"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1485299669.000134", 
             "user_id": "U3QGT3Q74"
         }, 
         {
@@ -246,6 +266,16 @@
         {
             "mentioned_user_id": "U37GZRZU6", 
             "ts": "1484997880.000127", 
+            "user_id": "U3QGT3Q74"
+        }, 
+        {
+            "mentioned_user_id": "U20C8CKTL", 
+            "ts": "1485299669.000134", 
+            "user_id": "U3QGT3Q74"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1485299669.000134", 
             "user_id": "U3QGT3Q74"
         }, 
         {
@@ -437,7 +467,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "19", 
+                "posts": "22", 
                 "software": "4"
             }
         }, 
@@ -448,7 +478,7 @@
                 "hardware": "1", 
                 "legal": "1", 
                 "medical": "0", 
-                "posts": "74", 
+                "posts": "77", 
                 "software": "58"
             }
         }, 
@@ -712,7 +742,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "2", 
+                "posts": "5", 
                 "software": "0"
             }
         }, 
@@ -861,12 +891,12 @@
         }, 
         {
             "U3QGT3Q74": {
-                "community": "0", 
+                "community": "1", 
                 "design": "0", 
                 "hardware": "0", 
                 "legal": "0", 
-                "medical": "1", 
-                "posts": "9", 
+                "medical": "3", 
+                "posts": "11", 
                 "software": "5"
             }
         }, 
@@ -877,7 +907,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "11", 
+                "posts": "13", 
                 "software": "2"
             }
         }, 

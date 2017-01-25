@@ -663,3 +663,9 @@
 1484942280.000357> @U0AAL4W13: Sweet!
 1485019575.000358> @U0FN1B8KD: Phantom :
 1485020196.000359> @U0B47KC3S: <@U0FN1B8KD> love it :wink:
+1485342000.000360> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1485358251.000361> @U0B47KC3S: <@U3QGT3Q74> <@U1PKXQVDW> in the flow of our conversations, check this <http://www.sciencedirect.com/science/article/pii/S0923596514001854> it is about JPEG2000 compression optimizing with wavelets, the implementation is related to, among other, ultrasound images
+1485359667.000362> @U38HVMZ6K: Please keep in mind that this kind of operations are intensive in terms of computing resources and that hardware accelerators/decoders are often used to minimize CPU load of algorithms implemented in software.
+1485359790.000363> @U38HVMZ6K: Before going to JPEG2000 check that we have hardware support for it or we will waste a lot of processing time just for that. (reactions: @U0AAL4W13,@U37GZRZU6,@U37GZRZU6)
+1485359844.000364> @U38HVMZ6K: Or check that we have really optimized software implementations.
+1485360874.000365> @U0B47KC3S: <@U38HVMZ6K> :nerd_face: shared thoughts about benchmark explorations - btw, this article is mainly aimed at screening more in depth wavelets approaches #SigProc team, especially <@U1PKXQVDW>. So this is perfect example of how 11th february CapMeth can bring some concrete way to share infos between teams in a more accurate way (reactions: @U37GZRZU6,@U20C8CKTL)

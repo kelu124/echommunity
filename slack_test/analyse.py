@@ -4,9 +4,7 @@
 # (c) kelu124
 # cc-by-sa/4.0/
 # -------------------------
-# Examining slack log files
-# Creates channel-wise jsons
-# Creates a main MainJSON.json file for all information
+# Analyse the slack data
 # -------------------------
 
 import re	

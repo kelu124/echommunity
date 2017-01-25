@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# -------------------------
+# (c) kelu124
+# cc-by-sa/4.0/
+# -------------------------
+# Pulls data from GitHub
+# -------------------------
+
 """ Print all of the clone-urls for a GitHub organization.
 It requires the pygithub3 module, which you can install like this::
     $ sudo yum -y install python-virtualenv
@@ -25,6 +33,7 @@ gh = None
 def write_jsons(url,name,filename):
 
 	response = urllib2.urlopen(url).read()
+	#json_data = json.dumps(response, sort_keys=True, indent=4)
 	directory = "./data/"+name+"/"
 	f = open(directory+filename,"w") 
 	f.write(response)

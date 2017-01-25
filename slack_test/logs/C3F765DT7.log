@@ -313,3 +313,15 @@
 1485284470.000381> @U37GZRZU6: (but will be at echOpen at 6:30 for sigproc)
 1485285185.000382> @U0AAL4W13: won't be there neither, will be at work :confused: (stupid consulting job :stuck_out_tongue: )
 1485285719.000383> @U38HVMZ6K: OK then with most of us busy somewhere else and me at "homespital" I suggest we cancel tomorrow.
+1485371888.000384> @U38HVMZ6K: :heart_eyes::open_mouth: OMG what a beast! 4x ARM Cortex-A53 64bits cores 2x ARM Cortex-R5 real-time and safety specialized cores 1x Mali GPU DDR4 memory FPGA logic fabric for custom processing And all this already integrated !!! <http://linuxgizmos.com/com-duo-expands-upon-quad-a53fpga-zynq-ultrascale/>
+1485371956.000386> @U20C8CKTL: I prefer mine  ! <http://www.nvidia.com/object/jetson-tx1-module.html>
+1485371964.000388> @U20C8CKTL: :P
+1485372058.000389> @U38HVMZ6K: Nice as well! A bit more powerful for real image processing (better GPU, CUDA,...) but a bit less flexible towards industrial applications.
+1485372098.000390> @U38HVMZ6K: And I definitely hate Nvidia for their lack of documentation and support.
+1485372293.000391> @U38HVMZ6K: Unless you are a manufacturer producing in the millions pieces/year they just don't care about you.
+1485372545.000392> @U38HVMZ6K: On my current project I'm working with an Nvidia Tegra3 (older than K1/X1) and documentation and support is just dramatically poor. Compared to other manufacturers who provide full documentation (TI, NXP/Freescale, ST, Xilinx,...) you are just let alone in the dark...
+1485372655.000393> @U38HVMZ6K: And their commitment to open source community is not so good as well. With our Tegra3 we are stuck with an oooold 3.1.10 kernel, the one and only supported by Nvidia if you want graphics acceleration with their proprietary drivers.
+1485372751.000394> @U38HVMZ6K: If you move to mainline/up to date kernel, it works but you loose all compatibility with graphics acceleration --&gt; no way for any application involving strong processing
+1485374014.000395> @U38HVMZ6K: And I'm not alone... :joy:  <https://youtu.be/i_kk4MCd4wU> (reactions: @U3PLYAJPJ,@U0B47KC3S)
+1485378042.000397> @U0B47KC3S: <@U38HVMZ6K> great and cheap ! question : how large is FPGA community vs DSP ?
+1485379629.000398> @U38HVMZ6K: Cheap it depends...  &gt; starting at $157, tiering down to $112 in 10K+ volume for the 1GB commercial range SKU. The Mercury+ XU3 will start at $800 with 2GB RAM, dropping down to $520 at 10K. 

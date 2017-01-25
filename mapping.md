@@ -10,7 +10,7 @@
 ## Documentation
 
 * Overall documentation effort done by @benoit @luc
-* Mapping of existing knowledge initiated by @alienor and @emilie
+* Mapping of existing knowledge initiated by @alienor and @emilie - partially in the [starterkit](https://echopen.gitbooks.io/starterkit/content/).
 
 ## Instances
 
@@ -18,6 +18,8 @@
 * ULB: @quentin_dg, @ramzi, @sadams
 * ESIA: @20cent, @farad
 * 
+
+## Topics
 
 ### Hardware
 
