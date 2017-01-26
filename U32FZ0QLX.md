@@ -18,6 +18,7 @@ Number of posts: 65
 * __software__: 1 posts
 * __design__: 1 posts
 * __community__: 1 posts
+* __medical__: 1 posts
 
 ## Key interactions 
 

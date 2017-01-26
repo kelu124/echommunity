@@ -9,16 +9,16 @@
 
 ### Posts: 
 
-Number of posts: 797
+Number of posts: 816
 
 ### Topics:
 
-* __posts__: 797 posts
-* __community__: 76 posts
-* __legal__: 59 posts
-* __software__: 50 posts
-* __hardware__: 49 posts
-* __medical__: 27 posts
+* __posts__: 816 posts
+* __community__: 80 posts
+* __legal__: 60 posts
+* __software__: 52 posts
+* __hardware__: 52 posts
+* __medical__: 30 posts
 * __design__: 20 posts
 
 ## Key interactions 
@@ -28,8 +28,8 @@ Number of posts: 797
 * [@olivier](./U04DFTZ7D.md): 25 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 22 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 12 mention and/or reactions
+* [@emilie](./U0FN1B8KD.md): 8 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 7 mention and/or reactions
-* [@emilie](./U0FN1B8KD.md): 7 mention and/or reactions
 * [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 6 mention and/or reactions
 * [@20cent](./U0GN7EB32.md): 5 mention and/or reactions
@@ -57,5 +57,6 @@ Number of posts: 797
 * [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
 * [@mathieu](./U0PPGEYFK.md): 1 mention and/or reactions
+* [@rancano](./U3WRNP30B.md): 1 mention and/or reactions
 * [@gautier.ferandelle](./U0PKUKHPC.md): 1 mention and/or reactions
 * [@samy121](./U1G9AEN7L.md): 1 mention and/or reactions

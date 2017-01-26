@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 218
+Number of posts: 225
 
 ### Topics:
 
-* __posts__: 218 posts
+* __posts__: 225 posts
 * __medical__: 23 posts
 * __software__: 17 posts
 * __community__: 14 posts
@@ -22,12 +22,13 @@ Number of posts: 218
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 13 mention and/or reactions
-* [@ivan.l](./U3CDR25JP.md): 5 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 14 mention and/or reactions
+* [@ivan.l](./U3CDR25JP.md): 6 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 5 mention and/or reactions
-* [@jos](./U3N1SENJY.md): 3 mention and/or reactions
+* [@jos](./U3N1SENJY.md): 4 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 3 mention and/or reactions
 * [@sami](./U2MF267L2.md): 2 mention and/or reactions
+* [@marco](./U3WNEB55H.md): 1 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 1 mention and/or reactions
 * [@muriel](./U0JFW4XTQ.md): 1 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
@@ -38,3 +39,4 @@ Number of posts: 218
 * [@marielaureb](./U3T7KBEMV.md): 1 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 1 mention and/or reactions
 * [@yohann](./U0KPE2P16.md): 1 mention and/or reactions
+* [@rancano](./U3WRNP30B.md): 1 mention and/or reactions

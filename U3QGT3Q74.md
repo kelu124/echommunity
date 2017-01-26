@@ -9,17 +9,17 @@
 
 ### Posts: 
 
-Number of posts: 31
+Number of posts: 35
 
 ### Topics:
 
-* __posts__: 31 posts
+* __posts__: 35 posts
+* __software__: 8 posts
 * __medical__: 8 posts
-* __software__: 6 posts
 * __community__: 2 posts
 
 ## Key interactions 
 
 * [@aurelie](./U37GZRZU6.md): 5 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 2 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 3 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions

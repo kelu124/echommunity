@@ -9,30 +9,30 @@
 
 ### Posts: 
 
-Number of posts: 620
+Number of posts: 623
 
 ### Topics:
 
-* __posts__: 620 posts
+* __posts__: 623 posts
 * __community__: 93 posts
-* __medical__: 47 posts
+* __medical__: 48 posts
 * __hardware__: 39 posts
-* __software__: 36 posts
-* __legal__: 35 posts
+* __software__: 37 posts
+* __legal__: 36 posts
 * __design__: 13 posts
 
 ## Key interactions 
 
-* [@luc](./U0AAL4W13.md): 17 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 13 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 11 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 18 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 14 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 12 mention and/or reactions
 * [@pierrepadilla](./U2X419KJS.md): 9 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 8 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 9 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 7 mention and/or reactions
 * [@mario_j](./U32UWGGN9.md): 6 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 5 mention and/or reactions
+* [@djabbz](./U2PFHNN3C.md): 5 mention and/or reactions
 * [@brunocp](./U33817K25.md): 4 mention and/or reactions
-* [@djabbz](./U2PFHNN3C.md): 4 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 4 mention and/or reactions
 * [@springwing](./U3267ST8C.md): 4 mention and/or reactions
 * [@luis](./U34231VFH.md): 3 mention and/or reactions
@@ -54,6 +54,7 @@ Number of posts: 620
 * [@traffael](./U3RKUJHHS.md): 1 mention and/or reactions
 * [@jojojbz](./U1DGN6S80.md): 1 mention and/or reactions
 * [@ithonet](./U2QMN3L1F.md): 1 mention and/or reactions
+* [@marco](./U3WNEB55H.md): 1 mention and/or reactions
 * [@guido_bendezu](./U38JDLY2E.md): 1 mention and/or reactions
 * [@jules](./U3ML4L01Z.md): 1 mention and/or reactions
 * [@romain_agaisse](./U2NAWHM9N.md): 1 mention and/or reactions

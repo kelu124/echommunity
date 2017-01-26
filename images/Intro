@@ -45,10 +45,10 @@ digraph {
 		jerome [fillcolor=yellow style=filled]
 			hardware -> jerome
 		design [fillcolor=blue fontsize=22 shape=box style=filled]
-		benchoufi [fillcolor=yellow style=filled]
-			design -> benchoufi
 		rbo [fillcolor=yellow style=filled]
 			design -> rbo
+		benchoufi [fillcolor=yellow style=filled]
+			design -> benchoufi
 		luc [fillcolor=yellow style=filled]
 			design -> luc
 		olivier [fillcolor=yellow style=filled]
