@@ -325,3 +325,25 @@
 1485374014.000395> @U38HVMZ6K: And I'm not alone... :joy:  <https://youtu.be/i_kk4MCd4wU> (reactions: @U3PLYAJPJ,@U0B47KC3S)
 1485378042.000397> @U0B47KC3S: <@U38HVMZ6K> great and cheap ! question : how large is FPGA community vs DSP ?
 1485379629.000398> @U38HVMZ6K: Cheap it depends...  &gt; starting at $157, tiering down to $112 in 10K+ volume for the 1GB commercial range SKU. The Mercury+ XU3 will start at $800 with 2GB RAM, dropping down to $520 at 10K. 
+1485379761.000399> @U38HVMZ6K: FPGA community is much smaller I would say and more difficult to "jump in" than DSP programming.
+1485379913.000400> @U38HVMZ6K: DSP programming is open to any developer with a good background in C and some awareness on limited resources implied by an embedded system. Advanced features of DSPs still require deep expertise and experience but such kind of experience is easier to acquire.
+1485379925.000401> @U0AAL4W13: I guess as well you don't do the same thing with FPGA and DSP ?
+1485379957.000402> @U0AAL4W13: for example, can you connect a DSP to a wifi chip without microcontroler in between ?
+1485379978.000403> @U0AAL4W13: (out of curiosity of course)
+1485380071.000404> @U38HVMZ6K: As always it depends on the DSP... Today most DSP chips have internal peripherals (UARTs, SPI, I2C, SDIO or even USB)
+1485380096.000405> @U38HVMZ6K: Most of the wifi chip I know use one of these interfaces
+1485380222.000406> @U0AAL4W13: sweet !
+1485380237.000407> @U38HVMZ6K: For a raw FPGA, connecting it to a wifi chip is somehow more challenging. You'll have to integrate a controller in the "hardware"/programmable logic of the FPGA.
+1485380322.000408> @U0AAL4W13: true
+1485380367.000409> @U38HVMZ6K: The real benefit of architectures like the Zynq, Zynq UltraScale or Altera Aria is that you combine standard microcontroller cores (ARM Cortex) with "FPGA-style" programmable logic in the same silicium chip.
+1485380460.000410> @U38HVMZ6K: And the second advantage is that you have high bandwidth buses between the FPGA side and the ARM side which is otherwise often problematic if you use 2 chips (1 ARM processor and 1 FPGA)
+1485380507.000411> @U38HVMZ6K: The bottleneck is often the interface between the 2 (PCI Express or other local bus)
+1485380554.000412> @U38HVMZ6K: Difficult to use and difficult to design (high-speed buses on PCBs are a nightmare)
+1485380623.000413> @U38HVMZ6K: I don't speak by experience, I'm absolutely a noob in hardware design but from experience and feedback from colleagues and high-level HW designers.
+1485433644.000414> @U38HVMZ6K: hi team, I sent a e-mail to Enclustra to ask them about availability of their different modules since they are are "in development" or coming soon. I got an answer within 30 minutes :open_mouth:
+1485433673.000415> @U38HVMZ6K: the first one to be released will be the expensive Mercury+-XU1
+1485433682.000416> @U38HVMZ6K: with others following on
+1485433727.000417> @U38HVMZ6K: <@U38HVMZ6K>
+1485433809.000418> @U38HVMZ6K: <@U38HVMZ6K> and commented: XU1 manual
+1485433895.000419> @U38HVMZ6K: <@U38HVMZ6K> and commented: E-mail with roadmap
+1485447390.000420> @U3WRNP30B: <@U3WRNP30B> has joined the channel

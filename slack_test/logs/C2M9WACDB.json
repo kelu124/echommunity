@@ -56,6 +56,7 @@
         "U1NM17NHF", 
         "U04DFTZ7D", 
         "U3J40RUDT", 
+        "U3WRNP30B", 
         "U38HVMZ6K", 
         "U35LGETA4", 
         "U2MF267L2", 
@@ -671,6 +672,17 @@
             }
         }, 
         {
+            "U3WNEB55H": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
             "U3T7KBEMV": {
                 "community": "0", 
                 "design": "0", 
@@ -997,6 +1009,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3WRNP30B": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

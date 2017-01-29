@@ -4,6 +4,7 @@
 # (c) kelu124
 # cc-by-sa/4.0/
 # -------------------------
+# Getting Slack information and storing them locally
 # Reusing
 # CTEC 121 / Intro to Programming and Problem Solving
 # Lab - Using the Slack API

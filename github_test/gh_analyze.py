@@ -16,6 +16,17 @@ from glob import glob
 
 Header = "[Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)\n\n"
 
+Debug = True
+
+def GetPeople():
+	usernames = {}
+	with open("./user.log") as users:  
+		for user in users:
+		    if len(user):
+			WhoIs = user.strip().split(";") 
+			usernames[WhoIs[0]] = WhoIs[1]
+	return usernames
+
 def getJsons(mypath):
 	# getChannelLogs("./logs/")
 	results = [y for x in os.walk(mypath) for y in glob(os.path.join(x[0], '*.json'))]
@@ -43,40 +54,58 @@ def loadEventsJson(path):
 		    else:
 			Events[typeEvent][temp['actor']["login"]] += 1
 
-
-		print temp["type"]+" "+ temp['actor']["login"]
-
+		#print temp["type"]+" "+ temp['actor']["login"]
 	return Events
 
+def loadStarJson(path):
+	# ForkEvent - PushEvent, PullRequestEvent
+	json_data = open(path)
+	Stars = []
+	data = json.load(json_data)
+	for gazer in data:
+		Stars.append(gazer["login"])
+	return Stars
 
-AllRepos = getRepos("./")
-AllJsons = getJsons("./")
 
+if __name__ == '__main__':
+	AllRepos = getRepos("./")
+	AllJsons = getJsons("./")
+	Ppl = GetPeople()
 
-#loadEventsJson(AllJsons[0])
+	#loadEventsJson(AllJsons[0])
 
-GHPage = "\n# GitHub information \n\n"
-for repo in AllRepos:
-	GHPage += "\n## "+repo+"\n\n"
-	GHPage += "### ["+repo+"](https://github.com/echopen/"+repo+")\n\n"
-	if True:
+	GHPage = "\n# GitHub information \n\n"
+	for repo in AllRepos:
+	    GHPage += "\n## "+repo+"\n\n"
+	    GHPage += "### ["+repo+"](https://github.com/echopen/"+repo+")\n\n"
+	    if Debug:
 		for eachJson in AllJsons:
-		    print eachJson
 		    if repo in eachJson:
 			if "events.json" in eachJson:
-			    GHPage += "#### Events:\n\n"
+			    content = loadEventsJson(eachJson)
+			    if len(content):
+				    GHPage += "\n\n#### Events:\n\n"
+				    for category in content:
+					if len(content[category]):
+						GHPage += "* "+category+": "
+						for people in content[category]:
+							if people in Ppl:
+							    who = "["+people+"](./"+Ppl[people]+".md)"
+							else:
+							    who = people
+						GHPage += "_"+who+ "_ ("+str(content[category][people])+"), "
+						GHPage += "\n"
 
-		            content = loadEventsJson(eachJson)
-
-			    for category in content:
-				GHPage += " * "+category+": "
-				for people in content[category]:
-				    print people+" - "+category
-				    GHPage += people+ "("+str(content[category][people])+"), "
-				GHPage += "\n"
-			    GHPage += "\n\n"
+			if "stargazers.json" in eachJson:
+			    content = loadStarJson(eachJson)
+			    for i in range(len(content)):
+				if content[i] in Ppl:
+				    content[i] = "["+content[i]+"](./"+Ppl[content[i]]+".md)"
+			    if len(content):
+				    GHPage += "\n\n#### Starred by:\n\n"
+				    GHPage += "* Stargazer: _"+ ", ".join(content)+"_\n"		    
 				
-#print GHPage
-f = open("../gh-pages/github.md","w+")
-f.write(Header+GHPage)
-f.close()
+	f = open("../gh-pages/github.md","w+")
+	f.write(Header+GHPage)
+	f.close()
+

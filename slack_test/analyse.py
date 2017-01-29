@@ -4,7 +4,7 @@
 # (c) kelu124
 # cc-by-sa/4.0/
 # -------------------------
-# Analyse the slack data
+# Analyse the locally stored slack data
 # -------------------------
 
 import re	
@@ -16,10 +16,10 @@ import json
 
 
 # List of keywords
-Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor","kit", "boards","redpitaya","dsp","amplifier","quad","cortex","embedded","zynq","altera", "mcu"]
-Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural", "deep learning","opengl","scan conversion", "scanconversion"]
+Hardware = ["pcb","fpga","electronic","cpld","stm32","arduino","kicad","tgc","adc","hardware","transistor","kit", "boards","redpitaya","dsp","amplifier","quad","cortex","embedded","zynq","altera", "mcu", "xilinx","cortex","zynq"]
+Software = ["android","java","code","python","script","merge","software",'app',"gpu", "machine learning","neural", "deep learning","opengl","scan conversion", "scanconversion","big data"]
 Legal = ["patent", "agreement", "cla","licence","license","legal","copyright"] 
-Medical = ["doctor", "patient",'médecin',"medical","medecin","health", "healthcare","physician","diagnosis","diabet","pregnant","pregnancy","liver","prevalence", "blood","fetal","midwi","epidemio", "biolog","clinic"]
+Medical = ["doctor", "patient",'médecin',"medical","medecin","medicin","emergency","health", "healthcare","physician","diagnosis","diabet","pregnant","pregnancy","liver","prevalence", "blood","fetal","midwi","epidemio", "biolog","clinic"]
 Design = ["design", "user","interface"] 
 Community = ["graph", "community", "communication", "event", "contribution", "contributor", "wiki","documentation","presentation","contributeur","gitbook","onboard","knowledge "]
 

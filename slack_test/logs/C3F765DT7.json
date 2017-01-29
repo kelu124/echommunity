@@ -492,6 +492,7 @@
         "U2X419KJS", 
         "U24BZF8UR", 
         "U2UU194RZ", 
+        "U3WRNP30B", 
         "U38HVMZ6K", 
         "U2NAWHM9N", 
         "U32V2JWFJ", 
@@ -775,7 +776,7 @@
             "U3GHS132Q": {
                 "community": "3", 
                 "design": "5", 
-                "hardware": "16", 
+                "hardware": "18", 
                 "legal": "2", 
                 "medical": "0", 
                 "posts": "73", 
@@ -1050,10 +1051,10 @@
             "U0AAL4W13": {
                 "community": "2", 
                 "design": "4", 
-                "hardware": "11", 
+                "hardware": "14", 
                 "legal": "6", 
                 "medical": "3", 
-                "posts": "43", 
+                "posts": "48", 
                 "software": "1"
             }
         }, 
@@ -1113,6 +1114,17 @@
             }
         }, 
         {
+            "U3WNEB55H": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
             "U3T7KBEMV": {
                 "community": "0", 
                 "design": "0", 
@@ -1138,7 +1150,7 @@
             "U3PLYAJPJ": {
                 "community": "0", 
                 "design": "1", 
-                "hardware": "6", 
+                "hardware": "7", 
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "11", 
@@ -1443,13 +1455,24 @@
             }
         }, 
         {
+            "U3WRNP30B": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
             "U38HVMZ6K": {
-                "community": "17", 
-                "design": "15", 
-                "hardware": "59", 
+                "community": "18", 
+                "design": "20", 
+                "hardware": "93", 
                 "legal": "8", 
                 "medical": "0", 
-                "posts": "135", 
+                "posts": "154", 
                 "software": "12"
             }
         }, 

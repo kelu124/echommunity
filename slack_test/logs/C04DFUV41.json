@@ -182,6 +182,41 @@
             "user_id": "U0B47KC3S"
         }, 
         {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1485445049.000141", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3QGT3Q74", 
+            "ts": "1485445049.000141", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U2X7189QR", 
+            "ts": "1485445049.000141", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3FCS2UP3", 
+            "ts": "1485445049.000141", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U2XLJS5L0", 
+            "ts": "1485445049.000141", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3QGT3Q74", 
+            "ts": "1485447093.000145", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U3QGT3Q74", 
+            "ts": "1485447414.000148", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
             "mentioned_user_id": "U0B47KC3S", 
             "ts": "1484725273.000116", 
             "user_id": "U3QGT3Q74"
@@ -194,6 +229,11 @@
         {
             "mentioned_user_id": "U37GZRZU6", 
             "ts": "1485299669.000134", 
+            "user_id": "U3QGT3Q74"
+        }, 
+        {
+            "mentioned_user_id": "U0B47KC3S", 
+            "ts": "1485445754.000144", 
             "user_id": "U3QGT3Q74"
         }, 
         {
@@ -256,6 +296,11 @@
         {
             "mentioned_user_id": "U37GZRZU6", 
             "ts": "1484859432.000122", 
+            "user_id": "U0B47KC3S"
+        }, 
+        {
+            "mentioned_user_id": "U37GZRZU6", 
+            "ts": "1485445054.000143", 
             "user_id": "U0B47KC3S"
         }, 
         {
@@ -344,6 +389,7 @@
         "U3J40RUDT", 
         "U2X419KJS", 
         "U23D8HAC9", 
+        "U3WRNP30B", 
         "U38HVMZ6K", 
         "U2NAWHM9N", 
         "U35LGETA4", 
@@ -434,7 +480,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "4", 
+                "posts": "5", 
                 "software": "0"
             }
         }, 
@@ -467,7 +513,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "22", 
+                "posts": "24", 
                 "software": "4"
             }
         }, 
@@ -478,8 +524,8 @@
                 "hardware": "1", 
                 "legal": "1", 
                 "medical": "0", 
-                "posts": "77", 
-                "software": "58"
+                "posts": "83", 
+                "software": "69"
             }
         }, 
         {
@@ -577,7 +623,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "5", 
+                "posts": "6", 
                 "software": "0"
             }
         }, 
@@ -808,7 +854,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "5", 
+                "posts": "6", 
                 "software": "2"
             }
         }, 
@@ -896,8 +942,8 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "3", 
-                "posts": "11", 
-                "software": "5"
+                "posts": "15", 
+                "software": "7"
             }
         }, 
         {
@@ -963,6 +1009,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "2", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3WNEB55H": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
                 "software": "0"
             }
         }, 
@@ -1293,6 +1350,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3WRNP30B": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

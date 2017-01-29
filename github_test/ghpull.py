@@ -5,22 +5,9 @@
 # cc-by-sa/4.0/
 # -------------------------
 # Pulls data from GitHub
+# to create user stats for the 
+# community 
 # -------------------------
-
-""" Print all of the clone-urls for a GitHub organization.
-It requires the pygithub3 module, which you can install like this::
-    $ sudo yum -y install python-virtualenv
-    $ mkdir scratch
-    $ cd scratch
-    $ virtualenv my-virtualenv
-    $ source my-virtualenv/bin/activate
-    $ pip install pygithub3
-Usage example::
-    $ python list-all-repos.py
-Advanced usage.  This will actually clone all the repos for a
-GitHub organization or user::
-    $ for url in $(python list-all-repos.py); do git clone $url; done
-"""
 
 import pygithub3
 import json
@@ -31,7 +18,6 @@ import pprint
 gh = None
 
 def write_jsons(url,name,filename):
-
 	response = urllib2.urlopen(url).read()
 	#json_data = json.dumps(response, sort_keys=True, indent=4)
 	directory = "./data/"+name+"/"
@@ -39,30 +25,28 @@ def write_jsons(url,name,filename):
 	f.write(response)
 	f.close() 
 	print "Writing: "+directory+filename
+	return 1
 
 def gather_clone_urls(organization, no_forks=False):
-
     output = []
-
     all_repos = gh.repos.list(user=organization).all()
-
     for repo in all_repos:
         result = []
 	directory = "./data/"+repo.name+"/"
+	# Checks if repertories do not exist yet
 	if not os.path.exists(directory):
 	    os.makedirs(directory)
-
-	#print repo.__dict__ 
+  	# Debug outputs
 	result.append(repo.name)
 	result.append(repo.forks)
 	result.append(repo.watchers)
 	output.append(result)
-
+	# Write the JSon data
 	write_jsons(repo.forks_url,repo.name,"forks.json")
 	write_jsons(repo.events_url,repo.name,"events.json")
 	write_jsons(repo.stargazers_url,repo.name,"stargazers.json")
 	write_jsons(repo.subscribers_url,repo.name,"suscribers.json")
-
+    # Returns a debug list
     return output
 
 

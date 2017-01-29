@@ -179,3 +179,10 @@
 1485300513.000138> @U20C8CKTL: Maybe it could be interesting to look at this stuff further.
 1485335873.000139> @U0AAL4W13: BTW, were there minutes from Saturday?
 1485335906.000140> @U37GZRZU6: <@U0AAL4W13> no... :sweat:
+1485445049.000141> @U0B47KC3S: :point_up: <@U37GZRZU6> <@U3QGT3Q74> <@U2X7189QR> <@U3FCS2UP3> <@U2XLJS5L0>  I have just PR with a new branch `GPUrway`
+1485445052.000142> @U0B47KC3S: You’ll find the app with RenderScript all together with OpenGL display machinery :wink: it is morning work so there is still some screen parameters to find tune in order to get a bigger picture, but it is speed and works like a charm :wink:
+1485445054.000143> @U0B47KC3S: Morever you’ll find OpenGL test android app, a standalone one, in order to play with it without embrassing with the heavy echOpen’s app (reactions: @U37GZRZU6)
+1485445754.000144> @U3QGT3Q74: <@U0B47KC3S> I'm currently setting up the mobile-app repository of the project. I will also give a look at GPUrway branch :wink:
+1485447093.000145> @U0B47KC3S: <@U3QGT3Q74> great :wink: we agree that I am not an expert and so not quality code compliant :wink: pleasing myself with some code, that’s it
+1485447390.000147> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485447414.000148> @U0B47KC3S: <@U3QGT3Q74>, btw I am thinking to add some lock because some part of code could be exposed to concurrency. We’ll discuss that matter

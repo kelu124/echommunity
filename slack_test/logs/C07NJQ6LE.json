@@ -461,6 +461,7 @@
         "U2X419KJS", 
         "U2UU194RZ", 
         "U2UV28W2F", 
+        "U3WRNP30B", 
         "U38HVMZ6K", 
         "U2NAWHM9N", 
         "U35LGETA4", 
@@ -706,7 +707,7 @@
                 "hardware": "0", 
                 "legal": "0", 
                 "medical": "0", 
-                "posts": "3", 
+                "posts": "4", 
                 "software": "0"
             }
         }, 
@@ -1085,6 +1086,17 @@
             }
         }, 
         {
+            "U3WNEB55H": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "0", 
+                "software": "0"
+            }
+        }, 
+        {
             "U3T7KBEMV": {
                 "community": "0", 
                 "design": "0", 
@@ -1411,6 +1423,17 @@
                 "legal": "0", 
                 "medical": "0", 
                 "posts": "4", 
+                "software": "0"
+            }
+        }, 
+        {
+            "U3WRNP30B": {
+                "community": "0", 
+                "design": "0", 
+                "hardware": "0", 
+                "legal": "0", 
+                "medical": "0", 
+                "posts": "2", 
                 "software": "0"
             }
         }, 

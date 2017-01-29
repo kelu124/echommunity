@@ -342,3 +342,10 @@
 1485257688.000282> @U38HVMZ6K: It is not a black and white picture and there are always pros and cons but as a whole I think it is a nice approach!
 1485257877.000283> @U2PFHNN3C: I’m not an expert but from what I saw it’s a natural (and nice!) evolution from kernels, reducing even further the overhead but it is still not widely used.
 1485258291.000284> @U38HVMZ6K: I have an entry on my personal todo-list to evaluate Ubuntu Snappy (<https://www.ubuntu.com/desktop/snappy>) on top of Ubuntu Core. It does not go as far as unikernels but is a trade-off between stable/proven in field full-featured Linux distro and lightweight/self-contained packages updated in a transactional way (no dependency/compatibility nightmare).
+1485434207.000287> @U3WNEB55H: <@U3WNEB55H> has joined the channel
+1485435012.000288> @U2PFHNN3C: Deep Learning for theorem provers <https://arxiv.org/abs/1701.06972> poke <@U0B47KC3S>
+1485439178.000289> @U0B47KC3S: hi thanks <@U2PFHNN3C> seems very interesting. But I can’t get a feel of the complexity of the maths assertion they proved, because after quick parse I can’t find the solved problems. Did you get it ?  Anyway, even if we get som amazing algorithms, it is possible to prove that there exists true assertions that can’t be proved in finite number of steps :wink: and this for ever !!
+1485447389.000290> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485454220.000291> @U0FN1B8KD: Open source Art ! <http://www.mauriceartist.com/gallery>
+1485465160.000294> @U0B47KC3S: <@U0FN1B8KD> crypto-kaleidoscopic :wink:
+1485465474.000295> @U0B47KC3S: yep if we can build an algorithm to prevent biopsy, it would be damned amazing, as  much for liver cancer than for other types
