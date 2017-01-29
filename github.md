@@ -8,128 +8,142 @@
 
 ### [PRJ-medtec_androidapp](https://github.com/echopen/PRJ-medtec_androidapp)
 
+
+
 #### Events:
 
- * PullRequestEvent: benchoufi(3), 
- * WatchEvent: sabgaby(1), smrjan(1), imgntn(1), 
- * PushEvent: phaino(3), Bivi(1), benchoufi(2), 
- * ForkEvent: jahuth(1), mohammed-jaouad(1), zeapo(1), 
+* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
+* WatchEvent: _imgntn_ (1), 
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
+* ForkEvent: _zeapo_ (1), 
 
 
+#### Starred by:
+
+* Stargazer: _[benchoufi](./U0B47KC3S.md), fvichot, aghaniyassin, [Olivierff](./U04DFTZ7D.md), [Bivi](./U0GMX7QUB.md), sneakyweasel, gfortaine, [DjalelBBZ](./U2PFHNN3C.md), soundlicious, HiWill, KamilLegault, gregsadetsky, juodek, [kelu124](./U0AAL4W13.md), cara, qingyezeng, taopanpan, sl45sms, jeromecc, arrmac, Guokr1991, sabgaby, imgntn, smrjan_
 
 ## PRJ-medtec_kit
 
 ### [PRJ-medtec_kit](https://github.com/echopen/PRJ-medtec_kit)
 
+
+
 #### Events:
 
- * PullRequestEvent: kelu124(2), benchoufi(1), 
- * WatchEvent: gleb-svechnikov(1), lammour(1), guillaume-nargeot(1), 
- * PushEvent: jerome2echopen(5), Bivi(4), benchoufi(1), Olivierff(1), 
- * ForkEvent: kelu124(1), raj347(1), VictorArias24(1), 
+* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (1), 
+* WatchEvent: _guillaume-nargeot_ (1), 
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (1), 
+* ForkEvent: _VictorArias24_ (1), 
 
 
+#### Starred by:
+
+* Stargazer: _lammour, guillaume-nargeot, gleb-svechnikov_
 
 ## PRJ-medtec_sigproc
 
 ### [PRJ-medtec_sigproc](https://github.com/echopen/PRJ-medtec_sigproc)
 
+
+
 #### Events:
 
- * PullRequestEvent: kelu124(2), benchoufi(3), hackolite(1), Aurelie-Mutschler(2), 
- * WatchEvent: 
- * PushEvent: kelu124(2), benchoufi(3), 
- * ForkEvent: hackolite(1), masoud-al(1), Aurelie-Mutschler(1), 
+* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (2), 
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
+* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
 
 
+#### Starred by:
+
+* Stargazer: _[benchoufi](./U0B47KC3S.md)_
 
 ## PRJ-medtech_embsys
 
 ### [PRJ-medtech_embsys](https://github.com/echopen/PRJ-medtech_embsys)
 
+
+
 #### Events:
 
- * PullRequestEvent: 
- * WatchEvent: sprotch(1), 
- * PushEvent: sprotch(7), 
- * ForkEvent: 
+* WatchEvent: _[sprotch](./U38HVMZ6K.md)_ (1), 
+* PushEvent: _[sprotch](./U38HVMZ6K.md)_ (7), 
 
 
+#### Starred by:
+
+* Stargazer: _[sprotch](./U38HVMZ6K.md)_
 
 ## android-app-doc
 
 ### [android-app-doc](https://github.com/echopen/android-app-doc)
 
+
+
 #### Events:
 
- * PullRequestEvent: 
- * WatchEvent: 
- * PushEvent: benchoufi(22), 
- * ForkEvent: 
-
-
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (22), 
 
 ## echOpen_starterkit
 
 ### [echOpen_starterkit](https://github.com/echopen/echOpen_starterkit)
 
+
+
 #### Events:
 
- * PullRequestEvent: Olivierff(5), 
- * WatchEvent: 
- * PushEvent: jerome2echopen(5), Olivierff(18), 
- * ForkEvent: rollingstone(1), 
+* PullRequestEvent: _[Olivierff](./U04DFTZ7D.md)_ (5), 
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (18), 
+* ForkEvent: _rollingstone_ (1), 
 
 
+#### Starred by:
+
+* Stargazer: _buzzySmile, DINKIN, NataliaDiaz, [sprotch](./U38HVMZ6K.md), Miserlou, crystalline, rrozestw, leonidkozhukh, sponnusa, lammour, abetusk_
 
 ## echommunity
 
 ### [echommunity](https://github.com/echopen/echommunity)
 
+
+
 #### Events:
 
- * PullRequestEvent: kelu124(1), Aurelie-Mutschler(1), 
- * WatchEvent: 
- * PushEvent: Aurelie-Mutschler(1), 
- * ForkEvent: 
-
-
+* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
+* PushEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
 
 ## echopen.github.io
 
 ### [echopen.github.io](https://github.com/echopen/echopen.github.io)
 
+
+
 #### Events:
 
- * PullRequestEvent: 
- * WatchEvent: 
- * PushEvent: thomasrob(2), Olivierff(6), 
- * ForkEvent: 
-
-
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (6), 
 
 ## legacy
 
 ### [legacy](https://github.com/echopen/legacy)
 
+
+
 #### Events:
 
- * PullRequestEvent: hackolite(4), benchoufi(2), 
- * WatchEvent: NataliaDiaz(1), imgntn(1), 
- * PushEvent: DjalelBBZ(1), benchoufi(3), 
- * ForkEvent: thomasrob(1), 
+* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
+* WatchEvent: _imgntn_ (1), 
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
+* ForkEvent: _thomasrob_ (1), 
 
 
+#### Starred by:
+
+* Stargazer: _[benchoufi](./U0B47KC3S.md), thewtex, ldgarcia, intfrr, [kelu124](./U0AAL4W13.md), [hackolite](./U20C8CKTL.md), imgntn, NataliaDiaz_
 
 ## medicotechnical
 
 ### [medicotechnical](https://github.com/echopen/medicotechnical)
 
+
+
 #### Events:
-
- * PullRequestEvent: 
- * WatchEvent: 
- * PushEvent: 
- * ForkEvent: 
-
 
