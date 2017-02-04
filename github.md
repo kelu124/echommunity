@@ -4,6 +4,18 @@
 # GitHub information 
 
 
+## PRJ-commty_method
+
+### [PRJ-commty_method](https://github.com/echopen/PRJ-commty_method)
+
+
+
+#### Events:
+
+* PullRequestEvent: _[Olivierff](./U04DFTZ7D.md)_ (1), 
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (4), 
+* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
+
 ## PRJ-medtec_androidapp
 
 ### [PRJ-medtec_androidapp](https://github.com/echopen/PRJ-medtec_androidapp)
@@ -12,8 +24,8 @@
 
 #### Events:
 
-* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
-* WatchEvent: _imgntn_ (1), 
+* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (4), 
+* WatchEvent: _smrjan_ (1), 
 * PushEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
 * ForkEvent: _zeapo_ (1), 
 
@@ -91,8 +103,8 @@
 
 #### Events:
 
-* PullRequestEvent: _[Olivierff](./U04DFTZ7D.md)_ (5), 
-* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (18), 
+* PullRequestEvent: _[Olivierff](./U04DFTZ7D.md)_ (4), 
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (19), 
 * ForkEvent: _rollingstone_ (1), 
 
 
@@ -108,8 +120,9 @@
 
 #### Events:
 
-* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
-* PushEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
+* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (3), 
+* PushEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (3), 
+* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
 
 ## echopen.github.io
 
@@ -130,7 +143,7 @@
 #### Events:
 
 * PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
-* WatchEvent: _imgntn_ (1), 
+* WatchEvent: _NataliaDiaz_ (1), 
 * PushEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
 * ForkEvent: _thomasrob_ (1), 
 

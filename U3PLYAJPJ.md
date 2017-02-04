@@ -9,20 +9,20 @@
 
 ### Posts: 
 
-Number of posts: 46
+Number of posts: 50
 
 ### Topics:
 
-* __posts__: 46 posts
+* __posts__: 50 posts
 * __hardware__: 9 posts
 * __software__: 4 posts
 * __design__: 1 posts
 
 ## Key interactions 
 
+* [@benchoufi](./U0B47KC3S.md): 2 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 2 mention and/or reactions
 * [@traffael](./U3RKUJHHS.md): 1 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 1 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 1 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 1 mention and/or reactions

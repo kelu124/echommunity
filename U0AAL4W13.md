@@ -9,26 +9,26 @@
 
 ### Posts: 
 
-Number of posts: 816
+Number of posts: 860
 
 ### Topics:
 
-* __posts__: 816 posts
-* __community__: 80 posts
-* __legal__: 60 posts
-* __software__: 52 posts
+* __posts__: 860 posts
+* __community__: 82 posts
+* __legal__: 62 posts
+* __software__: 55 posts
 * __hardware__: 52 posts
-* __medical__: 30 posts
-* __design__: 20 posts
+* __medical__: 31 posts
+* __design__: 22 posts
 
 ## Key interactions 
 
-* [@aurelie](./U37GZRZU6.md): 31 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 26 mention and/or reactions
-* [@olivier](./U04DFTZ7D.md): 25 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 22 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 33 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 28 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 26 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 26 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 12 mention and/or reactions
-* [@emilie](./U0FN1B8KD.md): 8 mention and/or reactions
+* [@emilie](./U0FN1B8KD.md): 9 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 7 mention and/or reactions
 * [@brunocp](./U33817K25.md): 6 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 6 mention and/or reactions
@@ -57,6 +57,7 @@ Number of posts: 816
 * [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
 * [@mathieu](./U0PPGEYFK.md): 1 mention and/or reactions
+* [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions
 * [@rancano](./U3WRNP30B.md): 1 mention and/or reactions
 * [@gautier.ferandelle](./U0PKUKHPC.md): 1 mention and/or reactions
 * [@samy121](./U1G9AEN7L.md): 1 mention and/or reactions

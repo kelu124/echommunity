@@ -9,29 +9,29 @@
 
 ### Posts: 
 
-Number of posts: 271
+Number of posts: 307
 
 ### Topics:
 
-* __posts__: 271 posts
-* __software__: 19 posts
-* __community__: 16 posts
+* __posts__: 307 posts
+* __software__: 21 posts
+* __community__: 17 posts
 * __hardware__: 10 posts
 * __legal__: 4 posts
+* __medical__: 4 posts
 * __design__: 3 posts
-* __medical__: 2 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 31 mention and/or reactions
-* [@luc](./U0AAL4W13.md): 26 mention and/or reactions
-* [@djabbz](./U2PFHNN3C.md): 14 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 11 mention and/or reactions
-* [@jerome](./U07UEJC2H.md): 10 mention and/or reactions
-* [@olivier](./U04DFTZ7D.md): 10 mention and/or reactions
-* [@benoit](./U0GMX7QUB.md): 5 mention and/or reactions
-* [@emilie](./U0FN1B8KD.md): 5 mention and/or reactions
-* [@lecoued](./U3QGT3Q74.md): 4 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 35 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 28 mention and/or reactions
+* [@djabbz](./U2PFHNN3C.md): 17 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 14 mention and/or reactions
+* [@jerome](./U07UEJC2H.md): 11 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 11 mention and/or reactions
+* [@emilie](./U0FN1B8KD.md): 7 mention and/or reactions
+* [@benoit](./U0GMX7QUB.md): 6 mention and/or reactions
+* [@lecoued](./U3QGT3Q74.md): 5 mention and/or reactions
 * [@brunocp](./U33817K25.md): 3 mention and/or reactions
 * [@omaciu](./U3J40RUDT.md): 3 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 3 mention and/or reactions

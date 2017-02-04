@@ -9,30 +9,30 @@
 
 ### Posts: 
 
-Number of posts: 623
+Number of posts: 649
 
 ### Topics:
 
-* __posts__: 623 posts
-* __community__: 93 posts
-* __medical__: 48 posts
-* __hardware__: 39 posts
-* __software__: 37 posts
+* __posts__: 649 posts
+* __community__: 100 posts
+* __medical__: 49 posts
+* __hardware__: 40 posts
+* __software__: 38 posts
 * __legal__: 36 posts
-* __design__: 13 posts
+* __design__: 14 posts
 
 ## Key interactions 
 
 * [@luc](./U0AAL4W13.md): 18 mention and/or reactions
 * [@benchoufi](./U0B47KC3S.md): 14 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 12 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 13 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 12 mention and/or reactions
 * [@pierrepadilla](./U2X419KJS.md): 9 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 9 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 7 mention and/or reactions
 * [@mario_j](./U32UWGGN9.md): 6 mention and/or reactions
 * [@benoit](./U0GMX7QUB.md): 5 mention and/or reactions
+* [@brunocp](./U33817K25.md): 5 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 5 mention and/or reactions
-* [@brunocp](./U33817K25.md): 4 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 4 mention and/or reactions
 * [@springwing](./U3267ST8C.md): 4 mention and/or reactions
 * [@luis](./U34231VFH.md): 3 mention and/or reactions
@@ -55,8 +55,11 @@ Number of posts: 623
 * [@jojojbz](./U1DGN6S80.md): 1 mention and/or reactions
 * [@ithonet](./U2QMN3L1F.md): 1 mention and/or reactions
 * [@marco](./U3WNEB55H.md): 1 mention and/or reactions
+* [@josselyn.mothe](./U3XHSAQHE.md): 1 mention and/or reactions
 * [@guido_bendezu](./U38JDLY2E.md): 1 mention and/or reactions
+* [@lwinter](./U33KM85FA.md): 1 mention and/or reactions
 * [@jules](./U3ML4L01Z.md): 1 mention and/or reactions
+* [@misslondres](./U3ZUEAS4C.md): 1 mention and/or reactions
 * [@romain_agaisse](./U2NAWHM9N.md): 1 mention and/or reactions
 * [@elisabeth](./U3V5J2BEZ.md): 1 mention and/or reactions
 * [@mickael15](./U3TUWV3SQ.md): 1 mention and/or reactions
@@ -79,12 +82,12 @@ Number of posts: 623
 * [@michel_bala](./U0LPTV0Q4.md): 1 mention and/or reactions
 * [@adrien_rohfritsch](./U2PTWF6SX.md): 1 mention and/or reactions
 * [@houssam](./U2Y7FPEUB.md): 1 mention and/or reactions
+* [@wonderlabwoman](./U3Y501Y8G.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
 * [@stevenvanrij](./U3QS683R6.md): 1 mention and/or reactions
 * [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions
 * [@ruben.pellicer](./U32V2JWFJ.md): 1 mention and/or reactions
 * [@lukas.winter](./U352MKG4V.md): 1 mention and/or reactions
 * [@hakim](./U0HN7G093.md): 1 mention and/or reactions
-* [@lwinter](./U33KM85FA.md): 1 mention and/or reactions
 * [@gautier.ferandelle](./U0PKUKHPC.md): 1 mention and/or reactions
 * [@samy121](./U1G9AEN7L.md): 1 mention and/or reactions

@@ -9,21 +9,21 @@
 
 ### Posts: 
 
-Number of posts: 231
+Number of posts: 247
 
 ### Topics:
 
-* __posts__: 231 posts
+* __posts__: 247 posts
 * __software__: 34 posts
-* __medical__: 10 posts
+* __medical__: 11 posts
 * __community__: 7 posts
 * __legal__: 2 posts
 * __hardware__: 2 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 24 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 12 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 25 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 16 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 7 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 6 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 6 mention and/or reactions
