@@ -9,12 +9,12 @@
 
 ### Posts: 
 
-Number of posts: 238
+Number of posts: 239
 
 ### Topics:
 
-* __posts__: 238 posts
-* __medical__: 31 posts
+* __posts__: 239 posts
+* __medical__: 32 posts
 * __software__: 20 posts
 * __community__: 14 posts
 * __legal__: 3 posts

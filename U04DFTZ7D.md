@@ -9,24 +9,24 @@
 
 ### Posts: 
 
-Number of posts: 649
+Number of posts: 669
 
 ### Topics:
 
-* __posts__: 649 posts
-* __community__: 100 posts
+* __posts__: 669 posts
+* __community__: 101 posts
 * __medical__: 49 posts
-* __hardware__: 40 posts
-* __software__: 38 posts
+* __hardware__: 42 posts
+* __software__: 39 posts
 * __legal__: 36 posts
-* __design__: 14 posts
+* __design__: 15 posts
 
 ## Key interactions 
 
 * [@luc](./U0AAL4W13.md): 18 mention and/or reactions
-* [@benchoufi](./U0B47KC3S.md): 14 mention and/or reactions
-* [@rbo](./U38HVMZ6K.md): 13 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 12 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 15 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 15 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 14 mention and/or reactions
 * [@pierrepadilla](./U2X419KJS.md): 9 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 7 mention and/or reactions
 * [@mario_j](./U32UWGGN9.md): 6 mention and/or reactions
@@ -42,12 +42,15 @@ Number of posts: 649
 * [@nassim.ch](./U1NM17NHF.md): 3 mention and/or reactions
 * [@emilie](./U0FN1B8KD.md): 3 mention and/or reactions
 * [@marielaureb](./U3T7KBEMV.md): 3 mention and/or reactions
+* [@polytech-kevin](./U41ATL4EM.md): 2 mention and/or reactions
 * [@odebeir](./U2V03QR8E.md): 2 mention and/or reactions
 * [@ivan.l](./U3CDR25JP.md): 2 mention and/or reactions
 * [@vsaase](./U3S1G3AE8.md): 2 mention and/or reactions
+* [@polytech-paul](./U421EN2RG.md): 2 mention and/or reactions
 * [@sami](./U2MF267L2.md): 2 mention and/or reactions
 * [@ozanne](./U0DRKLMS4.md): 2 mention and/or reactions
 * [@anaisdrihem](./U2M9XDS5N.md): 2 mention and/or reactions
+* [@lecoued](./U3QGT3Q74.md): 2 mention and/or reactions
 * [@eiffel](./U3GHS132Q.md): 2 mention and/or reactions
 * [@j.contrerasv](./U336DPZV4.md): 2 mention and/or reactions
 * [@thomas](./U2Q4137LL.md): 2 mention and/or reactions
@@ -77,6 +80,7 @@ Number of posts: 649
 * [@feng](./U1G9KDFNE.md): 1 mention and/or reactions
 * [@yannick](./U04CV54A4.md): 1 mention and/or reactions
 * [@valentino12](./U3GV4N878.md): 1 mention and/or reactions
+* [@jayjay](./U42P4AT7Z.md): 1 mention and/or reactions
 * [@arben](./U3Q46QRHU.md): 1 mention and/or reactions
 * [@sadams](./U2V0F9YAK.md): 1 mention and/or reactions
 * [@michel_bala](./U0LPTV0Q4.md): 1 mention and/or reactions
@@ -85,7 +89,6 @@ Number of posts: 649
 * [@wonderlabwoman](./U3Y501Y8G.md): 1 mention and/or reactions
 * [@narimene](./U1NTT0ZPH.md): 1 mention and/or reactions
 * [@stevenvanrij](./U3QS683R6.md): 1 mention and/or reactions
-* [@lecoued](./U3QGT3Q74.md): 1 mention and/or reactions
 * [@ruben.pellicer](./U32V2JWFJ.md): 1 mention and/or reactions
 * [@lukas.winter](./U352MKG4V.md): 1 mention and/or reactions
 * [@hakim](./U0HN7G093.md): 1 mention and/or reactions
