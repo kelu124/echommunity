@@ -24,15 +24,15 @@
 
 #### Events:
 
-* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (4), 
+* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
 * WatchEvent: _smrjan_ (1), 
-* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
-* ForkEvent: _zeapo_ (1), 
+* PushEvent: _[Bivi](./U0GMX7QUB.md)_ (1), 
+* ForkEvent: _eiffel-fl_ (1), 
 
 
 #### Starred by:
 
-* Stargazer: _[benchoufi](./U0B47KC3S.md), fvichot, aghaniyassin, [Olivierff](./U04DFTZ7D.md), [Bivi](./U0GMX7QUB.md), sneakyweasel, gfortaine, [DjalelBBZ](./U2PFHNN3C.md), soundlicious, HiWill, KamilLegault, gregsadetsky, juodek, [kelu124](./U0AAL4W13.md), cara, qingyezeng, taopanpan, sl45sms, jeromecc, arrmac, Guokr1991, sabgaby, imgntn, smrjan_
+* Stargazer: _[benchoufi](./U0B47KC3S.md), fvichot, aghaniyassin, [Olivierff](./U04DFTZ7D.md), [Bivi](./U0GMX7QUB.md), sneakyweasel, gfortaine, [DjalelBBZ](./U2PFHNN3C.md), soundlicious, HiWill, KamilLegault, gregsadetsky, juodek, [kelu124](./U0AAL4W13.md), cara, qingyezeng, taopanpan, sl45sms, jeromecc, arrmac, Guokr1991, sabgaby, imgntn, smrjan, clecoued, jmargeta_
 
 ## PRJ-medtec_kit
 
@@ -44,8 +44,8 @@
 
 * PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (1), 
 * WatchEvent: _guillaume-nargeot_ (1), 
-* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (1), 
-* ForkEvent: _VictorArias24_ (1), 
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (1), 
+* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
 
 
 #### Starred by:
@@ -60,9 +60,9 @@
 
 #### Events:
 
-* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (2), 
+* PullRequestEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (3), 
 * PushEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
-* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (1), 
+* ForkEvent: _[Aurelie-Mutschler](./U37GZRZU6.md)_ (2), 
 
 
 #### Starred by:
@@ -93,7 +93,6 @@
 
 #### Events:
 
-* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (22), 
 
 ## echOpen_starterkit
 
@@ -132,7 +131,7 @@
 
 #### Events:
 
-* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (6), 
+* PushEvent: _[Olivierff](./U04DFTZ7D.md)_ (4), 
 
 ## legacy
 
@@ -142,10 +141,7 @@
 
 #### Events:
 
-* PullRequestEvent: _[benchoufi](./U0B47KC3S.md)_ (2), 
-* WatchEvent: _NataliaDiaz_ (1), 
-* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (3), 
-* ForkEvent: _thomasrob_ (1), 
+* PushEvent: _[benchoufi](./U0B47KC3S.md)_ (1), 
 
 
 #### Starred by:
