@@ -9,19 +9,19 @@
 
 ### Posts: 
 
-Number of posts: 56
+Number of posts: 66
 
 ### Topics:
 
-* __posts__: 56 posts
-* __software__: 12 posts
+* __posts__: 66 posts
+* __software__: 13 posts
 * __medical__: 8 posts
 * __community__: 2 posts
 
 ## Key interactions 
 
-* [@benchoufi](./U0B47KC3S.md): 8 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 5 mention and/or reactions
+* [@benchoufi](./U0B47KC3S.md): 10 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 6 mention and/or reactions
 * [@jerome](./U07UEJC2H.md): 2 mention and/or reactions
 * [@ternois_iris](./U40CZDKPD.md): 1 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 1 mention and/or reactions

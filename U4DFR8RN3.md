@@ -1,23 +1,23 @@
 [Home](https://kelu124.github.io/echommunity/) | [Slack info](https://kelu124.github.io/echommunity/) | [GitHub Info](https://kelu124.github.io/echommunity/github.html)
 
-# Some info on __polytech-kevin__ (_@U41ATL4EM_)
+# Some info on __narges__ (_@U4DFR8RN3_)
 
 
-## [Send me a Slack Direct message](https://echopen.slack.com/messages/@polytech-kevin/).
+## [Send me a Slack Direct message](https://echopen.slack.com/messages/@narges/).
 
 ## Topics of interest
 
 ### Posts: 
 
-Number of posts: 19
+Number of posts: 32
 
 ### Topics:
 
-* __posts__: 19 posts
-* __legal__: 1 posts
-* __hardware__: 1 posts
+* __posts__: 32 posts
 
 ## Key interactions 
 
+* [@benchoufi](./U0B47KC3S.md): 1 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 1 mention and/or reactions
 * [@luc](./U0AAL4W13.md): 1 mention and/or reactions
+* [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

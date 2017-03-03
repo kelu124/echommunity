@@ -7,10 +7,10 @@ digraph {
 			medical -> brunocp
 		olivier [fillcolor=yellow style=filled]
 			medical -> olivier
+		rbo [fillcolor=yellow style=filled]
+			medical -> rbo
 		luc [fillcolor=yellow style=filled]
 			medical -> luc
-		emilie [fillcolor=yellow style=filled]
-			medical -> emilie
 		posts [fillcolor=blue fontsize=22 shape=box style=filled]
 		benchoufi [fillcolor=yellow style=filled]
 			posts -> benchoufi
@@ -31,8 +31,8 @@ digraph {
 			legal -> rbo
 		benchoufi [fillcolor=yellow style=filled]
 			legal -> benchoufi
-		aurelie [fillcolor=yellow style=filled]
-			legal -> aurelie
+		eiffel [fillcolor=yellow style=filled]
+			legal -> eiffel
 		hardware [fillcolor=blue fontsize=22 shape=box style=filled]
 		rbo [fillcolor=yellow style=filled]
 			hardware -> rbo
@@ -73,8 +73,8 @@ digraph {
 			software -> rbo
 		luc [fillcolor=yellow style=filled]
 			software -> luc
+		aurelie [fillcolor=yellow style=filled]
+			software -> aurelie
 		olivier [fillcolor=yellow style=filled]
 			software -> olivier
-		djabbz [fillcolor=yellow style=filled]
-			software -> djabbz
 }
