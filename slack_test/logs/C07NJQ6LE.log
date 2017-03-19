@@ -242,3 +242,75 @@
 1485370493.000061> @U0AAL4W13: implement what?
 1485384154.000062> @U2PFHNN3C: The heartbeat logger
 1485447390.000063> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485773640.000064> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791341.000065> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1486212597.000066> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486223267.000067> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
+1486223963.000068> @U3QGT3Q74: I started to give a look at the functionnalities we want to add on the mobile app following discussion from wednesday evening:   * receive raw data through TCP    * compute data envelop on mobile app   * add Look Up Table to convert intensity to RGB pixels      * Linear parametrized Look Up Table      * Exponential parametrized Look Up Table   * add Power Filter I have few questions: <@U07UEJC2H> what is the exact raw data format  - nb of lines ? nb of samples per lines ? you also told me that each sample value was stored on 2 successives bytes am I correct ?  <@U0B47KC3S> <@U07UEJC2H> can we have access to raw data from the aquarium on remote ?  <@U0B47KC3S>  what is the value range of each sample out of the ScanConversion ? They are recorded on 'int' but I see this weird computation in the end of theopen_cv_interpolation
+1486224078.000069> @U3QGT3Q74: <@U3QGT3Q74>
+1486224432.000070> @U0B47KC3S: <@U3QGT3Q74> : yes we have a web interface to get the raw data from remote, see the node app here `<https://github.com/echopen/PRJ-medtec_sigproc/tree/master/SignalProcessingWebServer>`
+1486224566.000071> @U0B47KC3S: <@U3QGT3Q74> for the value range, I made a quick fix some weeks ago because the raw data type processed by the board has been updated to signed integer
+1486224806.000072> @U0AAL4W13: <@U3QGT3Q74> the data format could help you as well to understand the data and what is needed to rebuild the image: <http://wiki.echopen.org/index.php/Challenge:_Data_format>
+1486224958.000073> @U0AAL4W13: <@U0B47KC3S> is the webserver up at the moment BTW ?
+1486225480.000074> @U0B47KC3S: <@U0AAL4W13> no it is not but ready to be deployed. it is a SigProc team decision and what I understand is that asa soon as we are ok on the image quality, we’ll kick it publicaly
+1486228811.000075> @U3QGT3Q74: <@U0AAL4W13>  <@U0B47KC3S>  merci !
+1486473718.000076> @U41ATL4EM: <@U41ATL4EM> has joined the channel
+1486473778.000077> @U421EN2RG: <@U421EN2RG> has joined the channel
+1486474813.000078> @U41B4HNU9: <@U41B4HNU9> has joined the channel
+1486474941.000079> @U41AB163S: <@U41AB163S> has joined the channel
+1486475009.000080> @U424835JR: <@U424835JR> has joined the channel
+1486475549.000081> @U0AAL4W13: hi the polytech-team ! would be glad to exchange with you over  analog electronics design . Loads of work, but I remain reachable on slack :)
+1486475755.000082> @U41ATL4EM: Ok <@U0AAL4W13>, thank you !
+1486479222.000085> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1486480805.000086> @U04DFTZ7D: welcome <@U42P4AT7Z> !! to discuss about software, jump on <#C04DFUV41>
+1486893536.000087> @U0AAL4W13: Anyone volunteering for a last review of an article for low-cost ultrasound modules before it's sent to the editors ? <https://www.overleaf.com/7185082vrsbmbntzmgk#/24778570/>  (list of modules on <https://github.com/echopen/PRJ-medtec_kit/tree/master/configurations/CFG-arduino_servo> )
+1487020375.000002> @U0FN1B8KD: I love overleaf (reactions: @U0AAL4W13)
+1487058498.000004> @U38HVMZ6K: <@U0AAL4W13> I'll try to go through it today evening, is there a deadline ?
+1487059144.000005> @U0AAL4W13: not yet - for next Monday is really fine, thx <@U38HVMZ6K> !
+1487062743.000006> @U0B47KC3S: Hello <@U0AAL4W13> I saw your article, seems great ! Since I am not a hardware expert, I can give some general remaks :wink:
+1487062751.000007> @U0B47KC3S: you are free not to consider the echOpen association, which however brought a lot of things use of the space and materials to do numerous experiments, valuable conversations with experts (Cap*) or Farad, Jérôme..., community sollicited as reviewing your paper :wink:
+1487062759.000008> @U0B47KC3S: But, it is a good and ethic pratice in research to cite people the following way : some guys (as the much much appreciated) Farad or others who did contributions less important than yours or minor, as second, third authors, etc... and to put yourself to the front as first author
+1487062771.000009> @U0B47KC3S: Last point, a "Competing Interest" section correponds in research papers is used to declare the structures with whom you have some personal interests. So here, the formulation sounds quite weird for the association :thinking_face:
+1487062785.000010> @U0B47KC3S: when you have no competing interest then the pratcice is to declare "no competing interests were disclosed”. As simply as that !
+1487067779.000011> @U0AAL4W13: yup <@U0B47KC3S>  :) there were actually no major inputs (aparts from quick chats) with other people so I can't add one as co-author without adding the whole community :) - I do recognize the value of discussion  and put these people in acknowledgements :)
+1487067936.000012> @U0AAL4W13: for the disclaimer, that's the one we agreed upon this summer, but since we have been working on this IP understanding and since some modules have been added to the community github, we can review/update it :)
+1487068898.000013> @U0B47KC3S: thanks for response. Yes, the disclaimer was related to a very different context. As said, the simplest is to declare no competing interest :wink: I don’t know where you're going to submit but every peer reviewed journals has its own formalism (they always provide author guide) and what is widely in use is to declare some formula such as “no competing interests were disclosed”.
+1487070829.000014> @U07UEJC2H: <@U0AAL4W13>, I can't see your community logic... In one hand you say "the echOpen association having no involvement with this work" and in the over hand you ask for review... It is not a give and take relationship
+1487070959.000015> @U0AAL4W13: true
+1487070971.000016> @U0AAL4W13: but I have put names in acknowledgements 
+1487071014.000017> @U0AAL4W13: apart from review and discussions - it's very true that if review is done, I'll gladly indicate it :)
+1487071142.000018> @U0AAL4W13:  it's also a fact that major works in this fork were done in parallel of the association :)
+1487071638.000019> @U0AAL4W13: as proposed by <@U0B47KC3S> - will change the competing interest sentence :)
+1487072651.000020> @U2PFHNN3C: sorry, I might come late in the discussion (tough to be in Munich and keep up with all the exchanges). Nice paper <@U0AAL4W13>, I’ll read it carefully for sure, but not for review, rather for learning :smile:. One point though, I skimmed through it quickly and I think you should mention that it’s an echOpen fork, regardless of the contributions one or the other brought in. It’s just the way the open source communities work: when it comes to forks, keep track of the lineage. Just a cold opinion, FWIW.
+1487072991.000021> @U07UEJC2H: <@U0AAL4W13>, just a reminder: - global architecture of "your" device commes from echopen - most of the key components used commes from echopen - thirst phantom you used commes from echopen - "professional" echographic image of this phantom commes from echopen echograph - second phantom you used commes from components you took in echopen lab
+1487073076.000022> @U0AAL4W13: not true: architecture implementation stems from murgen, an original work starting from a capTech when we decided to explore different paths
+1487073197.000023> @U0AAL4W13: key components (pulser, hv ic, tgc) have been identified at murgen stage ( and documented, dated in ) and implemented in murgen before  the current modules were designed .
+1487073208.000024> @U0AAL4W13: agree for the phantoms!
+1487073238.000025> @U0AAL4W13: agree for the image from the profesional image from the echograph
+1487073383.000026> @U0B47KC3S: hi there ! this is a friendly smiley :grinning: indeed <@U07UEJC2H> there were bunch of works coming from several parts and sure murgen is also great work :wink:
+1487073386.000027> @U0B47KC3S: <@U0AAL4W13> you are the author, you are sovereign on how to present it !
+1487073393.000028> @U0B47KC3S: Anyway, so Newton said “Nous sommes des nains juchés sur des épaules de géants”
+1487073399.000029> @U0B47KC3S: which google translates into “We are dwarfs perched on the shoulders of giants” This is a community ethics ! (reactions: @U0AAL4W13,@U07UEJC2H)
+1487073524.000034> @U0AAL4W13: as said earlier, I'll be glad to reflect the actual collaboration level with the community and association support - and will be happy to adjust a disclaimer which dates a bit. (reactions: @U0B47KC3S)
+1487073705.000035> @U0AAL4W13: at the same time, it's also respectful for all to recognize the original works who have been done by all :) this work is fully original, and predates choices done the association (the documentation is there :) ). per se, it's not a fork on technical bases, rather a fork on "open source ultrasound tools" :)
+1487079021.000038> @U07UEJC2H: Technically it's not a fork? Be coherent with yourself, you say in your github that (<https://github.com/kelu124/murgen-dev-kit/blob/master/hardware/Readme.md>):"This project is born from a fork from the echOpen project"
+1487079341.000040> @U0AAL4W13: not a technical fork - there was no original material content to be forked - it's a conceptual fork ;)
+1487931782.000041> @U492PCSE9: <@U492PCSE9> has joined the channel
+1488495518.000042> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488499143.000043> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488547893.000044> @U0GMX7QUB: Après la bagarre (je ne suis pas très « Slack » :disappointed:) ... Je voudrais rappeler à <@U0AAL4W13>  que je lui ai prêté pendant au moins 15j mon BitScope et aussi que c'est moi qui lui ai montré qu'il avait oublié de brancher la masse de la sonde de l'oscillo pendant une série d'essais qui ne donnait rien et je constate que qu'il n'en est aucunement fait mention dans le papier. Luc t’es vraiment pas très gentil ! Vous l’avez compris, je trouve l’échange précédent assez déplorable et bien loin des valeurs d’échange, de partage et de collaboration qui sont la vraie valeur de notre association. Et je tiens juste à rappeler aussi que dans cette affaire nous n’avons absolument rien inventé et que nous sommes juste tous en train de « forker » (avant on disait pomper) des technos qui datent du siècle dernier et que l’on trouve détaillées dans n’importe quel manuel du « petit échographiste ».
+1488548091.000045> @U0GMX7QUB: PS: Sorry for the french. But Google is your friend ... and in Google-English that gives : After the fight (I'm not very "Slack" :disappointed:) ... I would like to remind you that I lent him my BitScope for at least 15 days and also that it was I who showed him that he had forgotten to connect the mass of the oscillo probe during a series of tests Which gave nothing and I note that there is no mention of it in the paper. Luc you really are not very nice! You have understood, I find the previous exchange rather deplorable and far from the values of exchange, sharing and collaboration that are the true value of our association. And I just want to remind you that in this case we have absolutely nothing invented and that we are just all in the process of "forker" (before we said pumping) technos that date from the last century and that we find detailed In any manual of the "small sonographer". :grinning:
+1488827406.000048> @U0AAL4W13: <@U0AAL4W13>
+1488827450.000049> @U0AAL4W13: <@U0AAL4W13>
+1488827495.000050> @U0AAL4W13: <@U0AAL4W13>
+1488827574.000052> @U0AAL4W13: If anyone is keen on taking the supplier's search over, most welcome !
+1488828313.000054> @U0AAL4W13: #transducer #suppliers :smiley: (reactions: @U0B47KC3S)
+1489185457.491474> @U0AAL4W13: No answer so far :) so just to confirm I'll be withdrawing from this task as the association is taking it over :) btw, had some updates, will be updating the md file accordingly.  
+1489354855.776069> @U0AAL4W13: hey <@U2UU194RZ> <@U2UV28W2F> <@U2V0F9YAK> don't hesitate to post your progress (even if <http://echopen.ulb.ac.be/> is bugging at the moment :smiley: )
+1489357628.928476> @U2UU194RZ: Oh, again... but yes, for the ones who didn't know, we post our progress on this site :slightly_smiling_face:
+1489358273.964678> @U0B47KC3S: hi <@U2UU194RZ> <@U2UV28W2F> <@U2V0F9YAK>, nice to have so good news ! I saw the site sooner and you did a great job
+1489358277.964901> @U0B47KC3S: it’s so cool to see the work of a remote echOpen path :wink: hope to hear about you soon !
+1489358574.980736> @U2UU194RZ: we will have to stop our project in 2 weeks, until then, we are writing a report and making some advances, but we cannot do much more :confused: we will post everything on our site when it will be over for us. Other students will work on this project the next year :slightly_smiling_face:
+1489359323.022026> @U0B47KC3S: <@U2UU194RZ> I heard there is a fablab in ULB, maybe there is a way to connect echOpen with this community and push forward your work. Do you know about it ?
+1489359522.033233> @U2UU194RZ: We heard about it, I'll talk with the others and Olivier Debeir of a possible connection
+1489359972.059545> @U0B47KC3S: great :wink:

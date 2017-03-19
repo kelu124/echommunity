@@ -22,3 +22,49 @@
 1485249350.000002> @U0AAL4W13: Seems fantastic :)  <http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/bernardmarr/2017/01/20/first-fda-approval-for-clinical-cloud-based-deep-learning-in-healthcare/>
 1485249388.000004> @U0AAL4W13: First FDA Approval For Clinical Cloud-Based Deep Learning In Healthcare 
 1485447390.000002> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485773663.000002> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791341.000003> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1486212614.000002> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486479222.000002> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1487352577.000002> @U2PFHNN3C: Detecting skin cancer with a state-of-the-art neural network, <https://www.youtube.com/watch?v=toK1OSLep3s> with an android demo at the end
+1487353975.000004> @U2PFHNN3C: Again, SotA deep model for retinal disease detection <https://www.youtube.com/watch?v=oOeZ7IgEN4o>
+1487354057.000006> @U2PFHNN3C: So, again, what you need: - huge data - potentially crowd-source the labels (being careful with the variations in the diagnosis among practitioners)  - big infrastructure to learn these big models (reactions: @U0B47KC3S,@U37GZRZU6)
+1487354082.000007> @U2PFHNN3C: (I’m not including: good library and necessary skills. We have them already ^_^)
+1487354157.000008> @U2PFHNN3C: Now it doesn’t mean it works out of the box, a LOT of tuning and engineering is needed to have concrete results beyond mere proof of concepts
+1487355362.000009> @U0B47KC3S: hi <@U2PFHNN3C> it s astounding :wink: could we have a call next week to prepare the next campaign: funds for post-doc + aphp imagery data
+1487355703.000011> @U2PFHNN3C: Sure! Whenever you want, starting from 6pm
+1487356428.000012> @U0B47KC3S: let’s say thursday ?
+1487356707.000013> @U2PFHNN3C: Just sent the invite
+1487357462.000015> @U0B47KC3S: just accepted it :wink: (reactions: @U2PFHNN3C)
+1487362185.000018> @U37GZRZU6: <@U2PFHNN3C> <@U0B47KC3S>  can I invite myself in your call as a spectator? :slightly_smiling_face:
+1487378373.000019> @U0B47KC3S: hi hi so sure <@U37GZRZU6> :ok_hand:
+1487379821.000020> @U37GZRZU6: At what time did you plan it? Won't be available before 8:30 on Thursday :confused: 
+1487380063.000021> @U0B47KC3S: we thought about 6pm but maybe <@U2PFHNN3C> can later. for me it is ok :wink:
+1487436667.000002> @U37GZRZU6: thursday 1:00 pm ?
+1487438797.000003> @U0B47KC3S: for me it is ok !
+1487438926.000004> @U37GZRZU6: <@U2PFHNN3C> ? :cat:
+1487438974.000005> @U2PFHNN3C: Sure (reactions: @U37GZRZU6)
+1487931798.000002> @U492PCSE9: <@U492PCSE9> has joined the channel
+1488202954.000002> @U2PFHNN3C: On domain adaptation (transfer learning) <https://arxiv.org/pdf/1702.05374.pdf>
+1488499176.000003> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499176.000004> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488983311.000002> @U2PFHNN3C: Could also be something worth investigating <https://arxiv.org/abs/1703.01220>
+1488988911.000004> @U0B47KC3S: mais c bien notre thème ça !
+1489012640.000005> @U0AAL4W13: You may have seen this: <http://blog.kaggle.com/2017/03/08/kaggle-joins-google-cloud/> :)
+1489014230.000007> @U0B47KC3S: omg this is amazing news - #epidemium <@U04DFTZ7D>
+1489503411.470139> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1489576754.951040> @U2PFHNN3C: Hello <@U0B47KC3S>, je suis en train d’inscrire echOpen en tant que projet officiel au sein de l’infra de ROMEO. L’une des parties à renseigner est un long descriptif (text formatté + images), aurais-tu cela par hasard à portée de mains ? Un logo haute def est aussi requis par ailleurs si cela est possible.
+1489577108.022076> @U0AAL4W13: ( ping <@U37GZRZU6> et <@U0FN1B8KD> who could be interested in this type of resources and making it available maybe on github when we were discussing )
+1489577111.022613> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1489577958.195432> @U0B47KC3S: hi <@U2PFHNN3C> sure I can send it something to you ! btw, for the logo ping <@U04DFTZ7D>
+1489584183.699660> @U2PFHNN3C: Thanks <@U0B47KC3S> :slightly_smiling_face:  I would also need the list of current publications if possible
+1489602698.370065> @U0FN1B8KD: <@U2PFHNN3C>
+1489749823.793142> @U2PFHNN3C: Hello <@U04DFTZ7D> est-ce qu’il y a un logo echopen haute def quelque part ?
+1489760282.487618> @U0AAL4W13: don't hesitate to share all of this in a common, easy to access place :) ping <@U37GZRZU6> too to implement the processes ;) #methodo
+1489775348.221457> @U0B47KC3S: hello <@U2PFHNN3C> en attendant <@U04DFTZ7D> g trouvé ça
+1489775365.227554> @U0B47KC3S: <@U0B47KC3S>
+1489775383.233869> @U2PFHNN3C: Mea maxima culpa <@U0B47KC3S> c’est déjà réglé et ROMEO a enregistré echOpen pour 2017 en principe
+1489775392.236770> @U2PFHNN3C: Je vais toutefois écrire à Arnaud pour confirmer cela
+1489775395.237853> @U0B47KC3S: tOp !
+1489775409.242609> @U2PFHNN3C: J’ai pris la doc de gitbook ainsi que ses (superbes) illustrations
+1489775420.246621> @U0B47KC3S: nice :wink:

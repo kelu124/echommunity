@@ -48,3 +48,63 @@
 1483654075.000003> @U3N1SENJY: <@U3N1SENJY> has joined the channel
 1483959192.000002> @U3NT8G2BC: <@U3NT8G2BC> has joined the channel
 1484853471.000002> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
+1485791340.000002> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1486212551.000002> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486479222.000002> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1487105704.000002> @U20C8CKTL: you can test the leaderboard here : <http://37.187.117.106:8888>
+1487107408.000003> @U0B47KC3S: ok thanks ! we will check this tomorrow with <@U42P4AT7Z> cc <@U3TUWV3SQ>
+1487148206.000002> @U0B47KC3S: <@U42P4AT7Z> here are the django app files -&gt; <https://github.com/echopen/PRJ-medtec_sigproc>
+1487180318.000004> @U20C8CKTL: Leaderboard infra :
+1487180367.000005> @U20C8CKTL: <@U20C8CKTL> and commented: The leaderboard infra
+1487244843.000002> @U42P4AT7Z: Hi <@U20C8CKTL>  i have a trouble with installation's bootcamp, and specialy with Python-Decouple, the secret_Key, in the file .env, is generate random ? thx.
+1487244934.000003> @U20C8CKTL: could you send me your logs please ? a screenchot. the secret key is in settings. you try to install bootcamp alone ? from the github ?
+1487251626.000007> @U42P4AT7Z: i dont understand that :
+1487251634.000008> @U42P4AT7Z: risselin@PCJay:~/EchOpen/PRJ-medtec_sigproc/echopen-leaderboard$ python manage.py migrate Traceback (most recent call last):   File "manage.py", line 8, in &lt;module&gt;     from django.core.management import execute_from_command_line ImportError: No module named django.core.management
+1487252586.000009> @U20C8CKTL: did you install it with the requirement ?
+1487252598.000010> @U20C8CKTL: sudo python pip install  -r requirement.txt
+1487252673.000012> @U20C8CKTL: are you trying to install bootcamp  ? from the github ? or echopen leaderboard ? your django version is not ok.
+1487261890.000015> @U42P4AT7Z: i cloned the repository on github. And i try to launch server on the repository where the file manage.py here.   what version django is good ? 1.10 or 1.9 ? .... i begin to lost my hair ^^
+1487262717.000016> @U20C8CKTL: use this one : <https://github.com/vitorfs/bootcamp> and everyting is in requirement.txt .
+1487262781.000018> @U20C8CKTL: try this sudo pip install -r requirement.txt
+1487262814.000019> @U20C8CKTL: this is the way to install python projects
+1487587099.000002> @U20C8CKTL: Hi, yesterday i had  some problems to install the nodejs server on my ubuntu, i wrote a install process, following my needs. hoping it will be usefull.
+1487587100.000003> @U20C8CKTL: <https://hackpad.com/server-echographe-m3QjABJCB6X>
+1487590565.000004> @U0B47KC3S: top ! you mean you had to install the components globally (-g) so it didn’t work without that? because I followed the readme with no pb some times ago. Btw, are these types of commands `sudo ln -s /usr/bin/nodejs /usr/bin/node`safe if the user has already installed node ?
+1487590966.000005> @U20C8CKTL: i had to create this link beacuse i was not able to use npm install. I had this : /usr/bin/env: node: No such file or directory
+1487590992.000006> @U20C8CKTL: so i tried blindly this : <https://github.com/gulpjs/gulp/issues/436>
+1487591091.000008> @U20C8CKTL: and i had to remove and reinstall somes npm modules because of i don't know what, so i tried this  <http://stackoverflow.com/questions/9023672/how-do-i-resolve-cannot-find-module-error-using-node-js>
+1487591115.000010> @U20C8CKTL: <http://stackoverflow.com/questions/30686207/node-js-cannot-find-module-lib-compat>
+1487591166.000012> @U20C8CKTL: im a noob on javascript so i probably misusing something.
+1487695183.000002> @U42P4AT7Z: Hi hackolite :slightly_smiling_face: i want push my job on bootcamp and what adress i take to push request ?
+1487695208.000003> @U20C8CKTL: jayjay could you just be more acurate on your reply
+1487695227.000004> @U20C8CKTL: could you tell me the repo you use ?
+1487695522.000005> @U42P4AT7Z: it's the problem, i cloned the full github echopen, no choice. i want just push-request bootcamp. But my bootcamp is a clone of the real bootcamp, and i dont touch the repository in echopen-leaderboard
+1487695875.000006> @U20C8CKTL: more details in your private messages
+1487698337.000008> @U42P4AT7Z: i request, can u review my request-push <@U20C8CKTL> ? thx ++
+1487698472.000009> @U20C8CKTL: :wink:
+1487842982.000002> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
+1487858846.000003> @U42P4AT7Z: Hi hackolite :slightly_smiling_face: i check the concept "dokers" and i would like to know what it's your plan ? i can work on if u explain me what u want precisely :slightly_smiling_face: cya++
+1487859562.000004> @U20C8CKTL: you got some explanations here : <https://slack-redir.net/link?url=https%3A%2F%2Fhackpad.com%2FUnti-fJao8eB2HPJ&amp;v=3>
+1487859661.000005> @U20C8CKTL: It would be great to have a dockerfile for echopen-leaderboard, a dockerfile for rabbitmq and a dockerfile for the backoffice. in bootcamp project you can find a dockerfile, it can be your template.
+1487860877.000007> @U20C8CKTL: For every docker file you need to set autorestart true to restart if needed (crash).
+1487931743.000002> @U492PCSE9: <@U492PCSE9> has joined the channel
+1488499277.000002> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499277.000003> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488878450.000002> @U20C8CKTL: One idea for the next step will be to provide collaborative coding.
+1488883122.000003> @U0AAL4W13: Cloud9 style?
+1488883283.000004> @U20C8CKTL: this is not specific to cloud9, we try it and cloud9 seems to be more a shared linux env
+1488883351.000005> @U20C8CKTL: but as a read that the envelopp extraction challenge is not needed, the leadereboard platform need to be able to swith easily beetween challenge (hugg, not the same topic:D )
+1488883462.000008> @U20C8CKTL: we can integrate this to the leaderboad : <https://firepad.io/#1>
+1488883492.000010> @U20C8CKTL: not now but it could be good to summit code by group
+1488883499.000011> @U20C8CKTL: and by challenge. and we can investigate to create challenge on the fly. thanks to rabbitmq create a new challenge is very simple. create your data, evaluation script, and the plateform create a a docker, push it to a new server (vm) and connect it to rabbitmq.
+1489684283.476625> @U20C8CKTL: on echopen website there is a problem with the bottom banner which loses is anchor. it fly everywhere
+1489684846.739323> @U0B47KC3S: <@U20C8CKTL> I can’t reproduce the bug, could you explain it again ?
+1489684905.766965> @U20C8CKTL: when you click in the left menu : <http://echopen.org/doc-website/CAT-configuration/CFG-sweeping_probe/content>
+1489684946.785999> @U20C8CKTL: the banner is not ok
+1489685200.904453> @U0B47KC3S: you mean, when you click on `configuration` ?
+1489685217.912716> @U20C8CKTL: for example facebook, twitter icon are not available.
+1489702450.108295> @U0B47KC3S: ah ok I’‘l check it out with <@U42P4AT7Z>
+1489704543.644166> @U20C8CKTL: <http://www.echopen.org/challenge>
+1489739990.834856> @U0AAL4W13: top!
+1489742065.334171> @U0AAL4W13: A round of beer is on me for st patrick if you can  solve this reset password thing ;)
+1489832849.785111> @U20C8CKTL: i will create a issues for that.

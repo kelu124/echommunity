@@ -128,3 +128,150 @@
 1485418598.000123> @U0AAL4W13: we can avoid using this together time to do what we could all do from home behind screens
 1485418625.000124> @U0AAL4W13: it's maybe what you meant, just clarifying 
 1485447389.000125> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485521344.000126> @U0AAL4W13: hey, i don't know really where to put it, so asking the question here. with respect to the association, are there any plans to change statuses / règlement intérieur? We said last year the next ag would be back on track in 2017: shall we schedule an ag as per the association statuses in March?
+1485521386.000127> @U0AAL4W13: moreover, what's the process if I want to pay for the 2017 cotisation? 
+1485522807.000128> @U04DFTZ7D: Hey, sorry for the delay, was a bit busy. Some answers :  - Perimeter : asso project (don't understand what "wise project" means) - The idea, as many asked for it, is to have a follow up system / plan we will discuss and update during the weekly meetings. So i guess the weekly basis is appropriate.  - Don't understand what is unclear ? The goal of the workshop is to 1) Introduction : updating everyone with the existing process and organization 2) Setup global architecture, working group and such 3) organization for optimizing tools and information system. If we have enough time, roadmap and release plan for the main sub-project.   Of course, this plan can be complete as it is a draft.   Then,  - could you be more specific ? I don't understand what is the "it" in "where to put it" ? - Concerning the status, we will probably need make some minor change to become "d'intérêt général" for an eventual the tax redemption scheme. We wait for some lawyers feedbacks.  - For the 2017 contribution, nothing has change. Just giving it to the General Secretary (me) and i'll give you a receipt. The newt General Assembly will probably be around srping indeed.   Hope that is clear :wink:
+1485523051.000129> @U0AAL4W13: where to put it -&gt; the questions
+1485523165.000130> @U04DFTZ7D: Ah ok. Got it 
+1485523344.000131> @U04DFTZ7D: I created a dedicated channel for the <#C3Y2HRA78> related question and discussions 
+1485523521.000132> @U0AAL4W13: perimeter: are projects in the community but not strictly lead by the association -- for example the echommunity (auto mapping) projects included?
+1485541123.000133> @U0AAL4W13: it's also similar to the work realized on their own by others labs like the team in ulb or the team in anaba - should they be included in the perimeter ?
+1485542258.000134> @U04DFTZ7D: Sure they'll be included as they all work on the echOpen project... ULB work in the kit and Anaba like others work on the concept on the medical side. I really don't get your point here ?? The association provides ressources to anyone willing to support the effort to develop an echostethoscop. And the point is setting up community methods to make the collaboration efficient and reaching out common goals. 
+1485547087.000135> @U0AAL4W13: okay :) fair enough. Shall the murgen board be encompassed in this work as well then?
+1485773610.000136> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791340.000137> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485892443.000138> @U37GZRZU6: an idea for enabling some insights on the project, letting people subscribe to tasks, and handling due dates : using trello combined to slack ! <https://trello.com/platforms/slack> what do you think? we could discuss it on 11th :wink: <@U0B47KC3S> <@U0GMX7QUB> <@U04DFTZ7D> <@U0AAL4W13> <@U0FN1B8KD> <@U07UEJC2H> <@U38HVMZ6K> <@U3QGT3Q74> (reactions: @U38HVMZ6K)
+1485893111.000140> @U0AAL4W13: yup!
+1485893125.000141> @U38HVMZ6K: Great! Tasks and action items tracking has always been an issue in projects I worked in. Using Trello, Jira, Fogbugz or any task/bug tracker at the project level can only be helpful.
+1485893180.000142> @U38HVMZ6K: This is going in the direction of one question I had "how do we track tasks and progress?"
+1485893331.000143> @U38HVMZ6K: If we get the reflex of opening a task everytime we think about something to do this can be very powerful. The only critical point is to get adherence of the people involved and systematically using the tool.
+1485893661.000144> @U38HVMZ6K: I had both experiences: 1) team motivated -&gt; good usage of the tool -&gt; helpful 2) team not convinced by the approach -&gt; everyone continued to track his tasks "as we always did" (post-it, excel sheet, TXT doc, Google docs...) and finally tasks were still spread everywhere -&gt; useless, time consuming and frustrating for the one(s) trying to push the new methodology
+1485895005.000145> @U37GZRZU6: <@U38HVMZ6K> I totally agree with you! Anyway, we have to change our methods so we'd better be able to convince people... I think we have better chances if we limit the number of tools to be used and the complexity of the processes. <@U0B47KC3S> mentioned that almost all contributing members have now adopted slack, so using slack as a central hub might be a good starting point :thinking_face: so this trello bot could prove to be useful, I don't know if there are some equivalents for Jira for example ?
+1485895476.000147> @U38HVMZ6K: Yep keeping slack as central hub is a good approach. And I really like the linking of external tools via simple, well-thought integration plugins. (reactions: @U0AAL4W13)
+1485896293.000148> @U0AAL4W13: we used to centralized tasks, agenda and docs on a Basecamp, since spring 2015
+1485896318.000149> @U0AAL4W13: the sad point is that we're loosing most of the info that was deposited in it :/
+1485896364.000150> @U38HVMZ6K: We can perhaps leverage and revive this basecamp...
+1485896370.000151> @U0AAL4W13: one key element will be to ensure the portability of data posted in one tool
+1485896400.000152> @U38HVMZ6K: Never heard about it. Where is it located (URL)?
+1485896447.000153> @U0AAL4W13: <http://Basecamp.com> :)
+1485897006.000154> @U0AAL4W13:   need to have an access - but I'm working on a structured dump in the echommunity project too (reactions: @U37GZRZU6)
+1485897100.000155> @U0AAL4W13: <@U0B47KC3S> <@U04DFTZ7D> it would be interesting to give <@U38HVMZ6K> an access to the bc3 :)
+1485897422.000156> @U38HVMZ6K: seems good and fulfill most of/all needs!
+1485897447.000157> @U37GZRZU6: rbo: there's also Jira for slack :wink:  <https://echopen.slack.com/apps/A0F7YS3MZ-jira>
+1485897532.000160> @U37GZRZU6: actually I don't know what was the reason for going from basecamp to slack, but I'm not sure going back would be a good idea, as the whole community has now moved to slack...?
+1485905260.000162> @U0B47KC3S: hi there, along with <@U37GZRZU6> getting slack as the main community kinda repo seems important. Btw, I am really not an expert of tools, and I don’t have any religion about it but 1) the idea of using an external but slack-connected tool is interesting 2) we could use more in depth GitHub (already connected to slack) new issue/task/progress tracker -&gt; <@U20C8CKTL>, you already use it, what do you think ? <@U04DFTZ7D> a point of view ? (reactions: @U37GZRZU6)
+1485935436.000166> @U04DFTZ7D: Thank you <@U37GZRZU6> it's an interesting idea. We actually tried task management (including trello) before and this need everyone to adopt, use and maintain it. In github, is available a project feature close to Trello and we thought to use it, that could be a way to structure taks, milestones, etc. Then, i agree with <@U38HVMZ6K> about "The only critical point is to get adherence of the people involved and systematically using the tool." and it needs everyone to adopt it fully !!   <@U37GZRZU6> sure we have to imrpove our methods and using the right system that everyone in convinced. This is one of the idea of the CAPMeth the 11th. If everybody agreed with a system, the adoption will be easier. Then i agree with your point saying that we need the very minimum tools avoiding people to get lost. And this is the idea of having slack as a central hub to discuss and interact. Then, we may find a way to get synthesis, tasks, etc. register somewhere in an organized manner and ideally in one area (github for example), using template document.   Regarding basecamp, it was relevant as the community was smaller and the project with only few dimensions. I am using basecamp in other project with many sub-project, but having this feature costs money. I am afraid that if we have only one project area (free account) in a basecamp with all echOpen sub-porjects and dimensions, we will get lost maintaining it. And as <@U37GZRZU6> says it, most of the community is now here on slack.   Anyway, i'll add this idea of a task tracking in the CAPMeth document. And let you explore the github project feature.
+1485935663.000167> @U04DFTZ7D: I suggest we try the project feature in github for the CAPMeth organization and see how it work. COuld be a nice usecase =&gt; <https://github.com/echopen/PRJ-commty_method/projects/1>
+1485935775.000170> @U38HVMZ6K: thanx for your inputs <@U04DFTZ7D>.  &gt;  In github, is available a project feature close to Trello and we thought to use it What are you refering to ? GitHub "Issues" feature ?
+1485935854.000171> @U04DFTZ7D: If you click on the link i just send, you'll see this. It's a new feature called "project" with column and cards you can move from one column to another and any card can be transformed to an issue if needed.
+1485936049.000172> @U38HVMZ6K: oh yes... I missed the link...
+1485936050.000173> @U04DFTZ7D: An article about it : <http://venturebeat.com/2016/09/14/github-launches-a-trello-competitor-pull-request-reviews-redesigned-profile-pages/>
+1485936172.000175> @U38HVMZ6K: seems nice and good
+1485936211.000176> @U04DFTZ7D: Great and probably a good try with the CAPmeth :wink:
+1485936241.000177> @U38HVMZ6K: my only question is to know how we will use and manage it ? every project/repo having it's own GitHub project(s) ?
+1485936284.000178> @U04DFTZ7D: Yes, it is the idea. Each sub-project has its own slack channel and github repo
+1485936298.000179> @U38HVMZ6K: what I am a bit missing on the project is a global overview of what is ongoing, what/where are the needs...
+1485936302.000180> @U04DFTZ7D: The prj_XXXXXXX means projectXXXXXX
+1485936337.000181> @U04DFTZ7D: Yes, this is the main point for the CAPMeth, finding a good way to gather all relevant info from each project, having a global overview. And i invite everyone to add his/her needs regarding this question we plan on adressing the 11th
+1486071412.000184> @U0AAL4W13: <@U0FN1B8KD> : I'm putting for reference the Interim Report 1 (in french) at <https://gist.github.com/kelu124/842dd738bcc0898abcb6e8a62c76c739> . Will be pushing the skeleton for IR2 soon :smiley:
+1486071412.000186> @U0AAL4W13: 
+1486228186.000189> @U37GZRZU6: <@U04DFTZ7D> I looked at the github "project" and I'm not sure it will meet our needs? When I fork the PRJ-commty_method repo, my forked project is empty so it seems I can't contribute to the echOpen project. I think all the contributors should be able to edit the project board, otherwise it won't be efficient enough. Two solutions to explore : - either we give access to the repos to all contributors, which I don't think is a good practice ? - or we use Trello for the follow-up of the different sub-projects as well as a global overview (we need Trello or an equivalent anyway for global insight, right?) what do you think <@U38HVMZ6K> <@U0AAL4W13> <@U0B47KC3S> <@U0GMX7QUB> ?
+1486479222.000190> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1486722933.000191> @U04DFTZ7D: Hello all. Tomorrow at echOpen, CAPMeth !! Workshop to discuss existing methods and improvment... Also here in this channel. We will launch an open call for these who want to join !! Let's meet at 10.00 am (reactions: @U37GZRZU6,@U3QGT3Q74,@U0B47KC3S)
+1486798416.000196> @U38HVMZ6K: Hi all, my wife had an emergency at work and will probably not come back home before midday so I will be on duty with our daughter until she comes back. I'll try to join in the afternoon.
+1486799281.000197> @U0AAL4W13: sure! or you can join together :)
+1486799988.000198> @U38HVMZ6K: Yep she's a ninja in git and coding :joy: 
+1486800207.000199> @U38HVMZ6K: She's 3 years old and you cannot stay in front of a screen more than 2 minutes without having her touching the screen, the keyboard, the touchpad so a session with her would be quite complicated and a good challenge for exercising my patience but I'm not ready yet :blush: 
+1486802583.000200> @U38HVMZ6K: yep agree <@U37GZRZU6>, I think that it's difficult to handle something in GitHub at the GitHub project level with the fork-pull request method we want to use. Even if we give access to the repos to the contributors we would have the problem of having separated issues/tasks list in different repos and the need to aggregate and consolidate them at a higher level.
+1486802583.000202> @U38HVMZ6K: 
+1486802643.000205> @U0AAL4W13: For consolidating those, if that's just having a "dashboard" of issues, I guess you can summarize them in a single place using the github API ?
+1486803747.000206> @U38HVMZ6K: Perhaps, I don't know. If we can have it easily done without spending too much time on it why not. The fact is that it's not on issues (which can be opened by everyone on the echopen repo) but on projects (eg. <https://github.com/echopen/PRJ-commty_method/projects/1>) which can only be edited by contributors with write permissions to the echopen repo.
+1486803811.000208> @U38HVMZ6K: Correct me if I'm wrong but I think it's the way GitHub "Projects" are working.
+1486803852.000209> @U38HVMZ6K: It's 10:00 :alarm_clock:  enjoy! Will try to join later
+1486805672.000210> @U0AAL4W13: Yop, jme propose de prendre les notes sur <https://docs.google.com/document/d/1r1VeRz6PhepxhcAjxUtTRYlkPFeG6sZAW5PQi1IP6Nw/edit> - anyone can join :smiley: (reactions: @U37GZRZU6)
+1486805754.000212> @U0DRKLMS4: <@U0DRKLMS4> has joined the channel
+1486806111.000213> @U38HVMZ6K: :+1::skin-tone-2: :heart_eyes: 
+1486806118.000214> @U38HVMZ6K: Thanx
+1486810109.000215> @U0FN1B8KD: you have the discussion in live there :wink:
+1486832926.000216> @U0AAL4W13: @ channel : don't hesitate to complete (before sunday evening) the gdoc with what we missed, @bivi will transform it into a markdown then :smiley: Thanks! (ping <@U3QGT3Q74> <@U37GZRZU6> <@U0B47KC3S> <@U04DFTZ7D> <@U0AAL4W13> <@U0FN1B8KD> <@U3GHS132Q> <@U07UEJC2H> ) (reactions: @U37GZRZU6,@U38HVMZ6K,@U04DFTZ7D)
+1486833370.000219> @U0FN1B8KD: Thx, just added somethings :wink:
+1486834796.000221> @U38HVMZ6K: Thx guys! I'll catch up and comment today evening or tomorrow.
+1486921675.000223> @U07UEJC2H: <@U0AAL4W13>, as we said yesterday, can you give me the reference of the probe you had bought please.
+1486922492.000224> @U0AAL4W13: if you can wait 3 weeks I can sell you the one I have - i should be finished in 3 weeks approx. Still have the box and accessories :smiley:
+1486922549.000225> @U0AAL4W13: you won't pay the shipping+customs this way
+1486922875.000226> @U0AAL4W13: Is it decided we going this way?
+1486922930.000227> @U07UEJC2H: I prefer to have it as soon as possible, depend on the shipping delay. I need also the reference to see if I can have the specs, datasheet...
+1486922955.000228> @U0AAL4W13: shipping takes a month roughly
+1486923040.000229> @U0AAL4W13: so it'd be quicker to get it directly
+1486923256.000230> @U07UEJC2H: Anyway, I need more than only one, and I need the reference to search informations
+1486923616.000231> @U0AAL4W13: let's talk about it on wednesday :smiley:
+1486923650.000232> @U0AAL4W13: it's part of a project i'm working on, and which will be open-sourced at the closing of the project (in ~3 weeks)
+1486923661.000233> @U0AAL4W13: I'll have more liberty to discuss it then :smiley:
+1486973376.000002> @U38HVMZ6K: Hi all, for the discussions around methodology/processes/documentation I suggest following reading which is the official guidance from FDA regarding medical device design controls: <http://www.fda.gov/RegulatoryInformation/Guidances/ucm070627.htm>
+1486973561.000004> @U38HVMZ6K: It is focused on US regulations and processes but provides cross-references to international standards and norms also applicable in EU (ISO 9001/13485/62304...)
+1486974119.000005> @U38HVMZ6K: Sections A,B and C are especially relevant at the beginning to establish the needed inputs and documents. Section J on the Design History File (DHF) is also an important point.
+1486976422.000006> @U0B47KC3S: thanks <@U38HVMZ6K> :wink: @oliv <@U0JFW4XTQ>  do we have something similar for the EC approval ?
+1486977143.000008> @U38HVMZ6K: For Europe (CE marking): <https://ec.europa.eu/growth/single-market/ce-marking/manufacturers> (tab "Medical Devices") >     >         > (reactions: @U0B47KC3S,@U37GZRZU6)
+1486977366.000010> @U38HVMZ6K: In general, concepts are the same between US and EU but the names differ (for example, the Design History File (DHF) in US is similar in essence to Technical File / Design Dossier in EU): see <http://www.mastercontrol.com/newsletter/medical_device/medical-device-design-history-file-0710.html> for an example of equivalence/comparison
+1486981053.000013> @U0AAL4W13:  <@U07UEJC2H> : la sonde à pour nom la "uprobe-1". elle fait partie d'une série assez sympa.
+1486981121.000014> @U0AAL4W13: je n'ai pas trouvé de vraie datasheet, juste des prospectus commerciaux à côté de la plaque 
+1486981241.000015> @U38HVMZ6K: <http://www.sonostarmed.com/product/BWultrasoundScanner/Portable-B-Scanner/2015/0611/200.html> et <http://www.sonostarmed.com/Service/xiazaicenter/>
+1486982677.000016> @U0AAL4W13: to clarify, I have a Nda for the work done on this probe. the work will end in ~3 weeks, with a part which will be open-sourced. so it will be easier to exchange on this topic in 3 weeks ;)
+1486982706.000017> @U0AAL4W13: and there will be some interesting elements  (inshallah ) for the community :)
+1486982769.000018> @U38HVMZ6K: :heart_eyes::clap::skin-tone-2: great !
+1487083608.000019> @U37GZRZU6: Hi guys (and <@U0DRKLMS4> and <@U0FN1B8KD> :wink: ) ! Following last saturday's capMeth, we converged to these ideas (among others - see minutes <https://github.com/echopen/PRJ-commty_method/pull/2/commits/5e24522596ff0616a14b1aa5efa799411ef80042> ) :  - use the github repos to keep track of docs, minutes of meetings, as well as the "to-do" lists and informative deadlines (which can be handled through the "project" feature). This should be done in each sub-project's repo, which implies that at least the sub-project's "coordinator(s)" have rights for the corresponding repo. - on top of that, we would need to create one more repo that would be dedicated to the global project follow-up. this one could be edited by all the coordinators. - we mentioned we could use github's team functionality to handle the access rights to the different repos  <@U04DFTZ7D> <@U0B47KC3S>, when do you think we could apply these changes to the echOpen github ? :slightly_smiling_face: (reactions: @U2PFHNN3C,@U0B47KC3S)
+1487091788.000024> @U04DFTZ7D: Hello <@U37GZRZU6> thank you !! Looks great ! The best would be for us to meet shortly to try to implement this on one or two sub-project just to see if it works fine before generalize the process to all repo. Are you fine with that ? Available to meet this week ?
+1487092339.000025> @U37GZRZU6: <@U04DFTZ7D> sure, I'm mostly available during the week-end actually, what about saturday for example ?
+1487092407.000026> @U04DFTZ7D: Thanks <@U37GZRZU6> unfortunatly, i will be very busy this week-end... any availabilities thursday or friday by the end of the day ?
+1487092446.000027> @U37GZRZU6: friday 6:30 ?
+1487093334.000028> @U04DFTZ7D: ok, go for it :wink:
+1487093336.000029> @U04DFTZ7D: thanks
+1487093375.000030> @U37GZRZU6: <@U04DFTZ7D> thaaanks see you @ Hôtel Dieu on friday then :slightly_smiling_face: (reactions: @U04DFTZ7D)
+1487099150.000032> @U04DFTZ7D: Hello all, github released its guide to open source project !! #goodread : <https://opensource.guide/> cc <@U0B47KC3S> <@U0GMX7QUB> <@U37GZRZU6> <@U0AAL4W13> <@U3QGT3Q74> and others ;-)  (reactions: @U0B47KC3S,@U37GZRZU6)
+1487099295.000033> @U0B47KC3S: thanks <@U04DFTZ7D> ! I think the correct url is <https://opensource.guide>
+1487099349.000037> @U04DFTZ7D: Yes, sorry the cc was too close to the URL !! 
+1487112595.000038> @U0FN1B8KD: is there the meeting tomorrow eventually?
+1487113916.000039> @U0B47KC3S: yes <@U0FN1B8KD> we have meeting tomorrow at 18.30 and we merged the two meetings SigProc and EmbSys. We’ll broadcast it again tomorrow morning
+1487433811.000041> @U0AAL4W13: #scrum :  <https://m.youtube.com/watch?v=oyVksFviJVE>
+1487861351.000043> @U37GZRZU6: is that normal that the minutes of the capMeth aren't in the github repo?
+1487871163.000044> @U0AAL4W13: if I remember well, that's because parts of the text are still in French <@U37GZRZU6> - I guess the pr can still be accepted and the modifications added afterwards?
+1487931760.000045> @U492PCSE9: <@U492PCSE9> has joined the channel
+1487934555.000046> @U04DFTZ7D: Just drop this here ;) interesting read !! <https://blog.mozilla.org/community/2017/02/23/open-and-agile/>
+1487966652.000048> @U38HVMZ6K: Interesting. I'm a convinced adopter and fan of open source and agile but there are some important constraints and concepts to take into account when trying to apply them to medical device development. Things are not as easy as in standard open source development. By chance, given the general success of these methodologies, regulators begin to accept them and recognize their value but the overall requirements stay the same.
+1487966729.000049> @U38HVMZ6K: The most important and useful guidance on the use of agile in medical device development is AAMI-TIR45 <https://my.aami.org/store/detail.aspx?id=TIR45-PDF>
+1487966821.000050> @U38HVMZ6K: The document is unfortunately not available for free but it is really worth reading for everyone wanting to bring some modernity in med dev software development.
+1487966917.000051> @U38HVMZ6K: <@U38HVMZ6K>
+1487967010.000052> @U38HVMZ6K: This presentation is also worth reading. A practical approach to the concepts introduced in TIR45. (reactions: @U0AAL4W13)
+1488499219.000054> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499219.000055> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488580553.000056> @U0AAL4W13: A stupid idea about onboarding automating, and keeping everyone values where it matters most : <https://txt.fyi/+/756cd6f8/> -- would be happy to do any bot schedule / bot programming with <http://recast.ai> with anyone :smiley: What do you think of this? (reactions: @U38HVMZ6K,@U37GZRZU6)
+1488582304.000057> @U0B47KC3S: <@U0AAL4W13> this is a great idea ! I would be interested in catch a picture of how to program bots :wink:
+1488583995.000059> @U38HVMZ6K: Great! I would also add the Google form at the end of the onboarding process so that we have a clear idea of the skills available in the community and the topics in which people are interested.
+1488584086.000060> @U38HVMZ6K: We could thus create a "yellow pages" directory of the members.
+1488612890.000061> @U0AAL4W13: Top. Im currently playing with recast,  but a first bot with a schedule of info delivery would be useful at first 
+1488612909.000062> @U0AAL4W13: <@U38HVMZ6K> indeed
+1488612943.000063> @U0AAL4W13: <@U0B47KC3S> could you share the welcome info you usually sent ?
+1488629543.000065> @U0B47KC3S: <@U0AAL4W13> here’s an example of welcoming email, I put it in a gdrive -&gt; <https://docs.google.com/document/d/1SeBq6LCW4cWCUxdsFqutrX5tV7QpZpCTNB2Jb1PS4xg/edit>
+1488629544.000066> @U0B47KC3S: <@U0B47KC3S>
+1488911180.000070> @U0AAL4W13: Humm in looking into botpress for bots management 
+1488911268.000071> @U0AAL4W13: And a good read <https://chatbotnewsdaily.com/how-to-use-slack-to-power-an-awesome-on-boarding-experience-18a7c2b3bffc?gi=c2a09184dc6>
+1489019087.000073> @U3GHS132Q: <@U3GHS132Q> has joined the channel
+1489019123.000074> @U3GHS132Q: Hello. You will find the minutes of today "organization meetup" here : <https://mensuel.framapad.org/p/CR_org_03_07_2017> I will traduct it tomorrow, if you add something feel free to add it in french or english. Everyone should be aware of the information which are inside this document ! (reactions: @U0B47KC3S,@U37GZRZU6,@U0AAL4W13,@U0GMX7QUB)
+1489069672.846753> @U38HVMZ6K: <@U3GHS132Q>, I'll have a look at your notes today evening. BTW just a short question.. what happens to your "mensuel" framapad once you go over the month deadline ? is it deleted from framapad ?
+1489069710.852418> @U38HVMZ6K: we must be very cautious with such things and ensure that we do not lose documents.
+1489069845.872750> @U38HVMZ6K: If the Framapad is only a temporary placeholder and the notes then get comitted to github, I don't see any issue but there is still the risk of forgetting it in framapad and never comitting it somewhere
+1489069879.877658> @U38HVMZ6K: this is something to be covered in the methodology and quality assurance of the project
+1489164382.386932> @U3GHS132Q: <@U38HVMZ6K> Generally when I take notes I put them on framapad the same day I took them so everyone can edit them. Then 2 days after someone (<@U37GZRZU6> for the last two) "compile" the notesand upload them on github
+1489164585.430853> @U3GHS132Q: By the way, once the new organization plan will be in place if I take notes I will commit them (using the same schema described above).
+1489164665.448466> @U3GHS132Q: About the translation I could not do it yesterday but I will do it tonight :slightly_smiling_face:
+1489176525.821126> @U37GZRZU6: <@U3GHS132Q>  actually I didn't push the minutes on github sorry :confused:  (reactions: @U0AAL4W13)
+1489190457.804431> @U3GHS132Q: You did not push the notes from last week (01/03/2017) on github ?
+1489452176.921147> @U0AAL4W13: Interesting fact:  Zenodo exists as a way to attribute DOIs to releases. Interesting to ensure the continuity and availability of source code! See <https://guides.github.com/activities/citable-code/>
+1489452189.922356> @U0AAL4W13: May be useful for several reasons :smiley:
+1489504876.250798> @U38HVMZ6K: <@U37GZRZU6> got hand back to the standard I was looking for: NEMA UD 3-2004 <https://www.nema.org/Standards/Pages/Standard-for-Real-Time-Display-of-Thermal-and-Mechanical-Acoustic-Output-Indices-on-Diagnostic-Ultrasound-Equipment.aspx>
+1489504906.260598> @U38HVMZ6K: unfortunately not publicly available for free... (reactions: @U37GZRZU6,@U3GHS132Q)
+1489513463.925021> @U2PFHNN3C: Je pose ça là <https://www.youtube.com/watch?v=R8dYLbJiTUE>
+1489610010.680455> @Hyacinthe: <@U0FN1B8KD>
+1489612991.409109> @U0AAL4W13: <@U0FN1B8KD> you put me to shame, haven't worked on it yet :smiley:
+1489616883.162084> @U0FN1B8KD: Oh sorry Luc ! I thought it was last year one !
+1489649045.888233> @U0AAL4W13: No you're right, it's just I haven't done much on 2017 one ;)

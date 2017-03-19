@@ -69,3 +69,40 @@
 1484853471.000024> @U3TUWV3SQ: <@U3TUWV3SQ> has joined the channel
 1485024517.000025> @U0FN1B8KD: 
 1485447390.000026> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485505229.000027> @U38HVMZ6K: <@U38HVMZ6K> and commented: Very interesting white paper on regulatory and compliance for medical mobile apps.
+1485505309.000028> @U38HVMZ6K: Came across this white paper and found it to be very useful for echOpen. Gives detailed insights, recommendations,... on regulatory, compliance and certification processes for medical mobile apps in US and EU.
+1485510815.000030> @U0B47KC3S: over cool <@U38HVMZ6K> ping <@U352MKG4V> <@U32V2JWFJ>
+1485510816.000031> @U0B47KC3S: cc <@U04DFTZ7D> <@U0JFW4XTQ> -&gt; we should make a point on that
+1485510924.000033> @U38HVMZ6K: thanks <@U0B47KC3S> I am gladly "in" for any discussion related to regulatory, compliance, ... applied to software
+1485511011.000034> @U38HVMZ6K: I have some experience from my job on FDA processes and we try to be IEC62304 compliant in our processes to let the door open for EU certification
+1485511011.000035> @U0B47KC3S: yep !
+1485511061.000036> @U38HVMZ6K: I'll try to establish a list of norms/guidances useful and/or mandatory for the mobile app
+1485511108.000037> @U38HVMZ6K: everything is "easier" with US norms and guidances since they are all publicly available for free
+1485511166.000038> @U38HVMZ6K: standards used in EU (IEC62304 among others) are only accessible with a fee :disappointed: (reactions: @U0B47KC3S)
+1485773675.000039> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791341.000040> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485984415.000041> @U0FN1B8KD: Hi the norms channel ! Will may be soon be conducting a clinical trial in Lao and Peru! When do you think we will be able to be certified ? "Primum non nocere"
+1485984929.000042> @U38HVMZ6K: &gt; When do you think we will be certified? Ouch... Difficult question! There are many many questions and obstacles in the path!
+1485985025.000043> @U38HVMZ6K: First we need a working prototype. We have a first starter-kit but still nothing similar to a real industrializable medical device.
+1485985574.000044> @U38HVMZ6K: Then, the echOpen probe will not be certified in itself (as far as I understood) but the design will be taken over by an OEM/manufacturer which will have to create a complete set of documentation, test protocols, design documents,... This is a HUGE task! To get an idea about the kind and amount of documentation required for a medical device development and certification have a look at <http://blog.greenlight.guru/design-controls> which is a good reference with descriptions for both FDA in the US and CE in Europe.
+1485985743.000046> @U38HVMZ6K: Rough personal estimation: happy path with sustained development effort, early involvement of a manufacturer bringing man power in the project/product: 2 years before certification
+1485985775.000047> @U38HVMZ6K: Realistic estimation: 4-5 years (reactions: @U0AAL4W13)
+1485985907.000048> @U38HVMZ6K: Other members may have different views but this is what I expect given my experience, current status of the project and my understanding of the work still to be done.
+1485986530.000049> @U0FN1B8KD: wouaw... no certification=  no clinical trial?
+1485986822.000050> @U38HVMZ6K: As an example, the now well-known Clarius portable ultrasound device (<http://www.clarius.me>) (reactions: @U0AAL4W13)
+1485986938.000052> @U38HVMZ6K: No, to my knowledge, clinical trials are possible without certification but I don't know to which extent.
+1485987037.000053> @U38HVMZ6K: Certification is the open-door to be able to *market* the device but AFAIK it is possible to perform clinical trials before.
+1486020993.000054> @U0AAL4W13: <@U38HVMZ6K> I concur with the 4-5 years on a realistic scale, though with more resources, coordination, and a well defined (meaning with proper advisors) this could be lowered. 2 years all included seem really optimistic, but with a good support, indeed clarius showed it was feasible.
+1486021070.000055> @U38HVMZ6K: yep sure... it was best and realistic paths. I don't speak about worst case...
+1486021074.000056> @U0AAL4W13: but for these 2 year target, a strong full time team needs to be here, and I assume with the proper connections (we saw one of their engineers was far from being a noob and we'll connected)
+1486021110.000057> @U0AAL4W13: plus, I do think that clarius already had something in their pockets before they even started as a company
+1486021295.000059> @U38HVMZ6K: exactly... 2 years with a complete full-time team with experience in the medical device industry and ultrasound, 6.5M$ funding,...
+1486021396.000060> @U0AAL4W13: there are two shortcuts I believe : the cheapest is working with shenzen, which will be moderately cheap, fast, but you won't get easy certification 
+1486021422.000061> @U38HVMZ6K: &gt; we saw one of their engineers was far from being a noob "<https://www.clarius.me/brief-history-clarius/> &gt; I have spent my career in Ultrasound. 17 years ago I designed the first PC-based ultrasound research system and founded Ultrasonix. We became the leaders in ultrasound research interfaces, then expanded into point of care with programmable, software-based machines."
+1486021499.000063> @U0AAL4W13: the second is hiring a company who designs probes for a living, pay them to deliver the design + proto
+1486021499.000064> @U0AAL4W13: they will know the certification process, respect your terms of reference, will help the certification, will connect you with the right supplierz
+1486021499.000065> @U0AAL4W13: but they will come at a cost
+1486212639.000066> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486479222.000067> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1488499194.000002> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499194.000003> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel

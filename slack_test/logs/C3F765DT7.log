@@ -347,3 +347,170 @@
 1485433809.000418> @U38HVMZ6K: <@U38HVMZ6K> and commented: XU1 manual
 1485433895.000419> @U38HVMZ6K: <@U38HVMZ6K> and commented: E-mail with roadmap
 1485447390.000420> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485773634.000421> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791341.000422> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485962531.000423> @U38HVMZ6K: Hi everyone. I have some family issues and will not be able to attend today evening. You can still have the meeting on <https://meet.jit.si/echopenEmbedded>
+1485962636.000425> @U3PLYAJPJ: Thanks for the link and I hope everything is fine
+1485963280.000426> @U38HVMZ6K: You can discuss the following block diagram which was sent to me by <@U0B47KC3S> 
+1485963303.000427> @U38HVMZ6K: <@U38HVMZ6K>
+1485963363.000428> @U38HVMZ6K: This is the block diagram of the demonstrator provided by J-C Billard
+1485965752.000429> @U0B47KC3S: thank you <@U38HVMZ6K>, do you have something in mind you want to treat 4 tonight’s session ?
+1485965769.000430> @U0B47KC3S: hope everything is fine on your side
+1485965826.000432> @U38HVMZ6K: no worry, everything is fine just some organization issues and a bit trouble but nothing serious
+1485965883.000433> @U38HVMZ6K: for tonight session, if people are joining, it would be good to discuss the block diagram above sent by J-C and to think about the signal pulse detector and echo-AFE blocks
+1485965922.000435> @U38HVMZ6K: it would be good also to do some summary/listing of the different solutions we discussed (FPGA, CPUs, ...)
+1485965932.000436> @U38HVMZ6K: <@U3PLYAJPJ> has some inputs on this
+1485966118.000437> @U0B47KC3S: ok ! cc <@U37GZRZU6> <@U3PLYAJPJ> <@U3J40RUDT> <@U3GHS132Q>
+1485966369.000440> @U3PLYAJPJ: I will be available (reactions: @U38HVMZ6K,@U0B47KC3S)
+1485967319.000441> @U3J40RUDT: Hey, I can't make it tonight, another day working late, I have a deadline for a chip (tapeout) so I'm pulling long hours! It's possible that will be the case next week too but after that I will be more free... I'll keep following the discussion here! 
+1485967795.000442> @U0B47KC3S: ok <@U3J40RUDT> thanks for the update
+1486212591.000443> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486473616.000444> @U41ATL4EM: <@U41ATL4EM> has joined the channel
+1486473709.000445> @U421EN2RG: <@U421EN2RG> has joined the channel
+1486474346.000446> @U04DFTZ7D: <@U38HVMZ6K>, please meet <@U41ATL4EM> and <@U421EN2RG> from UPMC and with 3 others students will work on removing the Redpitaya and other topics :wink:
+1486474795.000447> @U38HVMZ6K: hi <@U41ATL4EM> and <@U421EN2RG> ! welcome aboard !
+1486474825.000448> @U41B4HNU9: <@U41B4HNU9> has joined the channel
+1486474910.000449> @U38HVMZ6K: the embedded system Slack channel (<#C3F765DT7>) and team is working on the future hardware implementation.
+1486474952.000450> @U41AB163S: <@U41AB163S> has joined the channel
+1486475002.000451> @U38HVMZ6K: Things and the team are still being put in place and the roadmap, architecture, ... are still being discussed
+1486475019.000452> @U424835JR: <@U424835JR> has joined the channel
+1486475043.000453> @U41ATL4EM: Hi, thank you !
+1486475087.000454> @U38HVMZ6K: we generally meet on Wednesday evening (8:00-9:00PM) either at echOpen headquarters in Paris for those being in the area and otherwise online through videoconference
+1486475133.000455> @U38HVMZ6K: I'm myself based in Switzerland and still never met the team except <@U0B47KC3S> and  <@U04DFTZ7D> when they presented echOpen in Lausanne last year
+1486475143.000456> @U0AAL4W13: on the maker/modular approach, there's also lots of room to investigate  (sorry <@U38HVMZ6K> I'm not including embdsys in analog hardware ^^)
+1486475161.000457> @U04DFTZ7D: Great, thanks <@U38HVMZ6K> for the detail. The polytech team is currently working on their design brief and will still work on it for the next 2 weeks. But i will let them give you more detail about what they are going to work on.
+1486475193.000458> @U38HVMZ6K: yep sure <@U0AAL4W13>, no problem and I'm more than happy with that :wink: I'm definitely a noob in analog
+1486475342.000459> @U38HVMZ6K: I'm quite busy these days/weeks at job, family, ... and cannot commit to any available time window but I'll stay reachable over Slack and will do my best to assist where I can
+1486479222.000460> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1486543844.000461> @U38HVMZ6K: hi <#C3F765DT7> channel ! I should be able to join today evening and I think we should sync up and discuss on following topics. Feel free to make proposals and changes to this agenda:  1) Status of new BM demonstrator (<@U3GHS132Q> , <@U0B47KC3S> any update on that point ?). Current status, when do we expect to have code, schematics, documentation,... handed over to the community ? 2) Polytech guys presentations: who they are, what are their tasks/objectives, for how long are they planned on the project,... 3) Miscellaneous: status on parallel tasks,developments,... (reactions: @U0AAL4W13)
+1486544015.000462> @U38HVMZ6K: We'll meet as usual at echOpen headquarters for those being there and online on <https://meet.jit.si/echopenEmbedded> for remote participants at 8PM.
+1486544047.000464> @U38HVMZ6K: @polytech- guys, will you be able to join ?
+1486579028.000465> @U424835JR: Hi, I will be at the echOpen headquarters for the meeting this week. 
+1486579101.000467> @U0AAL4W13: <@U38HVMZ6K> looking forward to reading your minutes
+1486579924.000468> @U41B4HNU9: Hello, I will be there too
+1486580372.000470> @U41AB163S: I cannot be there today, sorry 
+1486580530.000471> @U41ATL4EM: Hi, I'll join you online
+1486580567.000472> @U38HVMZ6K: 2 minutes and I'm here...
+1486818344.000473> @U0AAL4W13: <@U38HVMZ6K> : we may need you wednesday evening, 1830, online, can you be there?
+1486820140.000474> @U38HVMZ6K: <@U0AAL4W13> just need to check that I don't have a late call with our partners in US that day but should be OK
+1486929531.000475> @U38HVMZ6K: <http://linuxgizmos.com/linux-driven-dev-board-harnesses-sitara-pru-icss/>
+1486929591.000477> @U38HVMZ6K: New board based on TI AM437x with quad-PRU... <@U0AAL4W13> will love it :wink:
+1486929717.000478> @U0AAL4W13: :smiley:
+1487103804.000479> @U38HVMZ6K: Hi all! How is tomorrow's meeting planned? Are the sigproc and embsys meetings already merged?
+1487104071.000480> @U0B47KC3S: yes indeed, the idea is too do merge the meetings. We begin @ 18H30 !
+1487104133.000481> @U0B47KC3S: Btw, part of the team will be working in the afternoon on some caracterization of the actual state of the device and some docs, to prepare the meeting in the best way
+1487104236.000482> @U38HVMZ6K: :+1::skin-tone-2: 
+1487104258.000483> @U3J40RUDT: I'm back too for this one!  (reactions: @U0B47KC3S,@U37GZRZU6,@U04DFTZ7D)
+1487104275.000484> @U38HVMZ6K: I'll be available between 18:30 and 20:30 (reactions: @U0B47KC3S,@U37GZRZU6,@U04DFTZ7D)
+1487105258.000489> @U37GZRZU6: See you tomorrow EmbSys fellows :smiley:  (reactions: @U04DFTZ7D,@U38HVMZ6K)
+1487181244.000494> @U04DFTZ7D: <@U04DFTZ7D>
+1487181310.000495> @U04DFTZ7D: <@U04DFTZ7D> and commented: Details about colors linked to the functional analysis !
+1487182276.000496> @U38HVMZ6K: suggestion pour le budget 2017 echopen: de la bande passante et un micro-omnidirectionel :slightly_smiling_face: (reactions: @U37GZRZU6,@U3QGT3Q74)
+1487182303.000497> @U38HVMZ6K: on vous perd par intermittance et entend très mal
+1487187251.000498> @U3J40RUDT: Just to add a quick thing to the discussion... From what I gather, I think the FPGA approach is the best, especially at this early stage. It gives us more flexibility. I think the transition to more custom, dedicated hardware if needed is easier if we start from a working FPGA-based system.
+1487187346.000499> @U3J40RUDT: (I also have a lot of experience with Altera FPGAs…so I can help there)
+1487195499.000500> @U3PLYAJPJ: Today, we could hardly hear and understand the discussion which was frustrating. In our company we use Jabra Speak 410 (<http://www.jabra.com/business/speakerphones/jabra-speak-series/jabra-speak-410>). We are very satisfied with it especially when multiple people speak from different directions. If you send an address I can donate one so we can have an effective communication. (reactions: @U38HVMZ6K,@U37GZRZU6,@U0B47KC3S)
+1487198681.000502> @U38HVMZ6K: Some interesting reading about acquisition of 40-50MSPS ADCs by DSPs... They all go through an FPGA for acquisition. For LIDAR, Radar and other applications.  <https://www.dsprelated.com/showthread/comp.dsp/5409-1.php>
+1487198867.000505> @U38HVMZ6K: The most interesting section in the replies is: "If you want the DSP to bother with the ADC's handshake or so,this will overload your DSP, even at 13MS/s: the DSP won't have enough spare time to do the real signal processing. A basic guideline which I learnt is that a DSP is good for  algorithmic signal processing, but is is usually the wrong device  to deal with bit/pin oriented controller stuff."
+1487235866.000506> @U0AAL4W13: <@U3PLYAJPJ> we're using the same "spider" at work, it's an excellent one indeed (reactions: @U3PLYAJPJ,@U38HVMZ6K)
+1487236516.000511> @U0B47KC3S: thank you <@U38HVMZ6K>, check <@U07UEJC2H> <@U0GMX7QUB> <@U37GZRZU6> for yesterday’s discussion
+1487236698.000514> @U38HVMZ6K: hi <@U0B47KC3S> sorry for leaving early yesterday, I had another appointment at 21:00. Was just on time :slightly_smiling_face:
+1487236734.000515> @U38HVMZ6K: did you manage to get the information and roadmap you wanted for preparing the presentation to Altran ?
+1487236881.000516> @U38HVMZ6K: besides the fact it was quite difficult to follow the discussion for technical reasons I think it is still quite difficult to draw some highlevel roadmap and needs from discussion we had.
+1487236949.000517> @U38HVMZ6K: As promised I'll prepare a short recap' of my ideas and points we discussed offline. Hopefully it will help a bit.
+1487239800.000518> @U0B47KC3S: thanks <@U38HVMZ6K>. I think we have a lot of stuff now that we can synthetise. From what was said, the report of our meeting, the global schema of main configurations and bottlenecks <@U07UEJC2H> is on and your recap, we will synthetize this on a single doc, and discuss it before the 22.02 meeting ! (reactions: @U38HVMZ6K,@U37GZRZU6)
+1487239829.000519> @U38HVMZ6K: great!
+1487241490.000522> @U07UEJC2H: <@U38HVMZ6K>, yep, some guys of isep also said it one time that FPGA can be used to interface high speed ADC with DSP juste as a pipe. It can be intresting hybrid solution
+1487241770.000523> @U38HVMZ6K: I see following possible configurations 1) ADC -&gt; low-end (=cheap) FPGA -&gt; DSP 2) ADC -&gt; Hybrid SoC (Xilinx Zynq or Altera SoC)
+1487241810.000524> @U38HVMZ6K: it's what I will put in my proposal/description with pros and cons for both
+1487242700.000525> @U07UEJC2H: <@U38HVMZ6K>, at echopen with have a board (<http://knjn.com/FPGA-RS232.html>) with a small cheap FPGA (aletra acex ep1k10) which can drive 60Msps ADC. I don't know if it is a good solution but maybe a lead
+1487242849.000526> @U07UEJC2H: PS: just saw that they are end of life....
+1487242976.000527> @U3J40RUDT: That fpga is no longer supported by the design software, would have to use a really old version
+1487688268.000529> @U41AB163S: <@U41AB163S> Here is the specification of the project
+1487688304.000531> @U04DFTZ7D: Thanks <@U41AB163S>
+1487931777.000544> @U492PCSE9: <@U492PCSE9> has joined the channel
+1487978371.000545> @U3GHS132Q: Good document <@U41AB163S>  :slightly_smiling_face:
+1488390676.000546> @U0B47KC3S: hi one word to tell you the <#C3F765DT7> meeting will begin as usual at 8pm ! (reactions: @U3J40RUDT,@U3PLYAJPJ)
+1488394647.000549> @U3J40RUDT: jitsi as usual?
+1488395034.000550> @U0B47KC3S: yes !
+1488411074.000551> @U3GHS132Q: A **small** report of today meetup can be edited here : <https://mensuel.framapad.org/p/CR_embsys_01_03_17> (reactions: @U0B47KC3S,@U38HVMZ6K)
+1488433106.000553> @U38HVMZ6K: Thx!
+1488451147.000555> @U37GZRZU6: <@U3GHS132Q> I've translated the minutes and changed some formulations. Can you review it and tell me if I understood what was said yesterday? trying hard to include myself in the embsys team :sweat_smile:
+1488456343.000556> @U3GHS132Q: <@U37GZRZU6> What you did is perfect :slightly_smiling_face: I did not know that minutes have to be in english, I will translate them the next time I take them  <@U07UEJC2H> How do you actually implement the double FFT ? Do you write a FFT algorithm in C or do you use Red Pitaya's libs ? Moreover can you remind me what is the minimum frequency for ADC to get a good image ?
+1488456712.000557> @U07UEJC2H: <@U3GHS132Q>, I use an algorithm in C (not on the RedPitaya but on PC) based on the fft algorithm found on rosettacode, I can send it to you if you want to see. Minimum sampling rate is around 6 times the central frequency of the transducer (forget Shannon criterion)
+1488461304.000558> @U37GZRZU6: <@U07UEJC2H> what is the reason for this factor 6 ?
+1488462699.000559> @U07UEJC2H: I took this factor from numerical consideration, if you do finite element you must at least have 6 points per period to have coherent numerical result (to be sure you have to make convergent study). It is my own criterion, everybody can say something else. In fact the minimum factor is 3, but you will be very sensitive to noise with this sampling rate. The more your sampling rate is high, the less you will be sensitive to noise moreover you will have preciser results on phase and amplitude
+1488466979.000560> @U07UEJC2H: I am quite puzzled about what I read in the report.... Indeed, it can be very interesting to access the full power of the RedPitaya with adapted soft, but the RedPitaya is very expensive! Moreover it is apparently very difficult to implement Hilbert transform of fft in FPGA (<@U38HVMZ6K> are you agree?).
+1488467104.000561> @U07UEJC2H: And the PIC32MZ can be a good option for a lab prototype (not enough for a medical device) cause it can go up to 28 Msps and I have good result with 16 Msps with the RedPitaya. And it more than half the price of the RedPitaya
+1488467161.000562> @U07UEJC2H: * Hilbert transform of fft
+1488467221.000563> @U37GZRZU6: <@U07UEJC2H> what do you mean by "good results"? we won't be able to reach the desired framerate (15fps) with those sampling rates, am I wrong ?
+1488467265.000564> @U07UEJC2H: The last images (have you seen them?) which are the bests images we had so far
+1488467298.000566> @U07UEJC2H: and sampling rate is decoralated from frame rate
+1488467354.000567> @U07UEJC2H: It is enought for 3.5 MHz transducer not for 7.5 MHz
+1488467473.000568> @U37GZRZU6: <@U07UEJC2H> indeed it's decorrelated you're right, my bad :sweat_smile:
+1488467590.000569> @U38HVMZ6K: &gt; PIC32MZ can be a good option for a lab prototype (not enough for a medical device) cause it can go up to 28 Msps What is the CPU load when doing such an acquisition ?
+1488467628.000570> @U38HVMZ6K: I fear that the PIC will be fully loaded with acquisition with no spare time for processing, communicating,...
+1488467719.000571> @U38HVMZ6K: FFT on FPGAs is not so difficult. It's often implemented and good implementations exists
+1488467748.000572> @U38HVMZ6K: there are even many open source implementations in VHDL/Verilog available. For example: <https://opencores.org/project,versatile_fft> (reactions: @U37GZRZU6,@U0AAL4W13)
+1488467940.000575> @U38HVMZ6K: still on opencores, a Hilbert Transformer for FPGA implementation: <https://opencores.org/project,hilbert_transformer>
+1488468220.000577> @U38HVMZ6K: regarding the price of RedPitaya, I agree that it is not cheap
+1488468269.000578> @U38HVMZ6K: in my opinion it can be used for development as eval-kit and for the final design we should focus on ready made System-on-Module (SoM) (reactions: @U3GHS132Q)
+1488468640.000579> @U07UEJC2H: <@U38HVMZ6K>, I have not an idea of the CPU load cause I have never used it for the moment
+1488468751.000580> @U38HVMZ6K: OK
+1488468768.000581> @U38HVMZ6K: is the PIC32 the "Le micro-contrôleur possède des ADC à 18 MHz ce qui semble insuffissant pour une acquisition de qualité." mentioned in the report of <@U3GHS132Q> ?
+1488468786.000582> @U38HVMZ6K: I could not attend the meeting yesterday and so I'm a bit disconnected
+1488468923.000583> @U0B47KC3S: <@U38HVMZ6K>. Yes I think so. Besides, I remember you discouraged the use of PIC 32 because not fitted for our purpose
+1488470035.000585> @U0AAL4W13: <@U38HVMZ6K> I guess you don't do continuous acquisition, as you shoot lines, and listen  to them  coming back - you still have some time between each line 
+1488470073.000586> @U0AAL4W13: plus if you have 3 piezo for 60 degree imaging, it leaves you half of the time in non imaging
+1488470097.000587> @U0AAL4W13: (unless you sweep)
+1488470142.000588> @U0AAL4W13: my point being that you have breathing points, depending on your acquisition strategy :)
+1488470207.000589> @U0AAL4W13: a point though : if your lines are not spaced enough, you may have echoes from the end of previous line at the beginning of your currebt
+1488470233.000590> @U37GZRZU6: <@U0AAL4W13> as regards the three piezos, that's if we constantly acquire the signal from each piezo, right? is this necessary, as in the end the user selects only one ?
+1488470337.000591> @U37GZRZU6: <@U0AAL4W13> (is that what you meant by "unless you sweep" ?)
+1488470589.000592> @U0AAL4W13: nope. even with three, only one is active. and that's on 60 degree out of 360.
+1488470615.000593> @U0AAL4W13: so what you need to listen to is at max 180 degree out of 360 
+1488470692.000594> @U37GZRZU6: yes that's what I'm saying : if only one is active, actually the imaging is only 1/6 of the time. and we won't have a situation where we are using the three piezos at the same time, right ? (reactions: @U0AAL4W13)
+1488470702.000595> @U0AAL4W13: then for 20cm you have to listen 200us for a line - but you can space your lines by more than 200us, giving you leeway
+1488470706.000596> @U0AAL4W13: yep! (reactions: @U37GZRZU6)
+1488470873.000599> @U0AAL4W13: then your real constraints is the fps and your number of lines : if you have 128 lines at 15 fps that's 1920 lines per second, with this half time dead that gives you max 0.5*(1/1920) that's 260us per line, you have 60 us left between two lines
+1488471050.000600> @U0AAL4W13: and 500ms per second where there's no acquisition and you can do some processing
+1488471076.000601> @U0AAL4W13: that's reduced of course if you image on 80 degrees and not 60 :)
+1488480212.000602> @U38HVMZ6K: Thx for all these figures <@U0AAL4W13>. It helps much in understanding the needs, the constraints and the challenges.  (reactions: @U0AAL4W13)
+1488492050.000607> @U3GHS132Q: Interessting discussion here :slightly_smiling_face:
+1488492115.000608> @U3GHS132Q: <@U07UEJC2H> If I can I would like to see your code and algorithm :slightly_smiling_face: I hope I will learn from it (I never implemented fft lol)
+1488495536.000609> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488499097.000610> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499101.000611> @U20C8CKTL: <@U3GHS132Q>  <https://rosettacode.org/wiki/Fast_Fourier_transform> , various fft implementation : the scala version is really fun( functional, concurent and OO).
+1488526362.000615> @U38HVMZ6K: <@U3GHS132Q> and al. for software implementations of FFT I can only recommend THE open source reference library FFTW (<http://www.fftw.org/>) (reactions: @U0AAL4W13)
+1488526420.000617> @U38HVMZ6K: it's a well curated library supported by a huge community and real gurus
+1488526514.000619> @U38HVMZ6K: it has built-in optimizations using SIMD implementations on different architectures Altivec on PowerPC, NEON on ARM, SSE/SSE2 on x86
+1488526547.000620> @U38HVMZ6K: parallel processing with threading or MPI
+1488527472.000622> @U38HVMZ6K: FFTw project also provide an exhaustive list of other FFT implementations: <http://www.fftw.org/benchfft/ffts.html> and benchmarks of them (accuracy and speed) compared to FFTw. List is here (<http://www.fftw.org/benchfft/ffts.html>) and benchmarks are there (<http://www.fftw.org/speed/> and <http://www.fftw.org/accuracy/>)
+1488528472.000623> @U0B47KC3S: yes <@U38HVMZ6K> anyway the implementation of fftw on android is still a little tricky because I had an issue when compiling some lib, seemingly running on 32 bits architecture. <@U3GHS132Q> I’ll show you this week-end
+1488530369.000624> @U0AAL4W13: out of curiosity, what are you using fftw on android for?
+1488531121.000625> @U0B47KC3S: <@U07UEJC2H> produced great images by using detection envelope in his computer, we are jusst porting the code on the android app, so we want to see those nice images on the app. But, in  the “normal” state , fft will not be processed  on the smartphone (reactions: @U0AAL4W13)
+1488532406.000626> @U38HVMZ6K: &gt; I had an issue when compiling some lib, seemingly running on 32 bits architecture what is the issue ?
+1488532453.000627> @U38HVMZ6K: do you mean FFTw is designed to be run on 64 bits and you had issues compiling/running it on 32 bits or the other way ?
+1488532509.000628> @U38HVMZ6K: I'm sure FFTw can be compiled and run for ARM 32 bits (we used it on a Cortex-A8 single core ARM)
+1488532572.000629> @U38HVMZ6K: I never used it on ARM 64 bits but these are not already widespread and I don't know how far Android supports it
+1488532650.000630> @U38HVMZ6K: if something is wrong on Android I would more suspect their non standard low-level implementation (bionic libc and other creepy stuff) possibly not compatible with FFTw than FFTw itself
+1488532666.000631> @U38HVMZ6K: on standard embedded Linux at least it worked like a charm
+1488532908.000632> @U0B47KC3S: what is weird is that I got the android ffw implementation form this project <https://github.com/andrejb/DspBenchmarking> and the line `LOCAL_LDLIBS    := -llog -lz -lm $(LOCAL_PATH)/$(LIBFOLDER)/android/armv6/lib/libfftw3.a` fails when the following file is compiled `<https://github.com/andrejb/DspBenchmarking/blob/master/jni/Android.mk>`
+1488533030.000633> @U0B47KC3S: I stackoverflowed the issue, and it seemed that this was related to a lib running on 32 bits architecture. Btw, the github project I mentionned is outdated of 4 years
+1488533412.000634> @U38HVMZ6K: do you have the stackoverflow link ?
+1488534779.000635> @U0B47KC3S: I passed from link to link and I am now trying to find out again but with no success for the moment. I let you know
+1488569651.000637> @U3GHS132Q: <@U38HVMZ6K> FFTW seems to make coffee Oo Already SIMD optimization :open_mouth: I am sad I want to try to optimize with it lol
+1488927800.000638> @U0AAL4W13: <@U38HVMZ6K> : what does the inside of a former probe yield: <https://source.wustl.edu/2009/04/ultrasound-imaging-now-possible-with-a-smartphone/>
+1488927839.000640> @U0AAL4W13: <@U0AAL4W13> and commented: Could find a better pic so far
+1488928312.000641> @U0AAL4W13: <@U0AAL4W13>
+1488952994.000643> @U38HVMZ6K: Great! Very interesting device. That's the kind of architecture I would go for a low-cost version. 
+1488953463.000644> @U38HVMZ6K: Several highlight points from the article: - 100'000$ grant from Microsoft.  - "Some of these USB-based probes sell for less than $2,000 with the goal of a price tag as low as $500." - Field trials in the Third World. Personal note: not for philanthropic reasons but because regulations are more relaxed or not existing... - "One such application could find its way to the military". Philanthropy stops here and they go where budget is available. Sad but true reality. (reactions: @U0AAL4W13)
+1488998623.000646> @U38HVMZ6K: Stucked in a boring dinner with our US customers today evening. I will not attend today's meeting unless I can make diversion and discretely escape :joy: 
+1488999204.000647> @U0B47KC3S: ok tell us !!
+1489002034.000648> @U3PLYAJPJ: <@U38HVMZ6K> Have fun :grimacing:
+1489606078.573042> @U3GHS132Q: Hey ! Nobody can come on jitsi for the embsys meetin ?
+1489606776.923307> @U0AAL4W13: What's happening?
+1489607018.041658> @U3GHS132Q: I am on the jitsi and no there is no one :cry:
+1489607159.111454> @U3J40RUDT: Hey guys, i'm just leaving the lab now, I completely forgot it was Wednesday! 
+1489607209.136852> @U3GHS132Q: <@U3J40RUDT> No problem ^^
+1489607213.138786> @U3J40RUDT: I guess by the time I get home it'll be too late 

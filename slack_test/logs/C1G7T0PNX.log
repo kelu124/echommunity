@@ -674,3 +674,262 @@
 1485390706.000386> @U37GZRZU6: Thanks a lot <@U0B47KC3S> :slightly_smiling_face:  (reactions: @U0B47KC3S)
 1485434742.000405> @U2PFHNN3C: Awesome <@U0B47KC3S> !
 1485447390.000406> @U3WRNP30B: <@U3WRNP30B> has joined the channel
+1485773657.000470> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791341.000471> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485946800.000472> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1485947384.000473> @U0AAL4W13: I have a diner at 8 but will try to stay till 7:30 :) (reactions: @U37GZRZU6)
+1485977260.000483> @U0B47KC3S: hi there here’s the report of the SigProc session !
+1485977260.000484> @U0B47KC3S: <https://docs.google.com/document/d/1kn_oJnskOg4OONO4MK5Ft724OLPkn4NYzj-qJHVMMXo/edit#heading=h.s1gxxl6n2mxl>
+1486038852.000503> @U07UEJC2H: Hey, so yesterday I have solve the jitter problem (the shift of +- one pixel between contiguous line). This was due to non synchronise clock between RedPitaya and Arduino. Now the image are regular.
+1486039194.000504> @U07UEJC2H: <@U07UEJC2H> we have made some test to check if we have linearity between time and distance, hopefully it is true and we find a speed of sound in water about 1450 m.s^{-1}. We also tried to determined the "envelope" of the focal of the transducer, it seems that the amplitude is constance versus distance. But we need calibrated stuff to do proper measurement. If it is truly flat it might means that the transducer is not focalised...
+1486039299.000505> @U07UEJC2H: Not that in the file I put points for 2 cm because when the target move 1 cm, the acoustic echo have 2 cm more to do due to back and forth
+1486042926.000518> @U3QGT3Q74: <@U3QGT3Q74> has joined the channel
+1486067630.000529> @U37GZRZU6: Great Jerome thanks!! Is there a way we could get some images ? :grinning: 
+1486212608.000593> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486237961.000603> @U0AAL4W13: btw, it that helps, some doc on sig/img processing : <http://www.ti.com/lit/wp/sprab12/sprab12.pdf> (reactions: @U37GZRZU6)
+1486479222.000658> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1486549328.000668> @U1PAGSKGU: <@U07UEJC2H>, <@U38TWKY9Y> and <@U1PAGSKGU> meeting today at 1430 for probe tests. (reactions: @U37GZRZU6,@U0B47KC3S)
+1486549379.000670> @U37GZRZU6: great!! :smiley:
+1486551600.000672> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1486570634.000673> @U0AAL4W13: excellent !
+1486570694.000674> @U37GZRZU6: luc: <http://giphy.com/gifs/the-simpsons-excellent-IeLOBZb7ZdQ1G> (reactions: @U0AAL4W13)
+1486574227.000678> @U3QGT3Q74: I'm in for the evening meeting (reactions: @U0B47KC3S)
+1486575787.000680> @U0AAL4W13: slacking from Algiers tonight :) (reactions: @U0B47KC3S,@U38HVMZ6K,@U37GZRZU6)
+1486588123.000684> @U2PFHNN3C: Cool <@U0AAL4W13> where are you exactly :slightly_smiling_face: ?
+1486588388.000685> @U0AAL4W13: Algiers centre, I was at the center for renewable energy today - superb view :) (reactions: @U2PFHNN3C)
+1486588417.000686> @U1PAGSKGU: soobash [11:22 AM]  <@U07UEJC2H>, <@U38TWKY9Y> and <@U1PAGSKGU> did test of rotating probe. Replaced faulty transducer with old one. Tested rotating probe on stationary target in water tank. System can do one image per second. System can show target image even without envelope detection. Bottle neck is digital envelope detection. Need to speed up the enveloppe detection code to reach 15 frame per second to have a real-time system. Discussed the signal processing chain and the need to have an onboard DSP.
+1486588502.000687> @U0AAL4W13: what is the bottleneck for framerate? enveloppe détection?
+1486588566.000688> @U0AAL4W13: it would be interesting to see analog enveloppe detection too - at least compared to dsp
+1486588662.000689> @U0AAL4W13: ie, if the aim is an image (no dialer, pure b-mode) - wouldn't it be possible to do with a cheaper adc + no dsp, vs having a dsp+rapid adc ?
+1486588668.000690> @U0AAL4W13: just challenging ;)
+1486591689.000692> @U1PAGSKGU: It would be interesting to compare the analog v/s digital envelope detection in view of the lightening of the load on the onboard system. Whether the reduction in flexibibility can be offset by the gain in slower (lower cost) ADC  and lower DSP requirement.
+1486645002.000693> @U0AAL4W13: it's easily done :)
+1486645051.000694> @U0AAL4W13: I have a all integrated board which includes input -&gt; tgc -&gt; envelope detection and a "slow adc"
+1486645062.000695> @U0AAL4W13: one can get all the intermediary signals
+1486645231.000696> @U0AAL4W13: see
+1486645233.000697> @U0AAL4W13: <https://kelu124.gitbooks.io/echomods/content/Chapter2/goblin.html>
+1486645598.000698> @U0AAL4W13: <https://raw.githubusercontent.com/kelu124/echomods/master/goblin/images/slide_principle.png>
+1486646859.000700> @U1PAGSKGU: Thanks. I would like to do a calculation of the size of  input/output signals and processing times using the two configurations discussed in the previous message. Back of the envelope calculations only (pun intended).
+1486650230.000701> @U07UEJC2H: <@U1PAGSKGU>, data of the image of screen with raw data and analogic envelope data can be found in <https://github.com/echopen/PRJ-medtec_sigproc>, dataquarium/screen Informations about number of points, lines... are written on the header of each file
+1486650338.000703> @U1PAGSKGU: <@U07UEJC2H>  Thanks
+1486654090.000704> @U0AAL4W13: <@U1PAGSKGU> two points you may be interested in: 1 is using a waveform generator to qualify the processed image: it's easier to quantify the image -- with a well known input form. 2 there's also a discussion about the sampling rate necessary on the adc end with or without the analog detection - we may need to understand what we need in terms of adc in both cases :)
+1486660664.000705> @U0AAL4W13: <@U0AAL4W13>
+1486676611.000706> @U1PAGSKGU: <@U0AAL4W13> Thanks
+1486711323.000707> @U20C8CKTL: hi everybody. the leaderboard is in beta test phase, could you try it please for last improvment before release. <http://37.187.117.106:8888/>
+1486711596.000709> @U20C8CKTL: here is the envelloppe extraction code to submit  : <https://github.com/echopen/PRJ-medtec_sigproc/blob/master/echopen-leaderboard/processor_node/uploaded_custom.py>
+1486711661.000712> @U20C8CKTL: you can submit something else to test, stress it following the model. (reactions: @U0AAL4W13)
+1486711787.000713> @U20C8CKTL: a  job can take sometime to be processed so be patient if you want your rank.
+1486712094.000714> @U37GZRZU6: Yeees thanks <@U20C8CKTL> :smiley: 
+1486712325.000715> @U20C8CKTL: :wink:
+1486716620.000716> @U0B47KC3S: hey, thanks so much <@U20C8CKTL>
+1486716773.000717> @U0B47KC3S: btw <@U42P4AT7Z> you sign in the site to get a taste of the upcoming css homogenisation work :wink:
+1486718524.000718> @U0B47KC3S: here’s the 08.02.17 last meeting report (reactions: @U37GZRZU6)
+1486718524.000719> @U0B47KC3S: <https://docs.google.com/document/d/1kn_oJnskOg4OONO4MK5Ft724OLPkn4NYzj-qJHVMMXo>
+1486725082.000724> @U20C8CKTL: maybe he can work on docker images and deployment too
+1486725138.000725> @U0B47KC3S: ok we ll have a meeting with us both cc <@U42P4AT7Z>
+1486725308.000726> @U20C8CKTL: ya. and i think on more server will be required
+1486725363.000727> @U20C8CKTL: for processing, because process images on the web server will be hazardous
+1486725737.000728> @U0B47KC3S: <@U20C8CKTL> we increased the size of the actual server. We have 15 more Go. Is it not enough ?
+1486726126.000729> @U20C8CKTL: The problem : we need to isolate image processing  from wordpress/django leaderboard . For safety and  Performance consistency. for Safety we can use docker, but for Performance consistency i don't have solution. (reactions: @U0AAL4W13,@U37GZRZU6)
+1486726261.000732> @U0B47KC3S: ah ok I understand the schema you have in mind
+1486727073.000734> @U20C8CKTL: what we can do is to use my 'kimsufi vm', but the load will be to heavy
+1486731124.000735> @U37GZRZU6: <@U20C8CKTL> I'm not sure if the submission is reaaaally long or if it doesn't work... But I uploaded a file 10 minutes ago and still no answer from the server :thinking_face:
+1486731147.000736> @U20C8CKTL: it's broken
+1486731150.000737> @U20C8CKTL: XD
+1486731159.000738> @U37GZRZU6: ah :sweat_smile:
+1486731164.000739> @U20C8CKTL: shame on you hacker (reactions: @U37GZRZU6)
+1486731165.000740> @U20C8CKTL: lol
+1486731204.000742> @U20C8CKTL: did you use the example code ?
+1486731226.000743> @U37GZRZU6: yes ^^
+1486731229.000744> @U20C8CKTL: or did you modify something. i even don't have ssh access
+1486731244.000745> @U37GZRZU6: no i just tried to upload_custom.py
+1486731262.000746> @U20C8CKTL: the response don't excess 30 seconds, most of the time
+1486731267.000747> @U20C8CKTL: ok
+1486731386.000749> @U37GZRZU6: haha I know what happened
+1486731411.000750> @U37GZRZU6: I submitted a former version of uploaded_custom.py
+1486731421.000751> @U20C8CKTL: with numpy ?
+1486731444.000752> @U20C8CKTL: could you send me the code ? (reactions: @U20C8CKTL)
+1486731497.000754> @U37GZRZU6: ```def install_packages():     import pip     pip.main(['install', 'aesop'])  def run():     print('toto')     import io     import os     import sys     import argparse     from skimage import io     from skimage import filter     from skimage import restoration     from skimage import measure      kidney_image = io.imread('manu.jpg')     # estimate the noise in the image     # do a test denosing using a total variation filter     kidney_image_denoised_tv = restoration.denoise_tv_chambolle( kidney_image, weight=0.1)     io.imsave('denoise_image.jpg', kidney_image_denoised_tv)```
+1486731581.000755> @U20C8CKTL: i don't see problem with that. :c, i think ythe problem come from  ovh
+1486731628.000756> @U37GZRZU6: maybe to the fact that the run() function takes no argument in this case?
+1486731726.000758> @U20C8CKTL: this is something with ovh,  hardware, infra ...  because i don't have ssh access, nor access to the website. I sent a ticket to ovh. (reactions: @U37GZRZU6)
+1487156400.000763> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1487156608.000764> @U1PAGSKGU: <@U07UEJC2H>, <@U38TWKY9Y> and <@U1PAGSKGU> to test imaging wit the probe today at Echopen from 1430. (reactions: @U0AAL4W13,@U37GZRZU6,@U0B47KC3S)
+1487156682.000767> @U37GZRZU6: thaaanks <@U07UEJC2H> <@U1PAGSKGU> <@U38TWKY9Y> you rock !! see you tonight !
+1487180336.000769> @U38HVMZ6K: A bit late...
+1487180357.000770> @U38HVMZ6K: We are joining with <@U3PLYAJPJ> in 5 minutes
+1487180430.000771> @U38HVMZ6K: Where are we joining online? Skype, jitsi?
+1487181220.000773> @U38HVMZ6K: est-ce que qqn prend des minutes ?
+1487181921.000774> @U2PFHNN3C: Hello! Any link?
+1487200247.000775> @U0B47KC3S: hi all <@U2PFHNN3C> <@U3GHS132Q> took the report, we are going to share it with you :wink: (reactions: @U2PFHNN3C,@U37GZRZU6)
+1487204098.000776> @U1PAGSKGU: <@U07UEJC2H>, <@U38TWKY9Y> and <@U1PAGSKGU> tested probe setup today for imaging. With analog front-end system able to do lagless imaging of moving screen. Tested sampling rate for detected envelope. Found envelope to be contaminated with high frequency carrier wave. Fine-tuned envelope detector to supprress carrier. This test continues this coming Monday to fine-tune and validate analog envelope detector. (reactions: @U0AAL4W13)
+1487326946.000782> @U2PFHNN3C: Hi All,
+1487327032.000784> @U2PFHNN3C: From last SigProc meeting report, "Tous les calculs (traitement du signal) doivent se faire sur le dispositif. Il faut réduire au possible l'exécution sur le téléphone." So is the strategy changed now? Previously we aimed at making the most of software so remote updates become easy.
+1487327189.000785> @U0AAL4W13: idea: can't you imagine the smartphone doing an upgrade Ota to the probe internal software?
+1487327218.000786> @U2PFHNN3C: ok
+1487327221.000787> @U2PFHNN3C: thanks <@U0AAL4W13>
+1487327285.000788> @U0AAL4W13: (not sure if that was discussed, just an idea like that)
+1487327308.000789> @U2PFHNN3C: ah I thought it was the plan :slightly_smiling_face:
+1487327318.000790> @U38HVMZ6K: processing separation (what's done on the embedded platform and what's done on the smartphone/app) has been a question I asked myself and the team at the very beginning
+1487327340.000791> @U38HVMZ6K: and the answer I got was that most of the processing would be done on the phone...
+1487327352.000792> @U38HVMZ6K: this is then also a question of capability...
+1487327367.000793> @U0AAL4W13: there are two types of processing -  signal and image
+1487327392.000794> @U0AAL4W13: plus a bottleneck to be considered : data speed between phone and probe ;)
+1487327424.000795> @U38HVMZ6K: if we go with a low-end CPU/DSP in the probe then we should defer most of the processing to the phone (taking into account point mentioned right above by <@U0AAL4W13> :slightly_smiling_face: )
+1487327488.000797> @U38HVMZ6K: if we have a powerful CPU on target we can perform most of the processing signal+image on the probe and only send a lightweight video stream for display to the smartphone
+1487327521.000798> @U38HVMZ6K: but this is not the direction taken up to now with the processing in the Android App...
+1487327551.000799> @U38HVMZ6K: &gt; doing an upgrade Ota to the probe internal software? keep in mind that we are on a medical device...
+1487327616.000800> @U38HVMZ6K: software updates OTA or by wire are not seen well by regulators (many device recalls have been induced by software updates not well managed)
+1487327666.000801> @U38HVMZ6K: depending on the changes you apply to the new software you want to download to the probe you may have to go through a lot of testing and potentially new certification! (reactions: @U37GZRZU6,@U0AAL4W13)
+1487327748.000803> @U38HVMZ6K: see <https://fcw.com/articles/2016/08/08/gunter-fda-software.aspx> for example
+1487327827.000806> @U38HVMZ6K: with the official guidance from FDA
+1487327830.000807> @U38HVMZ6K: <http://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM514737.pdf>
+1487327962.000808> @U0AAL4W13: yeah having an update transforming a probe into a sonic screwdriver may not be great for patients ;)
+1487328058.000809> @U38HVMZ6K: sure... but the distinction between "small updates" with no impact and more intrusive updates (subject to approval) is not always easy to establish and justify
+1487328098.000810> @U38HVMZ6K: sometimes small changes have unexpected/unwanted side effects
+1487328126.000811> @U38HVMZ6K: I'm right in this process now on my project and this is a nightmare
+1487328175.000812> @U38HVMZ6K: as a connected device we should roll out frequent updates to keep the device safe
+1487328225.000813> @U38HVMZ6K: but on the other side, it's difficult to be sure that such "small changes" won't have impact on the rest of the system without going through intensive testing
+1487328265.000814> @U38HVMZ6K: timings and concurrency are always points to take into account
+1487328637.000815> @U2PFHNN3C: (BTW, it doesn’t have to be OTA, but just a soft(ware) update)
+1487328701.000816> @U38HVMZ6K: the same applies for OTA, USB, ... updates
+1487328703.000817> @U37GZRZU6: <@U2PFHNN3C> actually as regards the signal processing, we mainly talked about the envelope detection for which we have no choice : it has to be done in the probe, otherwise we won't be able to reach 15frames/sec because of the data transmission speed between the device and the phone. we discussed the idea of performing envelope detection on the phone and compressing the raw signal before sending it to the phone, but <@U3QGT3Q74> made us realize that medical norms may be quite strict as regards compression, so we should avoid compression (or any transformation of the signal that would lead to a deterioration / loss of information). Now, if you're thinking about denoising for example, where we would perform this operation is not clear right now :wink:  <@U38HVMZ6K> very interesting remarks, thanks! Those discussions are very constructive, I think we should find a way to keep a track of this somewhere else (because on slack it will end forgotten :disappointed: ) (reactions: @U0AAL4W13)
+1487328742.000818> @U37GZRZU6: Besides, this points the importance of keeping the medical certification in mind while discussing those kind of technical issues
+1487329045.000820> @U37GZRZU6: ping <@U04DFTZ7D> we should brainstorm about that tonight :wink:
+1487329614.000821> @U07UEJC2H: <@U37GZRZU6>, you have many possible stage of denoising: - an electronic analogical denoising  - a numerical denoising in probe (during 1D signal processing)
+1487329637.000822> @U07UEJC2H: - a numerical denoising in the phone (image processing)
+1487329697.000823> @U07UEJC2H: We have to work in all of them, all can be done for one image, they are not exclusive (reactions: @U37GZRZU6,@U0AAL4W13)
+1487329795.000824> @U2PFHNN3C: Interesting <@U07UEJC2H> ! Can we somehow decompose everything and look more closely on the individual contribution of each part?
+1487329924.000827> @U07UEJC2H: Sure <@U2PFHNN3C>, when you whant (reactions: @U2PFHNN3C)
+1487350351.000828> @U07UEJC2H: <@U1PAGSKGU>, <@U38TWKY9Y>, I don't think I will have time on Monday to play with the envelope detection, must prepare Wednesday meeting
+1487352102.000831> @U1PAGSKGU: <@U07UEJC2H> <@U38TWKY9Y> OK.
+1487355678.000833> @U3GHS132Q: About compression, during a class I met the founder of the CIRA society which develop (with LIP6, UPMC and others) the Waaves compression algorithm. You can find some information here <http://ysitcom.com/page/447/Waaves-Le-codec-concu-pour-l-imagerie-industrielle>  If you want more information or find that this solution is interesting I can get in touch with the founder or someone which work on this at LIP6 (easier solution) (reactions: @U38HVMZ6K,@U0B47KC3S)
+1487355718.000835> @U3GHS132Q: More information here <http://www.systematic-paris-region.org/en/node/24000> and here <http://www.lemondeinformatique.fr/actualites/lire-cira-de-la-compression-d-images-au-bracelet-medical-connecte-58785.html>
+1487356469.000839> @U0B47KC3S: hello <@U1PKXQVDW> should be interesting for you’re doing !
+1487356920.000841> @U38HVMZ6K: <@U3GHS132Q> thanks for sharing! Seems very interesting.
+1487357156.000842> @U38HVMZ6K: For me, just reading through the specs and description... Facts I :heart_eyes: :  "Waaves est conforme aux normes des Dispositifs Médicaux ISO14971 et UTE62304" --&gt; no need to verify, document and mitigate its use in a medical application! It was developed using a process and under a quality system which are compliant with medical devices regulations
+1487357322.000843> @U38HVMZ6K: And also available as hardware IP easily integrated in FPGA or Hybrid-SoC
+1487359122.000844> @U38HVMZ6K: Facts I :triumph: : Proprietary codec (not open source/community friendly) Only viewer is free, SDK and libs come at cost. 
+1487438562.000848> @U37GZRZU6: <@U20C8CKTL> did you fix the leaderboard? I just tried to submit a .py, it looks like the upload is ok but then nothing appears in the leaderboard :disappointed:
+1487438666.000849> @U37GZRZU6: <@U20C8CKTL> btw we should change "Submit your code for image denoising" to "Submit your code for envelope detection" :wink:
+1487504806.000850> @U20C8CKTL: yes i have to change it
+1487609305.000860> @U07UEJC2H: <@U07UEJC2H> and commented: A pool of files with last raw data can be found on PRJ-medtec_sigproc github repo (/dataquarium/raw_hand). We have now interesting images
+1487609317.000861> @U07UEJC2H: <@U07UEJC2H>
+1487708664.000868> @U20C8CKTL: hi, guys, you can investigate C embedded in python with this tutorial : <http://sametmax.com/appeler-du-code-c-depuis-python-avec-ctypes/>. (reactions: @U0AAL4W13)
+1487761200.000881> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1487807470.000882> @U20C8CKTL: hey, the leaderboard description and enhancement issues can be found here : <https://hackpad.com/Unti-fJao8eB2HPJ> feel free to improve the doc (in french) .
+1487808851.000884> @U0B47KC3S: thanks <@U20C8CKTL> :wink:
+1487852854.000885> @U1PAGSKGU: <@U1PAGSKGU> and commented: This is the first of a series of flowcharts where I detail the echograph.
+1487852984.000886> @U1PAGSKGU: This is a buildup to our coming Wednesday meeting where we document the existing system.
+1487931792.000887> @U492PCSE9: <@U492PCSE9> has joined the channel
+1487977500.000888> @U3GHS132Q: <@U38HVMZ6K> about waaves it is not open source :s but I think that I can avoid or reduce the cost if I speak withh one of my prof which worked on this :slightly_smiling_face:
+1488123553.000889> @U37GZRZU6: Nice slides gathering essential measurements for performance assessment of ultrasound imaging systems :wink:  <https://www.aapm.org/meetings/03AM/pdf/9905-9858.pdf> (reactions: @U0B47KC3S,@U38HVMZ6K)
+1488134360.000892> @U38HVMZ6K: For performance and minimum requirements, many criteria are already defined in norms and standards: <https://www.fda.gov/Radiation-EmittingProducts/RadiationEmittingProductsandProcedures/MedicalImaging/ucm115357.htm> contains a huge amount of information for manufacturers, patients, physicians,... (reactions: @U37GZRZU6)
+1488134576.000894> @U38HVMZ6K: <https://www.fda.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/UCM070911.pdf> linked on that page contains detailed information on what should be submitted for pre-market clearance. This covers testing, performance, important figures to document, risks to consider,...
+1488134780.000895> @U38HVMZ6K: By chance, ultrasound probes are now widely available and very precise guidances exist. For some other device kinds, requirements are not so precise and norms and standards need much more interpretation which is not always easy.
+1488222460.000899> @U0AAL4W13: <@U37GZRZU6> I'm challenging your Hilbert approach with the <@U0GMX7QUB>  "track and hold" approach :smiley: <http://37.187.117.106:8888/feeds/48/> .
+1488222481.000900> @U0AAL4W13: Ranked first - beat this :wink:
+1488239420.000902> @U0B47KC3S: <@U0AAL4W13>, tried to go to the link but there is some issue with the web app
+1488273191.000903> @U37GZRZU6: <@U0B47KC3S> I think you have to log in <http://37.187.117.106:8888/> (reactions: @U0B47KC3S)
+1488274559.000904> @U0B47KC3S: <@U37GZRZU6> thanks !
+1488282041.000905> @U20C8CKTL: <@U0AAL4W13>   <@U37GZRZU6> luc, really ? :smile: great !
+1488307472.000909> @U0AAL4W13: A seemingly excellent paper : <http://home.ustc.edu.cn/~zhanghan/cs/Candes%20et%20al.06.pdf> - and my discovery of the "famous" Shepp–Logan phantom. <@U37GZRZU6> : a phantom to add to the test? :wink: (reactions: @U0B47KC3S,@U37GZRZU6)
+1488307536.000910> @U0AAL4W13: ping <@U0B47KC3S> as you are the one studying this type of functions :smiley:
+1488309154.000911> @U0B47KC3S: wouaou in fact radon transform and fourier transform are tigtly bound. my subject of interest is to reconstruct objects from an other type of partial knowledge. Btw, seing the authors, it should be major, candès + tao (infinite erdös number) = אzero  if I can help for the maths part, I am in :grinning: (reactions: @U37GZRZU6)
+1488313152.000915> @U1PAGSKGU: This is now called compressive sensing. Relevant to us as we look into ways to reduce the sampling rate at the front end.
+1488313193.000916> @U1PAGSKGU: It is already being used in MRI imaging (reactions: @U0B47KC3S,@U37GZRZU6)
+1488366000.000921> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1488375680.000922> @U1PAGSKGU: <@U07UEJC2H> <@U38TWKY9Y> <@U1PAGSKGU> testing probe at Echopen today as from 2:30 pm (reactions: @U37GZRZU6,@U20C8CKTL,@U0B47KC3S,@U37GZRZU6,@U37GZRZU6)
+1488383919.000936> @U37GZRZU6: <@U20C8CKTL> I can't log in the leaderboard, is it down ? :sob:
+1488383963.000937> @U20C8CKTL: nan
+1488384021.000938> @U37GZRZU6: When I log in with my usual account, I get :  ```DoesNotExist at /login Site matching query does not exist. Request Method: POST Request URL: <http://37.187.117.106:8888/login> Django Version: 1.9.8 Exception Type: DoesNotExist Exception Value:  Site matching query does not exist. Exception Location: /usr/local/lib/python2.7/dist-packages/django/db/models/query.py in get, line 387 Python Executable: /usr/bin/python Python Version: 2.7.12 Python Path:  ['/root/echopen-leaderboard-1',  '/usr/lib/python2.7',  '/usr/lib/python2.7/plat-x86_64-linux-gnu',  '/usr/lib/python2.7/lib-tk',  '/usr/lib/python2.7/lib-old',  '/usr/lib/python2.7/lib-dynload',  '/usr/local/lib/python2.7/dist-packages',  '/usr/lib/python2.7/dist-packages']```
+1488384061.000939> @U20C8CKTL: this is the debug option, it means, wrong password or something else.
+1488384101.000940> @U20C8CKTL: i guess you try to broke someone else password (reactions: @U37GZRZU6)
+1488384102.000941> @U20C8CKTL: XD
+1488384127.000944> @U37GZRZU6: <@U20C8CKTL> stop calling me a hacker !! (reactions: @U20C8CKTL)
+1488390641.000946> @U0B47KC3S: meeting is begining !
+1488390856.000947> @U1PAGSKGU: <@U1PAGSKGU> and commented: Block diagram of signal transmission in the probe
+1488391010.000948> @U1PAGSKGU: <@U1PAGSKGU> and commented: Block diagram of reception in the probe
+1488391109.000949> @U1PAGSKGU: <@U1PAGSKGU> and commented: Block diagram of envelope detector
+1488391308.000950> @U1PAGSKGU: <@U1PAGSKGU> and commented: Block diagram of image formation
+1488395110.000951> @U0AAL4W13: <@U1PAGSKGU> found some interesting papers on compressive sensing : <http://asa.scitation.org/doi/abs/10.1121/1.4919302?journalCode=jas> by <https://www.researchgate.net/profile/Guillaume_David>
+1488453439.000952> @U37GZRZU6: minutes of yesterday's meeting are available here : <https://docs.google.com/document/d/1kn_oJnskOg4OONO4MK5Ft724OLPkn4NYzj-qJHVMMXo/> <@U1PAGSKGU> <@U20C8CKTL>  <@U3QGT3Q74> <@U0B47KC3S> don't hesitate to modify it :wink:
+1488453440.000953> @U37GZRZU6: <@U37GZRZU6>
+1488453548.000984> @U1PAGSKGU: <@U0AAL4W13> Thanks. Looking to apply compressive sensing to solve the problem of high sampling rate and enveloppe detection at the front end.
+1488453850.000985> @U0AAL4W13: <@U1PAGSKGU> cool! BTW, I'm using a adl5511 for enveloppe détection ( and did some tests with it) which seems to do a log compression -- which enable slower ADCs :) it could be tested as a benchmark / alternative to qualify the advantages of dsp enveloppe detection vs analog one. what do you think?
+1488495502.000996> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488499163.000997> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488557655.000998> @U0AAL4W13: <@U0GMX7QUB>  did you get a chance to check your algo for enveloppe détection - the track and hold?
+1488557689.000999> @U0AAL4W13: and to submit one of your tries ?
+1488563838.001010> @U1PAGSKGU: <@U0AAL4W13> This seems to a board for doing enveloppe detection in the GSM RF ranges. A bit of an overkill, but if it is handy and low-cost then why not. If one can characterise its operation in a notebook, it will be handy to compare with the digital enveloppe detection in term of quality of the image we can get.
+1488564260.001012> @U0AAL4W13: <@U1PAGSKGU> no that expensive - but I'm happy to pay for the reliability. I adjusted it to work at around 3.5MHz  and it seems to work.
+1488564260.001014> @U0AAL4W13: 
+1488564625.001015> @U1PAGSKGU: <@U0AAL4W13>  how to characterise its performance in a python notebook ?
+1488564677.001017> @U0AAL4W13: <@U1PAGSKGU>  id be keen on doing the measurements would you have any tips
+1488564801.001019> @U1PAGSKGU: <@U0AAL4W13> I think a mathematical description of its operation from the litterature should be the starting place to build a python notebook of performance.
+1488567386.001021> @U0AAL4W13: <@U1PAGSKGU> the datasheet should have this
+1488569948.001023> @U0AAL4W13: <@U0AAL4W13>
+1488569964.001024> @U0AAL4W13: <@U1PAGSKGU> here's what the adl5511 does in practice
+1488790017.001025> @U1PAGSKGU: <@U0AAL4W13> It is cool that this card does the enveloppe detection. What kind of image it produces is the question.
+1488799556.001027> @U0AAL4W13: <@U1PAGSKGU> sure - this is the kind :) <https://raw.githubusercontent.com/kelu124/echomods/master/include/20160814/sonde3V_1-4.csv-SC.png> it's tough to quantify as this includes tgc, enveloppe detection and amp
+1488799556.001029> @U0AAL4W13: 
+1488800025.001032> @U0AAL4W13: <@U1PAGSKGU> it would be worth it sending a know signal and record (at v high speed) both input and output to quantify the perfs of the overall board
+1488801475.001034> @U0AAL4W13: will do a modélisation though using the specs
+1488808176.001036> @U0AAL4W13: tricky, the specs just mention envelope detection - not possible to extract a python friendly model 
+1488809933.001038> @U1PAGSKGU: <@U0AAL4W13> maybe if you record the raw data before enveloppe detection and then do an enveloppe detection offline. Compare the offline digital enveloppe detection with the online analog detection. That should be a way to compare and contrast.
+1488810955.001040> @U0AAL4W13: the issue is I don't have the tool to do this :/ anyhow, will try! do you think 10msps at acquisition could be enough ? that's the max I could do :/
+1488810984.001042> @U0AAL4W13: with a long enough acquisition I could also get the transfer function
+1488828858.001044> @U0AAL4W13: <@U1PAGSKGU> managed to try a significant acquisition with the prudaq, the results are here: <https://github.com/kelu124/echomods/tree/master/toadkiller/data/test_enveloppe>
+1488828880.001046> @U0AAL4W13: I can't really do a diff between the two because of the gain which is a bit high between the two signals
+1488830078.001048> @U0AAL4W13: <@U1PAGSKGU> managed to try a significant acquisition with the prudaq, the results are here: <https://github.com/kelu124/echomods/tree/master/toadkiller/data/test_enveloppe> . The diff does not work as there is a significant gain between input and output.  Data file is also available, and the code to show how the signal were images is at <https://github.com/kelu124/echomods/blob/master/toadkiller/data/test_enveloppe/In-Out.ipynb>
+1488836324.001049> @U37GZRZU6: <@U0AAL4W13> what am I looking at? Is this what is achieved with the adl5511?  BTW <@U0AAL4W13> <@U1PAGSKGU> it's a really good idea to challenge analog vs. digital envelope detection :wink: however I think the performances of one or the other depends : 1. on the device that is used for analog envelope detection (so the question is : is this adl5511 supposed to be tested on the echopen kit? if not, I'm not sure we'll get any re-usable information from your tests) 2. on the quality of the raw signal : if it's more or less noisy, the digital/analog envelope detection might not be impacted in the same way --&gt; even if the adl5511 could be used on the echopen kit, I doubt that doing such tests on a raw signal which is out of a different acquisition chain will be informative…  What do you think guys? Question : could we plan that kind of tests with the echopen kit (which by the way has been discussed not a long time ago --&gt; it's one of our next steps actually :wink: )
+1488836982.001050> @U0AAL4W13: <@U37GZRZU6> it's the input of the board (TGC,ADL5511,AOP), not the ADL5511 only. It's definitely usable with the kit - for example plugging the board which hosts the ADL5511 on the same line coming from the transducer :smiley: . BTW, as said, it does not exist to replace a DSP+60Msps ADC, rather to give a benchmark for a analog option, which could  give insights to estimate the complexity vs quality balance.
+1488837003.001051> @U0AAL4W13: so 1. yup, sure.
+1488837064.001052> @U0AAL4W13: 2. Having a "standard" signal on which the different processing solutions can be used can be useful to determine the quality of each processing chain. If you dont' have a repeatable input, it may be difficult to standardize the tests :smiley:
+1488837103.001054> @U0AAL4W13: -&gt; Tests are most doable with the kit (i could leave one board at the HD for example)
+1488882021.001060> @U1PAGSKGU: <@U0AAL4W13> how do i copy this directory to my laptop ? The clone command is not working for this directory
+1488882644.001062> @U07UEJC2H: <@U37GZRZU6>, <@U0AAL4W13>, @ soobash, Hilbert transform don't have to be challenged because Hilbert transform give true envelope (following mathematical definition) so you can't do better (envelope). ADL5511 is an overkill (bandwidth), expensive and can not be solder with our tools. It can be tested to see the performances, but it not match with low cost constraint.
+1488883051.001063> @U0AAL4W13: It's true it's expensive (12$) - still can be used to benchmark. Moreover, with analog envelope detection you may not need high speed adc + dsp, which in turn are also expensive (and tough to program, not to mention solder too!).
+1488883096.001064> @U0AAL4W13: After, it's true the performance of this chip can't beat a very high speed adc + dsp .
+1488883164.001065> @U0AAL4W13: Hey <@U1PAGSKGU> - the bin file, as well as either the python file or the jupyter notebook are sufficient 
+1488883196.001067> @U0AAL4W13: However, if you want to clone this, you may need to clone the full repo (echomods)
+1488883893.001069> @U1PAGSKGU: Thanks.
+1488884364.001071> @U1PAGSKGU: <@U07UEJC2H> It's true the Hilbert Transform in DSP cannot be challenged in term of quality. Can we get a high speed adc + dsp within the same cost constaint ? (reactions: @U0AAL4W13)
+1488889886.001073> @U0AAL4W13: <@U1PAGSKGU> à piece of info: the input signal is at 2mhz since I had no faster dac.
+1488890223.001075> @U0AAL4W13: The capas used on the adl5511 to set it up are adjusted for 3.5MHz - hence the jiggling enveloppe is due to the input frequency that is lower than the target carrier
+1488892544.001077> @U07UEJC2H: <@U0AAL4W13>, don't put words in my mouth, I didn't say that we must not make analogical envelope detection (which can reduce cost), just that adl5511 don't fit with low cost. <@U1PAGSKGU>, we have to search what we can obtain,  image quality is the priority target
+1488897587.001078> @U38HVMZ6K: I'm a bit lost again regarding the direction we want to take... Do we want to develop a medical device or another maker kit ? We need to find some compromises because all the constraints specified for the device cannot all be fullfilled... If 12$ is too expensive and the fact that the chip cannot be easily soldered by a maker is a hard requirement then we should directly forget the idea of building a compact and performant device and build "yet another Ultramark".
+1488897785.001079> @U38HVMZ6K: Putting all requirements I heard about in a very simple and exagerated way we would like: - to do high speed acquisition (50-100MHz) - handle 15 fps - keep costs at the lowest - use only hacker-friendly chips and components - fit everything in a housing which can be held with only one hand
+1488898488.001080> @U0B47KC3S: hi there, sorry <@U38HVMZ6K> it can be quite misleading
+1488898495.001081> @U0B47KC3S: First, the aim of echOpen is to build a medical device, we can stress the fact that it is the core objective of echOpen
+1488898502.001082> @U0B47KC3S: Second, we are working hard with <@U04DFTZ7D> and <@U37GZRZU6> and anybody that wants to join to implement concretely all the decisions that we took in the CapMeth meeting. In about 3 weeks, we will have deployed the main methodologies and global technical config informations, and from next week, we will begin to structure the meetings conformally with these methodologies
+1488898508.001083> @U0B47KC3S: So, for the moment we still have some divergent informations which is quite normal since the working groups don’t already have the right materials to focus on the medical device. Besides, as soon as the methods will be implemented in groups, we'll program a global CapTech to harmonise and fix the main trimestrial objectives, this would be the perfect time for the discussions we have just had in this feed  :wink: !
+1488899645.001084> @U0AAL4W13: Don't forget to include the overall, multi-year plan ;)
+1488900565.001085> @U0B47KC3S: sure, just talking about the very next steps
+1488921540.001086> @U0AAL4W13: Always great to see how the small steps pave the way to the bigger picture ;)
+1488970800.001087> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1488995542.001088> @U2PFHNN3C: Hey guys, to meet or not to meet? That is the question: …
+1488995669.001089> @U20C8CKTL: will be there in 45mn
+1488995993.001090> @U0AAL4W13: In da bus, here in 15 mins
+1489015339.001092> @U0B47KC3S: here’s the report of the <#C1G7T0PNX>
+1489015341.001093> @U0B47KC3S: <@U0B47KC3S>
+1489151033.469784> @U1PAGSKGU: <@U0AAL4W13> 2 Mhz is too low to have a usable signal for the hilbert transform.
+1489152507.701937> @U1PAGSKGU: Assuming you have a 50% bandwidth, that gives 1.75 MHz bandwidth centered on 3.5 MHz. Nyquist abndpass sampling is ta a rate of 3.5 MHz. If you are using 2 MHz sampling you will have aliasing.  If your adc is fied at 2 MHz , one solution would be to reduce your bandwidth further by bandbass filtering to something at or below 1 MHz.
+1489152828.757380> @U0AAL4W13: <@U1PAGSKGU> : well noted! the adc I have is at 10msps when capturing raw signal (the bin file)
+1489152851.760674> @U0AAL4W13: The 2mhz is for the digital to analog tool I'm using, I have no better :/
+1489152874.764406> @U0AAL4W13: Soon the signal recorded is at 10msps (edit: so there should be no aliasing / signal folding)
+1489152910.770384> @U0AAL4W13: I'm acquiring at 2msps only on the post enveloppe detection stage
+1489152920.772202> @U0AAL4W13: Hope that clarifies
+1489153253.828353> @U0AAL4W13: So to come back to hilbert - I'm not doing any, but, knowing the sampling frequency on the binary file, one could possibly try
+1489503396.172130> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1489575600.080760> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1489598967.501480> @U2PFHNN3C: So what time guys?
+1489603861.305920> @U2PFHNN3C: ???
+1489606762.289398> @U0AAL4W13: yup?
+1489609316.134159> @U2PFHNN3C: nothing :slightly_smiling_face: was just waiting for the meeting to start
+1489652679.609967> @U0B47KC3S: 15.03.17 SigProc report <https://docs.google.com/document/d/1kn_oJnskOg4OONO4MK5Ft724OLPkn4NYzj-qJHVMMXo/edit>
+1489652679.610074> @U0B47KC3S: <@U0B47KC3S>
+1489669044.909343> @U4J138ZTL: <@U4J138ZTL> and commented: Found a great article on envelope detection for DSP processing
+1489670307.238424> @U0B47KC3S: <@U4J138ZTL> seems to be nice article, do they provide some code ?
+1489683712.248146> @U4J138ZTL: <@U4J138ZTL> and commented: Et Voilà !
+1489684318.476695> @U4J138ZTL: can you read this ? I can also send python code/jupiter Notebook.

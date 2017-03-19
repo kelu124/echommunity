@@ -249,3 +249,31 @@
 1485456004.000012> @U0AAL4W13: <@U0AAL4W13>
 1485457565.000013> @Hyacinthe: <@U0FN1B8KD>  would you have time? ( I dont;...)
 1485465054.000014> @U0B47KC3S: dear fellows, I am for some days out of France :wink: but I’ll check if I can !
+1485773669.000002> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485791340.000003> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485982861.000002> @U0FN1B8KD: Hi everyone here is our document for preparing the application for funding for the clinical trial on liver, dont hesitate read and give feedback. It is pretty well advanced now.  <https://docs.google.com/document/d/1q3RpUObJeviJijokr_lNJZUEGIUMBDqs_SbTvd8hSSQ/edit>  I was also wondering if for the data analysis we should merge with the data team <@U0B47KC3S> <@U2PFHNN3C>  <@U37GZRZU6>
+1485983417.000004> @U0B47KC3S: thanks <@U0FN1B8KD>, I am going to check and dump my part
+1485985970.000005> @U37GZRZU6: Sure <@U0FN1B8KD> ! What can we do to help ? Do you want us to add some more details/references about the automated diagnosis / organ recognition ? Just tell us :wink: 
+1485986029.000006> @U37GZRZU6: (when is the application deadline?)
+1485986458.000007> @U0FN1B8KD: That could be great ! Not on the abstract but on the detailed version, and especially in the "methods " part. But when do you think the organ recognition would be ready ? I was thinking on the data analysis of the cohort , but if it is ready could be even better !!!
+1485987260.000008> @U37GZRZU6: Well for the organ recognition it depends on lots of factors... First we need a big amount of images to train the models, and also we need to test the performances on the echOpen data... <@U2PFHNN3C> do you have something to say about that? How's the request for data from the AP-HP going?
+1485987992.000009> @U37GZRZU6: For the data analysis I'm not (yet?) an expert at all in medical trials, I can try to enrich that part but I really don't think I'm the best person to handle it...?
+1485989369.000010> @U37GZRZU6: It depends what amount of details you need :wink: 
+1486212619.000002> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486479222.000002> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1487931815.000002> @U492PCSE9: <@U492PCSE9> has joined the channel
+1488499184.000002> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488499184.000003> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1489674084.428801> @U0B47KC3S: hi there ! I am reviewing the whole doc of Mecovir and I have some questions about this paragraph
+1489674085.429111> @U0B47KC3S: “Our primary outcome will be to assess the accuracy of echOpen used by  non-radiologist health professional, for identification of cirrhosis criterias in   chronic viral hepatitis patients clinically diagnosed with cirrhosis. We will assess   sensitivity and specificity for 6 major criterias: liver size and shape, nodular liver   surface, round edge, hypoechoic nodules in liver parenchyma, portal   hypertension signs and ascite. We will use standard ultrasonography as a   reference standard."
+1489674165.458984> @U0B47KC3S: what do you have in mind with measuring sensitivity and specificity for some of these criteria such as nodular liver surface ?
+1489674234.484285> @U0B47KC3S: btw, sensitivity and specificity against what ?
+1489674339.523475> @U0B47KC3S: cc <@U0FN1B8KD> <@U3CDR25JP> <@U3N1SENJY>  <@U3T7KBEMV>
+1489675948.137940> @U3CDR25JP: Assess the detection by echopen of a nodular liver surface (presence or absence) with sonography as reference. For example if for 100 positive sign(nodular liver surface) detected with sonography echopen detect 90 we would say echopen has 90% sensitivity 
+1489676355.296903> @U3CDR25JP: The idea was to assess how useful can be echopen in the diagnoses of cirrhosis which is a more prevalent and important health problem than hcc. So I think it is a good start for echopen. These criterias are some of the most important for sonography of cirrhosis. But the final choices of which should be choosen for the study depends on the final quality of echopen and should be ask to one of our radiologist I guess 
+1489676393.312630> @U3CDR25JP: (final choices of criterias) 
+1489683020.907516> @U0B47KC3S: <@U3CDR25JP>  ok you test against a regular sonography. but then, what do you mean by measuring sensitivity for the size ? btw, it is not a major issue, but we should distinguish outcome and judgment criteria
+1489684042.296107> @U3CDR25JP: <@U0B47KC3S> haven't really thought about it, my guess would be to define two/three categories, normal and large size, so you can say echopen has 90% sensitivity for detecting large size liver, but I don't know if it is clinically relevant, another way would be to have a error measure of the size.. but there is probably a large amount of variability between sonography... it would make the comparison diffucult, and is it clinically relevant to know that echopen measures liver with a 0.1 or .01 precision I don't know, maybe it is just simpler to say echopen detects big liver, it is a good sign for cirrhosis and thats all
+1489938879.439965> @U0FN1B8KD: What i learnt this week in my medecine courses is that echography is THE gold standard to study biles conducts
+1489938897.440933> @U0FN1B8KD: I dont know if it helps
+1489940937.564848> @U0B47KC3S: <@U0FN1B8KD> sure ! but it still not validated for echo-stéthoscopie #murphysign

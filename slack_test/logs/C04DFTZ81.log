@@ -349,3 +349,293 @@
 1485454220.000291> @U0FN1B8KD: Open source Art ! <http://www.mauriceartist.com/gallery>
 1485465160.000294> @U0B47KC3S: <@U0FN1B8KD> crypto-kaleidoscopic :wink:
 1485465474.000295> @U0B47KC3S: yep if we can build an algorithm to prevent biopsy, it would be damned amazing, as  much for liver cancer than for other types
+1485510992.000297> @U0B47KC3S: <@U2PFHNN3C> after IA retinopathy diagnosis outperforming human, here’s a team of stanford reporting that
+1485510997.000298> @U0B47KC3S: “Deep learning algorithm does as well as dermatologists in identifying skin cancer” <http://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/>
+1485510999.000300> @U0B47KC3S: hope we’ll jump quick on these matters !
+1485511414.000301> @U2PFHNN3C: benchoufi: I think all of these are “low hanging fruits” that are only waiting to be picked. We have now powerful models and if we have the right data, we can make interesting advances. I think it can find its way to Nature if it’s conducted with the right protocol. Speaking of protocol, I tend not to _believe_ these human-machine comparisons -especially when they favor machines- as long as I don’t have a clear view on what metric they use for the comparison and how they measured the human performance.
+1485511414.000303> @U2PFHNN3C:  (reactions: @U37GZRZU6,@U37GZRZU6,@U37GZRZU6)
+1485511631.000306> @U2PFHNN3C: Four ingredients for these kind of projects ^_^: - data… - undergrad students to treat the data - their supervisors to treat the undergrads - medical practitioners to treat the supervisors
+1485511851.000308> @U38HVMZ6K: and 5th: - mediator to treat medical practitioners with divergent opinions... :joy: (reactions: @U2PFHNN3C,@U37GZRZU6)
+1485514017.000309> @U37GZRZU6: <@U2PFHNN3C> call me if you want to find your way to Nature :sunglasses:
+1485514057.000311> @U0B47KC3S: sure <@U2PFHNN3C> on the retinopathy side I read the JAMA article, it seems to me strong and consistent. btw, we should discuss to request data from APHP, I had a discussion with the data lake team, they are waiting request :wink: !
+1485718449.000312> @U2PFHNN3C: &lt;battle zik du dimanche&gt; <https://www.youtube.com/watch?v=bK2XRcVUc5o>
+1485718559.000315> @U2PFHNN3C: ça chauffe bien à ~ 2”40 (reactions: @U37GZRZU6)
+1485767322.000316> @U0B47KC3S: thanks <@U2PFHNN3C> I have just come back from slovenia so I react a little late. Is it wooten on the bass ? on my side, let’s begin smooth this week with one of the major jazz group of last decades #EST #BalticJazz #sweeden <https://www.youtube.com/watch?v=__CgYU8eNoM> (reactions: @U37GZRZU6)
+1485767324.000318> @U0B47KC3S: and if you like it you can also get all  the amazing concert live in stockholm, but I don’t know where :wink:
+1485767628.000319> @U2PFHNN3C: <@U0B47KC3S> Thanks :slightly_smiling_face: I’ll give it a try! (yes it’s Wooten)
+1485769473.000320> @U3Y2FPGBV: <@U3Y2FPGBV> has joined the channel
+1485772316.000321> @U37GZRZU6: <@U2PFHNN3C> <@U0B47KC3S> my turn :grinning: beginning the week with something positive and groovy! Herbie :heart_eyes: <https://www.youtube.com/watch?v=tK_3tO-NKpQ>
+1485773362.000323> @U0B47KC3S: sweet :wink:
+1485784224.000324> @U0B47KC3S: [:mega: European Bioethics Forum] for those interested in transhumanism ethics issues "Will the future still need us? Human or post-human?" here’s a one week #live event <http://www.forumeuropeendebioethique.eu/> cc <@U33817K25>
+1485791340.000327> @U3XHSAQHE: <@U3XHSAQHE> has joined the channel
+1485811668.000328> @U0AAL4W13: Still on the topic of ultrasound beacons <@U38HVMZ6K> was mentioning, found some interesting project on github -&gt; <http://qraider.com/XT/FAQ/#0>
+1485819794.000329> @U33817K25: too bad I can't be in Strasbourg these days <@U0B47KC3S>
+1485875718.000330> @U3Y501Y8G: <@U3Y501Y8G> has joined the channel
+1485958883.000331> @U0B47KC3S: interesting, programming networks #SDN, software-defined networking <https://www.technologyreview.com/s/602793/enabling-the-digital-revolution-sdn-and-beyond/?utm_source=scw>
+1486015612.000334> @U3ZUEAS4C: <@U3ZUEAS4C> has joined the channel
+1486096430.000335> @U414R564X: <@U414R564X> has joined the channel
+1486108808.000336> @U40CZDKPD: <@U40CZDKPD> has joined the channel
+1486184276.000337> @U41049CQ2: <@U41049CQ2> has joined the channel
+1486373630.000338> @U0B47KC3S: business as usual but interesting <http://makestorming.com/> <@U04DFTZ7D> you should take a look at it :wink: (reactions: @U04DFTZ7D,@U38HVMZ6K)
+1486389356.000340> @U2PFHNN3C: <https://www.quantamagazine.org/20170202-math-and-the-best-life-francis-su-interview/>
+1486391049.000342> @U0B47KC3S: nice ! love it :wink: I used to tell every new echOpen incomers with a math background to solve as a starter `a^2+b^2=c^2` in integers, which the only case of fermat conjecture/theorem failing. If anyone interested, I have bunch of diophantine equations on the shell, fun without much theory :wink:
+1486393938.000343> @U2PFHNN3C: Funny, I was talking about the Fermat’s Last Theorem one hour ago with a colleague :slightly_smiling_face:
+1486393962.000344> @U2PFHNN3C: (probably some interference somewhere in the ideosphere) (reactions: @U0B47KC3S)
+1486394151.000345> @U0B47KC3S: #haha here’s a cool documentary about the history of the proof of Andrew Wiles, who for the record did not receive the fields medal because he overpassed, at the date of the proof, by one year the age of 40 which is the limit to earn the fields medal <http://www.dailymotion.com/video/x1btavd_fermat-s-last-theorum_shortfilms>
+1486394536.000347> @U37GZRZU6: <@U0B47KC3S> thanks, I just spent 40minutes on your equation, then felt really dumb, then I remembered how dirty was my method of solving those kind of math problems... #trustmeimaphysicist :hankey: (reactions: @U0B47KC3S)
+1486394622.000348> @U38HVMZ6K: <@U37GZRZU6>, don't be desperate. I'm in the same boat as you :wink: didn't even try to solve it. My maths are for years in the dust (reactions: @U37GZRZU6)
+1486395002.000349> @U37GZRZU6: <@U0B47KC3S> I gave up with : a=3n, b=4n, c=5n with n integer, do I deserve the Field medal?? :joy:
+1486396518.000350> @U0B47KC3S: nice shot <@U37GZRZU6>
+1486396543.000351> @U0B47KC3S: you proved at least that there are an infinite triplets of solutions
+1486396562.000352> @U0B47KC3S: but it does not exhaust all the solutions
+1486396589.000353> @U0B47KC3S: for example if I am not wrong 5,12,13 should do the trick
+1486397070.000354> @U0AAL4W13: 7 24 25, 9 40 41, 11 60 61, ... :)
+1486397168.000355> @U37GZRZU6: <@U0B47KC3S> I appreciate the fact that you're trying hard to see a "nice shot" in my ridiculous attempt :upside_down_face: is there only a way to write a generalization of all the possible solutions? won't be able to sleep tonight ^^
+1486397637.000356> @U0AAL4W13: you can have pairs for all odd numbers, triplet completed by two consecutive numbers (reactions: @U37GZRZU6)
+1486399767.000357> @U0B47KC3S: yes, there is a way to exhaust all solutions :wink:
+1486400151.000358> @U0B47KC3S: try to rewrite the formula, play with it, check divisibility concerns (reactions: @U37GZRZU6)
+1486473105.000359> @U41ATL4EM: <@U41ATL4EM> has joined the channel
+1486473419.000360> @U421EN2RG: <@U421EN2RG> has joined the channel
+1486474421.000361> @U424835JR: <@U424835JR> has joined the channel
+1486474725.000362> @U41AB163S: <@U41AB163S> has joined the channel
+1486474764.000363> @U41B4HNU9: <@U41B4HNU9> has joined the channel
+1486479222.000364> @U42P4AT7Z: <@U42P4AT7Z> has joined the channel
+1486493324.000365> @U0B47KC3S: [:nerd_face: ] how to choose an open source licence
+1486493324.000366> @U0B47KC3S: <https://choosealicense.com/>
+1486493679.000368> @U0AAL4W13: to follow-up on this, a good faq :   <http://contributoragreements.org/faq/> :)
+1486720994.000370> @U37GZRZU6: aaaaand iiiiit's friiidayyyyy !  <https://www.youtube.com/watch?v=LvDWBVxeBPk> (reactions: @U2PFHNN3C,@U04DFTZ7D)
+1486721003.000372> @U37GZRZU6: <http://giphy.com/gifs/dancing-rabbit-NhSfSvTbmNJzq>
+1486721760.000374> @U0B47KC3S: #tutu masterman !! loveit ;)))
+1486721779.000375> @U0B47KC3S: <@U04DFTZ7D> could you send the pics you with the man
+1486721818.000376> @U0B47KC3S: <@U37GZRZU6> to complete, do you know this overfunky version of beatles come together
+1486721819.000377> @U0B47KC3S: <https://www.youtube.com/watch?v=U6YaBuzXfI8> (reactions: @U2PFHNN3C)
+1486722282.000382> @U2PFHNN3C: I can’t just stand here and not answer!  <https://www.youtube.com/watch?v=iyv9r9L0L2w>
+1486722391.000384> @U37GZRZU6: <@U0B47KC3S> nooo didn't know that version of come together, it's amaziiing love it !!! thanks :heart_eyes:
+1486722410.000385> @U2PFHNN3C: and the ultimate jazzy funky groovy deep musical production with amazing lyrics and meaning......
+1486722413.000386> @U2PFHNN3C: <https://www.youtube.com/watch?v=BpOYdzSayE0> !!!!
+1486722440.000388> @U37GZRZU6: <@U2PFHNN3C> get out and never come back... :pensive:
+1486722539.000389> @U0B47KC3S: don’t say in that <@U37GZRZU6>, consider it is a time when <@U2PFHNN3C> was in love with filip :wink: (reactions: @U37GZRZU6)
+1486722663.000392> @U2PFHNN3C: <@U0B47KC3S> what!????? Why do you speak in the past tense?? (reactions: @U0B47KC3S,@U37GZRZU6)
+1486722762.000393> @U0B47KC3S: djabbz: thanks I knew about that, ritenour is one of the most delicate guitarist. perfect synthesis from traditional jazz guitar pionner aka the one and only wes and also joe pass, jim hall to fusion
+1486722832.000397> @U04DFTZ7D: One of my favorite !! Enjoy... <https://www.youtube.com/watch?v=_zfJuezN_xA> (reactions: @U37GZRZU6)
+1486722848.000399> @U2PFHNN3C: (BTW, I didn’t know their names… thanks <@U0B47KC3S> you’re the best fan I know!)
+1486722911.000400> @U2PFHNN3C: one of my favorite guitar players
+1486723154.000402> @U0B47KC3S: <@U2PFHNN3C> sure I assume, they were a great source of scientific inspiration for me, physicists should be aware the cosmic void was obtained in 1998, time of recording, pionnering by 10 years the work of CERN LHC (reactions: @U37GZRZU6,@U2PFHNN3C)
+1486723210.000403> @U04DFTZ7D: <@U04DFTZ7D>, this one ?
+1486723361.000407> @U0B47KC3S: excellent
+1486723587.000408> @U37GZRZU6: ok guys... with <@U0B47KC3S> talking about poetry with Prince, <@U04DFTZ7D> taking pictures with Marcus, and <@U2PFHNN3C> being intimate with Filip (:joy:) ... I think my life is tasteless :sob: (reactions: @U0B47KC3S)
+1486723664.000409> @U37GZRZU6: Does the episode in my life when I made Kool Shen eat some plastic count... ? :joy:
+1486723704.000411> @U04DFTZ7D: Sure
+1486724078.000413> @U37GZRZU6: <@U04DFTZ7D> thanks I'm feeling better now... :sweat: :joy:
+1486724095.000414> @U04DFTZ7D: :wink:
+1486724104.000415> @U04DFTZ7D: great !! you're welcome
+1486724886.000418> @U2PFHNN3C: I thought it was a cognitive experiment no? Like putting two brains in three bodies… or was it two neurons…
+1486724952.000419> @U37GZRZU6: djabbz: :joy: :joy: :joy: I'm laughing alone in front of my laptop at work, thanks (reactions: @U2PFHNN3C)
+1486725094.000422> @U0B47KC3S: so now here’s something going to the roots of traditional jazz. James Carter is perhaps the most important sax of the last 30 years <https://www.youtube.com/watch?v=BI6KEeiMakw&amp;t=1182s>
+1486725097.000424> @U0B47KC3S: in the following, his partner in crime, Gerard Gibbs, the best hammon organ best musician in the world. I am not a heavy fan of classic jazz, but brought to that level, nothing to say. So smooth, so classy, twisted <https://www.youtube.com/watch?v=82_3TYImdY8> (reactions: @U37GZRZU6)
+1486725659.000427> @U37GZRZU6: <@U0B47KC3S> the organ solo is crazy :upside_down_face:
+1486725798.000428> @U0B47KC3S: so crazy
+1486726289.000429> @U0B47KC3S: <@U37GZRZU6> I found the next part;) <https://www.youtube.com/watch?v=PZyY_2y6Vcg> (reactions: @U37GZRZU6)
+1486728531.000432> @U2PFHNN3C: Stop slacking off and go to work!!!!
+1486728541.000433> @U2PFHNN3C: :runner: :runner: :runner: :runner:
+1486730131.000434> @U37GZRZU6: <@U2PFHNN3C>  1. friday, it's friiidaaay :smile: 2. don't yell at us during lunch time! 3. it's not my fault, it's <@U0B47KC3S> :innocent:
+1487061377.000002> @U0B47KC3S: for #privacy chilly people :wink: <https://keybase.io/>
+1487061462.000004> @U38HVMZ6K: great :+1::skin-tone-2:
+1487062318.000005> @U38HVMZ6K: there is finally a good trend toward privacy and efforts are made to have cryptographically secure communication systems which are not only usable by geeks and technology enthusiasts
+1487062393.000006> @U38HVMZ6K: I once had to use PGP for all email communication with a customer
+1487062795.000007> @U38HVMZ6K: was quite easy on my side (Linux) but already needed some geek skills but on our customer site (Windows with Exchange+Outlook) it was just a nightmare
+1487062915.000008> @U0B47KC3S: yeah right, google announced some times ago that they would develop a chrome extension for the gmail encryption in a friendly way. But since then, I had no news of this project !
+1487064714.000009> @U38HVMZ6K: <https://protonmail.com/>
+1487064734.000011> @U38HVMZ6K: developed at CERN and MIT encrypted end-to-end
+1487064766.000012> @U38HVMZ6K: but has not the marketing force and budget to promote as gmail... (reactions: @U0B47KC3S)
+1487066069.000013> @U04DFTZ7D: Indeed I actually use it for months ;) and it's a great tool ;)
+1487066218.000014> @U04DFTZ7D: And signal (suggested by <@U2PFHNN3C>) Is the equivalent for SMS ;)  (reactions: @U0B47KC3S)
+1487067149.000019> @U2PFHNN3C: I don’t like solutions like Protonmail where the JS is running on the frontend . It doesn’t protect you from a MITM attack, like code injection etc.
+1487067165.000020> @U2PFHNN3C: Nothing’s like GPG. Everything is local.
+1487071306.000021> @U0B47KC3S: <@U2PFHNN3C> Munich needs you :muscle:
+1487071311.000022> @U0B47KC3S: the city wo pionneered the open source migration of all its admisnitration tools is about to go back to Windows :rage: (reactions: @U37GZRZU6,@U2PFHNN3C)
+1487071318.000023> @U0B47KC3S: though, arguments of compatibility are invoked, and this illustrates the importance of these movement being endorsed globally and not simply by a forefront city <http://www.zdnet.fr/actualites/munich-vers-un-retour-du-parc-linux-sous-windows-39848464.htm>
+1487071347.000026> @U0B47KC3S: estonia is a great example of those kind of global systemic shift towards #OpenSource
+1487072000.000029> @U2PFHNN3C: for more reading :wink: this nice HN thread <https://news.ycombinator.com/item?id=6986510>
+1487072000.000031> @U2PFHNN3C: 
+1487078612.000032> @U20C8CKTL: "Cette recommandation est sans surprise, car elle suit les conclusions d’une étude commandée par la mairie en 2016 par Accenture ".... heuheum pas très catholique, ça sent les pots de vins. (reactions: @U0B47KC3S,@U3GHS132Q)
+1487078725.000034> @U20C8CKTL: Cette orientation ne satisfait pas la Free Software Foundation Europe. Mathias Kirschner, son président, a expliqué à nos confrères de ZDnet que « le maire est depuis le début contre le logiciel libre ». Et d’ajouter : « Quand il a été élu, il était fier d’avoir réussi à ce que Microsoft déménage son siège à Munich et il a fait réaliser une étude par Accenture, un partenaire de Microsoft. ====&gt; <http://www.zdnet.fr/actualites/munich-vers-un-retour-du-parc-linux-sous-windows-39848464.htm>
+1487079184.000036> @U38HVMZ6K: tant qu'ils ne se présentent pas à la présidence, les vraies raisons resteront cachées 1000 pieds sous terre...
+1487081171.000038> @U0B47KC3S: hey I was looking for an information I got some months ago, regarding the fact that putin shifts its administration to open source ¿?¿?
+1487081174.000039> @U0B47KC3S: and so I find this nice page: <https://en.wikipedia.org/wiki/List_of_Linux_adopters>
+1487106841.000041> @U38HVMZ6K: Don't know if this was already shared here... "OpenAPS is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS) " <https://openaps.org> (reactions: @U0B47KC3S)
+1487107553.000042> @U0B47KC3S: ! sounds very interesting cc <@U04DFTZ7D> <@U352MKG4V> <@U32V2JWFJ> <@U3GV4N878>
+1487270962.000044> @U2PFHNN3C: <http://www.dddmag.com/news/2017/02/neural-network-learns-select-potential-anticancer-drugs> (reactions: @U04DFTZ7D)
+1487270980.000045> @U2PFHNN3C: <http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&amp;page=article&amp;op=view&amp;path[]=14073&amp;path[]=44886>
+1487332745.000048> @U0B47KC3S: wait till cory henry takes the lead on this new aged #Jazzz Big Band
+1487332746.000049> @U0B47KC3S: <https://www.youtube.com/watch?v=L_XJ_s5IsQc> (reactions: @U37GZRZU6)
+1487345753.000052> @U37GZRZU6: <@U0B47KC3S> to counterbalance, something more mainstream but nevertheless groovy : <https://www.youtube.com/watch?v=NOgbFrj8JNg>
+1487345877.000054> @U37GZRZU6: Too bad there's a bit too much reverb, but this guy's voice is quite surprising :nerd_face:
+1487346281.000055> @U0B47KC3S: thanks <@U37GZRZU6> yes I know this guy, I missed him when he was in Paris some years in Paris. He is excellent !!
+1487346395.000056> @U0B47KC3S: let’s discover the stratospheric Michel Portal in his, I believe, best album <http://www.deezer.com/track/2444654> I didn’t find any simple way available version of this. So you have to register to deezer to hear it fully.
+1487346467.000058> @U37GZRZU6: benchoufi: <http://giphy.com/gifs/the-simpsons-excellent-mr-burns-8fen5LSZcHQ5O>
+1487347392.000061> @U37GZRZU6: amazingly amazing !! over-ouf !! love it :heart_eyes:
+1487526953.000062> @U0AAL4W13: <https://translate.google.com/translate?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=http://jp.gamesindustry.biz/article/1702/17021801/> :smiley:
+1487526963.000063> @U0AAL4W13: what about a client on a gameboy? :wink:
+1487591686.000064> @U0AAL4W13: another link from médecine libre :  <https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/>
+1487591699.000065> @U0B47KC3S: free software world meeting -&gt; international event in Saint-Etienne in 01-07 july 2017 <https://2017.rmll.info/> cc <@U3GHS132Q>
+1487602083.000066> @U0AAL4W13: from aral, a flippy and true sentence: "Facebook’s business is to simulate you and to own and control your simulation, thereby owning and controlling you."
+1487633093.000067> @U37GZRZU6: <@U37GZRZU6> and commented: Geo-location of echOpen members : France is already invaded and spreading across Europe has begun! Another hot spot : San Francisco  We should enrole some Greenlanders just for the beauty of the map :slightly_smiling_face:
+1487633303.000068> @U0B47KC3S: enormous ! love that ;)))
+1487633381.000069> @U0B47KC3S: <@U37GZRZU6> we’ll try to convince ignacio to join here and begin the conquista of south america (reactions: @U37GZRZU6)
+1487633576.000072> @U37GZRZU6: he'll be our stem cell there... perfect plan :wink:
+1487666981.000073> @U0B47KC3S: cells as chips :nerd_face: #BioComputer #Hybridation #MIT <http://news.mit.edu/2016/biological-circuit-cells-remember-respond-stimuli-0721>
+1487676296.000075> @U20C8CKTL: <http://www.ozy.com/acumen/whats-poisoning-martiniques-men/63264> (reactions: @U0B47KC3S,@U37GZRZU6)
+1487785883.000081> @U492PCSE9: <@U492PCSE9> has joined the channel
+1487858610.000082> @U0AAL4W13: interesting read at <https://medium.com/@sitapati/the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50#.q70h0y502>
+1487931019.000087> @U0B47KC3S: hum is it friday ? let’s explore new borders,  -&gt; check this out <https://soundcloud.com/dtcrecordsfusion3/nhx-live-05-75-ex-the-tritone-suitepreview> (reactions: @U37GZRZU6)
+1487931027.000089> @U0B47KC3S: this was recorded live in the middle of (k)nowhere in france - and for the full song go to spotify
+1487932359.000090> @U37GZRZU6: <http://giphy.com/gifs/mad-bring-it-you-are-crazy-ftw0GLSRDWZxe> (reactions: @U0B47KC3S)
+1487934117.000094> @U37GZRZU6: <@U0B47KC3S> listening to the whole album - in any track the bass line is completely nuts !! I'm losing my head right now :upside_down_face: (reactions: @U0B47KC3S,@U0AAL4W13)
+1487950850.000097> @U0B47KC3S: <https://www.youtube.com/watch?v=vcUElVBwo2k> I don’t know where my precedent post is, it was ccied to <@U2PFHNN3C> - sylvain luc is a great influential untypical jazz guitarist (reactions: @U37GZRZU6)
+1487969677.000100> @U20C8CKTL: Il faut vraiment que vous regardiez cette serie ! <http://www.ecranlarge.com/series/dossier/962463-halt-and-catch-fire-cette-fabuleuse-serie-qui-passe-inapercue> give it a try ! (reactions: @U0B47KC3S,@U37GZRZU6)
+1487975259.000105> @U0B47KC3S: well, will do :wink:
+1487987058.000112> @U37GZRZU6: <@U20C8CKTL> yes ;) dans un autre genre j'espère que vous connaissez black mirror ! Cc <@U0B47KC3S> (Ne regardez surtout pas l'episode 1 de la saison en premier... Il est hum... Très surprenant :sweat_smile: )
+1487987591.000113> @U0B47KC3S: great seems to be good screencasts for the we :wink: (reactions: @U37GZRZU6)
+1487987834.000115> @U37GZRZU6: And in another kind... Did you guys watch Utopia? To me the image, soundtrack and directing are genius (at least for season 1) I let the opening scene here ;) <https://youtu.be/01VGtX9xfh0>
+1488008831.000119> @U20C8CKTL: soundtrack seems to be an important part of this. and this rabbit is sooo. haha :slightly_smiling_face: (reactions: @U37GZRZU6)
+1488009113.000120> @U0AAL4W13: <@U37GZRZU6> I'm quite a fan of black mirror :) I would just have liked more episodes of junipero for example, for the positive aspects - rather than the one with the cake delivery guy :/
+1488009295.000121> @U37GZRZU6: <@U0AAL4W13> I haven't finished season 3 yet ! You're citing the two only episodes I don't know... Have to watch these ones !
+1488205162.000123> @U37GZRZU6: let's break the rules - Monday release :smiley: <https://www.youtube.com/watch?v=pXQlKO4Vc9o> (reactions: @U0B47KC3S)
+1488212610.000125> @U0B47KC3S: usually I am not fan of metheny, but there he is excellent !!   #aerial #ethereal btw, for the short story, as far I can remember, he began to learn music very late, almost 18 years old
+1488227582.000127> @U0AAL4W13: 3310 is back <https://arstechnica.com/gadgets/2017/02/nokia-3310-hands-on-its-hard-not-to-like-this-modern-take-on-the-feature-phone/> :smiley:
+1488275131.000129> @U0AAL4W13: couldn't resist : Rpi0 Bluetooth and Wi-Fi enabled, faster cpu, less than 10£ .. had to get one <https://thepihut.com/products/raspberry-pi-zero-w?utm_source=The+Pi+Hut+-+Newsletter&amp;utm_campaign=24ad1502f2-The_Pi_Hut_Newsletter_Zero&amp;utm_medium=email&amp;utm_term=0_a4028431b8-24ad1502f2-77351729&amp;mc_cid=24ad1502f2&amp;mc_eid=0075648acc&amp;variant=30332705425> ping <@U38HVMZ6K> <@U0GMX7QUB>  ;)
+1488276368.000131> @U38HVMZ6K: Thanx! I want one (or more...) :+1::skin-tone-2: 
+1488276400.000132> @U0AAL4W13: it's really a neat gizmo
+1488301225.000133> @U20C8CKTL: during my sparse time at work i used to read some blogs such this one, which i really like : <http://french.joelonsoftware.com/Articles/LeakyAbstractions.html>, i prefer the english version  which is more exhaustive. Joel Spolsky is computer scientist and funder of "trello" , and "stack overflow". (reactions: @U0B47KC3S,@U38HVMZ6K)
+1488301700.000136> @U0GMX7QUB: luc: Nokia 3310 : le nouveau facteur de forme de la sonde echOpen v2 avec écran intégré.
+1488301700.000138> @U0GMX7QUB: 
+1488301742.000139> @U0AAL4W13: :)
+1488309447.000143> @U38HVMZ6K: hackolite: I'm also a big fan of Joel Spolsky. He is also the founder of FogCreek, a company developing nice tools. We used FogBugz as issue/bug tracker, project tasks and scheduling and customer support. <https://www.fogcreek.com/fogbugz/>
+1488310099.000146> @U20C8CKTL: aah, nice ! :slightly_smiling_face:
+1488319090.000148> @U0FN1B8KD: mieux que mon nokia je pense :slightly_smiling_face:
+1488347086.000150> @U38HVMZ6K: Still from Joel Spolsky (thx <@U20C8CKTL>  for driving me back to his articles :wink: ) <https://www.joelonsoftware.com/2016/12/09/developers-side-projects/>
+1488347241.000152> @U38HVMZ6K: We better live in Europe than in the US otherwise echOpen would be copyrighted by all our respective employers :open_mouth: ping <@U0AAL4W13> who is much interested in these topics
+1488353482.000153> @U0AAL4W13: Hehe :) I'm working for a UK group and I've been discussing this on my contract as well - even if I'm not doing code for them! what is interesting is also the universal right that, by default (ie unless you sign something similar to a copyright assignement) even freelancers own the work they do for you :)
+1488353642.000154> @U0AAL4W13: As it's well described,  that can be a double edged sword 
+1488360129.000155> @U20C8CKTL: "Anything you do on your own time, with your own equipment, that is not related to your employer’s line of work is yours, even if the contract you signed says otherwise." .....be carefull ,  with your own equipment .... make me think bout the silicon valley TV series where the guy lose his company because of coding his core algo on "hooly" laptop. :smile:
+1488374273.000160> @U20C8CKTL: A huge algo implementation database : <http://rosettacode.org>
+1488382963.000161> @U38HVMZ6K: A good free book on Graph Databases: <https://neo4j.com/book-graph-databases/> ping <@U37GZRZU6> :wink: 
+1488383562.000163> @U37GZRZU6: <@U38HVMZ6K> yes I know this one :wink: also, my boss wrote a book that focuses on the use of neo4j in practice. I have it in pdf, just tell me if you want it ! <http://www.eyrolles.com/Informatique/Livre/bases-de-donnees-orientees-graphes-avec-neo4j-9782212138047>
+1488389035.000165> @U2PFHNN3C: My take on Friday’s battle… a bit late   <https://www.youtube.com/watch?v=_eXO7hrq2AY&amp;t=800s>
+1488389112.000167> @U2PFHNN3C: and one of my favorite pieces… stolen moments: <https://www.youtube.com/watch?v=azqgYTN22Lg>
+1488389295.000169> @U0B47KC3S: I loooove Georges !!
+1488390738.000170> @U2PFHNN3C: I agree, he’s genius. The live is excellent too. (reactions: @U0B47KC3S,@U37GZRZU6)
+1488395160.000172> @U0AAL4W13: <https://www.fastcompany.com/3068392/innovation-agents/why-former-tech-execs-are-leaving-google-and-twitter-to-start-health-care-> :smiley:
+1488397021.000174> @U4CAG5ZFW: <@U4CAG5ZFW> has joined the channel
+1488411148.000175> @U3GHS132Q: <@U0B47KC3S> Call for contributions for the RMLL are opened : <https://linuxfr.org/news/rmll-2017-l-appel-a-contributions-est-ouvert> :slightly_smiling_face:
+1488411188.000177> @U0B47KC3S: ok thank you <@U3GHS132Q> :wink: I am going to look at it closely
+1488411401.000178> @U3GHS132Q: You are welcome (both sens of the word lol) :slightly_smiling_face: (reactions: @U0B47KC3S)
+1488458053.000180> @U20C8CKTL: If your dream is to create a mobile ui  on android without coding and very fast take a look at qtcreator for mobile app. <http://doc.qt.io/qt-5/qtexamplesandtutorials.html> :smile:
+1488458136.000181> @U20C8CKTL: and his ecosystem for example : <http://doc.qt.io/qt-5/graphicsview.html> . you can try the pyqt python version and it's very very cool when you need to build a prototype for your customer from scratch very fast. wysiswyg.
+1488464384.000189> @U37GZRZU6: "On the origin of deep learning" : <https://arxiv.org/pdf/1702.07800.pdf> didn't read it in details yet, but seems quite a complete review + very instructive :wink: ping <@U2PFHNN3C> + ping <@U0B47KC3S> you should study it carefully if you want to become a great member of the datalab, little padawan :grinning: (reactions: @U0B47KC3S,@U2PFHNN3C)
+1488465087.000191> @U2PFHNN3C: Thanks <@U37GZRZU6> I had it in my (looong) reading list
+1488465307.000193> @U37GZRZU6: djabbz: sure... you never miss any interesting review, that's impressive :slightly_smiling_face:
+1488466631.000195> @U2PFHNN3C: But seriously… who (except graduate students) is able to find the time to read this type of papers?
+1488466706.000196> @U37GZRZU6: djabbz: Hopefully me... during my echOpen holidays :smiley:
+1488471433.000198> @U2PFHNN3C: :smile:
+1488474895.000200> @U4DFR8RN3: <@U4DFR8RN3> has joined the channel
+1488491177.000201> @U2PFHNN3C: Loving these viz, even though it’s super simple <http://students.brown.edu/seeing-theory/index.html>
+1488498307.000203> @U0B47KC3S: btw, fyi, one month after 14th february, we have a much more romantic day around π <http://www.piday.org/> (reactions: @U37GZRZU6)
+1488498510.000207> @U37GZRZU6: <@U0B47KC3S> no waaaaayyyy !!! are you going to celebrate? #nerd #mathlover :nerd_face:
+1488498764.000208> @U0B47KC3S: obviously :wink:
+1488499259.000209> @U37GZRZU6: The "learn about Pi" section is a bit disappointing... :disappointed:
+1488499385.000210> @U0B47KC3S: just for the information, this site is quite fun <http://www.piday.fr/> `From Marseille to Vegas`
+1488499551.000213> @U37GZRZU6: WTF mathematicians are definitely weird :joy: :joy: :joy: (reactions: @U0B47KC3S,@U0AAL4W13)
+1488500102.000217> @U0B47KC3S: you mean they are irrational, like π ? (reactions: @U20C8CKTL)
+1488500629.000219> @U37GZRZU6: Wow... I have no word to describe my feelings about you daring to write that... will need time to recover :joy: (reactions: @U0B47KC3S)
+1488532786.000225> @U37GZRZU6: aaaaaand iiiiiit's friiiiidaaaaayyyyyy !!!! let's celebrate with Miles, awesome live :grinning: <https://www.youtube.com/watch?v=wc_Gjndpk_0> ping <@U04DFTZ7D> <@U2PFHNN3C> (no need to ping the irrationnal mathematician, I guess) (reactions: @U0B47KC3S,@U04DFTZ7D)
+1488533049.000227> @U2PFHNN3C: Today is fingerpicking day for me  <https://www.youtube.com/watch?v=YQlyHbu0zz4>
+1488533067.000229> @U2PFHNN3C: and <https://www.youtube.com/watch?v=wG0Prs_EqLE> (reactions: @U37GZRZU6)
+1488533313.000232> @U2PFHNN3C: Hey vous saviez que les mathematiciens n’urinaient pas ? Ils font π π… (reactions: @U37GZRZU6,@U0B47KC3S,@U37GZRZU6,@U2PFHNN3C)
+1488533560.000235> @U0B47KC3S: I love every inch of any miles concerts in the 80’s -indeed this one is amaaaaazing !!! sanborne is huge, bob berg is blasting - as usual - and roben ford is my all time favorite guitarist, in my memory check out the 5-10 mins for appreciating the refinement of his touch
+1488533640.000238> @U0B47KC3S: <@U2PFHNN3C> on avait dit pas en dessous de la ceinture :wink: (reactions: @U2PFHNN3C)
+1488535109.000243> @U0B47KC3S: as often, great jazz musicians have reached their climax with miles : miller, scoffield, garrett and many others. For instance,  I am not a huge fan of keith jarret but here he gives a major contribution to live jazz -&gt; here it is
+1488535110.000244> @U0B47KC3S: <https://www.youtube.com/watch?v=I-uS57DtPxw>
+1488535178.000246> @U0B47KC3S: and I forgot about the Gary Bartz, ze sax man :wink:
+1488552765.000251> @U4DA8C09G: <@U4DA8C09G> has joined the channel
+1488569836.000252> @U3GHS132Q: <@U0B47KC3S>  For PI Day I want you to cook a pie :stuck_out_tongue: (reactions: @U37GZRZU6,@U0B47KC3S)
+1488582048.000255> @U0B47KC3S: <@U3GHS132Q> deal !
+1488591598.000256> @U37GZRZU6: <@U0B47KC3S> a lemon pie ;) ;) ;) (reactions: @U0B47KC3S)
+1488658612.000259> @U4DFR8RN3: New Vscan from GE: <http://citia.com/content/organization/ge-healthcare/views/speed-in-the-critica?i=c8BWyW#vscan-extend>
+1488664560.000261> @U20C8CKTL: close to  zero information on this device. :confused:
+1488665125.000263> @U38HVMZ6K: <@U38HVMZ6K>
+1488665194.000264> @U38HVMZ6K: Datasheet already provides some information (reactions: @U20C8CKTL,@U0B47KC3S,@U4DFR8RN3)
+1488666065.000266> @U38HVMZ6K: And a teardown of the predecessor...
+1488666095.000267> @U38HVMZ6K: <@U38HVMZ6K>
+1488666261.000268> @U20C8CKTL: why did they sell bom and report ?
+1488666312.000271> @U38HVMZ6K: With: - Beefy FPGA (Virtex 5) - image processing DSP (TI DaVinci DM6446) - CPLD
+1488666356.000272> @U38HVMZ6K: &gt; why did they sell bom and report ? Who, GE?
+1488666464.000273> @U38HVMZ6K: They didn't sell anything... TechInsights bought a device teared it down, made photos and and exhaustive reverse engineering report and they then sell this information. (reactions: @U4DFR8RN3)
+1488666850.000274> @U20C8CKTL: "au temps pour moi"
+1488693383.000277> @U38HVMZ6K: :wink: 
+1488696547.000278> @U0AAL4W13: It seems that's the hw for the previous vscan gen, doesn't it ?
+1488697082.000279> @U0AAL4W13: ( btw another interesting articles:  <http://liesandstartuppr.blogspot.fr/2016/12/medical-ultrasound-systems-pt-iii-where.html>)  (reactions: @U38HVMZ6K)
+1488715401.000281> @U2PFHNN3C: <https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html?m=1> cc <@U37GZRZU6> <@U0B47KC3S>  (reactions: @U37GZRZU6,@U0B47KC3S)
+1488720004.000286> @U38HVMZ6K: yep, old generation of vscan
+1488806768.000289> @U3CDR25JP: <@U3CDR25JP>
+1488806883.000290> @Hyacinthe: <@U3CDR25JP>: an interesting paper about generalization in deep learning for graduate student that have time to read))
+1488835386.000292> @U0AAL4W13: interesting read : <https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54#.kxsh35e7i>
+1488890841.000294> @U2PFHNN3C: <@U2PFHNN3C> and commented: What!?
+1488891037.000295> @U20C8CKTL: hey, my friend i share with you a little work on my 'internet révé', tell me what you think about it as i'm really bioinformatic driven and i don't know if it is technically possible. <https://hackpad.com/osLess-Souverainet-et-libert-WKw5q8LLXuB>, it's in french unfortunatly. (reactions: @U0AAL4W13)
+1488892004.000297> @U0B47KC3S: <@U2PFHNN3C> WTF ? sure it exists, it’s like god, the proof is that we talk about him :wink:
+1488896129.000302> @U2PFHNN3C: <@U0B47KC3S> but we also talk also a lot about Santa Claus :thinking_face:...
+1488896540.000304> @U0B47KC3S: plz <@U2PFHNN3C> don’t break up my reality !
+1488896557.000306> @U0B47KC3S: 
+1488896559.000307> @U2PFHNN3C: what is reality <@U0B47KC3S> ?
+1488896580.000308> @U2PFHNN3C: and why do you put a possessive pronoun next to it?
+1488896681.000309> @U0B47KC3S: my inside eyed occulus rift :wink:
+1488898261.000311> @U2PFHNN3C:  (reactions: @U0B47KC3S)
+1488971677.000317> @U2PFHNN3C: Just hilarious <https://arxiv.org/abs/1703.02528> (reactions: @U0B47KC3S)
+1488971863.000318> @U3CDR25JP: :joy: 
+1488972555.000319> @U0B47KC3S: enooorme :joy:
+1489019062.000323> @U0B47KC3S: there used to be a time where jazz concerts attracted trendy youth and were as crowded as for a justin biber concert - cc <@U37GZRZU6> :wink:
+1489019063.000324> @U0B47KC3S: <https://www.youtube.com/watch?v=hMYVvjoXf4o>
+1489019618.000326> @U37GZRZU6: <@U0B47KC3S> I don't have anything to do with Justin Bieber, don't know what you're talking about :joy: but thanks !!
+1489095944.647446> @U2PFHNN3C: Check out @APHP's Tweet: <https://twitter.com/APHP/status/839772326040375296?s=09> (reactions: @U37GZRZU6)
+1489099313.343739> @U0B47KC3S: yep :wink: images are not included in this data repository - but we can apply for it and I am sure we ll get it !
+1489137607.513854> @U2PFHNN3C: Awesome :slightly_smiling_face:
+1489161143.436317> @U4HB2A3SB: <@U4HB2A3SB> has joined the channel
+1489173517.306873> @U4HEJC5N2: <@U4HEJC5N2> has joined the channel
+1489222456.752663> @U0AAL4W13: Hardware fun : <http://hackaday.com/2017/03/10/arduino-into-nand-reader/> ping <@U38HVMZ6K> <@U0GMX7QUB> maybe <@U3GHS132Q> ?
+1489276460.602649> @U2PFHNN3C: Sounds a lot like <@U0B47KC3S>'s idea <https://www.wired.com/2017/03/google-deepminds-untrendy-blockchain-play-make-actually-useful/>
+1489316858.204021> @U0B47KC3S: <@U2PFHNN3C> excellent ! :wink:
+1489409891.526137> @U20C8CKTL: i share this : for me one of  the best documentary ever on virology <http://www.documentaires-streaming.com/virus-geants/>, the topic : paradigm revolution.
+1489421138.921118> @U0B47KC3S: thank you <@U20C8CKTL>, you made my evening tv-watching today ;)) (reactions: @U20C8CKTL)
+1489451298.708501> @U0B47KC3S: thanks <@U20C8CKTL> passionating - I did not know about that those kind of viruses were present, yet not accused for the moment, in a bunch if clinical disorders
+1489474195.464245> @U4HTG04JW: <@U4HTG04JW> has joined the channel
+1489482761.960537> @U2PFHNN3C: Happy Pi day my dear fellows! (reactions: @U04DFTZ7D,@U0B47KC3S,@U37GZRZU6,@U3QGT3Q74)
+1489492284.200421> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1489496685.296532> @U3GHS132Q: <@U0B47KC3S>  Where is the pie :stuck_out_tongue: :stuck_out_tongue: :stuck_out_tongue: ?
+1489498156.786449> @U0B47KC3S: <@U0B47KC3S>
+1489498376.867631> @U37GZRZU6: <@U0B47KC3S> it's a fake !!!!!
+1489498452.895361> @U0B47KC3S: yes but prove it ! reasoning by the absurd should work (reactions: @U3GHS132Q)
+1489501702.241551> @U04DFTZ7D: <@U37GZRZU6> it's a cake !! (reactions: @U37GZRZU6,@U0B47KC3S,@U37GZRZU6,@U0B47KC3S)
+1489501774.274977> @U37GZRZU6: <@U04DFTZ7D> 1 - 0 <@U0B47KC3S>
+1489501902.334367> @U0B47KC3S: <@U0B47KC3S> 0 -1 <@U37GZRZU6> #minussign (reactions: @U37GZRZU6,@U0B47KC3S)
+1489502604.652458> @U0B47KC3S: just som thoughts between two meetings
+1489502615.657526> @U0B47KC3S: 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480865132823066470938446095505822317253594081284811174502841027019385211055596446229489549303819644288109756659334461284756482337867831652712019091456485669234603486104543266482133936072602491412737245870066063155881748815209209628292540917153643678925903600113305305488204665213841469519415116094330572703657595919530921861173819326117931051185480744623799627495673518857527248912279381830119491298336733624406566430860213949463952247371907021798609437027705392171762931767523846748184676694051320005681271452635608277857713427577896091736371787214684409012249534301465495853710507922796892589235420199561121290219608640344181598136297747713099605187072113499999983729780499510597317328160963185950244594553469083026425223082533446850352619311881710100031378387528865875332083814206171776691473035982534904287554687311595628638823537875937519577818577805321712268066130019278766111959092164201989380952572010654858632788659361533818279682303019520353018529689957736225994138912497217752834791315155748572424541506959508295331168617278558890750983817546374649393192550604009277016711390098488240128583616035637076601047101819429555961989467678374494482553797747268471040475346462080466842590694912933136770289891521047521620569660240580381501935112533824300355876402474964732639141992726042699227967823547816360093417216412199245863150302861829745557067498385054945885869269956909272107975093029553211653449872027559602364806654991198818347977535663698074265425278625518184175746728909777727938000816470600161452491921732172147723501414419735685481613611573525521334757418494684385233239073941433345477624168625189835694855620992192221842725502542568876717904946016534668049886272327917860857843838279679766814541009538837863609506800642251252051173929848960841284886269456042419652850222106611863067442786220391949450471237137869609563643719172874677646575739624138908658326459958133904780275900994657640789512694683983525957098258226205224894077267194782684826014769909026401363944374553050682034962524517493996514314298091906592509372216964615157098583874105978859597729754989301617539284681382686838689427741559918559252459539594310499725246808459872736446958486538367362226260991246080512438843904512441365497627807977156914359977001296160894416948685558484063534220722258284886481584560285060168427394522674676788952521385225499546667278239864565961163548862305774564980355936345681743241125150760694794510965960940252288797108931456691368672287489405601015033086179286809208747609178249385890097149096759852613655497818931297848216829989487226588048575640142704775551323796414515237462343645428584447952658678210511413547357395231134271661021359695362314429524849371871101457654035902799344037420073105785390621983874478084784896833214457138687519435064302184531910484810053706146806749192781911979399520614196634287544406437451237181921799983910159195618146751426912397489409071864942319615679452080951465502252316038819301420937621378559566389377870830390697920773467221825625996615014215030680384477345492026054146659252014974428507325186660021324340881907104863317346496514539057962685610055081066587969981635747363840525714591028970641401109712062804390397595156771577004203378699360072305587631763594218731251471205329281918261861258673215791984148488291644706095752706957220917567116722910981690915280173506712748583222871835209353965725121083579151369882091444210067510334671103141267111369908658516398315019701651511685171437657618351556508849099898599823873455283316355076479185358932261854896321329330898570642046752590709154814165498594616371802709819943099244889575712828905923233260972997120844335732654893823911932597463667305836041428
+1489502755.722483> @U04DFTZ7D: Il manque quelques chiffres, non ? :wink:
+1489506375.447244> @U2PFHNN3C: Not sure about the 44th… (reactions: @U0B47KC3S)
+1489506426.472143> @U2PFHNN3C: OK it’s not friday but who cares it’s Pi Day! <https://www.youtube.com/watch?v=cKXn-1v75Gg>
+1489506494.504970> @U0AAL4W13: Oowiii
+1489506780.644283> @U2PFHNN3C: and you know the saying “on pi day, fait ce qu’il te play"
+1489506780.644333> @U2PFHNN3C:  (reactions: @U0B47KC3S)
+1489520128.445928> @U3GHS132Q: <@U0B47KC3S>  The cake is a lie !
+1489533992.771400> @U0B47KC3S: <@U3GHS132Q> The cake is a pie ! (reactions: @U3GHS132Q)
+1489581076.506203> @U20C8CKTL: technical documentary, How facebook manage all his Engineer working on the same app (facebook web, facebook android, facebook iOS) , facebook 100000 commit per week ! <https://www.youtube.com/watch?v=X0VH78ye4yY>, 1 millions source control command per day
+1489614203.723550> @U0AAL4W13: ahh still other beaglebone colors !! <https://beagleboard.org/blue>
+1489668907.744825> @U4J138ZTL: <@U4J138ZTL> and commented: Who said we need to take the prototype out of the aquarium ? Seems funnier like that.
+1489708042.854442> @U37GZRZU6: aaand it's funky friday :upside_down_face:  <https://www.youtube.com/watch?v=2hjtgdezRNE>
+1489709073.019415> @U0B47KC3S: <@U37GZRZU6> good old soul :wink:
+1489709091.022508> @U0B47KC3S: here is a so sweet and warm voice
+1489709091.022596> @U0B47KC3S: <https://www.youtube.com/watch?v=9HUV5a7MgS4> (reactions: @U37GZRZU6,@U37GZRZU6)
+1489710997.313394> @U0B47KC3S: <@U37GZRZU6> <@U2PFHNN3C> let’s turn into woman jazz
+1489711007.314765> @U0B47KC3S: the brilliant triphop jazz artist Meshell Ndegeocello
+1489711007.314766> @U0B47KC3S: <https://www.youtube.com/watch?v=g-BGYvsI4YE>
+1489739306.696635> @U37GZRZU6: <@U0B47KC3S> yeees i know her she's amazing :wink:  (reactions: @U0B47KC3S)
