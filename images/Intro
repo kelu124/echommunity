@@ -16,10 +16,10 @@ digraph {
 			posts -> benchoufi
 		luc [fillcolor=yellow style=filled]
 			posts -> luc
-		olivier [fillcolor=yellow style=filled]
-			posts -> olivier
 		rbo [fillcolor=yellow style=filled]
 			posts -> rbo
+		olivier [fillcolor=yellow style=filled]
+			posts -> olivier
 		aurelie [fillcolor=yellow style=filled]
 			posts -> aurelie
 		legal [fillcolor=blue fontsize=22 shape=box style=filled]
@@ -75,6 +75,6 @@ digraph {
 			software -> luc
 		aurelie [fillcolor=yellow style=filled]
 			software -> aurelie
-		olivier [fillcolor=yellow style=filled]
-			software -> olivier
+		hackolite [fillcolor=yellow style=filled]
+			software -> hackolite
 }

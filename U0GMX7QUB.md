@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 97
+Number of posts: 105
 
 ### Topics:
 
-* __posts__: 97 posts
+* __posts__: 105 posts
 * __software__: 5 posts
 * __community__: 3 posts
 * __legal__: 1 posts
@@ -24,4 +24,6 @@ Number of posts: 97
 * [@luc](./U0AAL4W13.md): 2 mention and/or reactions
 * [@alienor](./U1N5Q9334.md): 2 mention and/or reactions
 * [@victor_arias](./U32FZ0QLX.md): 1 mention and/or reactions
+* [@rbo](./U38HVMZ6K.md): 1 mention and/or reactions
+* [@eiffel](./U3GHS132Q.md): 1 mention and/or reactions
 * [@olivier](./U04DFTZ7D.md): 1 mention and/or reactions

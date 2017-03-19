@@ -17,23 +17,23 @@ This very page shows the different persons who are speaking the most about some 
 
 ## medical-related users
 
-* [@benchoufi](./U0B47KC3S.md): 92 posts
+* [@benchoufi](./U0B47KC3S.md): 103 posts
 * [@brunocp](./U33817K25.md): 54 posts
 * [@olivier](./U04DFTZ7D.md): 49 posts
-* [@rbo](./U38HVMZ6K.md): 43 posts
-* [@luc](./U0AAL4W13.md): 41 posts
+* [@rbo](./U38HVMZ6K.md): 46 posts
+* [@luc](./U0AAL4W13.md): 44 posts
 
 ## posts-related users
 
-* [@benchoufi](./U0B47KC3S.md): 1256 posts
-* [@luc](./U0AAL4W13.md): 1030 posts
-* [@olivier](./U04DFTZ7D.md): 703 posts
-* [@rbo](./U38HVMZ6K.md): 678 posts
-* [@aurelie](./U37GZRZU6.md): 464 posts
+* [@benchoufi](./U0B47KC3S.md): 1404 posts
+* [@luc](./U0AAL4W13.md): 1141 posts
+* [@rbo](./U38HVMZ6K.md): 728 posts
+* [@olivier](./U04DFTZ7D.md): 721 posts
+* [@aurelie](./U37GZRZU6.md): 519 posts
 
 ## legal-related users
 
-* [@luc](./U0AAL4W13.md): 69 posts
+* [@luc](./U0AAL4W13.md): 70 posts
 * [@olivier](./U04DFTZ7D.md): 36 posts
 * [@rbo](./U38HVMZ6K.md): 25 posts
 * [@benchoufi](./U0B47KC3S.md): 25 posts
@@ -41,35 +41,35 @@ This very page shows the different persons who are speaking the most about some 
 
 ## hardware-related users
 
-* [@rbo](./U38HVMZ6K.md): 150 posts
-* [@luc](./U0AAL4W13.md): 67 posts
+* [@rbo](./U38HVMZ6K.md): 157 posts
+* [@luc](./U0AAL4W13.md): 82 posts
 * [@olivier](./U04DFTZ7D.md): 43 posts
-* [@benchoufi](./U0B47KC3S.md): 40 posts
+* [@benchoufi](./U0B47KC3S.md): 43 posts
 * [@jerome](./U07UEJC2H.md): 37 posts
 
 ## design-related users
 
 * [@rbo](./U38HVMZ6K.md): 40 posts
 * [@benchoufi](./U0B47KC3S.md): 27 posts
-* [@luc](./U0AAL4W13.md): 25 posts
+* [@luc](./U0AAL4W13.md): 26 posts
 * [@olivier](./U04DFTZ7D.md): 15 posts
 * [@eiffel](./U3GHS132Q.md): 5 posts
 
 ## community-related users
 
-* [@benchoufi](./U0B47KC3S.md): 117 posts
-* [@olivier](./U04DFTZ7D.md): 102 posts
-* [@luc](./U0AAL4W13.md): 94 posts
-* [@rbo](./U38HVMZ6K.md): 67 posts
+* [@benchoufi](./U0B47KC3S.md): 125 posts
+* [@olivier](./U04DFTZ7D.md): 103 posts
+* [@luc](./U0AAL4W13.md): 95 posts
+* [@rbo](./U38HVMZ6K.md): 70 posts
 * [@aurelie](./U37GZRZU6.md): 20 posts
 
 ## software-related users
 
-* [@benchoufi](./U0B47KC3S.md): 237 posts
-* [@rbo](./U38HVMZ6K.md): 105 posts
-* [@luc](./U0AAL4W13.md): 66 posts
-* [@aurelie](./U37GZRZU6.md): 42 posts
-* [@olivier](./U04DFTZ7D.md): 40 posts
+* [@benchoufi](./U0B47KC3S.md): 249 posts
+* [@rbo](./U38HVMZ6K.md): 111 posts
+* [@luc](./U0AAL4W13.md): 77 posts
+* [@aurelie](./U37GZRZU6.md): 44 posts
+* [@hackolite](./U20C8CKTL.md): 43 posts
 
 ## Graph 
 

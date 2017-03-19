@@ -9,11 +9,11 @@
 
 ### Posts: 
 
-Number of posts: 187
+Number of posts: 191
 
 ### Topics:
 
-* __posts__: 187 posts
+* __posts__: 191 posts
 * __hardware__: 37 posts
 * __software__: 11 posts
 * __community__: 4 posts
@@ -22,13 +22,13 @@ Number of posts: 187
 
 ## Key interactions 
 
-* [@luc](./U0AAL4W13.md): 6 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 8 mention and/or reactions
+* [@aurelie](./U37GZRZU6.md): 4 mention and/or reactions
 * [@rbo](./U38HVMZ6K.md): 4 mention and/or reactions
 * [@benchoufi](./U0B47KC3S.md): 3 mention and/or reactions
-* [@aurelie](./U37GZRZU6.md): 3 mention and/or reactions
+* [@soobash](./U1PAGSKGU.md): 3 mention and/or reactions
 * [@quentin_dg](./U2UU194RZ.md): 3 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 3 mention and/or reactions
-* [@soobash](./U1PAGSKGU.md): 2 mention and/or reactions
 * [@odebeir](./U2V03QR8E.md): 2 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 2 mention and/or reactions
 * [@sadams](./U2V0F9YAK.md): 2 mention and/or reactions

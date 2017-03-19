@@ -9,11 +9,12 @@
 
 ### Posts: 
 
-Number of posts: 32
+Number of posts: 39
 
 ### Topics:
 
-* __posts__: 32 posts
+* __posts__: 39 posts
+* __medical__: 2 posts
 
 ## Key interactions 
 

@@ -9,12 +9,12 @@
 
 ### Posts: 
 
-Number of posts: 323
+Number of posts: 352
 
 ### Topics:
 
-* __posts__: 323 posts
-* __software__: 39 posts
+* __posts__: 352 posts
+* __software__: 43 posts
 * __community__: 12 posts
 * __hardware__: 9 posts
 * __medical__: 1 posts
@@ -23,7 +23,7 @@ Number of posts: 323
 
 * [@benchoufi](./U0B47KC3S.md): 18 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 9 mention and/or reactions
-* [@luc](./U0AAL4W13.md): 5 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 6 mention and/or reactions
 * [@djabbz](./U2PFHNN3C.md): 3 mention and/or reactions
 * [@edem](./U34N7NQNR.md): 3 mention and/or reactions
 * [@benschan](./U1PKXQVDW.md): 2 mention and/or reactions

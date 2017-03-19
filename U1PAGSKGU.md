@@ -9,20 +9,20 @@
 
 ### Posts: 
 
-Number of posts: 59
+Number of posts: 85
 
 ### Topics:
 
-* __posts__: 59 posts
-* __hardware__: 3 posts
+* __posts__: 85 posts
+* __hardware__: 7 posts
+* __software__: 5 posts
 * __community__: 3 posts
-* __software__: 1 posts
 
 ## Key interactions 
 
-* [@jerome](./U07UEJC2H.md): 7 mention and/or reactions
+* [@luc](./U0AAL4W13.md): 12 mention and/or reactions
+* [@jerome](./U07UEJC2H.md): 8 mention and/or reactions
 * [@aurelie](./U37GZRZU6.md): 6 mention and/or reactions
 * [@noureddine](./U38TWKY9Y.md): 6 mention and/or reactions
 * [@benchoufi](./U0B47KC3S.md): 4 mention and/or reactions
-* [@luc](./U0AAL4W13.md): 3 mention and/or reactions
 * [@hackolite](./U20C8CKTL.md): 1 mention and/or reactions
