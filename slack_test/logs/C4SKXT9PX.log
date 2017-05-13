@@ -1,0 +1,126 @@
+1490951039.189517> @U04DFTZ7D: <@U04DFTZ7D> has joined the channel
+1490951040.189685> @U04DFTZ7D: <@U04DFTZ7D> set the channel purpose: Working on the mechanics of the probe
+1490951040.189699> @U0GMX7QUB: <@U0GMX7QUB> has joined the channel
+1490951040.189754> @U0B47KC3S: <@U0B47KC3S> has joined the channel
+1490951052.192510> @U04DFTZ7D: <@U0GMX7QUB> here you go :wink:
+1490951196.228749> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj_medtec_mec" to "prj_medtec_mechanics"
+1490951200.229800> @U04DFTZ7D: done
+1490951244.240359> @U0GMX7QUB: Thank's !
+1490952381.523879> @U0B47KC3S: nice place here :wink:
+1490976889.923629> @U0GMX7QUB: Big upgrade for my 3d printer last WE. It has now a heat bed allowing to print new US compatible material like polyester.
+1490976918.934201> @U0GMX7QUB: <@U0GMX7QUB>
+1490977021.973465> @U0GMX7QUB: The work of the week : a new minimalistic probe :
+1490977149.021252> @U0GMX7QUB: <@U0GMX7QUB>
+1490977205.042152> @U0GMX7QUB: <@U0GMX7QUB>
+1490977234.053393> @U0GMX7QUB: <@U0GMX7QUB>
+1490977327.088619> @U0GMX7QUB: <@U0GMX7QUB>
+1490977355.099239> @U0GMX7QUB: <@U0GMX7QUB>
+1490977423.124710> @U0GMX7QUB: <@U0GMX7QUB>
+1490978911.679042> @U04DFTZ7D: Great !!!! Look forward to see it working 
+1490981505.639892> @U0B47KC3S: over great <@U0GMX7QUB> !
+1490998198.012155> @U0GMX7QUB: <@U0GMX7QUB>
+1490998558.082826> @U0GMX7QUB: Todo : * insert a transducer * update controller software to this stepper (5V, 200 stp/tr) * put a silicone seal * seal wires * close lid * fill with oil using a syringe
+1491844225.942440> @U4S46V1EC: <@U4S46V1EC> has joined the channel
+1491844225.942464> @U07UEJC2H: <@U07UEJC2H> has joined the channel
+1491844225.942477> @U37GZRZU6: <@U37GZRZU6> has joined the channel
+1491844225.942502> @U0AAL4W13: <@U0AAL4W13> has joined the channel
+1491844225.942519> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1491844258.954595> @U04DFTZ7D: <@U04DFTZ7D> set the channel topic: Dedicated channel to mechanical side of the echOpen probe 
+1491847027.014439> @U0AAL4W13: haha nice !!
+1491903273.914673> @U37GZRZU6: <@U0GMX7QUB> I just created the github repos/teams for mechanics, and proclaimed you as the official team maintainer :wink: Here are the links :  - Team's repository : <https://github.com/echopen/PRJ-medtec_mechanics> - Team's project boards : <https://github.com/echopen/PRJ-medtec_mechanics/projects> - Subscribe to the team : <https://github.com/orgs/echopen/teams/mechanics> (reactions: @U0GMX7QUB,@U0B47KC3S)
+1491903545.984438> @U0GMX7QUB: Thank's <@U37GZRZU6>, I'll populate it this week. (reactions: @U37GZRZU6)
+1492020596.680767> @U4YCKBDR8: <@U4YCKBDR8> has joined the channel
+1492166043.336723> @U0AAL4W13: <@U0GMX7QUB> random use for your piezo : <http://hackaday.com/2017/04/13/measuring-tiny-masses-acoustically/>
+1492196808.389404> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492618229.238775> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1492683018.652690> @U0GMX7QUB: <@U0GMX7QUB>
+1492683145.682851> @U0AAL4W13: Stylay
+1492695852.014789> @U4J138ZTL: superbe !
+1492696199.153525> @U4J138ZTL: one comment : in commercial scanner as the one we have here at hotel dieu, the frame rate is dictated by the depth at witch the doctor wants to see. If he wants to see deeper, the frame rate decrease. In our case for example, for the rotating case we can imaging to have 5 ips for 200mm, 10ips for 100mm and 20ips for 50mm.
+1492696444.254825> @U4J138ZTL: also we don't need to know the exact speed but rather the exact position of the transducer
+1492696506.280543> @U4J138ZTL: as you say "Dans tous ces cas des systèmes d’encodeurs (absolus et incrémentaux) sont nécessaires pour caler les tirs"
+1492696736.377811> @U4J138ZTL: I was thinking to a simple "disque cranté" with a photodiode wich would trigger the pulser at each slit
+1492696851.429803> @U4J138ZTL: and thanks so much for writing down all those numbers !
+1492697148.557599> @U4J138ZTL: could we hack a computer mouse ? is it precise enough ?
+1492698015.930015> @U37GZRZU6: <@U0GMX7QUB> super doc! il faudra qu'on discute pour voir comment intégrer ces infos au nouveau gitbook :wink:
+1492698805.283856> @U0AAL4W13: Hardware. But not electronics :)
+1492698839.299410> @U0AAL4W13: Splitting hardware in mechanics/electronics, and maybe materials/transducer in the longer run? (reactions: @U37GZRZU6,@U0AAL4W13)
+1492699880.765617> @U4J138ZTL: <@U37GZRZU6> en temps qu'entourage bienveillant il faut que je te le dise : t'es devenue gitbookolique. (reactions: @U37GZRZU6,@U0AAL4W13,@U38HVMZ6K)
+1492700738.169056> @U38HVMZ6K: même echopenolique de manière plus large... (reactions: @U37GZRZU6)
+1492705985.483505> @U0GMX7QUB: C'est une démarche difficile à faire mais je crois que nous sommes prêts pour fonder un groupe d'echoliques anonymes. (reactions: @U37GZRZU6)
+1492706535.702374> @U0GMX7QUB: <@U4J138ZTL> : "the frame rate is dictated by the depth". I did not know that point; And, for me, the utltramark probe does not meet our specifications. It should be discussed with the doctors.
+1492706629.739718> @U0AAL4W13: <@U0GMX7QUB> the deeper you listen to, the longer you have to wait for the next line?
+1492706686.762534> @U0GMX7QUB: About mouse encoders, I'm afraid that they have not enough points per tours. But you can find other small optical encoders.
+1492706962.873023> @U0GMX7QUB: <@U0AAL4W13>, yes, it's true. But if you want listen only for 100 mm echoes, you can shoot faster but you will receive also (very attenuated) the 100 to 200mm echoes from the previous line. Not very good for the SNR.
+1492707274.997362> @U0AAL4W13: Yup
+1492707332.020941> @U0AAL4W13: In this case you introduce as well delays for the proc unit to work on the line :)
+1492707407.051673> @U0GMX7QUB: And then you can't have 10 fps (on a rotating probe).
+1492707731.187788> @U0AAL4W13: Unless there are 3 piezos
+1492707760.199978> @U0AAL4W13: Depending on the angle we want
+1492707801.216669> @U0AAL4W13: We could have 6 piezos covering each 60° ;)
+1492708219.380957> @U0GMX7QUB: And a huge cylinder with a diameter of approx 40mm (20mm x 6 / pi) to Rule Them All ! :elephant:
+1492708603.528965> @U38HVMZ6K: <@U0GMX7QUB> did you publish the 3D design of your enclosure? Do we have a rough idea of the space available for the electronics + processing unit + battery?
+1492708743.583951> @U38HVMZ6K: This is a critical point in our design at work and mechanical engineers have to be very creative (read Tetris...) to let everything we need fit in the volume they were given as contraint
+1492781564.594596> @U0GMX7QUB: You're right, and it will be a real challenge. For the moment I focus only on a waterproof "dummy" probe enclosure which will contains a small stepper and one transducer. The six wires (2 for the transducer and 4 for the stepper) will pass through and will be connected to the outside to the processing board.
+1493728573.854756> @U37GZRZU6: Hey guys, I just created a shared document in our gitbook to gather ideas about what should be of top priority for our next iteration <https://echopen.gitbooks.io/echopen_prototyping/content/inprogress/requirements/preparing-captech.html> don't hesitate to complete it :wink: ping <@U0GMX7QUB> could you detail a bit the "bring probe out of water" part ? + BTW we also need to detail more the "mechanics" part in the product backlog : <https://echopen.gitbooks.io/echopen_prototyping/content/backlog/technical.html>
+1493733546.502509> @U0GMX7QUB: aurelie: Hi, Knowledge super-heroe. I'm afraid I've not rights to write on this Gitbook :disappointed_relieved:. Apparently there is only 5 members allowed to edit but not "Bivi" ... (reactions: @U37GZRZU6,@U0AAL4W13)
+1493733690.565424> @U37GZRZU6: so sad story !! You can edit the gitbook by forking the echopen_prototyping repo on github, we adopted this to avoid conflicts while editing the gitbook. But for you I think I can give the access to the gitbook as well :wink: I'll do it ASAP
+1493733797.610120> @U37GZRZU6: you should be able to edit the gitbook now! just let me know
+1493733863.638340> @U0GMX7QUB: :slightly_smiling_face::upside_down_face::slightly_smiling_face:
+1493734040.710593> @U0GMX7QUB: :ok_hand:
+1493734175.765793> @U0GMX7QUB: And then I see that now we can directly add yaml meta data in each gitbook chapter. A good point for doc generation :+1: (reactions: @U37GZRZU6,@U0AAL4W13)
+1494331225.816565> @U0GMX7QUB: WE project : Urethane Casting with a 3D printed master (<https://www.sculpteo.com/blog/2016/04/07/diy-tutorial-urethane-casting-with-a-3d-printed-master/>).
+1494331416.860573> @U0GMX7QUB: To build a dummy probe (transducer + stepper + oil) we need a Polyurethane case wich is transparent to ultra-sound. But PU is not directly printable with a 3D printer. The solution is to use a silicone mold to cast PU resin.
+1494331512.882519> @U0GMX7QUB: My test project, before the more complex probe case, is a small Li-Ion 18650 battery case :
+1494331534.887447> @U0GMX7QUB: <@U0GMX7QUB>
+1494331677.919550> @U0GMX7QUB: First I have printed it with Polystyrene and made an acetone finish.
+1494331789.944990> @U0GMX7QUB: <@U0GMX7QUB>
+1494331992.992091> @U0GMX7QUB: A lego brick frame and a layer of modeling paste to make the joint.
+1494332015.997427> @U0GMX7QUB: <@U0GMX7QUB>
+1494332026.000018> @U0GMX7QUB: <@U0GMX7QUB>
+1494332957.228309> @U0GMX7QUB: Put the part and the sprues on the joint plane
+1494332985.235526> @U0GMX7QUB: <@U0GMX7QUB>
+1494333027.247116> @U0GMX7QUB: Use petroleum jelly to prevent the silicone from sticking to the piece.
+1494333043.251259> @U0GMX7QUB: <@U0GMX7QUB>
+1494333096.265982> @U0GMX7QUB: Pour the silicone and wait ... 24 hours
+1494333128.274444> @U0GMX7QUB: <@U0GMX7QUB>
+1494333185.288953> @U0GMX7QUB: Turn the mold over and remove the modeling paste.
+1494333226.299816> @U0GMX7QUB: <@U0GMX7QUB>
+1494333317.324131> @U0GMX7QUB: Clean, protect with petroleum jelly and pour silicone for the second part of the mold.
+1494333351.332674> @U0GMX7QUB: <@U0GMX7QUB>
+1494333400.345978> @U0GMX7QUB: And wait again ... 24 hours !
+1494333474.365547> @U0GMX7QUB: That's all for the moment, like me, you'll see the result this evening :hourglass: (reactions: @U0AAL4W13)
+1494336531.345868> @U04DFTZ7D: Great <@U0GMX7QUB> !! Look forward to se the final result !!
+1494339705.646443> @U0B47KC3S: yes indeed, seems so promising !!
+1494340168.851986> @U4J138ZTL: legos ! can't wait to see the result !
+1494415276.089958> @U0GMX7QUB: And now ... :scream: ... the end of the story !!!
+1494415302.095266> @U0GMX7QUB: <@U0GMX7QUB>
+1494415328.101377> @U0GMX7QUB: <@U0GMX7QUB>
+1494415388.114037> @U0GMX7QUB: The reproduction of small details seems very precise :
+1494415421.120763> @U0GMX7QUB: <@U0GMX7QUB>
+1494415448.126880> @U0GMX7QUB: Ready for molding :
+1494415463.130071> @U0GMX7QUB: <@U0GMX7QUB>
+1494415508.139463> @U0GMX7QUB: Injection !
+1494415522.142411> @U0GMX7QUB: <@U0GMX7QUB>
+1494415620.163834> @U0GMX7QUB: Ooop's, a fail :face_with_head_bandage: : bad proportions for PU resin
+1494415642.168625> @U0GMX7QUB: <@U0GMX7QUB>
+1494415878.220304> @U0GMX7QUB: Try again !
+1494415938.233181> @U0GMX7QUB: It seems better :
+1494415953.236477> @U0GMX7QUB: <@U0GMX7QUB>
+1494416110.270203> @U0GMX7QUB: <@U0GMX7QUB>
+1494416118.271969> @U0GMX7QUB: <@U0GMX7QUB>
+1494416205.290793> @U0GMX7QUB: Just two small air bubbles on top of the part.
+1494416223.294694> @U04DFTZ7D: Good job :wink:
+1494416237.297748> @U0GMX7QUB: <@U0GMX7QUB>
+1494416259.302090> @U0GMX7QUB: <@U0GMX7QUB>
+1494416278.306246> @U0GMX7QUB: Et voilà !!! (reactions: @U37GZRZU6,@U0B47KC3S)
+1494416630.383627> @U04DFTZ7D: Great job <@U0GMX7QUB>
+1494416945.452289> @U37GZRZU6: <@U0GMX7QUB> thanks for the "roman photo" :smile:
+1494416950.453393> @U0GMX7QUB: 4 days of confirmed engineer plus material -&gt; 1400€ for one battery case, but it's an investment, the next one will cost 10 €...
+1494417202.509077> @U0GMX7QUB: <@U37GZRZU6>, I think that "roman photo" is the more efficient format for describing fabrication process (cf <http://www.instructables.com/>). (reactions: @U37GZRZU6)
+1494417301.530861> @U38HVMZ6K: Great <@U0GMX7QUB> 
+1494417449.564372> @U0B47KC3S: Great job <@U0GMX7QUB> !
+1494417665.617652> @U0GMX7QUB: If someone is interested in a 18650 Li-Ion battery case I can sell one (or ten) for 20€ (:moneybag:) :smiling_imp:
+1494419569.112992> @U0AAL4W13: :)
+1494505981.239495> @U4J138ZTL: wow amazing job !!!
+1494517688.078929> @U37GZRZU6: ping mechanics experts <@U0GMX7QUB> :wink: canyou help us to summarize the mechanical constrains in the product backlog ? :upside_down_face:

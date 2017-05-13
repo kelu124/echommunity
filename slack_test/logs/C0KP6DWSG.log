@@ -275,3 +275,87 @@
 1489612991.409109> @U0AAL4W13: <@U0FN1B8KD> you put me to shame, haven't worked on it yet :smiley:
 1489616883.162084> @U0FN1B8KD: Oh sorry Luc ! I thought it was last year one !
 1489649045.888233> @U0AAL4W13: No you're right, it's just I haven't done much on 2017 one ;)
+1490120006.642787> @U37GZRZU6: Hey medtech workers / method lovers, just to announce that our brand new gitbook for prototyping is online <https://echopen.gitbooks.io/echopen_prototyping/> :smiley: As discussed in capMeth and following sigproc/embsys meetings, this gitbook is meant to be our single document for managing medicotechnical developments (hardware/embsys/sigproc/app) in a transversal manner.  This gitbook provides a "Follow-up" section allowing to gather all the minutes of meetings. I reported the sigProc minutes in the corresponding section, and from now this is where all the minutes (also for embsys, the app...) should be pushed, ping <@U3GHS132Q> <@U0B47KC3S>   The "References" section is meant to share all relevant docs/files/papers/... that we found on the internet or that we produced. Each team has its references section, don't hesitate to use it, it's yours !  Now let's fill the empty sections :wink: I will complete the "How to contribute" within next days. By now we're preparing next release (dedicated section : Stable release Vx.y.z) so this section might be treated in top priority :  - <@U4J138ZTL> and I are thinking about how we can perform image quality assessment for our device, that will stand in the "Device characteristics" section - <@U07UEJC2H> <@U4J138ZTL> <@U0AAL4W13> and I have started writing a production guide for the hardware ("Production guide &gt; Reproducing the device") - At some point, we should provide a guide on how to install the app working with this release, ping <@U0B47KC3S> <@U3QGT3Q74>  - As regards documentation, we should update the scheme of the whole pipeline and fill the "Hardware" and "Software parts" (ping <@U0B47KC3S> <@U3QGT3Q74> you can drop the app documentation in "Documentation &gt; Software" :upside_down_face: )  To edit the gitbook, you can fork its github repo : <https://github.com/echopen/echopen_prototyping> and directly modify the .md files  Anyone wanting to help for documentation, characterization, etc... is welcome ! (reactions: @U38HVMZ6K,@U0B47KC3S,@U0AAL4W13,@U04DFTZ7D,@U3GHS132Q,@U0GMX7QUB,@U2PFHNN3C)
+1490120014.644947> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1490120435.758102> @U38HVMZ6K: Great! Thanks a lot <@U37GZRZU6> for the good job!
+1490120510.778201> @U38HVMZ6K: Let's make this gitbook a living and comfortable place for every echOpener :clap::skin-tone-2:  (reactions: @U37GZRZU6,@U0B47KC3S,@U0AAL4W13,@U3GHS132Q)
+1490124966.932012> @U3QGT3Q74: Thanks <@U37GZRZU6> I will give a quick clean up of the app documentation part on former / future architecture and push it tomorrow afternoon. (reactions: @U37GZRZU6,@U0AAL4W13)
+1490170383.592679> @U2PFHNN3C: Great job <@U37GZRZU6>! Where do you think the AI part should go? A new chapter?
+1490174093.138074> @U3GHS132Q: I will read precisely the guidebook. <@U37GZRZU6> it seems that some math are not well interpreted, is it normal ?
+1490174161.149336> @U3GHS132Q: And some LaTeX too, how markdown is interpreted by github ? Does it use pandoc ?
+1490174208.157501> @U0B47KC3S: thanks you so much <@U37GZRZU6> nice job !
+1490175492.373815> @U37GZRZU6: <@U3GHS132Q> yes don't know where the problem comes from ... I think <@U07UEJC2H> has planned to correct the typos at some point 
+1490175730.413394> @U07UEJC2H: I dream of latex interpretor in gitbook for months (years...)! Without it mathematical equations will look like ****...
+1490175900.442482> @U38HVMZ6K: <https://stackedit.io/>
+1490175918.445764> @U38HVMZ6K: &gt; StackEdit integrates MathJax to render mathematics from LaTeX expressions inside your markdown document, as you would do on Stack Exchange.
+1490175953.452116> @U38HVMZ6K: Don't know if it can be used for gitbook...
+1490178243.852276> @U2PFHNN3C: I think Gitbook DOES have LaTeX support, just need to use double $ to enclose your formula
+1490178315.864426> @U37GZRZU6: <@U2PFHNN3C> double $$ don't seem to work :thinking_face:
+1490178339.868856> @U2PFHNN3C: it works on my gitbook. Maybe a matter of plugin. Hang on
+1490178471.891117> @U37GZRZU6: <@U2PFHNN3C> please help us :sweat_smile:
+1490178621.916904> @U3GHS132Q: Markdown really need to be standardized by a consortium like W3C
+1490178775.943579> @U2PFHNN3C: Can’t edit your gitbook to try it out <@U37GZRZU6> but it should work in principle, this confirmed it to me <https://www.gitbook.com/blog/features/katex>
+1490179069.993550> @U2PFHNN3C: and I just checked my `book.json`, no plugin added. So <@U37GZRZU6> I think you should give it a new try :slightly_smiling_face:
+1490361313.645920> @U0AAL4W13: <@U37GZRZU6> for fun and info in terms of interesting processes - <https://fr.slideshare.net/mobile/Energized-Org/introduction-to-holacracy>
+1490366834.024978> @U3GHS132Q: When I read GCC I directly think to the GNU C Compiler lol... --&gt;[]
+1490533195.546049> @U0AAL4W13: Hey <@U04DFTZ7D> <@U0B47KC3S> I'm working on "the trove", a markdown-only dump of what has been published from the beginning. I have the information from the wiki, the basecamp2, slack - I'm missing BC3. Would it be possible to have a  dump done of the BC3 echopen data, as described in <https://basecamp.com/help/3/guides/account/ownership#export-data-from-this-account> - to merge this in the trove ? Thanks!
+1490540142.804805> @U04DFTZ7D: Yes, <@U0AAL4W13> i exported the folder and sent you a link to add it in the trove. Let us know when it will be done :wink:
+1490541399.856588> @U0AAL4W13: Thanks !
+1490703685.622872> @U0AAL4W13: Mostly here, most is converted in markdown too. To make it searchable, I would recommend opening a legacy "the Trove" gitbook in echOpen’s gitbook account, where this could be searchable. <@U04DFTZ7D> <@U0B47KC3S> you in?
+1490707898.503351> @U2PFHNN3C: Hey Guys, is this the official report of the CAPMeth? <https://github.com/echopen/PRJ-commty_method/blob/master/20170211-CapMeth_Minutes.md>  (I ask because I wasn’t there)
+1490708592.679660> @U0AAL4W13: Unsure if it was pgp-signed, but these are the minutes yes
+1490708940.772602> @U2PFHNN3C: :smile: thanks!
+1490708959.777506> @U2PFHNN3C: does echopen have a certificate? didn’t know… :stuck_out_tongue:
+1490718230.515488> @U37GZRZU6: Hey guys I'm doing some speleology in the GitHub, what's the medicotechnical repo for? <@U0AAL4W13> <@U0GMX7QUB> ?
+1490718410.565165> @U37GZRZU6: Same question for the legacy repo? <@U0B47KC3S> <@U20C8CKTL> ?
+1490718412.565817> @U20C8CKTL: <@U20C8CKTL> has joined the channel
+1490718682.640470> @U37GZRZU6: And is the android-app-doc still up-to-date? <@U0B47KC3S> ?
+1490718748.658094> @U37GZRZU6: And Image-Processing-doc is empty, can I remove it? :D
+1490718797.671079> @U0GMX7QUB: For me, medicotechnical is the ancestor of PRJ-medtec_kit stalled since one year. You can destroy it . (reactions: @U37GZRZU6)
+1490719337.817069> @U0B47KC3S: <@U37GZRZU6>, I think you can purge them :wink: (reactions: @U37GZRZU6)
+1490719363.824325> @U0B47KC3S: <@U04DFTZ7D> your point of view  ?
+1490719628.895365> @U37GZRZU6: I wait for the go from master <@U04DFTZ7D> ;)
+1490720403.105842> @U04DFTZ7D: Sure, let's purge the repo :wink: It will be clearer for everybody !! (reactions: @U37GZRZU6)
+1490722751.745288> @U37GZRZU6: Blood will be spread :smirk:  (reactions: @U0B47KC3S,@U2PFHNN3C)
+1490728627.328720> @U0AAL4W13: I've got one of these beauties for work, would be interesting to get one for our minutes; ) <https://www.indiegogo.com/projects/titan-note-change-the-way-you-take-notes-college-innovation/x/9018483#/>
+1490729157.456351> @U38HVMZ6K: Does it work really as advertised? I already tried several "digitizing" assistants and was never convinced.
+1490729190.464024> @U38HVMZ6K: But it was already some time ago and things have evolved for sure.
+1490733627.575592> @U0AAL4W13: at 80$ it seemed quite worth trying
+1490733640.578878> @U0AAL4W13: plus it looks like the usual spider, so that puts at ease
+1490799472.302737> @U37GZRZU6: Can I destroy the repo <http://echopen.github.io> ?
+1490799761.395153> @U0AAL4W13: Backup before ? ;)
+1490799921.445391> @U37GZRZU6: Actually we'll keep it for now ;) 
+1492130481.656005> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492267107.021724> @U0B47KC3S: hey there, here’s the fabre fondation report. please fill in the line in page 9, before we do so :wink:
+1492267110.021854> @U0B47KC3S: <@U0B47KC3S>
+1492268880.094958> @U1PKXQVDW: <@U1PKXQVDW> has joined the channel
+1492638829.169792> @U0AAL4W13: <@U37GZRZU6> <@U0B47KC3S> I'll let you confirm the creation of a PRJ-somethingaboutbusiness repo ? :sweat_smile: looking forward to synthetizing the work already done around costing of device, and compiling information on the topic of open-source projects business models :smiley:
+1492639035.208202> @U0B47KC3S: hey there, gReat for this is a kick-off :wink: :rocket: 4 more on the process, the right naming convention #prj*** and such, ping <@U04DFTZ7D> cc <@U37GZRZU6>
+1492667817.097924> @U38HVMZ6K: <@U0AAL4W13> <@U0B47KC3S> <@U37GZRZU6> <@U04DFTZ7D> interested in the PRJ-somethingaboutbusiness project/repo. I already had some discussions with <@U0AAL4W13> on the topic and provided some inputs in the past on pricing, model,... I could put them in this information compilation if needed.
+1492674121.817188> @U0B47KC3S: <@U38HVMZ6K> great news ! @oliv could you tell us more about the process ?
+1492678418.533831> @U04DFTZ7D: Yep, sure. as we have a topic named "Economical matters" the channel / repository will be <#C52LMHXQW>. We then need to setup the github repository to welcome all meeting's note documents and ressources.
+1492678455.540130> @U04DFTZ7D: <@U37GZRZU6> where do you think we can add information on echOpen github ?
+1492678751.593131> @U37GZRZU6: <@U04DFTZ7D> let's create a dedicated repo ? PRJ-eco_model ?
+1492679878.793510> @U0AAL4W13: Seems logical, given the structure "enjeux" wise
+1493051070.701153> @U37GZRZU6: Dear echOpeners, our medicotechnical gitbook is slowly taking shape, still we have a lot of work to be completed. See below : <https://github.com/echopen/echopen_prototyping/projects/2>  The problem is that now we don't have any up-to-date information about the current state of our developments, nor any complete technical introduction for new incomers. For this reason it becomes a bit urgent that we finish (re)writing the gitbook (introduction, product backlog and all the release 3.0.0 section, including documentation, device characterization and complete realisation guide). Let's do that for mid-May ?  Who's in for a doc-athon on weekend of May 8th ?  <@U0B47KC3S> <@U3QGT3Q74> <@U07UEJC2H> <@U4J138ZTL> <@U0AAL4W13> <@U0GMX7QUB>
+1493051116.712956> @U0AAL4W13: Why not? (reactions: @U37GZRZU6)
+1493051606.843051> @U0B47KC3S: great I am in :wink: :nerd_face: (reactions: @U37GZRZU6)
+1493053962.449579> @U3GHS132Q: It seems that I am not invited to participate so I will not lol (reactions: @U3GHS132Q)
+1493054483.582588> @U0AAL4W13: If there's any spare set of modules to play with during the doc a thon, that would greatly help
+1493054758.653832> @U38HVMZ6K: &gt; Who's in for a doc-athon on weekend of May 8th ? May 8th is a Monday :stuck_out_tongue_closed_eyes: 
+1493054805.665982> @U38HVMZ6K: 6th-7th I assume :blush: 
+1493054858.679598> @U38HVMZ6K: I'll be flying to Boston on 6th and jet-lagged on 7th 
+1493054873.683362> @U37GZRZU6: rbo: may 8th is a holiday in France ;)
+1493055077.737890> @U38HVMZ6K: Ok, lucky guys ! And 1st as well?
+1493055682.895778> @U3GHS132Q: 1st is the holy "fête du travail" ! I do not understand how can we enjoy work (above all for big companies), it should be "fête du travail" everyday !  What are you telling me that I will go to the fac like every days in week :joy: :joy: :joy:
+1493209469.905842> @U2PFHNN3C: definitely not a holiday in DE :slightly_smiling_face:
+1493646080.969673> @Hyacinthe: <@U0AAL4W13>: this one?
+1493646707.060897> @Hyacinthe: <@U0FN1B8KD>  this is the last report, It should interest you
+1493916045.283126> @U37GZRZU6: :studio_microphone: Just to remind you about our *amazing docathon* planned for this week-end :smiley:  Let's meet on Saturday @ 10:00am (and Sunday and even Monday if needed) Who's in ? :slightly_smiling_face: :slightly_smiling_face: :slightly_smiling_face:  <@U0B47KC3S> <@U3QGT3Q74> <@U4J138ZTL> <@U3GHS132Q> <@U07UEJC2H> <@U0GMX7QUB> <@U0AAL4W13> ?
+1493916161.313063> @U0B47KC3S: I am :monkey: (reactions: @U37GZRZU6,@U3QGT3Q74,@U3GHS132Q)
+1493916313.352787> @U3GHS132Q: <https://framadate.org/CiUFDJ4iKuOBZXZo> I can not be here Saturday but you can count on me for Sunday and Monday :slightly_smiling_face: (reactions: @U37GZRZU6,@U0B47KC3S)
+1493916351.363138> @U4J138ZTL: Maybe Saturday but i can't assure that I'll be there at 10 am  :ghost: more probably after lunch :mortar_board: (reactions: @U37GZRZU6)
+1493917894.776234> @U3QGT3Q74: I will be there on Saturday, and maybe Sunday  (reactions: @U37GZRZU6,@U0B47KC3S)
+1493918241.866680> @U0AAL4W13: Will be dropping by (reactions: @U37GZRZU6)
+1493925173.743896> @U37GZRZU6: You rock :muscle: 
+1494178672.254613> @U5ALNPVDL: <@U5ALNPVDL> has joined the channel

@@ -933,3 +933,120 @@
 1489670307.238424> @U0B47KC3S: <@U4J138ZTL> seems to be nice article, do they provide some code ?
 1489683712.248146> @U4J138ZTL: <@U4J138ZTL> and commented: Et Voilà !
 1489684318.476695> @U4J138ZTL: can you read this ? I can also send python code/jupiter Notebook.
+1490180400.622719> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1490208529.849603> @U37GZRZU6: Hey guys, we're about to launch the envelope detection challenge, but we need some backup to finalize the score assessment on the leaderboard (python+django), it might not need more than 1hour of development... Would someone have some spare time this week to help us?? ping <@U2PFHNN3C> <@U3GHS132Q> <@U0AAL4W13> :hatching_chick: :blush: :heart_eyes: :smiley_cat: :wink:
+1490209367.143906> @U2PFHNN3C: Just became available. Is it late for the meeting?
+1490209401.156262> @U2PFHNN3C: aurelie: can you please elaborate on the task at stake​?
+1490211651.882459> @U0B47KC3S: sorry <@U2PFHNN3C> I have just seen your post ! we finished 30mn ago and we are going to finish the <#C3F765DT7> meeting !
+1490211673.889256> @U2PFHNN3C: :disappointed: sorry, I was with a colleague and didn’t look at the clock
+1490212489.151268> @U37GZRZU6: Ping <@U20C8CKTL> :D by now the score is computed on the same image that is used in the notebook, we want to replace it by a loop that allows to evaluate the score on several images and then compute the average... Not that difficult to implement though, we just don't have time :/
+1490225221.488405> @U0B47KC3S: no worry <@U2PFHNN3C> :wink:
+1490225242.492167> @U0B47KC3S: Here’s the report of 22.03.17 SigProc meeting <https://echopen.gitbooks.io/echopen_prototyping/content/followup/meetings_sigproc.html> (reactions: @U2PFHNN3C,@U3QGT3Q74,@U37GZRZU6)
+1490271494.022322> @U20C8CKTL: Aurelie i suggest you to create a github issues. in github.
+1490278150.884790> @U3GHS132Q: I do not know python so I do not think that I will be useful... But I can try do it next week :slightly_smiling_face:
+1490278720.091251> @U20C8CKTL: <@U3GHS132Q> i can share the python basics and django basics with you next week. 1 april. :smile: it can be an open stuff with other people too. (reactions: @U37GZRZU6)
+1490281849.320447> @U2PFHNN3C: The Github issue is a good idea <@U20C8CKTL>. It provides clarity and allows to keep track of the changes. If the 1st of April is not late, let’s work on that then
+1490281979.372291> @U20C8CKTL: <@U2PFHNN3C>  ok !!! good !
+1490347222.960871> @U3GHS132Q: <@U20C8CKTL> I know a bit of python (basic scripting and object programming) but I never used django.
+1490350550.651474> @U20C8CKTL: <@U3GHS132Q> i think it's enought to understand django basics
+1490355208.542102> @U20C8CKTL: bon, on est tous français dans le thread :slightly_smiling_face:, je vais vous envoyer une petite note ce week end avec les grandes lignes du principe de django et des concepts à connaitre. ça reste du web quand même. ça peut plaire comme ça peut ne pas plaire. :smile:
+1490549805.603196> @U0AAL4W13: About the enveloppe detector, someone had earlier spoken about the LTC5507ES6 -- that's easier to solder, that's 3.6$, and in a TSOT-23-6  package
+1490611869.757880> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1490645386.071911> @U0AAL4W13: Interesting read at <http://www.rochester.edu/newscenter/new-needle-pulse-beam-pattern-packs-a-punch-212412/> :smiley:
+1490781600.608939> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1491386400.522500> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1491397783.909666> @U0AAL4W13: <@U37GZRZU6> sigproc maintained?
+1491397898.944401> @U37GZRZU6: <@U0AAL4W13> yes :+1: on the agenda : documentation, yeeees :smile:
+1491427232.302550> @U20C8CKTL: it would be interesting to compare udp to tcp or bluetooth speed and redpitaya or other soc load. we don't all the anticollision stuff as the discussion is between probe  and redpitaya. IMHO
+1491427370.340172> @U3GHS132Q: Energy matters too
+1491427378.342222> @U0AAL4W13: Unsure if that's really a bottleneck.. and doesn't really compare as there's no integrity check
+1491427409.350766> @U20C8CKTL: <@U0AAL4W13> <@U3GHS132Q> ok
+1491427792.456259> @U3GHS132Q: Moreover the formula for bandwith bottleneck is simple : We have to send `lines * samples * sizeof_bit(sample) * fps`  In our case :  * lines = 64, * samples = 1024, * samples are 2 bytes so 16 bits * fps = 15 because we want to show 15 frames per second  So the bandwith of the communication medium have to be greater than : 15 728 640 bits per second (we can approximate to 16 Mbps).
+1491428017.518173> @U0AAL4W13: That's FAAT
+1491473544.640164> @U38HVMZ6K: <@U3GHS132Q> `lines * samples * sizeof_bit(sample) * fps` is the size of raw useful payload data you want to transmit! Don't forget the overhead introduced by: - Link layer (MAC for WiFi or Ethernet, Bluetooth headers for BT) - Network layer (IP headers) - Transport layer /TCP or UDP)
+1491473579.649587> @U38HVMZ6K: by experience, UDP is always the best choice for soft real-time applications (video, imaging,...)
+1491473725.686953> @U38HVMZ6K: TCP not only has more overhead (bigger headers) but typically also more latency (ACK packets, higher bufferization, packets reordering, back-off times,...)
+1491473809.708601> @U38HVMZ6K: Real-time data are then best transmitted over UDP but UDP offers far less functionalities and needs either a custom protocol on top of it to be able to detect lost packets, handle synchronization and re-synchronization after a lost packet,...)
+1491473916.737404> @U38HVMZ6K: There are also standardized protocols like RTP (<https://en.wikipedia.org/wiki/Real-time_Transport_Protocol>) which specifies and implements a standard on top of UDP to handles all these issues.
+1491473946.742883> @U38HVMZ6K: RTP is used a lot in Voice/Video over IP and other video streaming protocols/applications
+1491474139.779690> @U38HVMZ6K: Moreover, RTP is used as the transport layer for WebRTC (<https://en.wikipedia.org/wiki/WebRTC>) which could be of interest in the long term.
+1491474236.798025> @U38HVMZ6K: For a medical application, SRTP (the secured/encrypted version of RTP) has to be used: <https://en.wikipedia.org/wiki/Secure_Real-time_Transport_Protocol> (reactions: @U0AAL4W13,@U3GHS132Q)
+1491478686.666665> @U3GHS132Q: <@U38HVMZ6K> Of course but if we can not provide the bandwith defined by the formula we are in deep trouble and have to think to other medium. SRTP seems interesting, it seems that Cisco provides an open source implementation <https://github.com/cisco/libsrtp> ?
+1491479022.728873> @U3GHS132Q: And it is available on Ubuntu through apt <https://launchpad.net/ubuntu/+source/srtp> :smile: :smile: :smile:
+1491492013.767577> @U38HVMZ6K: <@U3GHS132Q> &gt; if we can not provide the bandwith defined by the formula we are in deep trouble and have to think to other medium. sure, the base formula says us that we would need a datalink with a bandwidth &gt;=20Mbps (acounting for headers overhead, underuse of packet size,...)
+1491492274.869793> @U38HVMZ6K: this tell us right away that Bluetooth is not an option (max 3Mbps in very very best case) and that WiFi should fit but not 802.11b (11Mbps) only 802.11g (54Mbps) or 802.11n (150-600 Mbps)
+1491493383.309110> @U0AAL4W13: Or using a USB cable maybe? ;)
+1491493444.332001> @U3QGT3Q74: Also don't forget we can use encoding that can divide by 10 bandwidth requirements
+1491493509.357608> @U0AAL4W13: Soon many options, implications, and checks for compliance to do !
+1491493590.389291> @U38HVMZ6K: yep. encoding/compression is an option. And I'm not sure that we need to transmit the raw acquired data or if processing is done on the probe and we only send a video stream...
+1491493625.402923> @U38HVMZ6K: I'm not up to date with the latest discussions/decisions on where processing is done (on the probe vs on the smartphone)
+1491493654.414438> @U38HVMZ6K: if done on the probe we can drastically reduce the bandwidth as well
+1491493697.430925> @U3QGT3Q74: 'envelop detection' is currently done on mobile app but it will be definitely done on embed part in the end. I let <@U37GZRZU6>  confirm (reactions: @U37GZRZU6)
+1491493752.452528> @U38HVMZ6K: compression/encoding is often tricky and needs a good deal experimentation on size gain vs compression/encoding time to avoid too big latencies or bad quality images
+1491493878.500400> @U38HVMZ6K: realtime/on-the-go encoding is difficult whenever possible without hardware support
+1491493937.522890> @U38HVMZ6K: the embedded processor on the probe should then have an hardware codec for encoding in real-time without impacting (too much) CPU load
+1491496189.351874> @U3GHS132Q: What is the difference between encoding and compressing ? Moreover is we compress the data we have to decompress it when received and the cost for uncompressing can not be neglected.
+1491503550.926600> @U38HVMZ6K: Encoding and compression achieve the same goal (reduce data size or bandwidth) but they do it in different ways.
+1491503779.008692> @U38HVMZ6K: Compression like zip, gzip, lzma,... are used to compress data independently of the payload being compressed. You can compress anything (images, sound files, text files,...) with a compression algorithm/tool. Compression algorithms are most of the time lossless (you can retrieve an exact copy of the original file after decompression).
+1491503912.055526> @U38HVMZ6K: Encoding is most often "aware" of the content, its format, its semantics,... The encoding algorithm then uses some specificities of the format to derive a smaller file but this is often with some loss in quality.
+1491504184.151198> @U38HVMZ6K: For example, MP3 audio encoding, among others tricks, removes some audio frequencies (not hearable frequencies by most humans) of the original file to reduce its size. In this case encoding is not lossless (you definitely lost some information you will never be able to retrieve again).  (reactions: @U20C8CKTL,@U2PFHNN3C)
+1491505607.648934> @U37GZRZU6: :clap: thanks <@U38HVMZ6K> for this very interesting lecture :smiley:  (reactions: @U2PFHNN3C)
+1491508868.704098> @U3GHS132Q: Thank you for the reminding.
+1491508961.736383> @U3GHS132Q: Sometimes I should do work the coffeepot which serves me as a head before asking something &gt;&lt;
+1491554165.922919> @U07UEJC2H: <@U3QGT3Q74>, yes for the moment the envelope detection is made by the app, but in the future it will be done in the device and we "resampling" at a smaller frequency each line to reduce data amount to sent (and/or compression/encoding)
+1491592165.354470> @U20C8CKTL: <@U2PFHNN3C> <@U37GZRZU6> i work for a customer on object detection, and i have on trivial question for you : do you consider haar training a good method for object detection ?
+1491593152.638773> @U37GZRZU6: I don't know this one :D I'm not an expert at all in object detection, but usually we try different models and find a way to compare the performances! I let master <@U2PFHNN3C> give his holy advice ;) (reactions: @U20C8CKTL)
+1491742834.069186> @U2PFHNN3C: Hey guys, dunno why, Slack was not notifying me, so I just saw your messages :disappointed:. Haar filters + AdaBoost was the state of the art in real-time detection, especially combined with cascaded architecture (cf. Viola-Jones cascade and the 100 papers that followed that up :slightly_smiling_face: ). I think today, you should simply go by a ConvNet :slightly_smiling_face: depending on your other constraints (reactions: @U37GZRZU6,@U20C8CKTL)
+1491806748.342504> @U0AAL4W13: <@U0AAL4W13> and commented: luc 8:44 AM if some unprocessed images are needed (or videos) one can use this as a benchmark from the chinese single element probe  :smiley:
+1491816452.172757> @U0B47KC3S: you mean it is non scan converted image ?
+1491817013.294720> @U0AAL4W13: Yup
+1491817255.345547> @U0B47KC3S: what image this corresponds to ?
+1491821337.127169> @U0AAL4W13: Pebble like potatoes (1cm dia) in a glass of water. Did not have the time to scan convert it though. Images are 128x512
+1491940567.525597> @U0AAL4W13: (viewable as well as a DICOM at <http://www.dicomlibrary.com/meddream/?study=1.2.826.0.1.3680043.8.1055.1.20170411215409237.878569250.8160869> :smiley: )
+1491991200.966665> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1491996620.966404> @U20C8CKTL: the git-flow branching model. very usefull for software developpement : <http://nvie.com/posts/a-successful-git-branching-model/>
+1491996689.978724> @U38HVMZ6K: <@U20C8CKTL>: yep very useful. I talked about it in the <#C0KP6DWSG> channel when discussing git work flows we could use
+1491996713.982885> @U38HVMZ6K: I used this flow on several projects and it was nice and clear
+1491996725.984971> @U20C8CKTL: <@U38HVMZ6K>  ok. i missed that.
+1491996887.013123> @U38HVMZ6K: the issue for us is that the flow is based on branches and not on forks+pull requests which was chosen for echopen
+1491996932.021085> @U38HVMZ6K: it can be adapted but the philosophy is a bit different
+1491997037.039671> @U20C8CKTL: a yes, i guess theses fork could be integrated  with the pink side of the tree, in features.
+1491997142.058159> @U38HVMZ6K: yep and merges from pink to yellow are done through pull requests and not git merges between branches
+1491997171.063429> @U20C8CKTL: yes
+1491999486.513224> @U3GHS132Q: &gt; the issue for us is that the flow is based on branches and not on forks+pull requests which was chosen for echopen I am not sure but I do no think that fork/pull request has to be the workflow for all team. I remember that <@U37GZRZU6> said that each team can organize like they want (while it is working of course)
+1491999687.556678> @U38HVMZ6K: Yes but not using fork+pull request implies that you have to give write access to anyone wanting to contribute which is also not necessarily a good idea.
+1491999846.590498> @U37GZRZU6: (why is this discussion happening in the sigproc channel? I think it would interest all medtec contributors :wink: )
+1491999900.602790> @U38HVMZ6K: <@U37GZRZU6>, it's a natural deviation from <@U20C8CKTL> initial post on git-flow :slightly_smiling_face:
+1492000312.696174> @U37GZRZU6: Indeed I proposed that each team organizes as they want, but I agree with <@U38HVMZ6K> as regards write access. Actually the team structure we adopted is naturally suited for fork+PR workflow (with at least one maintainer per team who's in charge of reviewing PRs) and this is the workflow I described in our prototyping notebook <https://echopen.gitbooks.io/echopen_prototyping/content/howto/method.html>  That being said, I think you guys are more used to github workflows than I am, for this reason nothing is written in stone and we might change workflows depending on your needs/opinions in the future :wink: (reactions: @U38HVMZ6K,@U0AAL4W13)
+1492000669.778438> @U3GHS132Q: Ok, I change the workflow for embsys team to use the same as Linux kernel ! What ? Are you saying that me it is approximately the same as the one we use but instead of pull request they send patch through mailing list ? --&gt;[]
+1492000767.800875> @U0AAL4W13: aurelie: hum sometimes I see you pushing straight to main répo ? ... ;)
+1492000784.804765> @U20C8CKTL: LOOOOOL, délatiooooon ! :smile:
+1492001114.882451> @U38HVMZ6K: well, the Linux work flow is not as simple as sending patches (~=pull-requests) to a mailing-list. It's a whole hierarchical infrastructure with many subsystems, many maintainers, many mailing-lists and git trees organized in a very structured way. The holy grail is Linus mainline repository (<https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git>) but to get your code there you first have to go through several layers of mailing-lists, reviews, patches iterations,...
+1492001198.903045> @U37GZRZU6: yes indeed <@U0AAL4W13> , only for the prototyping gitbook, not for contributing repos! this is to avoid sending a PR at the least correction I do, but if you want I can make you maintainer of the prototyping gitbook and send you a PR each time I write a character in the gitbook?  :slightly_smiling_face:
+1492001204.904490> @U38HVMZ6K: <https://git.kernel.org/> gives the full list of parallel git trees used for Linux kernel and tools development
+1492001252.916449> @U38HVMZ6K: amazing how such a jungle of repositories can lead to state-of-the-art software! The only reason it works is: discipline and clear processes
+1492001399.951598> @U20C8CKTL: <@U37GZRZU6>  maybe be it can be possible to use an automatic pr merging. because by doing master commit  you lose the automatic issus closing when you comment your pr with #issus_number (reactions: @U37GZRZU6)
+1492001406.953447> @U0AAL4W13: Humppf let's discuss it tonight ? ;)
+1492001523.982155> @U3GHS132Q: I do not need you to explain me something that I already know lol
+1492001639.010398> @U37GZRZU6: <@U20C8CKTL> if you know how to do that I'd go for that :wink: however now I find the idea funny of ringing <@U0AAL4W13> each time I write a new sentence in the gitbook, hope he will applaude :stuck_out_tongue: (reactions: @U3GHS132Q,@U20C8CKTL,@U20C8CKTL)
+1492020619.717864> @U4YCKBDR8: <@U4YCKBDR8> has joined the channel
+1492032843.668076> @U0AAL4W13: Code to create this DICOM comes from <https://github.com/kelu124/kina/blob/master/20170411-DICOM.ipynb> . The previous notebook was showing what is in the arrays. ping <@U20C8CKTL> <@U1PAGSKGU> <@U37GZRZU6> when it comes storing images / raw data -&gt; DICOM may very well be the place to be.
+1492130539.312932> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492588222.606710> @U0AAL4W13: Last week we were discussing data format, considering dicom  as a format . Here are some notes of quite some time ago too :  <http://wiki.echopen.org/index.php/Challenge:_Data_format#Solution:_Common_rules_for_structuring_raw_data>
+1492588242.610521> @U0AAL4W13: I believe this may well still be a challenge today, agreeing on a data format
+1492588479.656147> @U0AAL4W13: (BTW dicom can store both raw signal or raw image as it just encapsulate data)
+1492596000.369826> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1492870629.239109> @U4J138ZTL: I did my first pull request !!! <@U37GZRZU6> <@U37GZRZU6> <@U37GZRZU6> (reactions: @U0AAL4W13,@U0B47KC3S,@U37GZRZU6,@U37GZRZU6)
+1492870669.241603> @U4J138ZTL: :tada:
+1493200800.836447> @USLACKBOT: Reminder: :mega: a memo for our weekly meeting  on wednesday.
+1493201614.010597> @U0AAL4W13: Some remarks on image metrics for tonight at <https://github.com/kelu124/echopen_prototyping/blob/master/inprogress/IMGQ_metrics.md> ( pull request en progress)
+1493654947.605689> @U0AAL4W13: for some images datasets: <ftp://medical.nema.org/medical/dicom/DataSets/WG12/> :wink:
+1493655961.871873> @U0AAL4W13: <@U0AAL4W13> and commented: With the same ADC, getting the signal, and comparing digital solutions (Hilbert and BiVi transform) vs analog solutions.
+1493656152.924655> @Hyacinthe: <@U0AAL4W13>: Getting the amplified signal, and comparing the digital vs analog envelope detection. Signal and envelope have been acquired by the same device.
+1493667089.170078> @U0AAL4W13: <@U37GZRZU6> I'm using Aeskulap on Linux btw for viewing the DICOMs
+1493720315.629178> @U20C8CKTL: hi , after some discussion with <@U3QGT3Q74>  and <@U0AAL4W13> i think we need some data aqcuisition and storage strategy. for instance we need ultrasonic raw images, without annotation, and this task is not easy.
+1493720357.636741> @U20C8CKTL: i will open an issues(projet?), on it if <@U37GZRZU6> is agree and i will take the lead on this topic. (reactions: @U0AAL4W13)
+1493721469.824564> @U0AAL4W13: <@U20C8CKTL> do you think dicom would be the good format?
+1493721575.841635> @U38HVMZ6K: Data acquisition and storage on the device or in the backend to store data from experiments in a "library" ?
+1493721738.868552> @U20C8CKTL: <@U38HVMZ6K>, <@U0AAL4W13> 1- ultrasonic images from our protoype and from outside build in the dicom format (best), or at least bmp images, in a ftp. The dicom library in python is outdated.
+1493721885.891639> @U3GHS132Q: &gt; storage on the device For me storage as to be on the smartphone/tablet/whatever_which_is_used_to_see_the_pictures

@@ -67,3 +67,43 @@
 1488353694.000004> @U20C8CKTL: <@U20C8CKTL> has joined the channel
 1488353695.000005> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
 1488397653.000006> @U0AAL4W13: <https://www.mirbsd.org/wlog-10_all.htm> :smiley:
+1490002423.627029> @U0AAL4W13: to bounce on <@U38HVMZ6K> comment on licences for <@U4KSRKW9W> , especially  "echopen General Public License" <https://github.com/echopen/PRJ-medtec_kit/blob/master/license/echopen_general_public_licence_20150915.wiki> - there's a description at 11. Patents of the rights granted by the contributor. Quite explicit that there's no need for copyright assignment from these lines - ping <@U0B47KC3S> following our chat last sunday
+1490002425.627484> @U0B47KC3S: <@U0B47KC3S> has joined the channel
+1490002520.646198> @U0AAL4W13: and for the chat with <@U3GHS132Q> - see <https://www.mirbsd.org/wlog-10_all.htm> for github questions :)
+1490006452.443935> @U3GHS132Q: <@U0AAL4W13> thank you for the link
+1490006526.457522> @U3GHS132Q: About licenses' problem I ask myself some question about the use of FFTW since this library is licensed under GPL3. Does its usage will force us to put the android app under GPL3 (which is for me not a problem :stuck_out_tongue: :stuck_out_tongue: :stuck_out_tongue: ) ?
+1490007613.669854> @U38HVMZ6K: <@U3GHS132Q> , yes, if you use the GPL-licensed version of FFTW, you'll have to license your application under a GPLv3-compatible license. This is not necessarily GPLv3 but hardly recommended. For a list of licenses compatible with GPL see: <https://www.gnu.org/licenses/license-list.en.html#GPLCompatibleLicenses> and <https://www.gnu.org/licenses/license-compatibility.en.html>
+1490007720.692241> @U38HVMZ6K: if needed, a non-free license of FFTW can be obtained (<http://www.fftw.org/>: "Non-free licenses may also be purchased from MIT, for users who do not want their programs protected by the GPL")
+1490010044.118559> @U0AAL4W13: the #eiffel license is gplv3 compatible ;)
+1490010077.124449> @U0AAL4W13: More seriously it seems gplv3 can work with modified bsd licenses 
+1490024887.624477> @U38HVMZ6K: This is a tricky area... You can use BSD licensed libraries in an application you release under GPL but AFAIK your application must then be licensed under GPL as well.
+1490024956.651886> @U38HVMZ6K: Saying that BSD is compatible with GNU GPL means that the BSD license allows this "re-licensing" of the original work into GPL.
+1490024987.664089> @U38HVMZ6K: This is already quite old but was good help at the time I read it <http://www.newmediarights.org/open_source/new_media_rights_open_source_licensing_guide>
+1490025014.674575> @U38HVMZ6K: "The GPL license is ‘viral,’ meaning any derivative work you create containing even the smallest portion of the previously GPL licensed software must also be licensed under the GPL license."
+1490025090.704523> @U38HVMZ6K: In my understanding, you can use GPL-compatible components in a GPL-licensed application (e.g. BSD library in an application you release under GPL).
+1490025139.723559> @U38HVMZ6K: The opposite is not true. You cannot use GPL-licensed code/libraries in an application you release under any other license.
+1490025166.734707> @U38HVMZ6K: The 'viral' nature of GPL is the difference...
+1490025245.765106> @U38HVMZ6K: As soon as you touch GPL, you automatically become GPL.
+1490027954.792509> @U3GHS132Q: &gt; As soon as you touch GPL, you automatically become GPL. <@U38HVMZ6K> I understand the same thing (reactions: @U0AAL4W13)
+1490028112.850581> @U38HVMZ6K: so the 3 alternatives are: 1. keep the Android App under a BSD license (or similar) and buy a FFTW license if FFTW is needed 2. don't use FFTW  3. re-license the Android App under GPL (contaminated by FFTW)
+1490028138.860002> @U38HVMZ6K: I would personnally go for 1 or 2 but not re-license under GPL
+1490028229.893208> @U38HVMZ6K: I know this topic has already been discussed many times but this is really a difficult and moving area where inputs by   law specialists would really help the poor engineers we are :slightly_smiling_face: (reactions: @U3GHS132Q)
+1490028495.992276> @U38HVMZ6K: Regarding Android, the whole licensing topic should be clear as well. I know that Google rewrote some major parts of Android themselves partially for licensing reasons (bionic libc vs glibc) or changed some subcomponents to move away from GPL: e.g. Bluedroid stack (Apache 2.0) used instead of Bluez (GPL)
+1490028933.159763> @U0B47KC3S: btw <@U3QGT3Q74> just found a renderscript implemention of FFT :wink: it is under BSD3 licence
+1490032125.347326> @U3GHS132Q: Anyway if we have to FFT we will do it on the device so we do not have to argue a lot about FFTW and the android app just to keep it in mind :slightly_smiling_face:
+1490611890.925468> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1492130498.817484> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492491781.316873> @U38HVMZ6K: Regarding patents, a very interesting article: <http://www.economist.com/news/special-report/21720076-copycats-are-out-innovators-are-shenzhen-hothouse-innovation> ping <@U0AAL4W13> "Shenzhen shrug" is getting professional and aligning/taking over on other parts of the world...
+1492497075.256889> @U0AAL4W13: Yup.. Interesting !
+1492505345.978103> @U3GHS132Q: You post an article about patent in <#C07SRLVGD> ? Seriously ?
+1492505643.083687> @U38HVMZ6K: This ils where licenses, patents, copyrights and copylefts have been discussed so far. For your information, the channel name also includes "legal" and not only "opensource". Patents are a legal concept/issue. Any suggestion for a better channel where to post is welcome.
+1492505722.113878> @U38HVMZ6K: And for your information, patents and open source are not contradictory. If you want to guarantee free and open access to your technology you often fill a protective patent.
+1492505783.138088> @U38HVMZ6K: This was an option which was discussed for echOpen at some point. Clear out with <@U04DFTZ7D>  and <@U0B47KC3S>  to get the latest info on this.
+1492505801.144999> @U3GHS132Q: I know that it is possible to fill patent and being open source like Mozilla does
+1492505844.162115> @U3GHS132Q: But seriously you link the economist, do you think that it is about open source patent ?  &gt; Any suggestion for a better channel where to post is welcome. Yes : #prj_proprietary_hell or simply <#C04DFTZ81>
+1492550651.799983> @U0AAL4W13: <@U3GHS132Q> the content of the remark (shenzen scaling up and better) is of deep interest to me. I'm really convinced that an intelligent partnership with shenzen - the real cradle of building and selling "opensource" devices - is a powerful leverage in designing low cost, efficient devices from elementary bricks. They still lack some certification skills but that won't last long. 
+1492550739.824058> @U0AAL4W13: The rapidity at which these guys operates, building smartly on what exists, what plans/source they have, and to make devices people do need is the trademark of the real hacker craftmanship.
+1492550871.860211> @U0AAL4W13: They are doing single elements probes at 800$ and piezo arrays probes at 1400$, using quick and dirty tricks - fine with me. They have left code behind them and in practice they deliver hackable devices (even the Matlab code they used for their fpga), that enables good hacks.
+1492550879.862587> @U0AAL4W13: Proof: esp8266 ;) (reactions: @U38HVMZ6K)
+1493234493.995216> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1494484390.466296> @U0AAL4W13: Some pointers on tensorflow approach to cla:  <https://cla.developers.google.com/clas/new?domain=DOMAIN_GOOGLE&amp;kind=KIND_INDIVIDUAL> 

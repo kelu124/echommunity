@@ -68,3 +68,124 @@
 1489775395.237853> @U0B47KC3S: tOp !
 1489775409.242609> @U2PFHNN3C: J’ai pris la doc de gitbook ainsi que ses (superbes) illustrations
 1489775420.246621> @U0B47KC3S: nice :wink:
+1490039919.709902> @U0AAL4W13: Some news on DeepMind and health : <http://www.theverge.com/2017/3/16/14932764/deepmind-google-uk-nhs-health-data-analysis> :smiley:
+1490080286.319186> @U2PFHNN3C: <https://romeo.univ-reims.fr/projet.php?id=172_Cp7YNPThlL6TGhV> (reactions: @U0B47KC3S,@U37GZRZU6,@U0AAL4W13)
+1490080381.331161> @U2PFHNN3C: Dans la description courte, j’ai glissé que de potentiels challenges pourraient être organisés, nécessitant de ce fait le support de ROMEO
+1490080882.392599> @U0B47KC3S: great djalel ! :wink:
+1490167723.762256> @U0AAL4W13: there this one guy not bad in ai, which is resigning from his job to work for the ai community at large, maybe interesting to recruit him?
+1490167727.762774> @U0AAL4W13: <https://medium.com/@andrewng/opening-a-new-chapter-of-my-work-in-ai-c6a4d1595d7b#.k66s2qz2j> (reactions: @U37GZRZU6)
+1490170299.158480> @U2PFHNN3C: whatever this guys touches becomes gold...
+1490170550.202009> @U2PFHNN3C: Tout le monde est ultra chaud sur l’IA en ce moment… <http://www.economie.gouv.fr/files/files/PDF/2017/Rapport_synthese_France_IA_.pdf>
+1490170788.245197> @U0AAL4W13: What is sweet is that he is keen on teaching , and open to develop his community
+1490170798.247154> @U0AAL4W13: I used to follow his classes on coursera
+1490171175.315734> @U0B47KC3S: yes why not ping him one of these days !
+1490350945.594373> @U0B47KC3S: I am currently at a working session between Academy of Sciences and Academy of Medicine
+1490350949.595376> @U0B47KC3S: This was created in the wake of epidemium, an open challenge on Big Data and oncology that we coordinate with <@U04DFTZ7D>
+1490350955.596714> @U0B47KC3S: We have just had a presentation of Johan BRAG around progress and prospects in AI in medical imaging #ThunderBlasting :zap::zap::zap:
+1490350957.597022> @U0B47KC3S: I will feedback you on wednesday, especially on sophisticated mathematics metrics to compare image or to get a digital signature of them :nerd_face:
+1490372065.021598> @U0B47KC3S: <@U2PFHNN3C> great news, we are eligible for ARF through Université Paris Descartes, our contact will be Daniele Dywan :wink: !
+1490372339.126717> @U2PFHNN3C: Top :) <@U0B47KC3S>. She's an admin ?
+1490372450.169013> @U0B47KC3S: yes !
+1490372959.368139> @U37GZRZU6: What's arf? :)
+1490380646.211233> @U2PFHNN3C: no more registrations at ICLR :((((((((((
+1490381001.333943> @U37GZRZU6: Seriously?? I hope the secretary did it on time for us :astonished: 
+1490729724.612821> @U2PFHNN3C: So here is how a “knowledge base” that would allow us to work collaboratively looks like <http://134.158.74.234:8080/feed>
+1490729762.625890> @U2PFHNN3C: the workflow is: you write a jupyter notebook, Rmd, or some markdown notes, you push that into your repo, you send a PR and it’s merged into the common knowledge base
+1490731957.401126> @U0B47KC3S: excellent <@U2PFHNN3C> :wink:
+1490733678.015098> @U0AAL4W13: Looks like a mix of blog posts and commits - fun :smiley:
+1490734043.141507> @U2PFHNN3C: yeah, it’s a hack mixing git, flask, and notebooks
+1490734075.152940> @U2PFHNN3C: flask is connected to a database so it can be updated on the fly, it allows comments, tags etc
+1490734085.156192> @U2PFHNN3C: and even mail subscription I think
+1490736805.027674> @U2PFHNN3C:  set up a reminder “speed meeting every Tuesday at 18:30” in this channel at 9AM every Tuesday, Central European Summer Time.
+1490736872.046898> @U2PFHNN3C:  set up a reminder about “Weekly speed meeting” in this channel at 6:30PM every Tuesday, Central European Summer Time. (reactions: @U0B47KC3S)
+1491323400.565273> @USLACKBOT: Reminder: Weekly speed meeting.
+1491323610.647443> @U2PFHNN3C: Who’s in?
+1491323928.767926> @U37GZRZU6: <@U2PFHNN3C> we're available, do you have a link for the hangout ?
+1491324012.798877> @U37GZRZU6: we joined last week's call : <https://hangouts.google.com/hangouts/_/calendar/ZGphbGVsLmJlbmJvdXppZEBnbWFpbC5jb20._6933adpj88qjcb9i6op3ib9k651j8b9o6srk6b9i89244e1k8913ag9g8c?authuser=0>
+1491324053.814613> @U2PFHNN3C: Good, this is what I had copied anyway
+1491324234.882583> @U37GZRZU6: <@U2PFHNN3C> where are you ? :hatching_chick:
+1491324247.887446> @U2PFHNN3C: vous me voyez pas?
+1491325735.463645> @U2PFHNN3C: <https://www.youtube.com/watch?v=MHTizZ_XcUM&amp;feature=youtu.be>
+1491326233.649917> @U2PFHNN3C: could be useful to the phantom/aquarium
+1491838525.859871> @U37GZRZU6:  Basic medical image analysis in python + links to potentially useful websites, including dicom images library  <https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html#%2EWOZognkqOL0%2Elinkedin>
+1491839961.439691> @U0AAL4W13: Thanks ;)
+1491920634.851698> @U37GZRZU6: <@U2PFHNN3C> is there a meeting today? corollary question : why did the reminder not work?
+1491923551.104186> @U2PFHNN3C: <@U37GZRZU6> it rings at 18:30 ;)
+1491923608.128740> @U37GZRZU6: djabbz [11:33 PM]  set up a reminder “speed meeting every Tuesday at 18:30” in this channel at 9AM every Tuesday, Central European Summer Time. :thinking_face:
+1491923987.290961> @U2PFHNN3C: *In this channel*: • Remind  about “Weekly speed meeting” at 6:30PM every Tuesday. Delete  *Past and incomplete*: • About this message from <@U37GZRZU6> in   Complete · Delete · Snooze: 15 mins · 1 hr · Tomorrow  Close list (reactions: @U37GZRZU6)
+1491924789.634191> @U2PFHNN3C: as-tu essayé `/reminder list` ?
+1491928200.020493> @USLACKBOT: Reminder: Weekly speed meeting.
+1491928300.059434> @U2PFHNN3C: <@U37GZRZU6> see? :slightly_smiling_face:
+1491928307.062001> @U2PFHNN3C: who’s in?
+1491928401.096670> @U37GZRZU6: it seems that no one's in...
+1491928407.099597> @U2PFHNN3C: only the two us?
+1491928412.101290> @U2PFHNN3C: call on the phone?
+1491928478.126026> @U2PFHNN3C: it shouldn’t be long. My main points: - I attended a student presentation today which tackled ultrasound images with weak supervision and I’m happy about that - we urgently need labeled data :slightly_smiling_face:
+1491928513.138701> @U37GZRZU6: ping <@U0B47KC3S> :smile:
+1491928700.208046> @U2PFHNN3C: Bref, ça servira de confcall asynchrone… : my take home message: visualization is essential. The interface must give some feedback to the practitioner, telling him why it’s saying there is some anomaly etc.
+1491928706.210311> @U0B47KC3S: hi there, I won’t be available for that meeting. However, I am trying to connect to Paris Descartes for the ARF application. Btw, Aurelie and I have a meeting thursday with the datalake guys to know more about image data we can get !
+1491928892.278391> @U2PFHNN3C:  set up a reminder “Just a friendly reminder that there is a meeting later” in this channel at 1PM every weekday, Central European Summer Time.
+1491928974.308257> @U2PFHNN3C: It seems possible to do train ConvNets with a weak supervision (i.e only the diagnosis for instance) and still ask for a (sort of) segmentation of the image, which is a good news
+1491928996.315647> @U2PFHNN3C: there is a recent paper (2014) that proposes a method
+1491929051.336123> @U2PFHNN3C: Second take-home message for me: again, the UX should work hand in hand with the AI team in order to both collect data and give the right feedback to the user, in a principled and ergonomic way
+1491929168.379189> @U2PFHNN3C: Third take home message (car jamais 2 sans 3, devise des 2b3, auteurs de notre hymne officiel): we need to gather some data quickly, 2000 images min, 10k would be good. Then, if the label is not available, crowdsource it from a committee of doctors. The idea is to have a collegial decision for each image.
+1491929203.392482> @U2PFHNN3C: Also, the data collection protocol needs to be specified, which anatomical parts, which planes, number of different patients, etc.
+1491929321.435389> @U37GZRZU6: <@U2PFHNN3C> you made me think (this thought is validated by president <@U0B47KC3S> :upside_down_face: ) that it would be OUFISSIME that you put those kind of remarks (about collecting data etc...) in the product backlog, because actually that's exactly what it stands for ! What do you think ? <https://echopen.gitbooks.io/echopen_prototyping/backlog/backlog.html>
+1491929352.446376> @U37GZRZU6: <@U0B47KC3S> <@U3QGT3Q74> are working on the "specs" part I think it should include what you are saying
+1491929355.447569> @U2PFHNN3C: <@U37GZRZU6> I was thinking about this, thanks for the reminder :slightly_smiling_face: (reactions: @U37GZRZU6)
+1491929453.484133> @U2PFHNN3C: OUFISSIME? you mean awfsome? (reactions: @U37GZRZU6)
+1491929624.547220> @U0B47KC3S: <@U2PFHNN3C> got it for your request ! I am going to check what is available under the hood
+1491929797.612285> @U2PFHNN3C: <@U0B47KC3S> oufsome !
+1491929949.670621> @U37GZRZU6: <@U2PFHNN3C> what's your github account ?
+1491929956.673040> @U2PFHNN3C: djalelbbz
+1491930477.875341> @U2PFHNN3C: thanks <@U37GZRZU6> :wink: (reactions: @U37GZRZU6)
+1491994800.578840> @USLACKBOT: Reminder: Just a friendly reminder that there is a meeting later. (reactions: @U37GZRZU6)
+1491996810.976529> @U37GZRZU6: <@U2PFHNN3C> please do something for the reminder :joy: 
+1491996889.992076> @U2PFHNN3C: <@U37GZRZU6> oh my bad, probably out of excessive enthusiasm, I set it up for the whole week… (reactions: @U37GZRZU6)
+1492002024.206168> @U2PFHNN3C: Just to notice, I’ll be remote working from Paris tomorrow, so I’ll probably come and say hello at the Hotel-Dieu at some point (reactions: @U37GZRZU6,@U0B47KC3S)
+1492002185.257134> @U37GZRZU6: pour info le matin on est en réunion et l'aprem après 16h aussi, pour le reste je ne connais pas l'agenda personnel de <@U0B47KC3S> :wink:
+1492113815.148901> @U0AAL4W13: Just discussed with a student who wants to do elastography with neural networks :p
+1492130546.740087> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492182727.258773> @U2PFHNN3C: Just in case you missed this excellent blog post <http://distill.pub/2017/momentum/>
+1492184849.899503> @U4YF0KAJU: Hi everyone, glad to be involved here. I have worked previously on applying machine learning to chest radiographs using standard “off the shelf” published models (ie. googlenet). Can see publication here: <https://www.ncbi.nlm.nih.gov/pubmed/27922974> (reactions: @U37GZRZU6)
+1492184947.928912> @U4YF0KAJU: I have thought about applying similar models to ultrasound for the purpose of organ identification. The way I see it (as a radiologist) when we learn to diagnose the very first step is to know what you are looking at. Therefore, one fundamental tool to computer-aided diagnosis with ultrasound will be reliable organ identification.
+1492185195.003228> @U4YF0KAJU: I am trying to get my hands on some ultrasound data to do this. As I am new to echopen, I don’t know how far along the hardware/software components are and hence the impact of differences in image quality between a medical grade ultrasound image vs. echopen.
+1492206626.847889> @U2PFHNN3C: Very good initiative <@U4YF0KAJU>! Ultrasound data is apparently not as much prevalent as other medical imaging data. If you have any hint on that, it’d be great
+1492206920.907574> @U2PFHNN3C: The question of knowledge transfer from different ultrasound devices with different image quality is still an open question to me. IMO the best would be to start something off, with any data available, then use it as weight initialisation to learn from echopen data.
+1492207097.942651> @U2PFHNN3C: I’ve met a student a few days ago who did his masters thesis on convnets on ultrasound images. He had to collect the data and annotate it himself :confused:
+1492271053.372470> @U4YF0KAJU: Yeah I agree. I am confident I can get a hold of some data. I think the best place to start would be abdomen and pelvis studies. If obtained from a reputable center, I have an idea on how to (semi-)automatically label the images. All ultrasound images get labelled by the technologists (i.e. Rt Kid, Lt liver, bladder etc). Basically we can use some OCR to extract all the text information on the images, crop them (both to exclude PHI - this will likely be done where I obtain the data, and to make it so the net is not learning based on the embedded text in the image). If the dataset is large enough I have a strong suspicion it will learn something. The segmentation problem is tougher. Do we have any images generated from the echopen? (reactions: @U37GZRZU6,@U0AAL4W13)
+1492343113.708924> @U2PFHNN3C: We still have the card of crowdsourcing the image labels, even though it’s not the most trivial one. <@U0B47KC3S> if we get our hands on a bunch of US unlabelled images (assume no text to be OCRed), do you think we can organize a “large scale” labelling campaign among doctors?
+1492343269.719330> @U2PFHNN3C: Segmentation done the right way needs a mask for every image to serve as a label. I agree with you, it’s tougher. This is why I’m currently interested in weak supervision. You can still kinda maximize the input pixels that made your label the most likely, hence having a sort of smooth segmentation to show the doctor with. Plus, it is part of a bigger rule of thumb for the UX: always explain what the AI part is doing.
+1492466499.447137> @U2PFHNN3C: This is amazing <https://arxiv.org/abs/1704.04296>
+1492466515.451197> @U2PFHNN3C: <https://twitter.com/jliemansifry/status/854058694408941568>
+1492467337.652954> @U0B47KC3S: <@U2PFHNN3C> ouaou seems incredible :upside_down_face: can’t wait see this on our side. Btw, I am still waiting a response for images. I’ll tell you asap :wink: !
+1492496613.583848> @U2PFHNN3C: <@U0B47KC3S> thanks mate! (reactions: @U0B47KC3S)
+1492520664.593977> @U37GZRZU6: hey I won't be available for today's meeting. see you next week :wink:
+1492523022.717795> @U2PFHNN3C: no problem <@U37GZRZU6>. Who’s up BTW, <@U4J138ZTL> <@U4HTG04JW> <@U4YF0KAJU> ? others ?
+1492523029.722058> @U4HTG04JW: <@U4HTG04JW> has joined the channel
+1492523633.072480> @U0B47KC3S: hi <@U2PFHNN3C> one of my target point is to join david reizine to evaulate how we can get images !
+1492523906.235607> @U37GZRZU6:  set up a reminder “:loud_sound: a memo for our weekly meeting on tuesday at 6:30 pm.” in this channel at 2PM every Tuesday, Central European Summer Time.
+1492524160.385422> @U2PFHNN3C: great! let’s make a memo per person in this channel, just choose different hours :joy:
+1492524332.474596> @U4YF0KAJU: That is pretty awesome. It was certainly a “low-hanging fruit”. As a resident/fellow doing cardiac MRI, you literally have to do that segmentation process manually on 30 slices x 2 phases x 2 ventricles. Meaning you can get through maybe 3 or 4 cases in a day. There has been automated segmentation algorithms in these software packages for years however if they do not function with &gt; 95% accuracy (i would say) they are useless because they need to be redrawn anyway. It is only a matter of time before novel machine learning algorithms become good enough. Now what will all the cardiac fellows do?!? lol
+1492524406.512803> @U4YF0KAJU: What kind of images are you trying to obtain? Are you trying to get some from the echopen prototypes?
+1492524547.586541> @U4YF0KAJU: Is there a calendar for meetings? Where do we usually meet? Some kind of google hangout?
+1492524817.726727> @U2PFHNN3C: <@U0B47KC3S> for now, our meetings can be asynchronous, slack messages, github cards etc.
+1492525927.328257> @U37GZRZU6: il n'y avait pas de mémo, tu l'as supprimé la semaine dernière
+1492526627.747023> @U2PFHNN3C: just to be clear, I’m not saying the weekly meetings are not important :slightly_smiling_face:. I think they’re essential. It’s just that we’re in some sort of “burn-in” phase where things can go quicker if done by smaller groups that sync occasionally.
+1492527013.996762> @U37GZRZU6: I don't get it : are there weekly meetings or not ?
+1492527877.566208> @U2PFHNN3C: gonna depend on who’s in. So far no one answered.
+1492529481.588778> @U2PFHNN3C: Yeah, hangout or whatever (I find hangout more practical AFAIK)
+1492529490.595065> @U2PFHNN3C: was just kiddin'
+1492529608.668299> @U2PFHNN3C: <@U37GZRZU6> got a point (offline). We need (strict) weekly meetings. Who’s in today? (we’ll fix the hour once the participants’ list is clear) (reactions: @U37GZRZU6,@U0AAL4W13)
+1492531469.777434> @U4J138ZTL: Won't be there today :disappointed:
+1492533000.541834> @USLACKBOT: Reminder: Weekly speed meeting.
+1492533724.848154> @U2PFHNN3C: no one wants to have a “tête à tête” with me :disappointed: ?
+1492533747.857936> @U0AAL4W13: Haha
+1492533748.858334> @U2PFHNN3C: more seriously, <@U4YF0KAJU> do you have a moment this week for a call?
+1492537099.326384> @U4YF0KAJU: <@U2PFHNN3C> sure. Pretty flexible for time this week so whenever works. I’m in Eastern Standard Timezone. Google Hangouts or skype?
+1492601320.105201> @U2PFHNN3C: <@U4YF0KAJU> (sorry for the late reply) today at noon (Toronto time) would be good for me. Same for tomorrow. Preference/alternative?
+1492608883.127156> @U4YF0KAJU: <@U2PFHNN3C> lets do tomorrow Apr 20 at 12pm EST.
+1492608931.145146> @U2PFHNN3C: <@U4YF0KAJU> Booked. My mail in DM.
+1492692372.931891> @U0AAL4W13: A future image lake? <http://www.thepocusatlas.com/>
+1493121600.389344> @USLACKBOT: Reminder: :loud_sound: a memo for our weekly meeting on tuesday at 6:30 pm.
+1493129931.081735> @U2PFHNN3C: <!channel> what would be the best day for you for the weekly meeting, Monday or Wednesday? (1800 or 1830) (reactions: @U37GZRZU6)

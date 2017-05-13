@@ -514,3 +514,160 @@
 1489607159.111454> @U3J40RUDT: Hey guys, i'm just leaving the lab now, I completely forgot it was Wednesday! 
 1489607209.136852> @U3GHS132Q: <@U3J40RUDT> No problem ^^
 1489607213.138786> @U3J40RUDT: I guess by the time I get home it'll be too late 
+1490046053.841881> @U41ATL4EM: <@U41ATL4EM> and commented: Hey everyone, we're having a presentation of our progress on the project tomorrow at our school, I'm uploading the presentation if anyone is interested
+1490051436.506040> @Hyacinthe: <@U0AAL4W13>: Thanks!
+1490051723.578190> @U0B47KC3S: thanks polytech-kevin tech team ! we’ll see each other tomorrow afternoon and my take on it that <@U37GZRZU6> will masterfully enounce  some github/gitbook documentation principles :wink: (reactions: @U37GZRZU6)
+1490053970.102404> @U41ATL4EM: alright see you tomorrow afternoon then !
+1490082226.706459> @U38HVMZ6K: <@U41ATL4EM> thanks for sharing! I'll have a look at it when I find 15 mins of spare time
+1490088931.529438> @U3GHS132Q: <@U41ATL4EM> Good presentation :slightly_smiling_face: According to your Gantt planing you are actually trying to get analog signal from FPGA, where are you in your current task ? Did you get exciting results ?
+1490090129.925281> @U41ATL4EM: Thank you <@U3GHS132Q> Currently we are trying to program the RedPitaya with a frequency counter code we found on the internet that uses an acquisition with the ADC, but we had some issues with it, it is supposed to display a frequency we type in input, but it shows a wrong frequency
+1490090187.944741> @U41ATL4EM: We'll try to figure out if the issue is coming from the acquisition or the signal generation today
+1490090235.960589> @U3QGT3Q74: I have few comments :) You should split project goals - probe miniaturisation / device performances (15 frames / seconds) from technical solutions you want to implement - Unique PCB - FPGA development and explain why you make theses choices Also is the school forcing you to use Gantt planification? It seems to me that it is an old school V cycle development method. I don't know much about hardware development but for software we use more flexible planification Agile/ kan ban ... (reactions: @U37GZRZU6)
+1490090391.013177> @U3GHS132Q: <@U41ATL4EM> Is the code you got on the web in VHDL ? If yes can I see it ?
+1490090400.016106> @U38HVMZ6K: &gt; a frequency counter code we found on the internet that uses an acquisition with the ADC Could you share it ? (reactions: @U3GHS132Q)
+1490090678.112800> @U3GHS132Q: Best method for any development (hardware of software) is [<http://www.la-rache.com/> :stuck_out_tongue: :stuck_out_tongue: :stuck_out_tongue: (reactions: @U0AAL4W13)
+1490092870.814101> @U41ATL4EM: It's actually a project on Xilinx Vivado, and the code is not in VHDL but in Verilog
+1490093004.855565> @U3GHS132Q: Even though Verilog and VHDL share the same principle I think that it would be greater for you to use the one you are the more familiar with
+1490093054.870473> @U3GHS132Q: So is the code on the website of Vivado ? Or in your Vivado IDE ?
+1490093096.883931> @U38HVMZ6K: Most probably packed in Vivado examples. Is it this <@U41ATL4EM>  ? <https://wiki.trenz-electronic.de/display/ToT/Vivado+Frequency+Meter>
+1490093224.923958> @U3J40RUDT: It looks like it's a core IP from Xilinx
+1490093252.932649> @U38HVMZ6K: yep: <http://www.xilinx.com/support/documentation/ip_documentation/c_counter_binary/v12_0/pg121-c-counter-binary.pdf>
+1490093262.935987> @U38HVMZ6K: or some other IP
+1490093266.937206> @U41ATL4EM: No it's on another website I'll send it later around 1pm 
+1490096606.927247> @U41ATL4EM: Here is the link we found <http://antonpotocnik.com/?p=519284>
+1490096627.932892> @U41ATL4EM: And the project is on that github <https://github.com/apotocnik/redpitaya_guide>
+1490097843.284976> @U3GHS132Q: You use exactly the same code and you do not get the same frequency ?
+1490098265.411907> @U41ATL4EM: Yes we didn't change the code
+1490098802.577476> @U38HVMZ6K: quick look through the sources shows: - they use an open source Verilog IP for ADC: <https://github.com/apotocnik/redpitaya_guide/blob/master/projects/4_frequency_counter/basic_red_pitaya_bd.tcl#L67> - Verilog sources for the ADC are also freely available at <https://github.com/pavel-demin/red-pitaya-notes/blob/master/cores/axis_red_pitaya_adc_v1_0/>
+1490098919.613121> @U38HVMZ6K: I'm absolutely not familiar with Verilog but the ADC "IP" seems to be quite dumb and could be implemented easily in VHDL: <https://github.com/pavel-demin/red-pitaya-notes/blob/master/cores/axis_red_pitaya_adc_v1_0/axis_red_pitaya_adc.v>
+1490099046.651604> @U3J40RUDT: Ill check it out in a bit im quite familiar with verilog 
+1490099127.677035> @U41ATL4EM: Yes the code for the ADC is just extending the sign bit if I remember correctly
+1490099189.696913> @U41ATL4EM: and also merges both input signals into a single output signal
+1490099657.846056> @U38HVMZ6K: shifting a single bit coming from ADC at every clock edge and provide the concatenated value of both 14 bits ADCs in a single 32 bits word yes
+1490107306.482131> @U41B4HNU9: <@U41B4HNU9> and commented: Hello, we are currently studying (with Niverthan) the analog part of the project. We are trying to improve the peak detector but the problem is that normaly the circuit we have designed is not supposed to take the threshold of the diode. Have we made any mistake on the design of the circuit ?
+1490107310.484605> @U41B4HNU9: <@U41B4HNU9>
+1490107452.568581> @U41B4HNU9: Here you can find our circuit which realize the peak detection with the negative lobes rectifier and the simulation of the circuit
+1490107697.716284> @U0AAL4W13: looks like a diode bridge rectifier behavior ?
+1490107972.880813> @U0AAL4W13: for peak detection you may be interested in this thread <http://electronics.stackexchange.com/questions/112347/how-to-make-a-peak-detector-circuit> (and there may be hints about a track and hold approach as a bonus ^^)
+1490108404.147867> @U41B4HNU9: Thank you for the link (We have thought about the diode bridge but I think it's not adapted in this case because of the voltage drop caused by diodes)
+1490131814.964729> @U0GMX7QUB: My two cents, about an idea we had several months ago but never tested. If we remove R25, the circuit will hold indefinitely the peak value. We can digitize it at any time. Then, the µcontroller have to shorten C8 to reset the last peak value. Thus the sampling frequency is no longer dependent on the frequency of the input signal (n times 3.5MHz) but on the number of samples per second required to have a resolution greater than 1mm (n times 770KHz). To avoid to be blind during C8 reset we could use two out of phase peak detector.
+1490132084.077876> @U0AAL4W13: One also needs to get a way to reset the value "held" to zero in a very short time (so to minimize the "blind" period)
+1490182216.414340> @U0AAL4W13: <@U41B4HNU9> <@U0GMX7QUB> we had this sort of setup for track and hold, with live demo :  <http://www.falstad.com/circuit/e-peak-detect.html>
+1490208409.005147> @U3J40RUDT: Is there a meeting tonight ? 
+1490208505.058119> @U0B47KC3S: sure ! we are finishing the SigProc meeting
+1490211734.701832> @U3J40RUDT: What bandwidth are you aiming for, for the op amp ?
+1490212825.247187> @U3GHS132Q: <@U3J40RUDT> I do not know, which bandwith are you speaking ? Wifi bandwith ?
+1490212877.274350> @U3GHS132Q: Notes from today meetup are here <https://mensuel.framapad.org/p/CR_embsys-2017-03-22> I will traduct them tonight.  They will stay one week on framapad then I will commit them in the gitbook.
+1490212924.299048> @U3J40RUDT: The op amps used for the peak detector 
+1490212981.328543> @U3GHS132Q: Unhappily I can not answer you because of my poor knowledge in analogic :s
+1490214229.950653> @U41B4HNU9: We are aiming to use a high GBW op amp in this case
+1490214278.975524> @U3J40RUDT: What order approximately? 
+1490214293.983136> @U3J40RUDT: 50 mhz ? 
+1490214320.996979> @U41B4HNU9: Above 200
+1490214365.019728> @U41B4HNU9: Oh sorry I'm speaking for the bandpass we have designed
+1490214472.073285> @U41B4HNU9: but for the peak detector, I think that 50Mhz bandwidth op amp will be enough
+1490214604.140263> @U3J40RUDT: I found a reference of one that could be interesting ill post it here when i get back home 
+1490214941.311612> @U41B4HNU9: ok thank you very much
+1490222541.442170> @U3J40RUDT: I found this source, <http://www.linear.com/solutions/7161>
+1490222561.447776> @U3J40RUDT: <http://cds.linear.com/docs/en/datasheet/6244fb.pdf>
+1490222569.449915> @U3J40RUDT: That’s the op amp
+1490611866.867674> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1490805132.392132> @U3GHS132Q: It seems that there are no auto remember for embsys channel but I notify the channel that there is a meeting tonight at 8 o'clock :slightly_smiling_face:
+1490806194.949761> @U04DFTZ7D: <@U3GHS132Q> someone unscheduled it ! But I can re-schedule it if needed. Let me know 
+1490806727.235800> @U0B47KC3S: yes oliv you should tell the bot he’s welcome to remind us :wink:
+1490811476.807254> @U3GHS132Q: <@U3PLYAJPJ>  <@U38HVMZ6K> are you free to come on jitsi ?
+1490811543.843202> @U38HVMZ6K: sorry, busy at a session of my village's municipal council today evening
+1490811671.910941> @U3PLYAJPJ: <@U3GHS132Q> Hi,  sorry I haven't been accessible the last two weeks I cannot attend for the whole meeting, but I can join if you need me for coordiantion
+1490812307.260486> @U3GHS132Q: If you can come it would be cool :slightly_smiling_face:
+1490812817.537688> @U3PLYAJPJ: <@U3GHS132Q> here is the link of an example logic analyzer
+1490812824.541809> @U3PLYAJPJ: using icestick
+1490812836.548014> @U3PLYAJPJ: <https://blackmesalabs.wordpress.com/2016/12/22/sump2-100-msps-32bit-logic-analyzer-for-icoboardraspberrypi/>
+1490813048.661895> @U3PLYAJPJ: sorry this the correct link <https://blackmesalabs.wordpress.com/2016/10/24/sump2-96-msps-logic-analyzer-for-22/>
+1490816377.370435> @U0AAL4W13: As discussed tonight, here's a shield for a up to 40msps adc based on a beaglebone : <https://github.com/google/prudaq/wiki>
+1490816460.410632> @U0AAL4W13: It exposes the adc as a /dev/device with 0 cpu overhead, with clean programming it could stream in close real time images
+1490816478.419455> @U0AAL4W13: Could be an interesting alternative to the redpitaya
+1491072840.924189> @U3GHS132Q: Hello, I will buy some hardware from <http://eu.mouser.com/> delivery are free over 50€ and my device costs ~ 40€ so if someone wants to buy something do not hesitate to contact me :slightly_smiling_face: I can lend money for device less than 30€ (reactions: @U0B47KC3S)
+1491386665.656787> @U04DFTZ7D:  set up a reminder “:mega: a memo for the embysy weekly meeting” in this channel at noon every Wednesday, Central European Summer Time.
+1491397643.128422> @U37GZRZU6: As it is holidays, polytech-guys are not here this week --&gt; I'm not sure if it's worth maintaining the weekly embsys meetings, depending on who has planned to attend tonight : <@U3GHS132Q> <@U3PLYAJPJ> <@U38HVMZ6K> <@U3J40RUDT> what do you think ?
+1491397776.187575> @U3J40RUDT: Im ok either way, i'll be there if it's still on 
+1491397854.221991> @U38HVMZ6K: hi, I personnally cannot attend. Busy with many professional and private/family activities and issues these last weeks.
+1491397887.236496> @U38HVMZ6K: I'm a bit less involved but always follow on what's going on on Slack and where stuff gets published
+1491397901.242165> @U38HVMZ6K: I hope to be able to join again more actively soon
+1491397966.272758> @U37GZRZU6: <@U38HVMZ6K> no worries, thanks for the update! hope you're doing well :slightly_smiling_face:
+1491403680.403768> @U3GHS132Q: I think that it is important to maintain the meeting even thought few people can come (reactions: @U0AAL4W13)
+1491404451.886332> @U37GZRZU6: <@U3GHS132Q> sure, but actually, with polytech-guys, <@U0B47KC3S> and <@U38HVMZ6K> missing, the question is : "is <@U3GHS132Q> the only one who can attend tonight's meeting ?" if the answer is "yes", I think it won't be very productive to maintain the meeting :wink: obviously, if <@U3PLYAJPJ> has planned to be with us, let's go for it
+1491404773.091986> @U3GHS132Q: I will do the meeting alone, thinking of embsys, myself and the sense of life ! (reactions: @U37GZRZU6,@U0B47KC3S)
+1491508469.214420> @U0AAL4W13: <@U3GHS132Q> have a look at that sh*t : <https://hackaday.io/project/20989-beaglewire> :wink:
+1491512003.950872> @U3GHS132Q: Pretty interesting but it is a ice40hx4k so only around 4000 LUT (the fewer LUT you have, the simpler the designs you implement are)
+1491550502.151200> @U0AAL4W13: Yup, screw cheap designs which force you to have clever implementation :trollface: 
+1491550542.161487> @U0AAL4W13: (Disclaimer: I have tremendous respect for 1k challenges, the demo scene and such)
+1491550607.177962> @U0AAL4W13: <@U3GHS132Q> btw with this cape you can stack the adc so it means you have play with some simple signal proc at first :)
+1491550905.255893> @U38HVMZ6K: other capes/hats of interest are the LOGI family: <https://www.element14.com/community/docs/DOC-69129/l/logi-fpga-development-boards-by-valentfx>
+1491550976.274930> @U38HVMZ6K: with Xilinx Spartan6 FPGAs, a bit more powerful. Available for BBB (<http://valentfx.com/wiki/index.php?title=Logi-Bone_Quick_Start_Guide>) or Pi (<http://valentfx.com/wiki/index.php?title=Logi-Pi_Quick_Start_Guide>)
+1491557524.322206> @U3J40RUDT: The arduino compatibility is pretty cool 
+1491558194.535989> @U3J40RUDT: This one should also be quite good, it has pretty much everything on it <https://www.altera.com/products/boards_and_kits/dev-kits/altera/max-10-fpga-development-kit.html#Contents>
+1491576252.031349> @U3GHS132Q: I always screw at defining what is an embedded system, here is an approximately complete (the authors does not define some acronym...) link which answers this question <https://blog.fedora-fr.org/renault/post/Les-syst%C3%A8mes-embarqu%C3%A9s>
+1491814274.450648> @U37GZRZU6: Some news about our prototyping gitbook - work is still ongoing, but I completed the "how to contribute" section, no I would need some guinea pig to read it and give me a feedback about what's not clear enough :slightly_smiling_face: any volunteer ? would be interesting to get an opinion from someone who hasn't contributed yet to the echOpen github... <@U3J40RUDT> <@U4J138ZTL> <@U3PLYAJPJ> ?   <https://echopen.gitbooks.io/echopen_prototyping/content/howto/method.html> (reactions: @U0B47KC3S,@U04DFTZ7D)
+1491814283.453981> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1491831531.990940> @U3GHS132Q: I read it yesterday and find it clear ! Oh I already contributed lol :stuck_out_tongue: :stuck_out_tongue: :stuck_out_tongue: (reactions: @U37GZRZU6,@U0B47KC3S,@U0AAL4W13)
+1491839550.419088> @U07UEJC2H: <@U37GZRZU6>, I read the gitbook. First why to you post that in this channel? general or method may be more accurate or we can make an prototyping channel?  You made classical typo, there is no space before colons. And may be one can explain quickly how to make a fork and a pull request (it is not so intuitive I think).
+1491854704.066298> @U0AAL4W13: <@U3GHS132Q> <@U38HVMZ6K> I know you'll love that : <https://hackaday.io/project/7212-oshchip-v10> :smiley: (reactions: @U38HVMZ6K,@U0GMX7QUB)
+1491855238.312737> @U3GHS132Q: It is an ARM CPU so I do no think that the CPU is open hardware. For this little card like this one I think that RISC V will be better.  But I think that this card should be funny to use :slightly_smiling_face: I wonder how is it possible to run an OS on this card, 32 KB of SRAM is few moreover it is SRAM so used as (L1, L2 or L3) cache in general.
+1491890996.457132> @U38HVMZ6K: So coooool!
+1491892459.721711> @U38HVMZ6K: &gt; It is an ARM CPU so I do no think that the CPU is open hardware Indeed, it's not open hardware but it's amazingly integrated ! &gt; For this little card like this one I think that RISC V will be better I wouldn't say that RISC V would be better. RISC V would be an alternative but as of today, RISC V are still at prototyping stage (except some integrated chips like the ones of SiFive: <https://www.sifive.com/products/freedom-e310/>) and they don't offer this level of integration (Bluetooth, UART, DAC, SPI, I2C, RTC, crypto engine,...): <http://oshchip.org/products/OSHChip_V1.0_Product.html> &gt; I wonder how is it possible to run an OS on this card, 32 KB of SRAM is few  Don't read rin an OS as run Linux, BSD, Windows,... but run an *embedded* OS. There are plenty of real-time OS which perfectly fit it so little memory even less. See all "Internet of Things" operating systems - FreeRTOS: <http://www.freertos.org>  - Contiki: <http://www.contiki-os.org> &gt; Memory footprint: "A typical system with full IPv6 networking with sleepy routers and RPL routing needs less than 10 k RAM and 30 k ROM." - RiotOS: <https://www.riot-os.org/> &gt; Features: min RAM ~1.5KB, min ROM ~5KB - Zephyr: <https://www.zephyrproject.org/> "The Zephyr kernel and software subsystems can run on systems as small as 8 kB of memory all the way up to 512 kB." These are only the most famous ones which come to my mind but there are plenty of them. open source, proprietary, dual-licensed,...  &gt; Moreover it is SRAM so used as (L1, L2 or L3) cache in general. These microcontrollers don't have caches. They just have ROM/Flash memory (non volatile for storing executable code and persistent data) and RAM as volatile memory. ALL microcontrollers have some RAM/SRAM so this is not an exception here.
+1491897385.921980> @U0AAL4W13: Freertos on it would be amazing !
+1491897790.050053> @U38HVMZ6K: FreeRTOS is a nice OS but I really hate their coding style :mask: (<http://www.freertos.org/FreeRTOS-Coding-Standard-and-Style-Guide.html>)
+1491897882.077984> @U38HVMZ6K: puting ul, us, x, x, p ... prefix in all variables and functions names is not to my taste
+1491897906.085409> @U38HVMZ6K: &gt; for example a pointer to a uint16_t will have prefix pus.
+1491897925.091342> @U38HVMZ6K: otherwise very nice and supported OS indeed
+1491897946.097731> @U38HVMZ6K: I'll get a OSChip and will try to run Freertos on it
+1491898108.146352> @U38HVMZ6K: it shouldn't be so difficult since the MCU seems to be supported: <https://devzone.nordicsemi.com/question/2197/freertos/> it's then a matter of integrating additional peripherals if any...
+1491898165.163633> @U3GHS132Q: <@U38HVMZ6K> RISC-V is the future :slightly_smiling_face: and Nvidia is protytping a RISC-V core <https://riscv.org/wp-content/uploads/2016/07/Tue1100_Nvidia_RISCV_Story_V2.pdf>
+1491898291.201484> @U0AAL4W13: <@U38HVMZ6K> if you do this I'd be keen on trying as well :p (reactions: @U38HVMZ6K)
+1491898362.223483> @U38HVMZ6K: &gt; RISC-V is the future :slightly_smiling_face: and Nvidia is protytping a RISC-V core Trust me that if NVIDIA is developing a RISC-V core it won't be open source, open hardware and won't be documented at all unless you buy them millions of chips!
+1491898399.234997> @U38HVMZ6K: NVIDIA has always be known to violate open licenses and not release source code, design documentation,...
+1491898424.242559> @U3GHS132Q: For sure Nvidia will not release their sources, but if big companies are interested in RISC-V it shows that this project has a future :slightly_smiling_face:
+1491898484.261059> @U38HVMZ6K: And I'm in a good position to confirm it, I'm working with NVIDIA CPUs on a daily basis (Nvidia Tegra3 ARM Cortex-A9) and it really sucks! No up to date software, no documentation, ...
+1491898544.280313> @U3GHS132Q: <https://www.youtube.com/watch?v=iYWzMvlj2RQ>
+1491898552.282508> @U38HVMZ6K: &gt; big companies are interested in RISC-V They are interested in the technology but not in the open source/open hardware concepts behind it.
+1491898646.312365> @U38HVMZ6K: Yes, I know this famous Linus intervention, back in 2012... But 5 years later nothing has changed or only a bit to stay politically correct
+1491898760.348631> @U3GHS132Q: If RISC-V pierces there will be open source implementation and IP core it is a certainty :slightly_smiling_face:
+1491899069.447071> @U3GHS132Q: There are already open RISC-V IP : <https://github.com/sifive/freedom>
+1491902052.439598> @U38HVMZ6K: Yes mentionned in my post above (<https://www.sifive.com/products/freedom-e310/>)  But what does it really bring to you ? You can implement a RISC-V in a huge power-hungry FPGA but to miniaturize, integrate and develop an ASIC you need amazing resources. Do you think you will be able to integrate these open source implementations and IP cores in a nanometer-scale silicium process in your garage ? At some point you will have to rely on the big companies you dislike so much. Even to produce semiconductors devices with technology of 40 years ago (10um lithography) you need expensive equipment. And today's semiconductors fabs are not focussed and interested in these technologies and target nanometers processes which are even more expensive. Semiconductors manufacturing is a huge and complex domain where only few big actors can play (TSMC, Samsung, Intel at the top and others challengers TI, NXP, ST).
+1491905044.426188> @U37GZRZU6: BTW, I created an "embSys" team on the github : <https://github.com/orgs/echopen/teams/embsys> embSys has no team maintainer yet (who will be in charge of maintaining the embSys repo) --&gt; you might proclaim one :wink: I propose <@U3GHS132Q> :grinning: :+1:
+1491907785.210586> @U3GHS132Q: <@U38HVMZ6K> Sorry I did not see that you already share the link. Some research labs can make nanometer-scale core. If open hardware democratizes maybe founders will change their business and propose to found core for particulars.
+1491908428.384834> @U3GHS132Q: <@U37GZRZU6> I do not think that I have sufficient knowledge for this task :s (reactions: @U0AAL4W13,@U37GZRZU6)
+1491912677.563122> @U37GZRZU6: so? who? there has to be one :smiley:
+1491912709.573128> @U38HVMZ6K: I volunteer (reactions: @U37GZRZU6,@U37GZRZU6,@U0AAL4W13,@U3QGT3Q74,@U04DFTZ7D)
+1491912770.592034> @U38HVMZ6K: but put <@U3GHS132Q> as a co-maintainer with enough rights so that he can take over the relay if/when I'm too busy. (reactions: @U37GZRZU6,@U3GHS132Q,@U0AAL4W13)
+1491912874.623662> @U37GZRZU6: seems legit :wink: thanks <@U38HVMZ6K> ! (and thanks <@U3GHS132Q> for your unintentional participation :smile: )
+1491912982.657092> @U3GHS132Q: <@U37GZRZU6> Do no think that becoming comaintainer of embsys team I will become your minion lol (reactions: @U37GZRZU6)
+1491913157.711918> @U3GHS132Q: As a comaintainer of this team the first thing I will do is to change the license of the repo !
+1491914382.126602> @U38HVMZ6K: to which license ? eiffel-PL ? (reactions: @U0AAL4W13,@U37GZRZU6)
+1491914425.142695> @U38HVMZ6K: as I already mentioned some time ago, I think it will be difficult to put a license on the whole embsys repository (reactions: @U3GHS132Q)
+1491914469.158991> @U38HVMZ6K: It will most probably be a bunch of different open source components integrated together to form an embedded system software/distribution
+1491914503.172083> @U38HVMZ6K: and since all open source components already have their own license we won't be able to put a "global" license on top of it
+1491914947.337322> @U38HVMZ6K: the majority of systems I worked on had their license reporting or license compliance tool to ensure that the system as a whole is compliant and does not violate any license
+1491914988.353153> @U38HVMZ6K: e.g. on yocto project: <http://www.yoctoproject.org/docs/1.6.1/dev-manual/dev-manual.html#maintaining-open-source-license-compliance-during-your-products-lifecycle>
+1491915084.389475> @U38HVMZ6K: or with Buildroot: `make legal-info` <https://buildroot.org/downloads/manual/manual.html#legal-info>
+1491915156.417139> @U38HVMZ6K: There is also a trend going towards SPDX (<https://spdx.org/>) &gt; Software Package Data Exchange® (SPDX®) specification is a standard format for communicating the components, licenses and copyrights associated with software packages.
+1491923466.857352> @U3GHS132Q: <@U38HVMZ6K> GPL will do the job ! I agree with you, it will be complicated to put the global repo under a license.
+1491987430.415696> @U3GHS132Q: Hey <#C3F765DT7> do not forget the meeting "système en bar gay" tonight !
+1491987666.499528> @U3J40RUDT: I'll be on my way to my parents' place for easter but i'll try to connect at around 20h on the go.  I'll just mute myself so there's not too much background noise but I should be able to follow the meeting 
+1491987749.529394> @U3GHS132Q: <@U3J40RUDT> No problem :slightly_smiling_face:
+1491988234.695634> @U0AAL4W13: <@U3GHS132Q> got it !
+1491991200.683696> @USLACKBOT: Reminder: :mega: a memo for the embysy weekly meeting.
+1491992055.954717> @U0AAL4W13: <@U3GHS132Q> master I'll try and get a Jabra omni spider/speaker
+1491992250.013396> @U0AAL4W13: Do you think you'll have the drivers for it? ;)
+1491992900.198763> @U3GHS132Q: <@U0AAL4W13> Do not call me master lol I am not a dictator ! I do not know for the speaker :s Can you pm me the reference so I search on the web
+1491993135.266297> @U38HVMZ6K: &gt; Do you think you'll have the drivers for it? ;) Only if open source GPL drivers exist :stuck_out_tongue:  (reactions: @U37GZRZU6)
+1491993194.282647> @U3GHS132Q: <@U38HVMZ6K> Sure lol I will never installed proprietary drivers lol
+1491993210.287196> @U3GHS132Q: They will taint the beautiful Linux kernel lol
+1491993605.393408> @U38HVMZ6K: &gt; <@U38HVMZ6K> Sure lol I will never installed proprietary drivers lol Then you can stop doing GPU work with CUDA right now...
+1491993710.421863> @U3GHS132Q: Never used CUDA and I only use the nouveau driver
+1491994145.539061> @U3GHS132Q: Moreover you can use OpenCL to do GPGPU. And GPGPU suffers from the data transfer between main memory and GPU memory.
+1492018576.894154> @U4J138ZTL: Here some first results on my recent works on fpga development ! I'm still working on the documentation of what i'm doing but i could wait more :slightly_smiling_face:  <https://github.com/Halipster/for_echOpen/blob/master/rapport/FPGA.ipynb> (reactions: @U04DFTZ7D,@U0AAL4W13)
+1492020393.862790> @U3GHS132Q: Where are you Power Rangers ?
+1492020402.867589> @U3GHS132Q: Euh members of <#C3F765DT7> ?
+1492020431.882753> @U4YCKBDR8: <@U4YCKBDR8> has joined the channel
+1492021403.397757> @U3J40RUDT: Nobody here ? (Im still on the train but i joined anyway) 

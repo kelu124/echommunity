@@ -277,3 +277,105 @@
 1489938879.439965> @U0FN1B8KD: What i learnt this week in my medecine courses is that echography is THE gold standard to study biles conducts
 1489938897.440933> @U0FN1B8KD: I dont know if it helps
 1489940937.564848> @U0B47KC3S: <@U0FN1B8KD> sure ! but it still not validated for echo-stéthoscopie #murphysign
+1489944455.768933> @U3CDR25JP: Are you sure your are not confounding with endo echoscopie? For bile conducts the performance of bili MRI and endo echoscopie is a lot better than echoscopy 
+1489947170.930213> @U0FN1B8KD: ahha maybe, i'll check
+1490611885.075804> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1490868656.791334> @U0B47KC3S: [:mega:] call 4 echOpen’s public health nation :wink:
+1490868661.792333> @U0B47KC3S: we had a meeting with Roche foundation which is very interested in our project, mainly the usage of echo-stethoscopic devices in french underserved areas
+1490868670.793896> @U0B47KC3S: they are now requiring some document study about the echO-stethoscopy
+1490868674.794767> @U0B47KC3S: 3 main problematics :
+1490868677.795362> @U0B47KC3S: 1) medical interest
+1490868680.796125> @U0B47KC3S: 2) state if the art of usage and use cases
+1490868682.796684> @U0B47KC3S: 3) perspectives of spreading
+1490868710.802364> @U0B47KC3S: are there volunteers ? ! :nerd_face:
+1490868792.818757> @U0AAL4W13: Ping <@U2MF267L2>
+1490869054.871609> @U0AAL4W13: And see for example : <https://echopen.slack.com/archives/C0KSNKYHW/p1457174280000002>
+1490869201.900310> @U0AAL4W13: Depending on the length / content expected, a summary of this article could be a good base :)
+1490869229.905837> @U0B47KC3S: excellent <@U0AAL4W13> - <@U0FN1B8KD> it is an excellent way to introduce to systematic reviews, that any medical doctor should be aware of :wink: cc <@U3CDR25JP> <@U3N1SENJY>
+1490869691.995379> @U0AAL4W13: Similarly, see the Atlas of handheld devices usages: <https://echopen.slack.com/archives/C0KSNKYHW/p1456078575150174> (reactions: @U0B47KC3S)
+1490869831.023289> @U0AAL4W13: <@U0B47KC3S> do you have any length for this paper?
+1490869846.026022> @U0AAL4W13: Language constraints?
+1490869864.029706> @U0B47KC3S: nothing prescribed :wink:
+1490869888.034154> @U0AAL4W13: Hum and for storing, where should this document be put? Répo?
+1490869945.045289> @U0B47KC3S: sure for the repo - besides, I think it will be important for Pierre to tell us how far and in which way the usage is spreading in APHP
+1490870028.061226> @U0AAL4W13: Oh if you get a hold of Pierre, I'd be curious to have his opinion on the wireless probe.
+1490870269.107030> @U0B47KC3S: ok I will catch him
+1490892969.864962> @U0FN1B8KD: <@U3T7KBEMV> that could interest you ?
+1490903467.369699> @U3T7KBEMV: <@U0FN1B8KD> yes tkt ! I finish my exams and I will take a look on this (monday probably) :slightly_smiling_face:
+1491119492.006409> @U0FN1B8KD: ok I also have exams this week :wink:
+1491126003.229768> @U3GHS132Q: Good luck for your exams :slightly_smiling_face: (reactions: @U0FN1B8KD,@U3T7KBEMV)
+1491157123.701240> @U0B47KC3S: Yes have fun :wink: (reactions: @U0FN1B8KD,@U3T7KBEMV)
+1492130551.497483> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492598233.713382> @U0B47KC3S: Hello to all, we have to produce for the end of next week’s last deadline the document for the foundation Roche <@U3T7KBEMV> <@U0FN1B8KD> <@U3CDR25JP> <@U3N1SENJY> others, are you available for a sprint ?!
+1492631114.999868> @U3T7KBEMV: Hi ! I began to select pubmed articles to check the 3 problematics, so i will read them as faster as possible to synthetise them. I hope i will finish that before saturday.. (reactions: @U0B47KC3S)
+1492764749.036028> @U3T7KBEMV: <@U3T7KBEMV> and commented: Hi! I made a little document about the medical interest, state of usage and potential spreading. It largely base on the littérature review of Becker, but I completed it with my own researchs. I hope it could be useful although it's not an ending document... I stay available for any questions of course !
+1492764841.056222> @U0AAL4W13: Superb!
+1492765174.129489> @U0AAL4W13: Becker work on lmic is fantastic
+1492766890.500362> @U0B47KC3S: thanks <@U3T7KBEMV> ! We should arrange a skype on monday meeting to fix some sprint to converge to the document in the right delay. <@U3T7KBEMV> <@U0FN1B8KD> <@U3CDR25JP> <@U3N1SENJY> are you in ?
+1492767940.723308> @U3T7KBEMV: I'm in, but after 7pm (no skype at work..)
+1492769408.033241> @U3CDR25JP: hey i'll try help, ok for monday skype, <@U3T7KBEMV> and <@U2MF267L2> would you share some articles/review about stethoechoscopy,
+1492769409.033493> @U3CDR25JP: ?
+1492769468.045556> @U3CDR25JP: oh sorry there is everything in the doc
+1492769476.047130> @U3CDR25JP: I see..
+1492769755.101806> @U3CDR25JP: <@U0B47KC3S>  do you have detailed information about what the document should look like? format, size (length), how much medical/non medical...or maybe an example of a similar work to get inspiration?
+1492771136.358680> @U0B47KC3S: nice having you in <@U3CDR25JP> - I don’t have any such inspiring example but fondation Roche is looking for some document that attests the interest of echo-stethoscopy. We don’t have to go deep in medical details, but we have to give an overview of the (current and intended uses) usage and expected impact. So main items will be : interest of the techonology, current medical coverage, medical usage scheduled, medical needs (south and north), professions targeted, expected impact.
+1492771236.376414> @U3CDR25JP: ok thanks !
+1492863740.467694> @U0FN1B8KD: Hi everyone ! I'll try to help ! at what time is the skype monday? <@U0B47KC3S> could you give us sami's mail or contact him? (it seems like he is not answering on slack), also do you think  <@U3Q46QRHU> could be interested in helping us?
+1493053140.138486> @U0B47KC3S: oups sorry <@U0FN1B8KD>, I had some notifications issue since I am just discovering your message... btw are you there ? <@U3T7KBEMV> ivan.l ?
+1493054606.625296> @U3T7KBEMV: yes ! I'm here <@U0B47KC3S>
+1493064415.834911> @U0FN1B8KD: sorry I was in the train ! can you give a feedback?
+1493123739.608456> @U0FN1B8KD: we will have a meeting wednesday at 5pm for those who want to join remotely or at HD
+1493123758.612734> @U0FN1B8KD: ping <@U3T7KBEMV> and <@U0B47KC3S>
+1493165892.560015> @U0B47KC3S: Hi <@U0FN1B8KD> <@U3T7KBEMV> @ ivan.l here is the doc that Sami has just sent us. His work of review is not finished but he has laid down on the paper some elements of synthesis which will feed our conversation tomorrow :wink: (reactions: @U0FN1B8KD)
+1493165905.562011> @U0B47KC3S: <@U0B47KC3S>
+1493192413.824315> @U0FN1B8KD: Should the paper for Roche be in french or english?
+1493195756.550166> @U0B47KC3S: <@U0FN1B8KD> french is OK
+1493219364.857026> @Hyacinthe: <@U0FN1B8KD>: GREAT !:D
+1493222316.037571> @U0FN1B8KD: <https://docs.google.com/document/d/1GOPfu91g4AG9QSKEKXoJd4JmZWLB6M4NtTwfT9k_dX4/edit>
+1493222398.070306> @U0FN1B8KD: <https://docs.google.com/document/d/1yv0qfre6ISShIcxGTSjlsSedE1qg6ujGkkJkCzjhBNA/edit>
+1493223348.432435> @U0FN1B8KD: <https://www.mindmeister.com/fr/715079083?t=5K4akU2L74>
+1493223370.439695> @U0FN1B8KD: <@U3T7KBEMV> see here ! :wink:
+1493224253.762282> @U3T7KBEMV: oo !! magnifique !! en annexe ça pourrait être pas mal (a voir si le doc reste lisible)
+1493225060.046072> @U0FN1B8KD: Draft for Roche fondation  : <https://docs.google.com/document/d/1puRGYKv-DuSVPqj6-6wRaOss4wHQk6ykVpiuK5t73f4/edit>
+1493227990.082421> @U0FN1B8KD: <http://aromates.fr/public/Synthese%20TNS%202017.pdf> : 8eme assise des technologies numérique de santé
+1493229697.715386> @U0FN1B8KD: Here is the draft for the roche fondation ! feel free to comment/modify <https://docs.google.com/document/d/1puRGYKv-DuSVPqj6-6wRaOss4wHQk6ykVpiuK5t73f4/edit>
+1493249786.538557> @U0B47KC3S: thank you <@U0FN1B8KD> <@U3T7KBEMV> <@U2MF267L2> :wink: we ‘re going to review the work !
+1493270246.049912> @U3T7KBEMV: Ok <@U0FN1B8KD> I review it this morning :wink:
+1493278184.143190> @U3T7KBEMV: Here is my contribution on the draft (sorry, I's a new document but it was easier) : <https://drive.google.com/open?id=0B2Pbm3tuoxlyek5lLUNzVGRuZDA>
+1493278264.158651> @U3T7KBEMV: <@U0FN1B8KD> <@U0B47KC3S> <@U2MF267L2> (reactions: @U0B47KC3S)
+1493278959.289488> @U0FN1B8KD: Thank you ! :smile:
+1493295221.730137> @U04DFTZ7D: Interesting article that might help: Turning a blind eye: the mobilization of radiology services in resource-poor regions | Globalization and Health | Full Text <https://globalizationandhealth.biomedcentral.com/articles/10.1186/1744-8603-6-18> 
+1493295510.790010> @U04DFTZ7D: Especially table 2 and the part about ultrasound diagnosis ;) cc <@U0B47KC3S> <@U0FN1B8KD> <@U2MF267L2> <@U3T7KBEMV>  (reactions: @U0FN1B8KD)
+1493643935.119671> @U0FN1B8KD: I added some small modifications :<https://docs.google.com/document/d/1rooL_GVNISKFVUcgBPNsl50tUfOXIg1GYpGhgfrzjik/edit> <@U0B47KC3S> <@U3T7KBEMV> <@U04DFTZ7D>
+1493644451.193063> @U0B47KC3S: thanks <@U0FN1B8KD> :wink:
+1493644618.217858> @U0FN1B8KD: benchoufi: I hope it will do, I am not completely satisfied
+1493644830.249297> @U0FN1B8KD: olivier: cited :wink:
+1493644895.259553> @U0FN1B8KD: <@U0AAL4W13> : what should we cite to justify that open hardware lower the market price?
+1493644948.268072> @U0AAL4W13: Any research found already?
+1493645201.308179> @U0AAL4W13: That seems a far shot, but you seem to imply that open source is cheaper and plays on the same market - which may not be the case. Ultimately,  on the side of costs, yes, if you consider that the r&amp;d costs and pi costs are zero. 
+1493645201.308198> @U0AAL4W13: 
+1493645281.321204> @U0FN1B8KD: "Son développement collaboratif et communautaire et son caractère open-source permettent une réduction considérable des coûts en garantissant qualité, efficacité, flexibilité et coopération entre professionnels de santé, patients, et concepteurs-techniciens."
+1493645293.323364> @U0FN1B8KD: I wrote that , is it false <@U0AAL4W13> ?
+1493645449.350375> @U0AAL4W13: You can also consider that opening a design lowers some barriers to entry on the market, and increases the competition. However, some key players may have secured the upstream vertical (piezo suppliers, key elements under nda, certification costs, knowledge,... )  which may prevent other competitors to enter the market -- while downstream (marketing, services, customer services,  maintenance,...)  are also important elements to factor in. You can't compete with the lumify if you don't have their level of services - unless you create a new niche.
+1493645449.350392> @U0AAL4W13: 
+1493645520.363195> @U0AAL4W13: I don't see the link between open source lowering costs this way :) maybe to detail?
+1493645644.384250> @U0AAL4W13: A good read though: <http://openhardware.metajnl.com/articles/10.5334/joh.4/> with excellent references
+1493645698.393306> @U0FN1B8KD: haha, I have been thinking that for a year
+1493645762.404411> @U0FN1B8KD: S do you think I should remove this idea?
+1493645866.422347> @U0AAL4W13: The idea is that opening a design lowers a barrier (opening pcbs lowers r&amp;d) which means that it is a cost less. However, too many barriers remain to introduce a perfect competition, so it may or may not be lowering the price. Say I want to make a probe, I still need to find suppliers (some are locked!) to find a factory, to be certified, to find distribution channels,... 
+1493645866.422365> @U0AAL4W13: 
+1493645874.423825> @U0AAL4W13: Your call :)
+1493645939.435263> @U0AAL4W13: For the repair part - there's already a market of probe repair companies existing, on which competition exists. So even on repair, the services would be easier, not necessarily hugely cheaper.
+1493645939.435278> @U0AAL4W13: 
+1493645954.437982> @U0AAL4W13: (ping <@U38HVMZ6K> for your opinion ?)
+1493646037.452592> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1493646108.465450> @U0FN1B8KD: But I thought one major point of echopen was to reduce the cost via the collaborative and open source way, i am confused
+1493646153.473595> @U0FN1B8KD: <@U0B47KC3S> can you help us?
+1493646161.475077> @U0FN1B8KD: or <@U04DFTZ7D> ?
+1493646188.480098> @U0AAL4W13: The point lies in lowering the costs and having a lower margin than the competition, in this you can be cheaper :)
+1493646188.480112> @U0AAL4W13: 
+1493646382.515974> @U0AAL4W13: But you still need to sell at a higher price than what it costs you. And breaking down the costs,  you'll still have some costs left. Basically you can remove some employees costs (salaries)  by having only contributions, r&amp;d costs, using alternates designs and alternates sources for materials - but you still something that remains - which may or may not be a huge difference compared to the original cost structure. 
+1493646657.568577> @U0AAL4W13: Really excited to see to what proportion the impact of opening this technology can have on the final device :) (reactions: @U0FN1B8KD)
+1493646658.568601> @U0AAL4W13: 
+1493647071.650637> @U0AAL4W13: "I'd change reduction considerable des coûts into réduction des coûts" which is less committing :)
+1493647204.679340> @U0B47KC3S: <@U0FN1B8KD> I don’t think we may go into erudition details, moreover the thoughts related to buiseness model are to my knowledge not still mature on our side - for those interested here’s where it is led <#C52LMHXQW>. The idea is to give an overview. Some simple principle can be asserted 1) open source in software (not by itself, cf. ubuntu but when supported by a community) lowers the costs 2) the R&amp;D part is distributed through the community, which lowers the cost. Btw, our approach will be to “softwarize” as much as we can. 3) On a more medical side, the idea to go to “orientation” diagnosis tool, which do not implies the same level of quality than eventual competitor, we are not on the same market than other ultrasound portable device 4) At last, an other aspect which enables lowering the cost and which is a huge source of expenses, are marketting and communication, we can hope that this will be considerably held by the community

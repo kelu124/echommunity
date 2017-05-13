@@ -1,0 +1,62 @@
+1492678257.505274> @U04DFTZ7D: <@U04DFTZ7D> has joined the channel
+1492678258.505424> @U04DFTZ7D: <@U04DFTZ7D> set the channel purpose: Talking about economical model of echOpen medical device
+1492678258.505439> @U37GZRZU6: <@U37GZRZU6> has joined the channel
+1492678258.505449> @U38HVMZ6K: <@U38HVMZ6K> has joined the channel
+1492678258.505472> @U0B47KC3S: <@U0B47KC3S> has joined the channel
+1492678258.505503> @U0GMX7QUB: <@U0GMX7QUB> has joined the channel
+1492678258.505509> @U0AAL4W13: <@U0AAL4W13> has joined the channel
+1492678330.518222> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj-eco_model" to "prj_eco_model"
+1492680127.836754> @U0AAL4W13: Thanks :)
+1492680385.881590> @U0AAL4W13: Again, the term economical may not be the most appropriate (economical = cheap) and even "economic model" does feel ambiguous.
+1492680419.887615> @U0AAL4W13: In the sense that economic may well be in the scope of <#C2MAANG0P> )
+1492680457.894381> @U0AAL4W13: But must say I'm at loss of a proper term apart from business models , which is more correct.
+1492680466.895890> @U0AAL4W13: Your thoughts, <@U38HVMZ6K>?
+1492686434.839999> @U04DFTZ7D: <@U04DFTZ7D> set the channel purpose: Talking about possible business model of echOpen medical device and price/cost strucutre 
+1492692325.767906> @U0AAL4W13: An interesting service: <http://www.thepocusatlas.com/>
+1492692393.780987> @U38HVMZ6K: :+1::skin-tone-2:
+1492697287.991922> @U38HVMZ6K: &gt; Your thoughts, <@U38HVMZ6K>? #prj_business_models or #prj_business_opportunities I'm not a good marketing/public relations guy to find striking slogans or names
+1492697338.006714> @U38HVMZ6K: and if we have to go through <@U3GHS132Q> validation for the name we can just call it #prj_ugly_capitalism
+1492697765.129218> @U0AAL4W13: Business_models sounds good
+1492706348.675408> @U0AAL4W13: <@U04DFTZ7D> <@U37GZRZU6> fine for you to create a PRJ-business_models on github?
+1492706643.753340> @U04DFTZ7D: Difficult, the middle name "eco" refers to economic matters and the last one the sub-project (with a size limit imposed by slack). And as we have a nomenclature for all sub-project, it's complicated to change it :( the only word that we can improve is "model" but with the size limit ! 
+1492706760.784823> @U04DFTZ7D: The economic challenge of the project include the business model but also many more sub-project, such as how to maintain the ressources we provide to the community, etc.
+1492706816.799516> @U0AAL4W13: That's the issue with the word economic - it is too ambiguous
+1492706821.800729> @U04DFTZ7D: We can have something like bizmod or bizmodel or model as it is, your suggestions are welcome 
+1492706926.827821> @U0AAL4W13: eco_business in this case?
+1492706927.828022> @U0AAL4W13: eco_models in that sense would be too narrow
+1492707042.858000> @U04DFTZ7D: Economic model is equivalent as business model ! And it doesn't prevent anyone to start discussing ;) 
+1492707050.860382> @U04DFTZ7D: Yes why not ! Let's try. Anyway I don't see why models would be too narrow ?? But if it's clearer for you, it's fine. 
+1492707070.865358> @U04DFTZ7D: <@U04DFTZ7D> has renamed the channel from "prj_eco_model" to "prj_eco_business"
+1492708834.334716> @U38HVMZ6K: Great :+1::skin-tone-2: 
+1492798353.321385> @U0AAL4W13: <@U04DFTZ7D> <@U37GZRZU6> is it possible to create a repo?
+1492803605.499664> @U0AAL4W13: "Economique est un terme qui peut être pris dans un sens beaucoup plus grand, ne se limitant pas seulement à l'argent, mais aussi à la production, la répartition et la consommation des richesses de l'activité humaine. "
+1492803624.503729> @U0AAL4W13: Yes and no - we had this discussion wednesday with <@U0B47KC3S>. Business is part of the economic system, and not the reverse. For example, we do business models for companies, and (micro and macro) economic models for countries, but not the opposite.
+1492803683.515845> @U0AAL4W13: The key point is that the term economic is ambiguous, and it's always nice to have unambiguous nomenclature :smiley:
+1492803736.526303> @U0AAL4W13: (see <https://fr.wikipedia.org/wiki/Mod%C3%A8le_%C3%A9conomique>)
+1492803756.530385> @U38HVMZ6K: As a very starting point I think that a competitive analysis and market survey would be a good idea ?...
+1492803805.540140> @U0AAL4W13: Hum as a competitive analysis basis we'd need to start on a series of uses  and an idea of the niche ?
+1492803830.545348> @U38HVMZ6K: Existing systems, their selling prices (if publicly available), device capabilities,...
+1492803849.548890> @U0AAL4W13: yup
+1492803942.567686> @U38HVMZ6K: My idea would be to aggregate information on known devices (clarius, lumify, GE,...) as well as cheaper Chinese probes.
+1492804234.626954> @U38HVMZ6K: We already have quite a lot of info but spread at many different places. Given the general overview we can then place our ideal device in terms of capabilities, cost, maintenance and focus on realistic projections. It will force us to choose between different trade-offs.
+1492804309.642413> @U0AAL4W13: great!
+1492804322.644904> @U0AAL4W13: How would you suggest this structured data?
+1492979440.742257> @U0AAL4W13: and btw if you're in <https://www.coursera.org/learn/healthcare-innovation> -- you following this <@U38HVMZ6K> ?
+1493016835.942960> @U38HVMZ6K: actually no :disappointed: would love to but my 24h slots are already all booked :wink:
+1493017347.003046> @U0AAL4W13: ^^
+1493017379.007036> @U0AAL4W13: There's a section on market analysis and quite business in it
+1493020610.439831> @U38HVMZ6K: :+1::skin-tone-2: I'll try to have a look
+1493022540.745832> @U37GZRZU6: <@U0AAL4W13> <@U38HVMZ6K> I created the repo and related team. Which one of you wants to be team maintainer ?
+1493022612.758059> @U38HVMZ6K: <@U0AAL4W13> :stuck_out_tongue:
+1493023562.916618> @U37GZRZU6: done :wink:
+1493045180.010392> @U0AAL4W13: Thanks!
+1493066682.650583> @U0AAL4W13: Interesting market :  <https://thinksono.com/#detailed> (reactions: @U38HVMZ6K)
+1493069409.242613> @U38HVMZ6K: Indeed! Pushing the technology further for some very specific needs but with a huge potential.
+1493069721.304047> @U38HVMZ6K: What is particularly interesting is that even non-specialists can diagnose the disease. Bringing thousands of low-cost probes in clinics is nice but educating healthcare staff to correctly use the device and interpret the images produced is another story.
+1493069864.331147> @U38HVMZ6K: They even publish some parts of their code :wink: 
+1493069868.331984> @U38HVMZ6K: <https://github.com/ThinkSono/medconv>
+1493234398.811354> @U0FN1B8KD: <@U0FN1B8KD> has joined the channel
+1493541304.238233> @U0AAL4W13: <http://openhardware.metajnl.com/articles/10.5334/joh.4/> for some interesting insights
+1493650292.682866> @U0AAL4W13: <https://www.bcg.com/publications/2017/globalization-medical-devices-technology-medtech-may-be-emerging-markets-next-new-thing.aspx> is awesome
+1493650383.700105> @U0AAL4W13: et <http://www.s2nhealth.com/pages/blog/2014/5/22/emerging-med-tech-margins-dont-think-price-think-cogs>
+1493651011.826033> @U0AAL4W13: Adding a draft cost structure -- <https://github.com/kelu124/PRJ-eco_business/blob/master/CostStructure.ipynb> -- <@U38HVMZ6K>, don't hesitate to tell me if you think there are wrong factors / missing or too many items

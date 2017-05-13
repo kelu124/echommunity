@@ -1215,3 +1215,118 @@
 1489492432.146402> @U4J138ZTL: Hello !
 1489492900.265821> @U37GZRZU6: Welcome <@U4J138ZTL> :slightly_smiling_face:
 1489745418.388767> @U3GHS132Q: Greetings newcomers :slightly_smiling_face:
+1489983431.371701> @U4KSRKW9W: <@U4KSRKW9W> has joined the channel
+1489984206.440018> @U4KSRKW9W: Hi everyone :slightly_smiling_face:. I don't know how I can be helpful in your project (yet, 'cause I'm looking at the wiki right now) but I'm really interested since I saw it on "Framalibre", a wiki of free softwares. I think echOpen is a very great idea and I love to see those kind of project emerge, especially when they're under GPL Licence :slightly_smiling_face:
+1489994706.451959> @U04DFTZ7D: Hi <@U4KSRKW9W> welcome on board !!
+1489996073.637586> @U0B47KC3S: hi <@U4KSRKW9W>, welcome and enjoy your staying here !
+1490000491.459549> @U38HVMZ6K: hi <@U4KSRKW9W> welcome in the echommunity! Just a short remark on your statement and on the Framalibre page on echopen (<https://beta.framalibre.org/content/echopen>). echOpen is *not* licensed under GPL as stated on the page but mostly BSD-3 clauses
+1490000600.484938> @U38HVMZ6K: There is a mix of licenses depending on the kind of work: Software is mostly BSD-3 clauses for example: Android App (<https://github.com/echopen/PRJ-medtec_androidapp/blob/master/LICENSE.md>)
+1490000668.500677> @U38HVMZ6K: Documentation is mostly CC-BY-SA example: <https://github.com/echopen/PRJ-commty_method/blob/master/LICENSE.md>
+1490000815.534244> @U38HVMZ6K: Hardware is currently under "echopen General Public License" <https://github.com/echopen/PRJ-medtec_kit/blob/master/license/echopen_general_public_licence_20150915.wiki> inspired by GPL and TAPR licenses.
+1490006602.970466> @U3GHS132Q: hi <@U4KSRKW9W>  :slightly_smiling_face:
+1490051477.753579> @U0AAL4W13: The prizes will flow again for hardware! Lo and behold, season 2017 has started :smiley: <https://hackaday.io/prize> (reactions: @U38HVMZ6K)
+1490191437.548437> @U4N3UNGS1: <@U4N3UNGS1> has joined the channel
+1490299239.737161> @U0B47KC3S: [:nerd_face:] one word to report the great meeting that we had yesterday @ Ecole Normale Supérieure, which is a top level french research lab. We are ,working with them for µore than one year. We are now beginning to structure our partnership and so we are applying for two CNRS grants for the mid-april 15K€ and 60K€ and utmostly researcher time !! (reactions: @U37GZRZU6,@U3QGT3Q74)
+1490299244.739409> @U0B47KC3S: [:ok_hand:] besides <@U07UEJC2H> : vincent loyau, ferro-magnetic researcher is going to ship the piezzo informations to buy and as soon as , we will build the tranducers in parallel. So that we will have quickly 10 transducers for our kits !!
+1490302620.114598> @U33817K25: \o/ (reactions: @U0AAL4W13)
+1490535738.712862> @U4PQV1PHQ: <@U4PQV1PHQ> has joined the channel
+1490611870.671393> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1490768077.231016> @U38HVMZ6K: <http://blog.trello.com/trello-atlassian> This news got through without notice on my side. Sad that Joel Spolsky's team is no longer maintaining and further developing it.
+1490768269.259593> @U38HVMZ6K: Atlassian is a huge actor in the dev scene (bitbucket, JIRA, Confluence,...) but they are not as disruptive as Joel and his team. Hopefully the pricing strategy will not change and Trello will keep a free subscription.
+1490775831.861359> @U20C8CKTL: <@U38HVMZ6K> i saw that, but he is the  CEO of StackOverflow yet.
+1490783837.083943> @U1PAGSKGU: The is an event tomorrow at La Paillasse on AI in medical field : IA : quels usages pour les patients et le monde médical ? <https://www.facebook.com/events/1329355070476907/> (reactions: @U0AAL4W13,@U3QGT3Q74,@U0B47KC3S)
+1490893085.143725> @U0FN1B8KD: Welcome <@U4N3UNGS1>  and <@U4PQV1PHQ>  do you want to present yourself?
+1490981102.001986> @U4S46V1EC: <@U4S46V1EC> has joined the channel
+1491238172.721390> @U38HVMZ6K: Good article on what is needed for medical mobile apps to go through certification <https://thenewstack.io/testing-mobile-health-apps-develop-compliance/> (reactions: @U0AAL4W13)
+1491317667.573886> @U4UU9DNUX: <@U4UU9DNUX> has joined the channel
+1491325814.470405> @U0B47KC3S: hi kuma nice to see you here :wink: could you present yourself in a few lines !
+1491326131.609924> @U0B47KC3S: [:mega:] we had a meeting with the pierre fabre foundation, that have been funding and  accompaning us since the early beginning of the echOpen adventure.  Their board is meeting  on next 20 April. Besides the funding, they are suggesting us some skill patronage, as with Altran fundation, about which we should have some definitive news in the next few days :wink: (reactions: @U3GHS132Q)
+1491326143.614627> @U0B47KC3S: Olivier and I have a bunch of documents to prepare. They are waiting for a report of activity, such as the one we produced last year supervised by <@U0AAL4W13>
+1491326145.615533> @U0B47KC3S: Anybody interested is welcome to contribute !
+1491326169.626004> @U0B47KC3S: as a starter <@U0AAL4W13>, could you push the gdoc we worked on last year
+1491327454.199345> @U0AAL4W13: First was pushed at <https://gist.github.com/kelu124/842dd738bcc0898abcb6e8a62c76c739>
+1491327456.200013> @U0AAL4W13: <@U0AAL4W13>
+1491327472.206979> @U0AAL4W13: Let's stick to github as this is the standard tool we want to promote :) (reactions: @U37GZRZU6)
+1491327512.224868> @U0B47KC3S: :+1:
+1491327809.355637> @U0AAL4W13: I had also started drafting 2017 as a gist on
+1491327812.356825> @U0AAL4W13: <https://gist.github.com/kelu124/08a133a6c76284c3ce059ed8e9b3b905>
+1491327991.438084> @U0AAL4W13: <!everyone> let me know if you want to add a part or key event/milestone :)
+1491332876.633923> @U0AAL4W13: BTW, seems like echopen is off to something on 7th and 8th :smiley: <https://labomedia.org/7-8-avril-2017-residence-echopen/>
+1491332913.649227> @U0B47KC3S: yes <@U07UEJC2H> will be in the play :wink:
+1491342107.308124> @U0AAL4W13: @mehdi btw for the second interim report, it could be interesting to build on what you mentioned in the moral report (even if part of it is before 2016).
+1491342610.469104> @U0AAL4W13: and ping <@U0FN1B8KD> for the inputs on the medical activities ^^ deadline by easter !
+1491342955.578453> @U0B47KC3S: yes I will feed the report from it
+1491372917.634405> @U0FN1B8KD: I'm sorry after my exams I'll be out for holidays, with no acces to internet :s
+1491392283.449676> @U394HRZ1B: yes, about the workshop @ Labomedia, we'll try to document as much as possible, we'll see with Jérome where is the best place to put this documentation
+1491417984.520090> @U4UU9DNUX: Hello my name is Mateo Quintero, I am 18 years old and I am a student of EPITECH school. Yesterday, the Echopen project was presented to us and this last one interested me a lot. What I would like most would be to be able to help on the Software side and learn a bit more on the Hardware side. :slightly_smiling_face: (reactions: @U37GZRZU6,@U3QGT3Q74,@U0B47KC3S,@U3T7KBEMV,@U0AAL4W13,@U3GHS132Q)
+1491421712.100849> @U37GZRZU6: Welcome <@U4UU9DNUX> !
+1491425260.568719> @U3QGT3Q74: Welcome <@U4UU9DNUX> 
+1491430428.357277> @U0B47KC3S: great <@U4UU9DNUX> how about having a meeting at echOpen’s place ? so we present you the project in real and in depth
+1491499037.298907> @U3GHS132Q: Welcome <@U4UU9DNUX> what are you studying at EPICTECH ? Do you study embedded system ?
+1491506872.750034> @U4WCS7SSK: <@U4WCS7SSK> has joined the channel
+1491507125.855032> @U4WCS7SSK: Hello!
+1491508034.221831> @U04DFTZ7D: Welcome <@U4WCS7SSK> could you present yourself in a few words ?
+1491516971.509687> @U4UU9DNUX: Why not <@U0B47KC3S>, it would be my pleasure to know more about Echopen
+1491516971.509728> @U4UU9DNUX: 
+1491517473.637918> @U4UU9DNUX: <@U3GHS132Q> In the first year at Epitech we study the language C but we can and must learn other programming languages to have more skills. Unfortunately I have never heard about embedded systems,  but I can search about it if you want :slightly_smiling_face:
+1491517474.638195> @U4UU9DNUX: 
+1491554561.960717> @U3GHS132Q: No need to search, embedded systems are little system like pito probe in airplane for example. Because you want to be near the computer you have to program the software which will run on it in C. Do you see pointers in C ?
+1491565431.695731> @U4W4V4R4M: <@U4W4V4R4M> has joined the channel
+1491822198.775684> @U0B47KC3S: We have just got a proposal of a radiologist to get an other Ultramark machine. We should take it whenever we want. Someone interested ?  (reactions: @U37GZRZU6,@U38HVMZ6K,@U3GHS132Q,@U20C8CKTL,@U0AAL4W13)
+1491906721.416776> @U0AAL4W13: It would be fun to propose the different offsprings / instances a challenge and have the ultramark as an award ;)
+1491906826.441370> @U0AAL4W13: Or simply to hack it, but some new silicon inside and have a smart, retrofitted ultramark ( put some red pitaya or beaglebone inside it to capture raw signals and position data - that would make a huge analog module with built in probes ;)  ) (reactions: @U38HVMZ6K)
+1491907145.514591> @U38HVMZ6K: An ultra-beaglebone-mark :heart_eyes: 
+1491907178.521771> @U0AAL4W13: Seriously it's a fun idea to have a connected ultrasound device
+1491907226.532758> @U0AAL4W13: Plus having digitalisation on it permits easy benchmark for our probes + good access to raw signals / images
+1491907369.565154> @U38HVMZ6K: Yes sure!
+1491907452.583237> @U0AAL4W13: You can add loads of storage, it can even be a dicom server, be a wireless ap serving data , ... endless possibilities  (reactions: @U38HVMZ6K)
+1492019624.386330> @U4YCKBDR8: <@U4YCKBDR8> has joined the channel
+1492128552.388886> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492129840.578512> @U4YF0KAJU: Hi everyone, I just discovered echOpen. Very interested in getting involved. I am a radiologist (resident) in Toronto, Canada. I have an engineering background and experience with designing machine learning models for medical image classification. I see huge potential in applying computer-aided diagnostic algorithms with a project like this. I am currently studying for my board exams but looking forward to going through all the documentation to get up to speed soon.
+1492130396.657827> @U0B47KC3S: hi <@U4YF0KAJU> happy to see you there ! regarding to your skills, your best contact will be is <@U2PFHNN3C>, who is leading the #ia team. I think they meet every tuesday evening :wink: cc <@U4J138ZTL> <@U4HTG04JW> <@U37GZRZU6>
+1492130432.663238> @U0B47KC3S: btw hi also <@U4YCKBDR8> ! could you tell a few words about you ? regards
+1492150439.843644> @U0AAL4W13: <@U0B47KC3S> I understand this report is close to completion - don't hesitate to share for proofreading &amp; putting it back in the general repos :smiley:
+1492153409.226756> @U2PFHNN3C: Hi <@U4YF0KAJU> very glad to know you! If you want to tell us a bit more about your medical imagine classification on <#C3P19J91S> please don’t hesitate :wink:
+1492156344.681351> @U3QGT3Q74: welcome <@U4YF0KAJU>
+1492156461.700728> @U0B47KC3S: don’t worry will do :wink:
+1492189050.861827> @U3GHS132Q: Hi <@U4YF0KAJU> :slightly_smiling_face:
+1492322851.762118> @U38HVMZ6K: <http://hackaday.com/2017/04/15/gain-access-to-science-two-ways/> Cool :heart_eyes: 
+1492327777.946359> @U38HVMZ6K: And <https://hackaday.io/project/9500-raspberry-pi-high-speed-adda> Not 50MSPS but easy to tinker. Nothing prevent against soldering a bit cleaner :joy:  (reactions: @U0AAL4W13)
+1492360524.524611> @U37GZRZU6: <@U0B47KC3S> <@U0GMX7QUB> <@U04DFTZ7D> is tomorrow's meeting maintained? :)
+1492361619.593078> @U04DFTZ7D: Probably not for me ! Usually no meeting during holidays ;)  (reactions: @U37GZRZU6)
+1492365036.807605> @U4YCKBDR8: <@U0B47KC3S> hello there, I am an electronics and biomedical engineer living in Belgium. This is a cool project, it's nice to see even clinical studies are going to be performed. I'm interested in the whole open source hardware revolution, especially when related to medical diagnostics. I'm considering to contribute to this project, but I'm just just checking it out for now. Congratulations on the progress made and keep up the good work everyone! (reactions: @U04DFTZ7D,@U0AAL4W13,@U0B47KC3S)
+1492365695.849279> @U04DFTZ7D: Welcome on board <@U4YCKBDR8> 
+1492365765.853382> @U04DFTZ7D: More details on <https://www.gitbook.com/book/echopen/starterkit/details>
+1492378749.635115> @U4YCKBDR8: Thx <@U04DFTZ7D>! I read that GitBook, and browsed through all other information. I must admit it is a bit overwhelming, there's a website with documentation section, wiki, several github books and all information seems to be spread over these. I have 2 questions: is there an overview with the status of different modules (hardware and software)? And if I wanted to replicate this current status at home to start experimenting, does an overview exists to do so? Or is this the Emile kit described on the website? Thanks in advance for answering!
+1492379395.670912> @U4YCKBDR8: Ah <https://github.com/echopen/echopen_prototyping/issues>, it's still work in progress I guess :wink:.
+1492510572.298787> @U0B47KC3S: today is the first joined application ENS - echOpen ! long work finished and submitted at 11.00 pm cc <@U04DFTZ7D> :rocket::ok_hand::zap: (reactions: @U04DFTZ7D,@U38HVMZ6K,@U37GZRZU6,@U2PFHNN3C,@U0AAL4W13)
+1492530086.233111> @U50MS3NTD: <@U50MS3NTD> has joined the channel
+1492674522.414347> @U0B47KC3S: hi Antoine, welcome in the echSpace ! could you present yourself in a few lines ?
+1492774643.408568> @U38HVMZ6K: <http://searchhealthit.techtarget.com/feature/Population-health-management-platform-uses-AI-machine-learning> Another AI/machine-learning application in healthcare (reactions: @U20C8CKTL)
+1493023474.857069> @U546DDTB8: <@U546DDTB8> has joined the channel
+1493030353.689396> @U0B47KC3S: hi <@U546DDTB8>, nice see you here :wink: could you present yourself in a few lines ?
+1493047205.556256> @U546DDTB8: Hello everyone. I am Sebastian, I am in the final year of my training as a family doctor in Austria and a MPH candidate. I used ultrasound in the hospital, but at the moment I work in a rural practice in Austria and I stumbled over this great project looking for the possibilty to use ultrasound in practice. I realise this project is still in an early stage, but considering the potential use for ultrasound in primary care and the very high costs of available solutions, I think this is worth supporting. (reactions: @U0AAL4W13,@U3T7KBEMV,@U38HVMZ6K,@U0FN1B8KD)
+1493047629.759736> @U3GHS132Q: Hello Sebastian ! I am so happy to see people interested from all around the world ! It's motivating :slightly_smiling_face: And it is also a force of open source :slightly_smiling_face:
+1493053601.470011> @U0B47KC3S: yes, welcome <@U546DDTB8> !
+1493662367.489920> @U38HVMZ6K: I often discuss about medical software development, constraints, regulations, V&amp;V activities and the like in different channels ( <#C0KP6DWSG> ). For anyone interested in this vast topic following book is an excellent reference: <https://books.google.ch/books/about/Medical_Device_Software_Verification_Val.html> It is the "must read" homework for every new SW engineer joining our team and gives a good high-level overview as well as many detailed tips &amp; tricks to develop compliant software. (reactions: @U0FN1B8KD)
+1493713008.331209> @U0B47KC3S: hello world :wink: a word to say that fondation Pierre Fabre has just renewed its financial support to echOpen :upside_down_face: :point_up: :rocket: (reactions: @U37GZRZU6,@U0AAL4W13,@U3QGT3Q74,@U20C8CKTL,@U37GZRZU6,@U0AAL4W13,@U20C8CKTL,@U3GHS132Q,@U3J40RUDT,@U3QGT3Q74,@U20C8CKTL,@U0GMX7QUB,@U20C8CKTL)
+1493713044.339632> @U38HVMZ6K: :tada::tada::tada:
+1493713049.340675> @U38HVMZ6K: Great !
+1493721076.360997> @U0FN1B8KD: Youhouuuuuu !!!! Clap clap clap ! ;D (reactions: @U37GZRZU6)
+1493727242.713966> @U56QKBQ1X: <@U56QKBQ1X> has joined the channel
+1493727334.737527> @U56QKBQ1X: Hi everybody....I'm Othmane a GP from Morocco and i'm really excited to join the team.
+1493727434.762435> @U56QKBQ1X: I have a little "dummy" question...And excuse me i'm new in the community: When can we have Echopen in our daily exercice?
+1493728206.963018> @U0B47KC3S: hi <@U56QKBQ1X>, glad to see you there. We expect to have some ready-to-be-clinically-tested probe in the very beginning of january 2018 ! If you have some will to collborate our bring  friends to do so, you’re in the good spirit of what we are doing
+1493728241.973601> @U0B47KC3S: Tell us the way you want to contribute to the project !
+1493728272.982425> @U0B47KC3S: Btw, there are some great devs in echOpen’s maroccan community see #Phaino <@U2X7189QR> and his friends :flag-ma:
+1493728857.145064> @U38HVMZ6K: <@U37GZRZU6> spam-woman :stuck_out_tongue:
+1493729183.240163> @U37GZRZU6: rbo: you tell that in the only channel where I didn't post hahaha
+1493729258.262704> @U38HVMZ6K: yep but <#C04DFTZ7X> is were everyone listen and I didn't want to spam with my comment in every channel you spammed :joy:
+1493743897.856867> @U57EZR743: <@U57EZR743> has joined the channel
+1493838510.946546> @U0AAL4W13: Who is in for a random bier evening Tuesday or Thursday next week? Just to get to know each other more in person?
+1493838531.955884> @U0AAL4W13: <@U20C8CKTL> <@U394HRZ1B> @...all ?
+1493838557.967523> @U0AAL4W13: (Sorry <@U38HVMZ6K> if you cant :/ not against you hein!!)
+1493838590.981790> @U38HVMZ6K: Would love to indeed but a bit complicated.
+1493838595.984361> @U0AAL4W13: I know some good beers / wine bars in 9th)
+1493838603.987920> @U20C8CKTL: ok for me !
+1493838691.026082> @U3GHS132Q: Know some cheap beers in 9th :stuck_out_tongue_winking_eye:

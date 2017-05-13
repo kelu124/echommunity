@@ -314,3 +314,43 @@
 1489359323.022026> @U0B47KC3S: <@U2UU194RZ> I heard there is a fablab in ULB, maybe there is a way to connect echOpen with this community and push forward your work. Do you know about it ?
 1489359522.033233> @U2UU194RZ: We heard about it, I'll talk with the others and Olivier Debeir of a possible connection
 1489359972.059545> @U0B47KC3S: great :wink:
+1490609182.211547> @U07UEJC2H: <@U07UEJC2H> and commented: Hi all, I made some tests to look at the improvement of the kit last week. On this image one can see a line where there is a plate, green is the result we had on October and blue today with numeric envelope detection
+1490609204.215511> @U07UEJC2H: <@U07UEJC2H> and commented: Here is a zoom on the signal
+1490609327.237543> @U07UEJC2H: Before we had a signal on noise ratio (SNR) around 28 dB, now it's around 48 dB, so we have gain 20 dB. In other words it's 100 times beter
+1490609377.246299> @U07UEJC2H: Moreover, the envelope is better
+1490610199.389070> @U3GHS132Q: Nice one :slightly_smiling_face: What did you do to have those improvements ?
+1490610967.519046> @U0B47KC3S: over Great news <@U07UEJC2H> !!! :upside_down_face: :clap::stuck_out_tongue_closed_eyes: :rocket:
+1490610977.520717> @U0B47KC3S: this is major :wink:
+1490611022.528221> @U0B47KC3S: we hope in the next few days to test the probe in real conditions : liver, kidney. Can’t wait to do that :wink: cc <@U0GMX7QUB>
+1490611643.630344> @U07UEJC2H: <@U3GHS132Q>, by changing TCP "transfer method" to send 16 bits buffer by aliasing the pointer buffer and numerical envelope detection plus numeric pass band filter
+1490611870.666861> @U3GQS8JTZ: <@U3GQS8JTZ> has left the channel
+1490611877.668188> @U0AAL4W13: Excellent! Is that possible to have the same processing (without the tcp part maybe?) on the previous "hand" images to see the difference?
+1490631663.834620> @U3GHS132Q: <@U07UEJC2H> By aliasing did you mean pointer aliasing <https://en.wikipedia.org/wiki/Pointer_aliasing> ?
+1490632569.111964> @U07UEJC2H: <@U3GHS132Q>, yep, it is that
+1490710213.451713> @U3GHS132Q: <@U07UEJC2H> I do not see how you can improve performance with pointer aliasing, do you upload your code somewhere ?
+1490713992.764720> @U07UEJC2H: With pointer aliasing we can send 16 bits precision measured signal, before it was only 8 bits precision
+1490717789.084544> @U0AAL4W13: Hey <@U07UEJC2H> I'm interested  about the changes as well ! 
+1490717862.107728> @U0AAL4W13: Is the difference coming from the 3 elements you're mentioning - or just the enveloppe detection digital processing?
+1490717988.147772> @U0AAL4W13: And similarly to <@U3GHS132Q>, can you share the code and data? Would be great for the <#C1G7T0PNX> meeting :)
+1490774171.106031> @U07UEJC2H: The difference came mainly from increasing precision of sent data, secondly by numerical filter. Numerical envelope detection improve envelope quality and a little bit the maximum of the envelope (due to quality improvement) (reactions: @U37GZRZU6)
+1490776567.571836> @U0AAL4W13: Excellent! I assume that the green line is the data acquired, artificially degraded from 16 bit to 8 bits? In any case, v. interesting food for thoughts for <#C1G7T0PNX> team :) (reactions: @U37GZRZU6)
+1490777375.736965> @U07UEJC2H: Nop, it is exactly the experience, juste switching form one configuration to the other (it is an option in the soft used in the RedPitaya), no numerical treatment.
+1490816678.359064> @U0AAL4W13: To test the kit with an ATL probe, details in terms of connections are here: <https://kelu124.gitbooks.io/echomods/content/Chapter2/retroATL3.html> ping <@U0B47KC3S> 
+1490866345.057183> @U1PAGSKGU: <@U07UEJC2H> Sounds fantastic. Would be good to see some new images.
+1490895036.580173> @U0AAL4W13: If that can simplify power supplies... a nice usb-powered  power supply  <https://www.tindie.com/products/bradsprojects/toaster-the-3-output-usb-breadboard-power-supply/> (reactions: @U38HVMZ6K)
+1490946437.271831> @U38HVMZ6K: nice and cheap for tinkerers
+1491747308.068534> @U37GZRZU6: doing some cleaning on the github, I found a "hardAware" team composed of <@U0B47KC3S> <@U07UEJC2H> <@U04DFTZ7D> <@U38HVMZ6K> : what is it for ? can I merge this team into the hardware team? :smile: (reactions: @U0AAL4W13)
+1491748169.103790> @U0B47KC3S: hi hi <@U37GZRZU6> yes I think you can proceed to do so :wink:
+1491748274.108394> @U38HVMZ6K: I didn't know about this team and don't think I had any activity in this one so can be deleted.
+1491748376.112754> @U04DFTZ7D: Yes you can delete it ;) thanks <@U37GZRZU6>  (reactions: @U37GZRZU6)
+1491770479.180721> @U20C8CKTL: a  "cabinet noir" ? (reactions: @U37GZRZU6,@U37GZRZU6)
+1492130516.524208> @U4YF0KAJU: <@U4YF0KAJU> has joined the channel
+1492379708.822619> @U4YCKBDR8: <@U4YCKBDR8> has joined the channel
+1493054357.168826> @U0AAL4W13: Working on the last elements of the assembly guide - will remain some todo to be processed.
+1493728510.770398> @U37GZRZU6: Hey guys, I just created a shared document in our gitbook to gather ideas about what should be of top priority for our next iteration <https://echopen.gitbooks.io/echopen_prototyping/content/inprogress/requirements/preparing-captech.html> don't hesitate to complete it, it will be useful for next CapTech :wink:
+1494346391.727159> @U4J138ZTL: <@U4J138ZTL> has joined the channel
+1494486154.323996> @U0AAL4W13: Yop! Available for beta testing an assembled set of modules as a home-based beta tester - as well as supporting characterization when needed.
+1494486697.406037> @U0B47KC3S: great, as soon as we get the funding, we’ll order 10 sets of modules and we’ll ship 1 2 U
+1494487368.512136> @U0AAL4W13: What I would recommend is rather to order 1 set at first -- to do the tests and check all works. It'd be sad to have an error repeated on the 10 boards (and that's happening more often than not, isn't it <@U0HF2S3QX>  ? ;)  )
+1494487754.574565> @U0B47KC3S: yes we already agreed on this yesterday -- just to make things transparent as you launched the thread
+1494488119.637017> @U0AAL4W13: Sure :)
